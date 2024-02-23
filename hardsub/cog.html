@@ -53,7 +53,12 @@
             "sources": [
                 {
                     "default": false,
-                    "file": 'https://tipistream.tipikuy.workers.dev/0:/avatar/Avatar-The%20Last%20Airbender.E01.mp4'
+                    "file": 'https://tipistream.tipikuy.workers.dev/0:/avatar/Avatar-The%20Last%20Airbender.E01.mp4',
+                    "tracks": [{
+                        "kind": "captions",
+                        "file": "/hardsub/Avatar_E01-INDOCP.vtt",
+                        "label": "English"
+                        }],
                 },
                     ],
                     
@@ -64,11 +69,6 @@
         autostart: false,
         "mute": false,
         "volume": 25,
-        tracks: {
-                kind: 'captions',
-                file: '/hardsub/Avatar E01-INDOCP.vtt',
-                label: 'English'
-                },
         logo: {
                 file: 'https://i.postimg.cc/7hBXqptn/tipion.png',
                 link: '',
@@ -86,6 +86,7 @@
                 text: '#FFFFFF',
                 },
             },
+            captions:{},
             pipIcon:{},
 			cast:{}
         });
