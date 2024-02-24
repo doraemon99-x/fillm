@@ -48,15 +48,15 @@
     playerInstance.setup({
 
         playlist: [{
-            "title": "Avatar: The Last Airbender (2024)",
-            "image":"https://i.postimg.cc/VN5Pg1wh/Avatar-The-Last-Airbender.jpg",
-            sources: [ { file: 'https://tipistream.tipikuy.workers.dev/0:/avatarmkv/Avatar.The.Last.Airbender.S01E07.2024.1080p.WEB-DL.x264.6CH-Pahe.in.mkv', type:'mp4'}],
-            tracks: [ { file: '/hardsub/Avatar E07-INDOCP.vtt', kind: 'captions', label: 'Indonesia', 'default': true } ],
+            "title": "Creation of the Gods I: Kingdom of Storms (2023)",
+            "image":"https://i.postimg.cc/9fJ1jPcn/Creation-of-the-Gods-I-Kingdom-of-Storms-2023.jpg",
+            sources: [ { file: 'https://tipistream.tipikuy.workers.dev/0:/TheGdriveXbot/Ice.Cold.Murder.Coffee.and.Jessica.Wongso.2023.1080p.NF.WEB-DL.x264.6CH-Pahe.in.mkv', type:'mp4'}],
+            tracks: [ { file: '/hardsub/Avatar_E01-INDOCP.vtt', kind: 'captions', label: 'Indonesia', 'default': true } ],
                     
               }],
         width: "100%",
         height: "100%",
-        
+        "stretching": "exactfit",
         autostart: false,
         "mute": false,
         "volume": 25,
@@ -64,19 +64,20 @@
                 file: 'https://i.postimg.cc/7hBXqptn/tipion.png',
                 link: '',
                 hide: 'false',
-                position: 'top-right'
+                margin: '35',
+                over: '15',
+                out: '79.5',
+                position: 'bottom-right'
             },
             skin: {
-            url: 'https://cdn.jsdelivr.net/gh/kiprox/cf-gdplay@master/skins/netplex.css',
-            name: 'Netflix',
+            controlbar: {
+                background: 'rgba(0,0,0,0)',
+                icons: '#FFFFFF',
+                iconsActive: '#FF0000',
+                text: '#FFFFFF',
+                },
             },
-        captions: {
-						color: "#f3f368",
-						fontSize: 16,
-						backgroundOpacity: 0,
-						fontfamily: "Helvetica",
-						edgeStyle: "raised"
-			},
+            caption:{},
             pipIcon:{},
 			cast:{}
         });
