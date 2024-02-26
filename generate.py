@@ -31,6 +31,15 @@ def process_title_step(message):
 def process_image_step(message):
     try:
         user_data[message.chat.id]["image"] = message.text.strip()
+        bot.send_message(message.chat.id, "Masukkan URL Tracks:")
+        bot.register_next_step_handler(message, process_tracks_step)
+    except Exception as e:
+        bot.send_message(message.chat.id, f"Error: {e}")
+        
+
+def process_tracks_step(message):
+    try:
+        user_data[message.chat.id]["tracks_file_url"] = message.text.strip()
 
         html_code = f"""
         <!DOCTYPE html>
@@ -73,32 +82,32 @@ def process_image_step(message):
                     playlist: [{{
                         "title": "{user_data[message.chat.id]['title']}",
                         "image": "{user_data[message.chat.id]['image']}",
-                        sources: [{{file: '{user_data[message.chat.id]["video_file_url"]}'}}],
-                        tracks: [{{file: '', "kind": 'captions', "label": 'Indonesia', "default": true}}],
+                        sources: [{{file: '{user_data[message.chat.id]["video_file_url"]}', type:'mp4'}}],
+                        tracks: [{{file: '{user_data[message.chat.id]["tracks_file_url"]}', "kind": 'captions', "label": 'Indonesia', "default": true}}],
                         }}],
                     width: "100%",
                     height: "100%",
-                    "stretching": "exactfit",
                     autostart: false,
                     "mute": false,
                     "volume": 25,
                     logo: {{
-                        file: 'https://i.postimg.cc/7hBXqptn/tipion.png',
-                        link: '',
-                        hide: 'false',
-                        margin: '35',
-                        over: '15',
-                        out: '79.5',
-                        position: 'bottom-right'
+                            file: 'https://i.postimg.cc/7hBXqptn/tipion.png',
+                            link: '',
+                            hide: 'false',
+                            position: 'top-right'
                     }},
                     skin: {{
-                        controlbar: {{
-                            background: 'rgba(0,0,0,0)',
-                            icons: '#FFFFFF',
-                            iconsActive: '#FF0000',
-                            text: '#FFFFFF',
-                        }},
+                    url: 'https://cdn.jsdelivr.net/gh/kiprox/cf-gdplay@master/skins/netplex.css',
+                    name: 'Netflix',
                     }},
+                    captions: {{
+						color: "#f3f368",
+						fontSize: 16,
+						backgroundOpacity: 0,
+						fontfamily: "Helvetica",
+						edgeStyle: "raised"
+			        }},
+                    
                     pipIcon:{{}},
                     cast:{{}}
                 }});
@@ -106,7 +115,6 @@ def process_image_step(message):
         </body>
         </html>
         """
-
         html_filename = f"generated_html_{message.chat.id}.html"
         with open(html_filename, "w", encoding="utf-8") as file:
             file.write(html_code)
