@@ -1,18 +1,18 @@
 ﻿1
 00:00:08,967 --> 00:00:10,010
-{\an8}<i>Na-eun.</i>
+<i>Na-eun.</i>
 
 2
 00:00:12,554 --> 00:00:14,305
-{\an8}Tim Damkar menuju markas mereka.
+Tim Damkar menuju markas mereka.
 
 3
 00:00:14,889 --> 00:00:15,890
-{\an8}<i>Baik.</i>
+<i>Baik.</i>
 
 4
 00:00:17,225 --> 00:00:21,771
-{\an8}Ada jalan yang kita lalui
+Ada jalan yang kita lalui
 untuk kembali ke markas, 'kan?
 
 5
@@ -51,35 +51,35 @@ Kau andal sekali membukanya.
 
 13
 00:00:44,544 --> 00:00:46,004
-{\an8}Aku mau lepas kaus kakiku.
+Aku mau lepas kaus kakiku.
 
 14
 00:00:46,087 --> 00:00:47,589
-{\an8}Ya, lepas saja.
+Ya, lepas saja.
 
 15
 00:00:47,672 --> 00:00:49,299
-{\an8}Kita akan tidur nyenyak
+Kita akan tidur nyenyak
 sampai pukul 8,00 pagi.
 
 16
 00:00:49,966 --> 00:00:51,342
-{\an8}Pertandingan Markas
+Pertandingan Markas
 tak dimulai sebelum itu.
 
 17
 00:00:53,178 --> 00:00:55,138
-{\an8}<i>Katanya mereka
+<i>Katanya mereka
 menyembunyikan bendera di tenda.</i>
 
 18
 00:00:55,221 --> 00:00:57,807
-{\an8}<i>Saat kutanya mengapa tak disembunyikan
+<i>Saat kutanya mengapa tak disembunyikan
 di markas Tim Pemeran Pengganti,</i>
 
 19
 00:00:57,891 --> 00:00:59,517
-{\an8}<i>katanya tidak ada alasan khusus.</i>
+<i>katanya tidak ada alasan khusus.</i>
 
 20
 00:00:59,601 --> 00:01:02,187
@@ -110,82 +110,82 @@ EPISODE 7
 
 26
 00:01:21,664 --> 00:01:23,291
-{\an8}Kira-kira kapan mereka menyerang?
+Kira-kira kapan mereka menyerang?
 
 27
 00:01:23,374 --> 00:01:25,210
-{\an8}Mungkin langsung setelah dimulai.
+Mungkin langsung setelah dimulai.
 
 28
 00:01:25,293 --> 00:01:26,461
-{\an8}Kalian harus datang.
+Kalian harus datang.
 
 29
 00:01:26,544 --> 00:01:28,379
-{\an8}Kalian harus bantu kami bertahan.
+Kalian harus bantu kami bertahan.
 
 30
 00:01:28,463 --> 00:01:30,924
-{\an8}Kami hanya punya satu pintu masuk.
+Kami hanya punya satu pintu masuk.
 
 31
 00:01:31,007 --> 00:01:33,885
-{\an8}Kami semua akan tinggalkan markas kami
+Kami semua akan tinggalkan markas kami
 dan bantu kalian.
 
 32
 00:01:33,968 --> 00:01:35,345
-{\an8}Kami berempat akan ke sana.
+Kami berempat akan ke sana.
 
 33
 00:01:35,428 --> 00:01:38,681
-{\an8}Di antara kedua tim terkuat, Tim Tentara
+Di antara kedua tim terkuat, Tim Tentara
 selalu punya lebih banyak orang
 
 34
 00:01:38,765 --> 00:01:40,016
-{\an8}untuk menyerang lawan.
+untuk menyerang lawan.
 
 35
 00:01:40,099 --> 00:01:42,060
-{\an8}Nantinya, kami bisa rebut bendera mereka.
+Nantinya, kami bisa rebut bendera mereka.
 
 36
 00:01:42,143 --> 00:01:44,270
-{\an8}Kami bisa saja mengkhianati mereka,
+Kami bisa saja mengkhianati mereka,
 
 37
 00:01:44,354 --> 00:01:47,315
-{\an8}tetapi kami semua tahu
+tetapi kami semua tahu
 
 38
 00:01:47,398 --> 00:01:51,194
-{\an8}bahwa kemenangan itu percuma saja
+bahwa kemenangan itu percuma saja
 jika harus bertindak serendah itu.
 
 39
 00:01:51,277 --> 00:01:54,155
-{\an8}Lebih baik bantu berjaga di sini.
+Lebih baik bantu berjaga di sini.
 
 40
 00:01:54,239 --> 00:01:56,407
-{\an8}Bagaimana cara buka pintunya?
+Bagaimana cara buka pintunya?
 
 41
 00:01:56,491 --> 00:01:58,076
-{\an8}Sudah tahu kapan mulainya?
+Sudah tahu kapan mulainya?
 
 42
 00:01:58,159 --> 00:01:59,911
-{\an8}Yang jelas bukan dini hari.
+Yang jelas bukan dini hari.
 
 43
 00:01:59,994 --> 00:02:01,996
-{\an8}Itu akan dimulai pukul 08,00.
+Itu akan dimulai pukul 08,00.
 
 44
 00:02:02,080 --> 00:02:04,290
-{\an8}- Bagaimana kau bisa tahu?
+- Bagaimana kau bisa tahu?
 - Saat mereka masuk...
 
 45
@@ -203,11 +203,11 @@ Kita bisa...
 
 48
 00:02:10,421 --> 00:02:12,298
-{\an8}Dia memang ahli dalam mencari informasi.
+Dia memang ahli dalam mencari informasi.
 
 49
 00:02:12,382 --> 00:02:14,634
-{\an8}Informasi? Dia hebat sekali.
+Informasi? Dia hebat sekali.
 
 50
 00:02:14,717 --> 00:02:19,472
@@ -221,7 +221,7 @@ setiap kembali dari luar.
 
 52
 00:02:23,101 --> 00:02:25,687
-{\an8}HARI KE-1
+HARI KE-1
 RUMAH TERAPUNG
 
 53
@@ -236,16 +236,16 @@ di atas lemari mereka.</i>
 
 55
 00:02:34,988 --> 00:02:36,573
-{\an8}HARI KE-2
+HARI KE-2
 RUMAH PERSEGI
 
 56
 00:02:36,656 --> 00:02:37,699
-{\an8}<i>Aku melihat ke dalam.</i>
+<i>Aku melihat ke dalam.</i>
 
 57
 00:02:40,702 --> 00:02:42,745
-{\an8}<i>Kami ke pusat medis.</i>
+<i>Kami ke pusat medis.</i>
 
 58
 00:02:43,246 --> 00:02:44,497
@@ -253,7 +253,7 @@ RUMAH PERSEGI
 
 59
 00:02:44,581 --> 00:02:48,459
-{\an8}<i>Lalu, dia melihat nama-nama orang
+<i>Lalu, dia melihat nama-nama orang
 yang ada di daftarnya.</i>
 
 60
@@ -270,25 +270,25 @@ Dia yang terbaik dalam mencari informasi.
 
 63
 00:02:55,967 --> 00:02:57,510
-{\an8}Pukul 08,00? Saat tukar kalori.
+Pukul 08,00? Saat tukar kalori.
 
 64
 00:02:58,219 --> 00:03:00,889
-{\an8}Di perempatan pukul 08,00,
+Di perempatan pukul 08,00,
 
 65
 00:03:00,972 --> 00:03:04,142
-{\an8}kedua tim itu akan bertemu
+kedua tim itu akan bertemu
 dan bekerja sama untuk menyerang kita.
 
 66
 00:03:04,976 --> 00:03:07,812
-{\an8}- Hanya kita targetnya.
+- Hanya kita targetnya.
 - Mereka pasti menyerang kita.
 
 67
 00:03:07,896 --> 00:03:09,689
-{\an8}Ya. Aku sangat yakin.
+Ya. Aku sangat yakin.
 
 68
 00:03:10,773 --> 00:03:12,358
@@ -296,43 +296,43 @@ Mereka juga bicara soal bendera.
 
 69
 00:03:12,442 --> 00:03:15,445
-{\an8}Ada yang tanya, "Apa Tim Atlet
+Ada yang tanya, "Apa Tim Atlet
 sembunyikan bendera di Rumah Pohon?"
 
 70
 00:03:16,070 --> 00:03:17,614
-{\an8}Lalu dijawab, "Tidak, mereka..."
+Lalu dijawab, "Tidak, mereka..."
 
 71
 00:03:17,697 --> 00:03:19,324
-{\an8}Dilihat dari pembicaraan mereka,
+Dilihat dari pembicaraan mereka,
 
 72
 00:03:19,407 --> 00:03:21,993
-{\an8}- sepertinya benderanya di tenda.
+- sepertinya benderanya di tenda.
 - Di markas sendiri.
 
 73
 00:03:22,076 --> 00:03:24,412
-{\an8}Mereka mungkin tidak begitu paham
+Mereka mungkin tidak begitu paham
 soal strukturnya.
 
 74
 00:03:24,495 --> 00:03:25,580
-{\an8}Ya, benar.
+Ya, benar.
 
 75
 00:03:25,663 --> 00:03:27,999
-{\an8}Kalau begitu, begini saja.
+Kalau begitu, begini saja.
 
 76
 00:03:28,082 --> 00:03:31,252
-{\an8}Kalian langsung lari ke sini
+Kalian langsung lari ke sini
 begitu sirene berbunyi, ya.
 
 77
 00:03:31,336 --> 00:03:35,089
-{\an8}Itu satu-satunya cara yang kita punya,
+Itu satu-satunya cara yang kita punya,
 dan sepertinya yang paling baik.
 
 78
@@ -350,7 +350,7 @@ Jangan sampai terpeleset. Hati-hati.
 
 81
 00:03:42,222 --> 00:03:43,848
-{\an8}Besok pasti akan seru.
+Besok pasti akan seru.
 
 82
 00:03:44,807 --> 00:03:46,351
@@ -359,33 +359,33 @@ Jangan sampai terpeleset. Hati-hati.
 
 83
 00:03:48,978 --> 00:03:50,521
-{\an8}<i>Selamat tidur, Teman-Teman.</i>
+<i>Selamat tidur, Teman-Teman.</i>
 
 84
 00:03:51,856 --> 00:03:53,900
-{\an8}Ayo tidur nyenyak saat yang lain gelisah.
+Ayo tidur nyenyak saat yang lain gelisah.
 
 85
 00:03:53,983 --> 00:03:56,319
-{\an8}Tentu saja. Itu guna keuntungan bagi kita.
+Tentu saja. Itu guna keuntungan bagi kita.
 
 86
 00:03:57,737 --> 00:04:00,740
-{\an8}PADA WAKTU YANG SAMA
+PADA WAKTU YANG SAMA
 RUMAH PONDOK
 
 87
 00:04:02,325 --> 00:04:04,410
-{\an8}Ayo kita fokus dalam pertahanan.
+Ayo kita fokus dalam pertahanan.
 
 88
 00:04:04,494 --> 00:04:06,621
-{\an8}- Jadi, dibuat begini, lalu kita keluar?
+- Jadi, dibuat begini, lalu kita keluar?
 - Ya.
 
 89
 00:04:06,704 --> 00:04:07,580
-{\an8}Ide yang bagus.
+Ide yang bagus.
 
 90
 00:04:10,583 --> 00:04:12,043
@@ -398,15 +398,15 @@ Bagus.
 
 92
 00:04:13,628 --> 00:04:15,421
-{\an8}Namun, kita juga jadi sulit keluar.
+Namun, kita juga jadi sulit keluar.
 
 93
 00:04:15,505 --> 00:04:17,006
-{\an8}Tidak apa-apa.
+Tidak apa-apa.
 
 94
 00:04:17,674 --> 00:04:19,300
-{\an8}Yang penting kita bisa bertahan.
+Yang penting kita bisa bertahan.
 
 95
 00:04:21,803 --> 00:04:24,138
@@ -415,55 +415,55 @@ Bagus.
 
 96
 00:04:25,098 --> 00:04:26,933
-{\an8}Sekarang pukul 23,55.
+Sekarang pukul 23,55.
 
 97
 00:04:27,016 --> 00:04:29,644
-{\an8}Hyun-seon dan Eun-mi bisa berdiri di sini.
+Hyun-seon dan Eun-mi bisa berdiri di sini.
 
 98
 00:04:30,353 --> 00:04:33,564
-{\an8}Na-eun dan aku akan sembunyi di sini.
+Na-eun dan aku akan sembunyi di sini.
 Sepertinya mereka akan ke sini.
 
 99
 00:04:33,648 --> 00:04:35,900
-{\an8}Kita harus halangi mereka naik tangga.
+Kita harus halangi mereka naik tangga.
 
 100
 00:04:35,984 --> 00:04:39,654
-{\an8}Mereka harus menunduk jika mau naik.
+Mereka harus menunduk jika mau naik.
 Jika begitu, kita bisa rebut benderanya.
 
 101
 00:04:39,737 --> 00:04:40,863
-{\an8}Biar mereka naik tangga.
+Biar mereka naik tangga.
 
 102
 00:04:40,947 --> 00:04:42,407
-{\an8}Aku akan semprot dengan pemadam.
+Aku akan semprot dengan pemadam.
 
 103
 00:04:42,490 --> 00:04:45,994
-{\an8}Jika keempat damkar ke sini,
+Jika keempat damkar ke sini,
 
 104
 00:04:46,786 --> 00:04:48,579
-{\an8}- artinya markas mereka kosong.
+- artinya markas mereka kosong.
 - Ya.
 
 105
 00:04:48,663 --> 00:04:52,166
-{\an8}Haruskah kita ke markas mereka
+Haruskah kita ke markas mereka
 saat mereka disemprot?
 
 106
 00:04:52,250 --> 00:04:53,835
-{\an8}Mau langsung berlari ke sana?
+Mau langsung berlari ke sana?
 
 107
 00:04:53,918 --> 00:04:55,586
-{\an8}- Ya, ide bagus.
+- Ya, ide bagus.
 - Ya.
 
 108
@@ -472,16 +472,16 @@ Berlarilah sekencang mungkin.
 
 109
 00:04:57,588 --> 00:05:00,466
-{\an8}<i>Aku bisa berlari dengan cepat.</i>
+<i>Aku bisa berlari dengan cepat.</i>
 
 110
 00:05:00,550 --> 00:05:03,928
-{\an8}<i>Aku selalu berkompetisi
+<i>Aku selalu berkompetisi
 dalam pertandingan lari di antara tentara.</i>
 
 111
 00:05:04,429 --> 00:05:07,974
-{\an8}<i>Aku mantan atlet lari jarak menengah
+<i>Aku mantan atlet lari jarak menengah
 dan panjang selama enam tahun.</i>
 
 112
@@ -498,57 +498,57 @@ Jadi, aku dan Na-eun akan ke sana.
 
 115
 00:05:15,898 --> 00:05:19,902
-{\an8}Eun-mi, waktu kau
+Eun-mi, waktu kau
 menyemprotkan pemadam itu,
 
 116
 00:05:20,528 --> 00:05:21,571
-{\an8}berteriaklah.
+berteriaklah.
 
 117
 00:05:21,654 --> 00:05:24,490
-{\an8}Kami akan anggap itu kode darimu.
+Kami akan anggap itu kode darimu.
 
 118
 00:05:24,574 --> 00:05:27,827
-{\an8}Kau juga harus berteriak
+Kau juga harus berteriak
 agar kami tidak ketahuan saat pergi.
 
 119
 00:05:27,910 --> 00:05:29,620
-{\an8}Baik, aku paham.
+Baik, aku paham.
 
 120
 00:05:29,704 --> 00:05:33,458
-{\an8}Kami harus tahu lebih dahulu
+Kami harus tahu lebih dahulu
 berapa anggota damkar yang datang besok.
 
 121
 00:05:34,042 --> 00:05:37,795
-{\an8}<i>Saat Eun-mi menyemprot mereka,</i>
+<i>Saat Eun-mi menyemprot mereka,</i>
 
 122
 00:05:37,879 --> 00:05:40,298
-{\an8}<i>itu kesempatan emas
+<i>itu kesempatan emas
 untuk merebut bendera mereka.</i>
 
 123
 00:05:41,007 --> 00:05:42,425
-{\an8}Kita bangun pukul berapa besok?
+Kita bangun pukul berapa besok?
 
 124
 00:05:42,508 --> 00:05:44,343
-{\an8}- Pukul 07,00?
+- Pukul 07,00?
 - Pukul 07,00?
 
 125
 00:05:44,427 --> 00:05:46,304
-{\an8}- Satu jam sebelum mulai?
+- Satu jam sebelum mulai?
 - Ya.
 
 126
 00:05:46,387 --> 00:05:48,473
-{\an8}<i>Kuharap sungguh mulai pukul 08,00.</i>
+<i>Kuharap sungguh mulai pukul 08,00.</i>
 
 127
 00:06:06,616 --> 00:06:10,161
@@ -556,20 +556,20 @@ HARI KE-4
 
 128
 00:06:14,707 --> 00:06:16,751
-{\an8}TIM TENTARA
+TIM TENTARA
 RUMAH PONDOK
 
 129
 00:06:20,546 --> 00:06:21,839
-{\an8}Aku tidak bisa tidur.
+Aku tidak bisa tidur.
 
 130
 00:06:23,549 --> 00:06:24,967
-{\an8}Aku tidak bisa tidur.
+Aku tidak bisa tidur.
 
 131
 00:06:25,051 --> 00:06:26,219
-{\an8}Aku juga.
+Aku juga.
 
 132
 00:06:27,595 --> 00:06:29,347
@@ -577,36 +577,36 @@ Aku tak bisa... Pukul berapa sekarang?
 
 133
 00:06:29,931 --> 00:06:31,557
-{\an8}Pukul 06,20.
+Pukul 06,20.
 
 134
 00:06:31,641 --> 00:06:32,725
-{\an8}Aku sangat gugup.
+Aku sangat gugup.
 
 135
 00:06:32,809 --> 00:06:34,435
-{\an8}Ini segera dimulai.
+Ini segera dimulai.
 
 136
 00:06:35,520 --> 00:06:36,437
-{\an8}Astaga.
+Astaga.
 
 137
 00:06:36,521 --> 00:06:39,232
-{\an8}Aku harus memakai
+Aku harus memakai
 sepatu tempurku dari sekarang.
 
 138
 00:06:42,735 --> 00:06:44,862
-{\an8}Aku seperti sedang berdiri di garis start.
+Aku seperti sedang berdiri di garis start.
 
 139
 00:06:44,946 --> 00:06:46,864
-{\an8}Ya, rasanya persis seperti itu.
+Ya, rasanya persis seperti itu.
 
 140
 00:06:46,948 --> 00:06:49,784
-{\an8}Sudah lama aku tidak merasa tegang begini.
+Sudah lama aku tidak merasa tegang begini.
 
 141
 00:06:50,368 --> 00:06:52,954
@@ -615,16 +615,16 @@ sepatu tempurku dari sekarang.
 
 142
 00:06:53,037 --> 00:06:54,497
-{\an8}Aku sangat tegang.
+Aku sangat tegang.
 
 143
 00:06:54,580 --> 00:06:55,748
-{\an8}TIM PENGAWAL
+TIM PENGAWAL
 TENDA SELTER
 
 144
 00:06:56,499 --> 00:06:59,168
-{\an8}Apa kalian yakin
+Apa kalian yakin
 aku bisa berlari dengan cepat?
 
 145
@@ -633,77 +633,77 @@ Aku harus pemanasan dahulu.
 
 146
 00:07:04,799 --> 00:07:05,842
-{\an8}Pukul berapa sekarang?
+Pukul berapa sekarang?
 
 147
 00:07:05,925 --> 00:07:07,051
-{\an8}Sekarang?
+Sekarang?
 
 148
 00:07:07,135 --> 00:07:08,136
-{\an8}Sisa 20 menit lagi.
+Sisa 20 menit lagi.
 
 149
 00:07:08,803 --> 00:07:10,138
-{\an8}Mengapa masih setenang ini?
+Mengapa masih setenang ini?
 
 150
 00:07:10,888 --> 00:07:12,431
-{\an8}- Mengapa?
+- Mengapa?
 - Tenang sebelum badai.
 
 151
 00:07:12,515 --> 00:07:13,349
-{\an8}Ya, benar.
+Ya, benar.
 
 152
 00:07:13,432 --> 00:07:14,392
-{\an8}Pasti segera dimulai.
+Pasti segera dimulai.
 
 153
 00:07:15,351 --> 00:07:16,185
-{\an8}Su-ryeon.
+Su-ryeon.
 
 154
 00:07:16,269 --> 00:07:17,812
-{\an8}Haruskah kita tunggu dekat pohon,
+Haruskah kita tunggu dekat pohon,
 
 155
 00:07:17,895 --> 00:07:20,440
-{\an8}lalu berlari begitu dengar sirenenya?
+lalu berlari begitu dengar sirenenya?
 
 156
 00:07:20,523 --> 00:07:24,318
-{\an8}Tentu akan lebih baik jika kita berada
+Tentu akan lebih baik jika kita berada
 di dekat Tim Tentara tanpa ketahuan.
 
 157
 00:07:24,402 --> 00:07:26,028
-{\an8}Pukul berapa sekarang?
+Pukul berapa sekarang?
 
 158
 00:07:26,112 --> 00:07:27,405
-{\an8}Sepuluh menit lagi.
+Sepuluh menit lagi.
 
 159
 00:07:27,488 --> 00:07:29,115
-{\an8}Sekarang pukul 07,50 kurang.
+Sekarang pukul 07,50 kurang.
 
 160
 00:07:29,198 --> 00:07:30,783
-{\an8}Kuharap kedua tim datang.
+Kuharap kedua tim datang.
 
 161
 00:07:30,867 --> 00:07:31,826
-{\an8}Lima menit lagi.
+Lima menit lagi.
 
 162
 00:07:32,410 --> 00:07:34,036
-{\an8}Kita harus bersiap.
+Kita harus bersiap.
 
 163
 00:07:37,832 --> 00:07:39,667
-{\an8}Aku gugup.
+Aku gugup.
 
 164
 00:07:39,750 --> 00:07:41,043
@@ -711,43 +711,43 @@ Semenit lagi.
 
 165
 00:07:43,045 --> 00:07:46,048
-{\an8}08:00
+08:00
 WAKTU SAAT INI
 
 166
 00:07:55,349 --> 00:07:56,684
-{\an8}KEMARIN MALAM
+KEMARIN MALAM
 
 167
 00:07:56,767 --> 00:07:59,228
-{\an8}Waktunya belum ditentukan.
+Waktunya belum ditentukan.
 Kalian punya ide?
 
 168
 00:07:59,312 --> 00:08:01,606
-{\an8}Mereka pasti pikir pagi-pagi sekali.
+Mereka pasti pikir pagi-pagi sekali.
 
 169
 00:08:01,689 --> 00:08:04,066
-{\an8}- Bagaimana pukul 16,00 atau 17,00?
+- Bagaimana pukul 16,00 atau 17,00?
 - Pukul 16,00 atau 17,00?
 
 170
 00:08:04,150 --> 00:08:05,485
-{\an8}Agar mereka gelisah seharian?
+Agar mereka gelisah seharian?
 
 171
 00:08:05,568 --> 00:08:08,321
-{\an8}Jika memang berniat begitu,
+Jika memang berniat begitu,
 lakukan malam hari saja.
 
 172
 00:08:08,404 --> 00:08:09,572
-{\an8}Besok malam? Malam ini?
+Besok malam? Malam ini?
 
 173
 00:08:09,655 --> 00:08:11,240
-{\an8}Setelah matahari terbenam.
+Setelah matahari terbenam.
 
 174
 00:08:11,324 --> 00:08:13,242
@@ -778,40 +778,40 @@ Makan pun sulit bagi mereka.
 
 180
 00:08:23,127 --> 00:08:25,046
-{\an8}Makanya, lebih baik malam hari saja.
+Makanya, lebih baik malam hari saja.
 
 181
 00:08:25,755 --> 00:08:27,882
-{\an8}Kita bunyikan pukul delapan saja
+Kita bunyikan pukul delapan saja
 agar aman.
 
 182
 00:08:29,509 --> 00:08:32,595
-{\an8}Bisa saja pukul 08,00 itu hanya tipuan.
+Bisa saja pukul 08,00 itu hanya tipuan.
 
 183
 00:08:32,678 --> 00:08:35,681
-{\an8}- Sepertinya mereka langsung datang.
+- Sepertinya mereka langsung datang.
 - Pasti begitu.
 
 184
 00:08:36,349 --> 00:08:39,185
-{\an8}Mungkin saja mereka
+Mungkin saja mereka
 akan menikmati hari mereka,
 
 185
 00:08:39,769 --> 00:08:41,562
-{\an8}- lalu datang malam hari.
+- lalu datang malam hari.
 - Pukul 20,00.
 
 186
 00:08:41,646 --> 00:08:44,148
-{\an8}Agar kita merasa gelisah seharian
+Agar kita merasa gelisah seharian
 di dalam markas.
 
 187
 00:08:52,490 --> 00:08:53,533
-{\an8}TIM DAMKAR
+TIM DAMKAR
 KIOS
 
 188
@@ -820,7 +820,7 @@ Halo.
 
 189
 00:08:55,451 --> 00:08:56,786
-{\an8}Apa kami yang pertama datang?
+Apa kami yang pertama datang?
 
 190
 00:08:56,869 --> 00:08:59,539
@@ -829,79 +829,79 @@ Halo.
 
 191
 00:08:59,622 --> 00:09:02,583
-{\an8}Aku yakin kita yang pertama.
+Aku yakin kita yang pertama.
 Mereka terlalu takut untuk keluar.
 
 192
 00:09:05,253 --> 00:09:07,129
-{\an8}<i>Inilah yang mereka mau.</i>
+<i>Inilah yang mereka mau.</i>
 
 193
 00:09:07,213 --> 00:09:08,965
-{\an8}Kita merasa gelisah dan terkurung.
+Kita merasa gelisah dan terkurung.
 
 194
 00:09:10,216 --> 00:09:11,300
-{\an8}Mereka berhasil.
+Mereka berhasil.
 
 195
 00:09:12,301 --> 00:09:13,928
-{\an8}Kita punya sisa berapa kalori?
+Kita punya sisa berapa kalori?
 
 196
 00:09:14,011 --> 00:09:15,304
-{\an8}- Lima puluh.
+- Lima puluh.
 - Lima puluh.
 
 197
 00:09:15,388 --> 00:09:18,307
-{\an8}- Kita masih punya beberapa tomat.
+- Kita masih punya beberapa tomat.
 - Kita bisa beli dua lagi.
 
 198
 00:09:18,975 --> 00:09:20,434
-{\an8}Kita harus tukar kalori kita.
+Kita harus tukar kalori kita.
 
 199
 00:09:20,518 --> 00:09:22,812
-{\an8}Namun, mereka mungkin mengincar
+Namun, mereka mungkin mengincar
 waktu tukar kalori.
 
 200
 00:09:22,895 --> 00:09:25,064
-{\an8}- Apa begitu?
+- Apa begitu?
 - Ya. Bisa saja sirenenya bunyi.
 
 201
 00:09:25,147 --> 00:09:28,484
-{\an8}Namun, kita memang harus melakukan
+Namun, kita memang harus melakukan
 segalanya yang kita bisa demi bertahan.
 
 202
 00:09:29,068 --> 00:09:30,444
-{\an8}Apa mereka bisa lihat kita
+Apa mereka bisa lihat kita
 
 203
 00:09:30,528 --> 00:09:32,488
-{\an8}- jika kita sembunyi di bawah sini?
+- jika kita sembunyi di bawah sini?
 - Tidak.
 
 204
 00:09:32,572 --> 00:09:34,574
-{\an8}Tim Atlet mungkin saja memperhatikan kita
+Tim Atlet mungkin saja memperhatikan kita
 
 205
 00:09:34,657 --> 00:09:36,325
-{\an8}- dengan teropong.
+- dengan teropong.
 - Ya, mungkin.
 
 206
 00:09:36,409 --> 00:09:38,077
-{\an8}Haruskah kita mengintip mereka juga?
+Haruskah kita mengintip mereka juga?
 
 207
 00:09:38,160 --> 00:09:40,413
-{\an8}Mereka akan tukar kalori
+Mereka akan tukar kalori
 setelah pukul 08,00.
 
 208
@@ -936,17 +936,17 @@ Di sebelah sana, area terbuka.
 
 215
 00:09:58,973 --> 00:10:00,558
-{\an8}- Makan kita lahap sekali.
+- Makan kita lahap sekali.
 - Benar.
 
 216
 00:10:00,641 --> 00:10:02,435
-{\an8}TIM ATLET
+TIM ATLET
 KIOS
 
 217
 00:10:03,102 --> 00:10:05,396
-{\an8}Sudah kuduga. Hanya Tim Atlet yang keluar.
+Sudah kuduga. Hanya Tim Atlet yang keluar.
 
 218
 00:10:05,980 --> 00:10:08,107
@@ -978,7 +978,7 @@ Juga, protofon.
 
 224
 00:10:18,326 --> 00:10:21,912
-{\an8}<i>Jangan sampai tim lain tahu
+<i>Jangan sampai tim lain tahu
 kita punya protofon.</i>
 
 225
@@ -988,42 +988,42 @@ karena takut sirenenya bunyi?
 
 226
 00:10:26,000 --> 00:10:29,795
-{\an8}Jika sirenenya tak bunyi
+Jika sirenenya tak bunyi
 sampai pukul 08,40 atau 08,50 pagi,
 
 227
 00:10:30,504 --> 00:10:32,381
-{\an8}kita harus tukar kalori atau tidak?
+kita harus tukar kalori atau tidak?
 
 228
 00:10:33,007 --> 00:10:34,925
-{\an8}- Tidak bisa.
+- Tidak bisa.
 - Hari ini tak bisa.
 
 229
 00:10:35,009 --> 00:10:38,804
-{\an8}Kita harus bertahan agar bisa menang.
+Kita harus bertahan agar bisa menang.
 
 230
 00:10:39,889 --> 00:10:40,765
-{\an8}Kau benar.
+Kau benar.
 
 231
 00:10:40,848 --> 00:10:42,433
-{\an8}Kita bisa saja tereliminasi.
+Kita bisa saja tereliminasi.
 
 232
 00:10:43,059 --> 00:10:44,518
-{\an8}Sudah pukul 08,40 lewat.
+Sudah pukul 08,40 lewat.
 
 233
 00:10:45,102 --> 00:10:47,480
-{\an8}Sepertinya mereka mau halangi kita
+Sepertinya mereka mau halangi kita
 menukar kalori.
 
 234
 00:10:49,899 --> 00:10:53,361
-{\an8}Mereka pasti memulainya di waktu yang aneh
+Mereka pasti memulainya di waktu yang aneh
 agar kita tak bisa tukar kalori.
 
 235
@@ -1085,7 +1085,7 @@ Sepertinya tak akan ada yang datang lagi.
 
 248
 00:11:27,061 --> 00:11:30,314
-{\an8}09:00
+09:00
 WAKTU TUKAR KALORI BERAKHIR
 
 249
@@ -1113,11 +1113,11 @@ dengan sedikit cokelat itu.
 
 254
 00:11:39,907 --> 00:11:41,325
-{\an8}Kita mau makan di mana?
+Kita mau makan di mana?
 
 255
 00:11:41,409 --> 00:11:43,786
-{\an8}Kena hujan tak apa-apa.
+Kena hujan tak apa-apa.
 Kita bahkan tidur kehujanan.
 
 256
@@ -1140,11 +1140,11 @@ Makanannya sudah siap!
 
 260
 00:11:54,839 --> 00:11:55,840
-{\an8}WAKTU MASIH DI TENDA JURANG
+WAKTU MASIH DI TENDA JURANG
 
 261
 00:11:55,923 --> 00:11:57,174
-{\an8}Coba bayangkan.
+Coba bayangkan.
 
 262
 00:11:57,258 --> 00:12:00,261
@@ -1167,67 +1167,67 @@ ditambah rumput laut dan minyak wijen.
 
 266
 00:12:27,288 --> 00:12:28,747
-{\an8}- Nyaman sekali ada rumah.
+- Nyaman sekali ada rumah.
 - Apa?
 
 267
 00:12:28,831 --> 00:12:29,999
-{\an8}Nyaman punya rumah.
+Nyaman punya rumah.
 
 268
 00:12:34,962 --> 00:12:37,715
-{\an8}Jika kita berhasil
+Jika kita berhasil
 di Pertandingan Markas hari ini,
 
 269
 00:12:38,299 --> 00:12:40,009
-{\an8}kita bisa tidur di rumah berpintu.
+kita bisa tidur di rumah berpintu.
 
 270
 00:12:40,759 --> 00:12:44,472
-{\an8}Kita bisa diskusi dengan keren
+Kita bisa diskusi dengan keren
 sambil menulis di papan dan sebagainya.
 
 271
 00:12:44,555 --> 00:12:46,724
-{\an8}Kita juga bisa bicarakan kisah masa lalu.
+Kita juga bisa bicarakan kisah masa lalu.
 
 272
 00:12:46,807 --> 00:12:49,393
-{\an8}Sepertinya hampir mustahil
+Sepertinya hampir mustahil
 kita tereliminasi hari ini.
 
 273
 00:12:49,477 --> 00:12:51,187
-{\an8}- Menurutku bisa saja.
+- Menurutku bisa saja.
 - Aku juga.
 
 274
 00:12:51,270 --> 00:12:53,772
-{\an8}- Ini tergantung strategi Tim Tentara.
+- Ini tergantung strategi Tim Tentara.
 - Benar.
 
 275
 00:12:53,856 --> 00:12:55,858
-{\an8}Bisa saja Tim Pengawal turun
+Bisa saja Tim Pengawal turun
 dan ambil bendera kita.
 
 276
 00:12:55,941 --> 00:12:57,651
-{\an8}Kita tak tahu persekutuan mereka.
+Kita tak tahu persekutuan mereka.
 
 277
 00:12:57,735 --> 00:13:00,404
-{\an8}Yang bisa makan tenang sekarang
+Yang bisa makan tenang sekarang
 hanya kita dan Tim Damkar.
 
 278
 00:13:00,488 --> 00:13:01,655
-{\an8}Bahkan membakar daging.
+Bahkan membakar daging.
 
 279
 00:13:02,990 --> 00:13:05,367
-{\an8}TIM DAMKAR
+TIM DAMKAR
 RUMAH PERSEGI
 
 280
@@ -1245,120 +1245,120 @@ Enah sekali.
 
 283
 00:13:20,299 --> 00:13:21,967
-{\an8}- Ayo makan dan menang.
+- Ayo makan dan menang.
 - Ya.
 
 284
 00:13:22,051 --> 00:13:24,220
-{\an8}Tidak sia-sia kita menggali kemarin.
+Tidak sia-sia kita menggali kemarin.
 
 285
 00:13:24,303 --> 00:13:26,180
-{\an8}Kita yang memulai Pertandingan Markas,
+Kita yang memulai Pertandingan Markas,
 
 286
 00:13:26,263 --> 00:13:27,765
-{\an8}- jadi, kita tak gugup.
+- jadi, kita tak gugup.
 - Benar.
 
 287
 00:13:27,848 --> 00:13:29,099
-{\an8}Hatiku tenang sekali.
+Hatiku tenang sekali.
 
 288
 00:13:29,725 --> 00:13:32,978
-{\an8}Bayangkan betapa gelisahnya tim lain.
+Bayangkan betapa gelisahnya tim lain.
 
 289
 00:13:33,062 --> 00:13:35,022
-{\an8}- Tak bisa makan ataupun mandi.
+- Tak bisa makan ataupun mandi.
 - Benar.
 
 290
 00:13:35,105 --> 00:13:37,191
-{\an8}Namun, kita sangat santai sekarang.
+Namun, kita sangat santai sekarang.
 
 291
 00:13:45,991 --> 00:13:48,410
-{\an8}Kalian tak lapar? Tidak apa?
+Kalian tak lapar? Tidak apa?
 
 292
 00:13:48,494 --> 00:13:51,455
-{\an8}Agak lapar, tetapi kita
+Agak lapar, tetapi kita
 tak bisa menyalakan api.
 
 293
 00:13:51,539 --> 00:13:52,957
-{\an8}Aku bisa menahan laparku.
+Aku bisa menahan laparku.
 
 294
 00:13:53,624 --> 00:13:55,709
-{\an8}- Harus bisa.
+- Harus bisa.
 - Ya, bisa.
 
 295
 00:13:55,793 --> 00:13:57,169
-{\an8}Pukul berapa sekarang?
+Pukul berapa sekarang?
 
 296
 00:13:57,253 --> 00:14:00,005
-{\an8}Hampir pukul 11,40.
+Hampir pukul 11,40.
 
 297
 00:14:00,089 --> 00:14:01,048
-{\an8}Aku lapar.
+Aku lapar.
 
 298
 00:14:01,131 --> 00:14:02,883
-{\an8}Apa tidak dilakukan pagi ini?
+Apa tidak dilakukan pagi ini?
 
 299
 00:14:02,967 --> 00:14:05,010
-{\an8}Cepat bunyikan sirenenya.
+Cepat bunyikan sirenenya.
 
 300
 00:14:05,094 --> 00:14:06,470
-{\an8}PERSAHABATAN PENUH SEMANGAT
+PERSAHABATAN PENUH SEMANGAT
 KITA ADALAH SATU
 
 301
 00:14:06,554 --> 00:14:09,557
-{\an8}Kita harus makan sesuatu
+Kita harus makan sesuatu
 agar bisa berenergi dan bersemangat.
 
 302
 00:14:09,640 --> 00:14:11,767
-{\an8}- Kau akan lebih lapar jika bergerak.
+- Kau akan lebih lapar jika bergerak.
 - Benar.
 
 303
 00:14:12,685 --> 00:14:14,436
-{\an8}Sepertinya tak dibunyikan sekarang.
+Sepertinya tak dibunyikan sekarang.
 
 304
 00:14:14,520 --> 00:14:16,397
-{\an8}Apa mereka tiba-tiba ganti rencana?
+Apa mereka tiba-tiba ganti rencana?
 
 305
 00:14:16,480 --> 00:14:19,483
-{\an8}Seharusnya kita ke kios pukul 08,00 tadi.
+Seharusnya kita ke kios pukul 08,00 tadi.
 
 306
 00:14:19,567 --> 00:14:20,859
-{\an8}Tak apa-apa, Su-ryeon.
+Tak apa-apa, Su-ryeon.
 
 307
 00:14:21,485 --> 00:14:23,571
-{\an8}- Karena kita akan dapat bendera hari ini?
+- Karena kita akan dapat bendera hari ini?
 - Ya.
 
 308
 00:14:23,654 --> 00:14:24,738
-{\an8}Ayo tidur di markas yang nyaman.
+Ayo tidur di markas yang nyaman.
 
 309
 00:14:24,822 --> 00:14:25,948
-{\an8}Baiklah.
+Baiklah.
 
 310
 00:14:26,031 --> 00:14:27,408
@@ -1376,89 +1376,89 @@ akan dilakukan pagi atau malam hari.
 
 313
 00:14:33,789 --> 00:14:37,084
-{\an8}- Itu pun kita tak tahu.
+- Itu pun kita tak tahu.
 - Bisa saja mereka sedang tidur siang.
 
 314
 00:14:37,167 --> 00:14:38,002
-{\an8}Benar.
+Benar.
 
 315
 00:14:49,471 --> 00:14:53,559
-{\an8}15:00
+15:00
 5 JAM SEBELUM PERTANDINGAN MARKAS
 
 316
 00:14:54,977 --> 00:14:57,730
-{\an8}<i>Aku jadi mengantuk.</i>
+<i>Aku jadi mengantuk.</i>
 
 317
 00:14:57,813 --> 00:14:59,690
-{\an8}Aku sangat lapar.
+Aku sangat lapar.
 
 318
 00:15:00,232 --> 00:15:01,942
-{\an8}Aku ingin semua segera dimulai.
+Aku ingin semua segera dimulai.
 
 319
 00:15:02,860 --> 00:15:04,028
-{\an8}Ini terlalu lama ditunda.
+Ini terlalu lama ditunda.
 
 320
 00:15:04,111 --> 00:15:06,488
-{\an8}Apa mereka sedang berpesta sekarang
+Apa mereka sedang berpesta sekarang
 
 321
 00:15:06,572 --> 00:15:08,407
-{\an8}dan hendak melakukannya pada malam hari?
+dan hendak melakukannya pada malam hari?
 
 322
 00:15:08,490 --> 00:15:11,160
-{\an8}Kita harus cari cara
+Kita harus cari cara
 untuk menahan Tim Tentara
 
 323
 00:15:11,243 --> 00:15:15,039
-{\an8}sampai kita berhasil menjarah markas
+sampai kita berhasil menjarah markas
 dan merebut bendera mereka.
 
 324
 00:15:15,122 --> 00:15:17,708
-{\an8}Cara melindungi bendera kita
+Cara melindungi bendera kita
 meski mereka masuk ke sini.
 
 325
 00:15:17,791 --> 00:15:20,794
-{\an8}Bagaimana jika kita gali tanahnya begini?
+Bagaimana jika kita gali tanahnya begini?
 
 326
 00:15:20,878 --> 00:15:22,880
-{\an8}- Agar mereka tersandung dan terjatuh.
+- Agar mereka tersandung dan terjatuh.
 - Ya.
 
 327
 00:15:24,840 --> 00:15:26,800
-{\an8}Sebentar lagi waktu penentuan.
+Sebentar lagi waktu penentuan.
 
 328
 00:15:26,884 --> 00:15:28,802
-{\an8}Aku harap rencana ini berhasil.
+Aku harap rencana ini berhasil.
 
 329
 00:15:28,886 --> 00:15:30,763
-{\an8}Kuharap seseorang tersandung dan jatuh.
+Kuharap seseorang tersandung dan jatuh.
 
 330
 00:15:31,597 --> 00:15:33,182
-{\an8}Mau aku coba beri simulasi?
+Mau aku coba beri simulasi?
 
 331
 00:15:33,265 --> 00:15:35,184
-{\an8}Anggap ini sudah lebih dalam.
+Anggap ini sudah lebih dalam.
 
 332
 00:15:35,267 --> 00:15:36,185
-{\an8}Baiklah.
+Baiklah.
 
 333
 00:15:36,268 --> 00:15:37,686
@@ -1478,53 +1478,53 @@ Ini yang kau mau?
 
 337
 00:15:44,151 --> 00:15:45,611
-{\an8}Setidaknya satu kaki saja.
+Setidaknya satu kaki saja.
 
 338
 00:15:45,694 --> 00:15:47,446
-{\an8}Lalu, kita rebut bendera mereka.
+Lalu, kita rebut bendera mereka.
 
 339
 00:15:49,323 --> 00:15:51,158
-{\an8}Bagaimana cara memindahkan barang kita?
+Bagaimana cara memindahkan barang kita?
 
 340
 00:15:51,784 --> 00:15:53,369
-{\an8}Haruskah kita bawa ini dahulu?
+Haruskah kita bawa ini dahulu?
 
 341
 00:15:54,161 --> 00:15:56,330
-{\an8}- Bendera Tim Pemeran Pengganti?
+- Bendera Tim Pemeran Pengganti?
 - Ya.
 
 342
 00:15:56,413 --> 00:15:59,959
-{\an8}Ayo ikat itu di langit-langit rumah pohon.
+Ayo ikat itu di langit-langit rumah pohon.
 
 343
 00:16:00,042 --> 00:16:01,794
-{\an8}Apa tidak ada lagi yang harus dibawa?
+Apa tidak ada lagi yang harus dibawa?
 
 344
 00:16:01,877 --> 00:16:04,046
-{\an8}Sekarang kita bawa benderanya dahulu saja.
+Sekarang kita bawa benderanya dahulu saja.
 
 345
 00:16:04,129 --> 00:16:07,091
-{\an8}Kita harus tanya yang lain
+Kita harus tanya yang lain
 harus bawa pakaian atau tidak.
 
 346
 00:16:07,841 --> 00:16:09,093
-{\an8}Tutupi ini.
+Tutupi ini.
 
 347
 00:16:11,679 --> 00:16:14,348
-{\an8}Min-sun, bisa kau berjalan di belakangku?
+Min-sun, bisa kau berjalan di belakangku?
 
 348
 00:16:15,599 --> 00:16:17,768
-{\an8}Namun, tidak ada yang memperhatikan kita.
+Namun, tidak ada yang memperhatikan kita.
 
 349
 00:16:19,395 --> 00:16:22,272
@@ -1542,11 +1542,11 @@ Mereka juga menuju ke sini.
 
 352
 00:16:26,151 --> 00:16:27,653
-{\an8}Kami juga bawa ini.
+Kami juga bawa ini.
 
 353
 00:16:27,736 --> 00:16:28,821
-{\an8}Bagus.
+Bagus.
 
 354
 00:16:30,239 --> 00:16:31,657
@@ -1566,15 +1566,15 @@ Sudah berhasil.
 
 358
 00:16:39,873 --> 00:16:41,709
-{\an8}Ayo pasang ini di depan.
+Ayo pasang ini di depan.
 
 359
 00:16:41,792 --> 00:16:43,794
-{\an8}Jika mereka mau naik ke sini,
+Jika mereka mau naik ke sini,
 
 360
 00:16:43,877 --> 00:16:46,422
-{\an8}kita bisa pakai ini
+kita bisa pakai ini
 untuk merebut bendera mereka.
 
 361
@@ -1605,25 +1605,25 @@ Omong-omong...
 
 367
 00:17:16,201 --> 00:17:20,873
-{\an8}16:00
+16:00
 4 JAM SEBELUM PERTANDINGAN MARKAS
 
 368
 00:17:23,125 --> 00:17:29,965
-{\an8}RUMAH PONDOK
+RUMAH PONDOK
 
 369
 00:17:32,092 --> 00:17:35,095
-{\an8}<i>Markas Tim Tentara dijaga
+<i>Markas Tim Tentara dijaga
 dengan sangat ketat.</i>
 
 370
 00:17:37,431 --> 00:17:40,559
-{\an8}<i>Sepertinya mereka berjaga bergantian.</i>
+<i>Sepertinya mereka berjaga bergantian.</i>
 
 371
 00:17:41,060 --> 00:17:43,312
-{\an8}<i>Satu dari mereka selalu di luar.</i>
+<i>Satu dari mereka selalu di luar.</i>
 
 372
 00:18:47,584 --> 00:18:49,044
@@ -1655,12 +1655,12 @@ Kami bisa beli tomat saat kau tidak ada.
 
 379
 00:19:38,760 --> 00:19:43,015
-{\an8}<i>Tim Pengawal harus melewati
+<i>Tim Pengawal harus melewati
 Rumah Pondok dahulu jika mau menyerang.</i>
 
 380
 00:19:48,061 --> 00:19:51,023
-{\an8}<i>Aku hitung waktu yang mereka butuhkan
+<i>Aku hitung waktu yang mereka butuhkan
 untuk sampai Rumah Pondok.</i>
 
 381
@@ -1673,83 +1673,83 @@ Baiklah.
 
 383
 00:20:13,045 --> 00:20:14,755
-{\an8}Hari semakin gelap.
+Hari semakin gelap.
 
 384
 00:20:14,838 --> 00:20:18,050
-{\an8}- Waktunya hampir tiba.
+- Waktunya hampir tiba.
 - Akhirnya.
 
 385
 00:20:18,133 --> 00:20:20,302
-{\an8}Mereka sungguh tidak tahu apa pun.
+Mereka sungguh tidak tahu apa pun.
 
 386
 00:20:21,220 --> 00:20:23,889
-{\an8}Orang-orang bodoh itu tak tahu
+Orang-orang bodoh itu tak tahu
 bahwa kita selalu menyerang
 
 387
 00:20:23,972 --> 00:20:26,558
-{\an8}saat dini hari atau malam
+saat dini hari atau malam
 ketika sulit melihat.
 
 388
 00:20:26,642 --> 00:20:28,352
-{\an8}- Kita tak beraksi siang hari.
+- Kita tak beraksi siang hari.
 - Ya.
 
 389
 00:20:28,435 --> 00:20:29,895
-{\an8}Kita tak boleh terekspos.
+Kita tak boleh terekspos.
 
 390
 00:20:29,978 --> 00:20:33,607
-{\an8}<i>Dalam Pasukan Khusus,
+<i>Dalam Pasukan Khusus,
 kami tidak beroperasi di siang hari.</i>
 
 391
 00:20:33,690 --> 00:20:37,736
-{\an8}<i>Biasanya di malam hari.</i>
+<i>Biasanya di malam hari.</i>
 
 392
 00:20:38,362 --> 00:20:39,696
-{\an8}Apa maksud mereka, begini?
+Apa maksud mereka, begini?
 
 393
 00:20:39,780 --> 00:20:42,115
-{\an8}"Jika malam hari, mereka pasti lapar
+"Jika malam hari, mereka pasti lapar
 
 394
 00:20:42,199 --> 00:20:43,659
-{\an8}dan kesulitan karena gelap."
+dan kesulitan karena gelap."
 
 395
 00:20:43,742 --> 00:20:44,660
-{\an8}Benar.
+Benar.
 
 396
 00:20:44,743 --> 00:20:47,621
-{\an8}Mereka berusaha merebut
+Mereka berusaha merebut
 kebutuhan pokok manusia.
 
 397
 00:20:47,704 --> 00:20:50,707
-{\an8}Mereka buat kita menunggu
+Mereka buat kita menunggu
 agar tak bisa makan dan ke toilet.
 
 398
 00:20:50,791 --> 00:20:53,085
-{\an8}Benar. Mereka mau membuat kita
+Benar. Mereka mau membuat kita
 tegang dan stres.
 
 399
 00:21:01,927 --> 00:21:03,512
-{\an8}Aku seperti merasa diasingkan.
+Aku seperti merasa diasingkan.
 
 400
 00:21:03,595 --> 00:21:05,305
-{\an8}Benar. Entah mengapa...
+Benar. Entah mengapa...
 
 401
 00:21:05,389 --> 00:21:08,558
@@ -1758,29 +1758,29 @@ harus kembali dan tidur di sini lagi.
 
 402
 00:21:09,059 --> 00:21:11,395
-{\an8}Satu-satunya cara
+Satu-satunya cara
 adalah merampas markas Tim Atlet.
 
 403
 00:21:11,478 --> 00:21:13,021
-{\an8}Aku jadi marah sekarang.
+Aku jadi marah sekarang.
 
 404
 00:21:15,315 --> 00:21:19,361
-{\an8}19:00
+19:00
 1 JAM SEBELUM PERTANDINGAN MARKAS
 
 405
 00:21:30,664 --> 00:21:33,166
-{\an8}Rupanya langit membantu kita.
+Rupanya langit membantu kita.
 
 406
 00:21:33,667 --> 00:21:35,335
-{\an8}Ini pertahanan terbaik.
+Ini pertahanan terbaik.
 
 407
 00:21:36,044 --> 00:21:37,629
-{\an8}<i>Hujan turun amat deras,</i>
+<i>Hujan turun amat deras,</i>
 
 408
 00:21:37,713 --> 00:21:41,967
@@ -1806,45 +1806,45 @@ Pas untuk membunuh juga.
 
 413
 00:21:48,598 --> 00:21:50,350
-{\an8}Haruskah aku ke markas Tim Damkar?
+Haruskah aku ke markas Tim Damkar?
 
 414
 00:21:50,934 --> 00:21:52,894
-{\an8}Bilang saja. Aku akan langsung lari.
+Bilang saja. Aku akan langsung lari.
 
 415
 00:21:55,939 --> 00:21:58,859
-{\an8}- Kumohon.
+- Kumohon.
 - Ayo mulai saja.
 
 416
 00:21:58,942 --> 00:22:03,488
-{\an8}Kuharap semua berjalan
+Kuharap semua berjalan
 sesuai rencana kita.
 
 417
 00:22:05,324 --> 00:22:07,075
-{\an8}Ada lima anak tangga di sana.
+Ada lima anak tangga di sana.
 
 418
 00:22:07,826 --> 00:22:10,495
-{\an8}Dua atau tiga dari kita akan naik,
+Dua atau tiga dari kita akan naik,
 
 419
 00:22:10,579 --> 00:22:12,664
-{\an8}dan sisanya harus membantu dari bawah.
+dan sisanya harus membantu dari bawah.
 
 420
 00:22:12,748 --> 00:22:14,541
-{\an8}Mereka akan menghalangi kita di sini.
+Mereka akan menghalangi kita di sini.
 
 421
 00:22:14,624 --> 00:22:17,044
-{\an8}Aku akan selalu berada di depan.
+Aku akan selalu berada di depan.
 
 422
 00:22:18,128 --> 00:22:23,342
-{\an8}Aku ada di barisan depan, jadi, kalian
+Aku ada di barisan depan, jadi, kalian
 bisa ambil bendera mereka dari belakang.
 
 423
@@ -1870,29 +1870,29 @@ Satu, dua, tiga!
 
 428
 00:22:32,893 --> 00:22:33,769
-{\an8}Aku sangat tegang.
+Aku sangat tegang.
 
 429
 00:22:37,439 --> 00:22:40,025
-{\an8}Pertandingan malam ini
+Pertandingan malam ini
 pasti sangat sengit.
 
 430
 00:22:40,108 --> 00:22:41,693
-{\an8}- Antara hidup atau mati.
+- Antara hidup atau mati.
 - Benar.
 
 431
 00:22:43,445 --> 00:22:44,863
-{\an8}<i>Aku pergi dahulu, ya.</i>
+<i>Aku pergi dahulu, ya.</i>
 
 432
 00:22:44,946 --> 00:22:47,240
-{\an8}<i>Kalian harus sampai di sana pukul 19,50.</i>
+<i>Kalian harus sampai di sana pukul 19,50.</i>
 
 433
 00:22:47,324 --> 00:22:48,408
-{\an8}<i>Jangan cemaskan aku.</i>
+<i>Jangan cemaskan aku.</i>
 
 434
 00:22:51,953 --> 00:22:53,288
@@ -1900,104 +1900,104 @@ Sampai bertemu nanti.
 
 435
 00:22:59,795 --> 00:23:02,547
-{\an8}19:18
+19:18
 RUMAH POHON
 
 436
 00:23:10,222 --> 00:23:11,598
-{\an8}- Ketua, kemarilah.
+- Ketua, kemarilah.
 - Masuklah.
 
 437
 00:23:11,681 --> 00:23:12,516
-{\an8}- Boleh masuk?
+- Boleh masuk?
 - Ya.
 
 438
 00:23:13,767 --> 00:23:16,645
-{\an8}Mereka pasti menghalangi kita di tangga
+Mereka pasti menghalangi kita di tangga
 agar kita tidak lewat.
 
 439
 00:23:17,312 --> 00:23:19,731
-{\an8}Butuh dua orang di depan
+Butuh dua orang di depan
 yang saling membelakangi.
 
 440
 00:23:19,815 --> 00:23:21,650
-{\an8}Siapa yang mau melakukannya denganku?
+Siapa yang mau melakukannya denganku?
 
 441
 00:23:21,733 --> 00:23:23,193
-{\an8}Aku akan di depan denganmu.
+Aku akan di depan denganmu.
 
 442
 00:23:23,276 --> 00:23:26,071
-{\an8}Bersandar ke belakang sebisa mungkin
+Bersandar ke belakang sebisa mungkin
 saat kita naik.
 
 443
 00:23:26,154 --> 00:23:27,364
-{\an8}- Kau atlet judo?
+- Kau atlet judo?
 - Ya.
 
 444
 00:23:27,447 --> 00:23:28,990
-{\an8}Tarik mereka saat ada kesempatan.
+Tarik mereka saat ada kesempatan.
 
 445
 00:23:29,074 --> 00:23:30,826
-{\an8}Kita harus menurunkan mereka.
+Kita harus menurunkan mereka.
 
 446
 00:23:30,909 --> 00:23:32,160
-{\an8}Kami tak bisa hanya diam.
+Kami tak bisa hanya diam.
 
 447
 00:23:32,244 --> 00:23:34,996
-{\an8}Saat mereka tangkap seseorang,
+Saat mereka tangkap seseorang,
 kita bantu dari dua sisi.
 
 448
 00:23:35,080 --> 00:23:36,206
-{\an8}Ambil benderanya jika terlihat.
+Ambil benderanya jika terlihat.
 
 449
 00:23:36,289 --> 00:23:38,500
-{\an8}- Kami akan terus tarik mereka ke bawah.
+- Kami akan terus tarik mereka ke bawah.
 - Baik.
 
 450
 00:23:38,583 --> 00:23:42,379
-{\an8}Aku membawa Tiket Sirene
+Aku membawa Tiket Sirene
 denganku sekarang.
 
 451
 00:23:44,131 --> 00:23:45,715
-{\an8}- Perlahan saja.
+- Perlahan saja.
 - Aku akan masukkan pukul 19,35.
 
 452
 00:23:45,799 --> 00:23:46,633
-{\an8}- Baik.
+- Baik.
 - Ya.
 
 453
 00:23:46,716 --> 00:23:49,427
-{\an8}Kubakar pukul 19,35, sirene bunyi 20,05.
+Kubakar pukul 19,35, sirene bunyi 20,05.
 
 454
 00:23:49,511 --> 00:23:51,138
-{\an8}Meski belum berbunyi, bersiap saja.
+Meski belum berbunyi, bersiap saja.
 
 455
 00:23:51,221 --> 00:23:53,390
-{\an8}- Artinya aku telat karena satu dua hal.
+- Artinya aku telat karena satu dua hal.
 - Baik.
 
 456
 00:23:53,473 --> 00:23:55,267
-{\an8}- Kita mulai pukul 20,05.
+- Kita mulai pukul 20,05.
 - Ya.
 
 457
@@ -2016,7 +2016,7 @@ Kita pasti bisa!
 
 460
 00:24:01,189 --> 00:24:03,692
-{\an8}19:28
+19:28
 MENUJU KE ARENA
 
 461
@@ -2025,34 +2025,34 @@ TIKET SIRENE
 
 462
 00:25:02,584 --> 00:25:04,836
-{\an8}<i>Kubakar pukul 19,35, sirene bunyi 20,05.</i>
+<i>Kubakar pukul 19,35, sirene bunyi 20,05.</i>
 
 463
 00:25:04,920 --> 00:25:05,962
-{\an8}<i>- Mereka sudah kuberi tahu.
+<i>- Mereka sudah kuberi tahu.
 - Ya.</i>
 
 464
 00:25:06,046 --> 00:25:08,798
-{\an8}Atlet judo dan aku akan naik
+Atlet judo dan aku akan naik
 dengan saling membelakangi.
 
 465
 00:25:08,882 --> 00:25:10,592
-{\an8}Kami akan berusaha menarik lawan.
+Kami akan berusaha menarik lawan.
 
 466
 00:25:10,675 --> 00:25:12,761
-{\an8}Kalian berusaha eliminasi
+Kalian berusaha eliminasi
 dari belakang, ya.
 
 467
 00:25:13,261 --> 00:25:14,638
-{\an8}Kita masih punya waktu.
+Kita masih punya waktu.
 
 468
 00:25:15,263 --> 00:25:17,265
-{\an8}<i>Sirenenya bunyi pukul 20,05, 'kan?</i>
+<i>Sirenenya bunyi pukul 20,05, 'kan?</i>
 
 469
 00:25:17,974 --> 00:25:20,685
@@ -2083,20 +2083,20 @@ Senternya.
 
 475
 00:25:28,318 --> 00:25:29,819
-{\an8}Perlahan saja. Sudah bawa semua?
+Perlahan saja. Sudah bawa semua?
 
 476
 00:25:29,903 --> 00:25:30,862
-{\an8}Kapaknya...
+Kapaknya...
 
 477
 00:25:30,946 --> 00:25:32,656
-{\an8}- Palu sudah?
+- Palu sudah?
 - Ya, sudah.
 
 478
 00:25:32,739 --> 00:25:35,075
-{\an8}Aku harus longgarkan sepatuku
+Aku harus longgarkan sepatuku
 begitu sampai sana.
 
 479
@@ -2110,11 +2110,11 @@ Haruskah kita matikan senternya?
 
 481
 00:25:43,083 --> 00:25:44,876
-{\an8}Tunggu. Kita akan lari ke arah sini.
+Tunggu. Kita akan lari ke arah sini.
 
 482
 00:25:44,960 --> 00:25:46,503
-{\an8}Tinggal saja palu dan kapaknya.
+Tinggal saja palu dan kapaknya.
 
 483
 00:25:46,586 --> 00:25:48,046
@@ -2131,7 +2131,7 @@ Yang benar saja.
 
 486
 00:26:14,114 --> 00:26:15,949
-{\an8}<i>Di luar hujan deras.</i>
+<i>Di luar hujan deras.</i>
 
 487
 00:26:16,032 --> 00:26:18,118
@@ -2173,11 +2173,11 @@ Penantian kita tak akan sia-sia.
 
 496
 00:26:48,481 --> 00:26:49,524
-{\an8}SEMANGAT, TIM TENTARA
+SEMANGAT, TIM TENTARA
 
 497
 00:26:49,607 --> 00:26:51,609
-{\an8}<i>Jangan sampai mereka masuk ke dalam sini.</i>
+<i>Jangan sampai mereka masuk ke dalam sini.</i>
 
 498
 00:26:52,319 --> 00:26:53,862
@@ -2185,11 +2185,11 @@ Penantian kita tak akan sia-sia.
 
 499
 00:26:53,945 --> 00:26:56,614
-{\an8}Malam ini penentuan.
+Malam ini penentuan.
 
 500
 00:26:56,698 --> 00:26:58,658
-{\an8}Ini serius sekali.
+Ini serius sekali.
 
 501
 00:26:58,742 --> 00:27:00,076
@@ -2238,11 +2238,11 @@ di sebelah depan.
 
 512
 00:27:34,110 --> 00:27:35,195
-{\an8}Dua puluh lima detik lagi.
+Dua puluh lima detik lagi.
 
 513
 00:27:35,820 --> 00:27:38,615
-{\an8}Menunggu jadi lebih sulit
+Menunggu jadi lebih sulit
 karena tahu waktunya.
 
 514
@@ -2294,21 +2294,21 @@ PERTANDINGAN MARKAS KETIGA DIMULAI
 
 525
 00:28:19,572 --> 00:28:21,324
-{\an8}TIM ATLET
+TIM ATLET
 TENDA JURANG
 
 526
 00:28:21,408 --> 00:28:22,409
-{\an8}Ayo semangat.
+Ayo semangat.
 
 527
 00:28:25,036 --> 00:28:30,542
-{\an8}TIM PENGAWAL
+TIM PENGAWAL
 TENDA SELTER
 
 528
 00:28:30,625 --> 00:28:35,004
-{\an8}TIM TENTARA
+TIM TENTARA
 RUMAH PONDOK
 
 529
@@ -2321,20 +2321,20 @@ Ambil benderanya.
 
 531
 00:29:00,280 --> 00:29:01,656
-{\an8}Merangkak saja.
+Merangkak saja.
 
 532
 00:29:13,960 --> 00:29:17,213
-{\an8}<i>Na-eun dan aku tim yang menyusup.</i>
+<i>Na-eun dan aku tim yang menyusup.</i>
 
 533
 00:29:18,047 --> 00:29:20,759
-{\an8}<i>Kami langsung telungkup di tanah
+<i>Kami langsung telungkup di tanah
 begitu sirene berbunyi.</i>
 
 534
 00:29:22,594 --> 00:29:24,387
-{\an8}- Lebih dalam lagi?
+- Lebih dalam lagi?
 - Sudah cukup.
 
 535
@@ -2353,25 +2353,25 @@ Sial.
 
 538
 00:29:47,118 --> 00:29:48,161
-{\an8}Bawa palunya. Cepat.
+Bawa palunya. Cepat.
 
 539
 00:29:48,244 --> 00:29:49,829
-{\an8}TIM DAMKAR
+TIM DAMKAR
 MENINGGALKAN RUMAH PERSEGI
 
 540
 00:29:56,961 --> 00:29:57,796
-{\an8}Ayo!
+Ayo!
 
 541
 00:29:57,879 --> 00:29:59,172
-{\an8}TIM PENGAWAL
+TIM PENGAWAL
 MENINGGALKAN TENDA SELTER
 
 542
 00:29:59,255 --> 00:30:00,548
-{\an8}Ayo berangkat.
+Ayo berangkat.
 
 543
 00:30:03,635 --> 00:30:05,053
@@ -2379,11 +2379,11 @@ Siap-siap berlari.
 
 544
 00:30:05,595 --> 00:30:06,971
-{\an8}Ayo. Sudah waktunya.
+Ayo. Sudah waktunya.
 
 545
 00:30:07,055 --> 00:30:08,932
-{\an8}TIM ATLET
+TIM ATLET
 MENINGGALKAN TENDA JURANG
 
 546
@@ -2393,23 +2393,23 @@ MENINGGALKAN TENDA JURANG
 
 547
 00:30:14,687 --> 00:30:16,648
-{\an8}Aku sudah bawa palunya. Kau bawa kapak.
+Aku sudah bawa palunya. Kau bawa kapak.
 
 548
 00:30:16,731 --> 00:30:18,858
-{\an8}Baik. Ayo lari.
+Baik. Ayo lari.
 
 549
 00:30:19,776 --> 00:30:21,528
-{\an8}Kita harus bergegas.
+Kita harus bergegas.
 
 550
 00:30:21,611 --> 00:30:23,071
-{\an8}Aku bawa pemadam.
+Aku bawa pemadam.
 
 551
 00:30:23,947 --> 00:30:25,365
-{\an8}Cabut cantelan pengamannya.
+Cabut cantelan pengamannya.
 
 552
 00:30:27,951 --> 00:30:28,993
@@ -2417,7 +2417,7 @@ Ya, sudah.
 
 553
 00:30:30,995 --> 00:30:32,330
-{\an8}Sekarang pukul 20,07.
+Sekarang pukul 20,07.
 
 554
 00:30:33,206 --> 00:30:34,707
@@ -2434,91 +2434,91 @@ Kuharap Tim Pengawal cepat datang.
 
 557
 00:30:42,090 --> 00:30:44,926
-{\an8}TIM PENGAWAL
+TIM PENGAWAL
 MENELUSURI JALUR KIJANG AIR
 
 558
 00:30:49,639 --> 00:30:52,559
-{\an8}TIM PENGAWAL
+TIM PENGAWAL
 
 559
 00:30:52,642 --> 00:30:55,562
-{\an8}TIM DAMKAR
+TIM DAMKAR
 
 560
 00:31:04,571 --> 00:31:06,239
-{\an8}Matikan lampunya.
+Matikan lampunya.
 
 561
 00:31:19,043 --> 00:31:21,880
-{\an8}TIM DAMKAR
+TIM DAMKAR
 
 562
 00:31:21,963 --> 00:31:24,966
-{\an8}TIM DAMKAR
+TIM DAMKAR
 TIM ATLET
 
 563
 00:31:25,884 --> 00:31:27,510
-{\an8}Kita hampir sampai, Seong-yeon.
+Kita hampir sampai, Seong-yeon.
 
 564
 00:31:35,184 --> 00:31:37,645
-{\an8}Perhatikan terus sebelah sana.
+Perhatikan terus sebelah sana.
 Tetaplah di ujung sana.
 
 565
 00:31:37,729 --> 00:31:39,063
-{\an8}- Hyun-seon.
+- Hyun-seon.
 - Baik.
 
 566
 00:31:41,774 --> 00:31:43,026
-{\an8}TIM DAMKAR
+TIM DAMKAR
 TIM ATLET
 
 567
 00:31:43,109 --> 00:31:46,446
-{\an8}TIM DAMKAR, TIM PENGAWAL,
+TIM DAMKAR, TIM PENGAWAL,
 TIM ATLET
 
 568
 00:31:56,623 --> 00:32:01,961
-{\an8}TIM DAMKAR
+TIM DAMKAR
 DI DEPAN RUMAH PONDOK
 
 569
 00:32:02,629 --> 00:32:03,796
-{\an8}Berjongkoklah.
+Berjongkoklah.
 
 570
 00:32:05,340 --> 00:32:06,799
-{\an8}Kita menunggu Tim Atlet?
+Kita menunggu Tim Atlet?
 
 571
 00:32:07,759 --> 00:32:09,093
-{\an8}Mereka datang.
+Mereka datang.
 
 572
 00:32:10,219 --> 00:32:12,055
-{\an8}Mundurlah sedikit.
+Mundurlah sedikit.
 
 573
 00:32:13,890 --> 00:32:15,016
-{\an8}Sebelah sini.
+Sebelah sini.
 
 574
 00:32:15,099 --> 00:32:16,935
-{\an8}TIM ATLET
+TIM ATLET
 DI DEPAN RUMAH PONDOK
 
 575
 00:32:17,018 --> 00:32:23,232
-{\an8}TIM TENTARA, TIM DAMKAR, TIM ATLET
+TIM TENTARA, TIM DAMKAR, TIM ATLET
 
 576
 00:32:24,359 --> 00:32:25,735
-{\an8}Ayo cepat.
+Ayo cepat.
 
 577
 00:32:27,278 --> 00:32:28,321
@@ -2540,11 +2540,11 @@ Sesuatu bergerak.
 
 581
 00:32:40,667 --> 00:32:41,626
-{\an8}Jalan ke sini.
+Jalan ke sini.
 
 582
 00:32:41,709 --> 00:32:43,711
-{\an8}Hati-hati ada pohon di tengahnya.
+Hati-hati ada pohon di tengahnya.
 
 583
 00:32:43,795 --> 00:32:44,837
@@ -2607,25 +2607,25 @@ Salah satu harus awasi belakang.
 
 597
 00:33:29,007 --> 00:33:31,217
-{\an8}<i>Mereka menyemprotkan pemadam
+<i>Mereka menyemprotkan pemadam
 begitu kami datang.</i>
 
 598
 00:33:31,801 --> 00:33:33,428
-{\an8}Empat damkar!
+Empat damkar!
 
 599
 00:33:34,262 --> 00:33:35,513
-{\an8}<i>Kami harus mengulur waktu.</i>
+<i>Kami harus mengulur waktu.</i>
 
 600
 00:33:35,596 --> 00:33:38,808
-{\an8}<i>Meski kami berdua tereliminasi,
+<i>Meski kami berdua tereliminasi,
 kami harus mengulur waktu</i>
 
 601
 00:33:38,891 --> 00:33:40,101
-{\an8}<i>demi tim penyusup kami.</i>
+<i>demi tim penyusup kami.</i>
 
 602
 00:33:42,603 --> 00:33:44,397
@@ -2633,24 +2633,24 @@ Empat damkar!
 
 603
 00:33:44,480 --> 00:33:47,650
-{\an8}Empat damkar. Mereka di sana semua.
+Empat damkar. Mereka di sana semua.
 
 604
 00:33:51,362 --> 00:33:54,115
-{\an8}<i>Mereka tidak bisa melihat kami,
+<i>Mereka tidak bisa melihat kami,
 jadi, kami langsung lari.</i>
 
 605
 00:33:57,827 --> 00:34:00,830
-{\an8}<i>Karena jumlah kami lebih sedikit,</i>
+<i>Karena jumlah kami lebih sedikit,</i>
 
 606
 00:34:00,913 --> 00:34:02,832
-{\an8}<i>kami harus bergerak lebih cepat.</i>
+<i>kami harus bergerak lebih cepat.</i>
 
 607
 00:34:02,915 --> 00:34:05,209
-{\an8}<i>Aku berlari seperti kuda di dalam hujan.</i>
+<i>Aku berlari seperti kuda di dalam hujan.</i>
 
 608
 00:34:06,252 --> 00:34:07,295
@@ -2662,23 +2662,23 @@ Mundur dahulu.
 
 610
 00:34:11,299 --> 00:34:13,051
-{\an8}<i>Aku suruh mereka menunggu</i>
+<i>Aku suruh mereka menunggu</i>
 
 611
 00:34:13,134 --> 00:34:14,802
-{\an8}<i>sampai kabutnya hilang.</i>
+<i>sampai kabutnya hilang.</i>
 
 612
 00:34:15,720 --> 00:34:18,181
-{\an8}Ada jebakan di bawah. Jangan sampai lupa.
+Ada jebakan di bawah. Jangan sampai lupa.
 
 613
 00:34:18,264 --> 00:34:20,224
-{\an8}Hati-hati. Ada tali jebakan di depan.
+Hati-hati. Ada tali jebakan di depan.
 
 614
 00:34:21,559 --> 00:34:23,811
-{\an8}- Ada sesuatu di sana.
+- Ada sesuatu di sana.
 - Ya, aku lihat.
 
 615
@@ -2699,11 +2699,11 @@ Serang kami.
 
 619
 00:34:38,367 --> 00:34:40,995
-{\an8}<i>Mereka terus memprovokasi kami.</i>
+<i>Mereka terus memprovokasi kami.</i>
 
 620
 00:34:41,079 --> 00:34:42,580
-{\an8}<i>Itu sangat menjengkelkan.</i>
+<i>Itu sangat menjengkelkan.</i>
 
 621
 00:34:43,247 --> 00:34:44,373
@@ -2711,7 +2711,7 @@ Di bawah.
 
 622
 00:34:51,589 --> 00:34:53,049
-{\an8}Dia lempar pemadamnya.
+Dia lempar pemadamnya.
 
 623
 00:34:53,633 --> 00:34:57,553
@@ -2720,7 +2720,7 @@ dia melemparnya ke arah kami.</i>
 
 624
 00:35:01,474 --> 00:35:03,017
-{\an8}<i>Aku sangat marah.</i>
+<i>Aku sangat marah.</i>
 
 625
 00:35:03,101 --> 00:35:05,103
@@ -2728,20 +2728,20 @@ Tim Pengawal menuju ke sini.
 
 626
 00:35:05,186 --> 00:35:06,187
-{\an8}Di sebelah kanan!
+Di sebelah kanan!
 
 627
 00:35:06,270 --> 00:35:09,315
-{\an8}TIM PENGAWAL
+TIM PENGAWAL
 
 628
 00:35:09,398 --> 00:35:11,818
-{\an8}TIM PENGAWAL
+TIM PENGAWAL
 TEPAT DI ATAS RUMAH PONDOK
 
 629
 00:35:11,901 --> 00:35:12,902
-{\an8}Ayo lari.
+Ayo lari.
 
 630
 00:35:16,239 --> 00:35:17,073
@@ -2749,16 +2749,16 @@ Hei.
 
 631
 00:35:17,156 --> 00:35:19,784
-{\an8}Satu orang tetap berdiri di sana.
+Satu orang tetap berdiri di sana.
 Tim Atlet mungkin naik.
 
 632
 00:35:20,535 --> 00:35:22,578
-{\an8}Lihat kanan dan kiri. Ayo.
+Lihat kanan dan kiri. Ayo.
 
 633
 00:35:23,871 --> 00:35:25,498
-{\an8}Satu, dua, tiga.
+Satu, dua, tiga.
 
 634
 00:35:26,833 --> 00:35:27,708
@@ -2796,7 +2796,7 @@ Ada di bawahnya.
 
 642
 00:35:49,939 --> 00:35:51,065
-{\an8}- Di mana?
+- Di mana?
 - Di bawah.
 
 643
@@ -2880,35 +2880,35 @@ Kita balas saja kalau begitu.
 
 661
 00:36:36,068 --> 00:36:38,988
-{\an8}Aku teriak tiga atau empat kali
+Aku teriak tiga atau empat kali
 bahwa benderanya sudah kurebut.
 
 662
 00:36:39,071 --> 00:36:40,823
-{\an8}Lalu, waktu aku berdiri,
+Lalu, waktu aku berdiri,
 
 663
 00:36:40,907 --> 00:36:43,451
-{\an8}aku merasa ada yang menarik benderaku.
+aku merasa ada yang menarik benderaku.
 
 664
 00:36:44,076 --> 00:36:46,704
-{\an8}Kupikir ada orang lain
+Kupikir ada orang lain
 yang mengambil benderaku.
 
 665
 00:36:46,787 --> 00:36:50,374
-{\an8}Namun, rupanya yang menariknya
+Namun, rupanya yang menariknya
 orang yang aku eliminasi.
 
 666
 00:36:51,292 --> 00:36:54,795
-{\an8}Padahal aku merebutnya lebih dahulu,
+Padahal aku merebutnya lebih dahulu,
 jadi, kami bertengkar di sana.
 
 667
 00:36:54,879 --> 00:36:57,798
-{\an8}<i>Untuk yang sudah tereliminasi,
+<i>Untuk yang sudah tereliminasi,
 silakan datang ke arena.</i>
 
 668
@@ -2952,84 +2952,84 @@ SIREN: SURVIVE THE ISLAND
 
 677
 00:37:40,716 --> 00:37:41,801
-{\an8}<i>Aku jadi amat kesal.</i>
+<i>Aku jadi amat kesal.</i>
 
 678
 00:37:41,884 --> 00:37:44,553
-{\an8}<i>Mereka yang bermain curang.
+<i>Mereka yang bermain curang.
 Tidak bisa kupercaya.</i>
 
 679
 00:37:44,637 --> 00:37:46,389
-{\an8}Apa aku...
+Apa aku...
 
 680
 00:37:47,223 --> 00:37:48,516
-{\an8}yang keliru?
+yang keliru?
 
 681
 00:37:48,599 --> 00:37:50,434
-{\an8}Ini sangat tidak adil.
+Ini sangat tidak adil.
 
 682
 00:37:50,518 --> 00:37:51,769
-{\an8}Tidak boleh begini.
+Tidak boleh begini.
 
 683
 00:37:51,852 --> 00:37:54,689
-{\an8}Aku tidak bisa lanjut bermain.
+Aku tidak bisa lanjut bermain.
 Aku harus ke arena.
 
 684
 00:37:54,772 --> 00:37:57,942
-{\an8}Teman-Teman, jangan patah semangat.
+Teman-Teman, jangan patah semangat.
 Kita harus menang.
 
 685
 00:37:58,526 --> 00:38:01,529
-{\an8}Skenario terburuk yang kami bayangkan
+Skenario terburuk yang kami bayangkan
 terjadi. Aku merinding.
 
 686
 00:38:01,612 --> 00:38:03,114
-{\an8}Serang Tim Damkar pertama?
+Serang Tim Damkar pertama?
 
 687
 00:38:03,197 --> 00:38:05,157
-{\an8}- Kita hanya akan menyerang mereka.
+- Kita hanya akan menyerang mereka.
 - Hanya mereka?
 
 688
 00:38:05,241 --> 00:38:06,409
-{\an8}Kita pasti bisa.
+Kita pasti bisa.
 
 689
 00:38:06,909 --> 00:38:08,577
-{\an8}Malam ini kita pasti berhasil.
+Malam ini kita pasti berhasil.
 
 690
 00:38:09,161 --> 00:38:10,162
-{\an8}<i>Ayo!</i>
+<i>Ayo!</i>
 
 691
 00:38:10,246 --> 00:38:12,164
-{\an8}<i>Ayo lekas ambil bendera Tim Damkar.</i>
+<i>Ayo lekas ambil bendera Tim Damkar.</i>
 
 692
 00:38:13,874 --> 00:38:15,418
-{\an8}<i>Tim Damkar terlihat bingung...</i>
+<i>Tim Damkar terlihat bingung...</i>
 
 693
 00:38:15,501 --> 00:38:16,627
-{\an8}Sial.
+Sial.
 
 694
 00:38:16,711 --> 00:38:18,129
-{\an8}<i>...karena ketua mereka tidak ada.</i>
+<i>...karena ketua mereka tidak ada.</i>
 
 695
 00:38:21,924 --> 00:38:23,134
-{\an8}Apa? Apa itu?
+Apa? Apa itu?
 
 696
 00:38:24,552 --> 00:38:26,887
@@ -3041,5 +3041,5 @@ SIREN: SURVIVE THE ISLAND
 
 698
 00:39:23,277 --> 00:39:28,282
-{\an8}Terjemahan subtitle oleh Deaz Putri
+Terjemahan subtitle oleh Deaz Putri
 

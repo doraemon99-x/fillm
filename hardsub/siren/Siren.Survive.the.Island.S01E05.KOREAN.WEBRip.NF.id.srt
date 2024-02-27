@@ -26,7 +26,7 @@ Jalannya menanjak.
 
 7
 00:00:42,125 --> 00:00:43,168
-{\an8}TIM ATLET
+TIM ATLET
 TENDA JURANG
 
 8
@@ -35,7 +35,7 @@ Cepat! Bergegas!
 
 9
 00:00:44,419 --> 00:00:45,670
-{\an8}TIM TENTARA
+TIM TENTARA
 RUMAH PONDOK
 
 10
@@ -44,16 +44,16 @@ Mengapa harus sekarang?
 
 11
 00:00:47,464 --> 00:00:48,298
-{\an8}TIM PENGAWAL
+TIM PENGAWAL
 TENDA SELTER
 
 12
 00:00:48,381 --> 00:00:49,215
-{\an8}Astaga.
+Astaga.
 
 13
 00:00:49,299 --> 00:00:50,717
-{\an8}TIM DAMKAR
+TIM DAMKAR
 RUMAH PERSEGI
 
 14
@@ -67,64 +67,64 @@ milik Tim Damkar diaktifkan.</i>
 
 16
 00:00:58,433 --> 00:00:59,726
-{\an8}Kita harus kuat bertahan.
+Kita harus kuat bertahan.
 
 17
 00:00:59,809 --> 00:01:01,394
-{\an8}Tim Damkar pasti akan datang.
+Tim Damkar pasti akan datang.
 
 18
 00:01:02,687 --> 00:01:03,688
-{\an8}Nyalakan protofonnya.
+Nyalakan protofonnya.
 
 19
 00:01:04,397 --> 00:01:05,231
-{\an8}Di nomor tujuh.
+Di nomor tujuh.
 
 20
 00:01:15,700 --> 00:01:17,410
-{\an8}Sersan Kim, bisa dengar aku?
+Sersan Kim, bisa dengar aku?
 
 21
 00:01:19,329 --> 00:01:20,955
-{\an8}Na-eun, coba katakan sesuatu.
+Na-eun, coba katakan sesuatu.
 
 22
 00:01:22,373 --> 00:01:23,958
-{\an8}Aku ada di belakang markas.
+Aku ada di belakang markas.
 
 23
 00:01:24,042 --> 00:01:25,126
-{\an8}<i>Baik.</i>
+<i>Baik.</i>
 
 24
 00:01:37,680 --> 00:01:38,515
-{\an8}Ada suara.
+Ada suara.
 
 25
 00:01:38,598 --> 00:01:40,016
-{\an8}Dari sebelah sana atau sini.
+Dari sebelah sana atau sini.
 
 26
 00:01:40,099 --> 00:01:42,101
-{\an8}Ada seseorang. Aku bisa dengar.
+Ada seseorang. Aku bisa dengar.
 
 27
 00:01:42,185 --> 00:01:43,144
-{\an8}Mereka datang.
+Mereka datang.
 
 28
 00:01:43,937 --> 00:01:45,021
-{\an8}Cepat lari.
+Cepat lari.
 
 29
 00:01:46,272 --> 00:01:49,609
-{\an8}Sirene berbunyi sekitar pukul 10,00.
+Sirene berbunyi sekitar pukul 10,00.
 Kita harus kembali pukul 10,20.
 
 30
 00:01:55,031 --> 00:01:57,367
-{\an8}TIM DAMKAR
+TIM DAMKAR
 DEKAT RUMAH POHON
 
 31
@@ -142,17 +142,17 @@ Sial.
 
 34
 00:02:05,166 --> 00:02:07,460
-{\an8}- Tunggu. Mau ke sana?
+- Tunggu. Mau ke sana?
 - Ya.
 
 35
 00:02:07,544 --> 00:02:09,796
-{\an8}- Mau ke sana bersama?
+- Mau ke sana bersama?
 - Yang dapat bendera lebih dahulu menang.
 
 36
 00:02:09,879 --> 00:02:10,713
-{\an8}Dengar.
+Dengar.
 
 37
 00:02:11,339 --> 00:02:15,593 
@@ -571,23 +571,23 @@ Tim Pemeran Pengganti?
 
 131
 00:06:16,084 --> 00:06:17,502
-{\an8}Sepertinya mereka diserang.
+Sepertinya mereka diserang.
 
 132
 00:06:17,585 --> 00:06:18,836
-{\an8}Apa mereka memanggil kita?
+Apa mereka memanggil kita?
 
 133
 00:06:19,712 --> 00:06:21,672
-{\an8}Jika kita bantu mereka sekarang,
+Jika kita bantu mereka sekarang,
 
 134
 00:06:21,756 --> 00:06:23,591
-{\an8}kita bisa tetap bersekutu sampai besok.
+kita bisa tetap bersekutu sampai besok.
 
 135
 00:06:23,674 --> 00:06:24,550
-{\an8}Berdua saja.
+Berdua saja.
 
 136
 00:06:24,634 --> 00:06:25,802 
@@ -595,7 +595,7 @@ Aku akan ke sana.
 
 137
 00:06:30,598 --> 00:06:32,600
-{\an8}Tim Damkar pasti menyerang
+Tim Damkar pasti menyerang
 Tim Pemeran Pengganti.
 
 138
@@ -608,21 +608,21 @@ Kita harus bergegas.
 
 140
 00:06:42,360 --> 00:06:44,153
-{\an8}Hanya ada dua jalan naiknya?
+Hanya ada dua jalan naiknya?
 
 141
 00:06:44,237 --> 00:06:46,239
-{\an8}Min-sun atlet panjat.
+Min-sun atlet panjat.
 Dia bisa naik lewat sana.
 
 142
 00:06:46,322 --> 00:06:47,615
-{\an8}- Aku akan alihkan perhatian mereka.
+- Aku akan alihkan perhatian mereka.
 - Baik.
 
 143
 00:06:47,698 --> 00:06:49,325
-{\an8}- Kita alihkan mereka?
+- Kita alihkan mereka?
 - Ya, alihkan dia.
 
 144
@@ -631,7 +631,7 @@ Kentang!
 
 145
 00:06:58,292 --> 00:07:01,712
-{\an8}<i>Tim Damkar mengalihkan
+<i>Tim Damkar mengalihkan
 perhatian orang yang ada di loteng.</i>
 
 146
@@ -640,15 +640,15 @@ Ayo.
 
 147
 00:07:04,173 --> 00:07:05,716
-{\an8}<i>Min-sun adalah atlet panjat,</i>
+<i>Min-sun adalah atlet panjat,</i>
 
 148
 00:07:05,800 --> 00:07:07,677
-{\an8}<i>jadi, kubantu dorong dia ke atas.</i>
+<i>jadi, kubantu dorong dia ke atas.</i>
 
 149
 00:07:07,760 --> 00:07:08,845
-{\an8}Satu, dua, tiga.
+Satu, dua, tiga.
 
 150
 00:07:11,472 --> 00:07:12,390 
@@ -742,15 +742,15 @@ Kami sudah selesai.
 
 171
 00:08:19,207 --> 00:08:20,041
-{\an8}Mau ikut berkelahi?
+Mau ikut berkelahi?
 
 172
 00:08:20,666 --> 00:08:21,667
-{\an8}Kalian yakin?
+Kalian yakin?
 
 173
 00:08:21,751 --> 00:08:24,295
-{\an8}<i>Keadaannya sudah kacau waktu kami sampai.</i>
+<i>Keadaannya sudah kacau waktu kami sampai.</i>
 
 174
 00:08:24,378 --> 00:08:25,713 
@@ -783,11 +783,11 @@ dari Tim Pemeran Pengganti tereliminasi.</i>
 
 181
 00:08:57,453 --> 00:08:59,872
-{\an8}<i>Kami tidak punya pilihan lain.</i>
+<i>Kami tidak punya pilihan lain.</i>
 
 182
 00:09:01,207 --> 00:09:02,667
-{\an8}- Jangan ikut campur.
+- Jangan ikut campur.
 - Baik.
 
 183
@@ -876,11 +876,11 @@ Terima kasih banyak. Keren sekali.
 
 203
 00:10:42,600 --> 00:10:44,185
-{\an8}Aku sudah yakin mereka bersekutu
+Aku sudah yakin mereka bersekutu
 
 204
 00:10:44,727 --> 00:10:45,770
-{\an8}dengan Tim Damkar.
+dengan Tim Damkar.
 
 205
 00:10:47,313 --> 00:10:48,272 
@@ -904,15 +904,15 @@ Tunggu.
 
 210
 00:10:54,195 --> 00:10:55,988
-{\an8}Sepertinya ini punya kami.
+Sepertinya ini punya kami.
 
 211
 00:10:56,489 --> 00:10:57,365
-{\an8}Hee-jeong.
+Hee-jeong.
 
 212
 00:10:58,240 --> 00:10:59,575
-{\an8}Ini milik Min-sun.
+Ini milik Min-sun.
 
 213
 00:10:59,659 --> 00:11:00,785 
@@ -938,43 +938,43 @@ Kerja bagus.
 
 218
 00:11:13,130 --> 00:11:16,300
-{\an8}Aku mustahil bisa mengambil benderanya
+Aku mustahil bisa mengambil benderanya
 tanpa bantuanmu tadi.
 
 219
 00:11:16,384 --> 00:11:18,094
-{\an8}Untung saja ada kapak tadi.
+Untung saja ada kapak tadi.
 
 220
 00:11:18,677 --> 00:11:21,222
-{\an8}Kita menang berkat Tim Damkar.
+Kita menang berkat Tim Damkar.
 
 221
 00:11:21,305 --> 00:11:25,017
-{\an8}Terima kasih. Suatu saat kami harap
+Terima kasih. Suatu saat kami harap
 bisa membantu kalian juga.
 
 222
 00:11:25,101 --> 00:11:26,727
-{\an8}- Aku serius.
+- Aku serius.
 - Terima kasih.
 
 223
 00:11:26,811 --> 00:11:29,105
-{\an8}Kita bisa saja bertarung
+Kita bisa saja bertarung
 saat bertemu tadi.
 
 224
 00:11:29,188 --> 00:11:30,731
-{\an8}Untung kita cepat bernegosiasi.
+Untung kita cepat bernegosiasi.
 
 225
 00:11:30,815 --> 00:11:32,358
-{\an8}Ya. Keputusan bagus.
+Ya. Keputusan bagus.
 
 226
 00:11:32,441 --> 00:11:34,652
-{\an8}Atlet memang selalu menepati janji.
+Atlet memang selalu menepati janji.
 
 227
 00:11:35,778 --> 00:11:36,779 
@@ -995,7 +995,7 @@ Baiklah!
 
 231
 00:11:56,757 --> 00:11:59,427
-{\an8}Hee-jeong, aku lihat sisi mengerikanmu.
+Hee-jeong, aku lihat sisi mengerikanmu.
 
 232
 00:12:00,594 --> 00:12:02,179 
@@ -1014,21 +1014,21 @@ Baiklah!
 
 235
 00:12:05,558 --> 00:12:07,393
-{\an8}Mereka sangat kuat.
+Mereka sangat kuat.
 
 236
 00:12:07,476 --> 00:12:09,395
-{\an8}- Namun, Min-sun, sejujurnya…
+- Namun, Min-sun, sejujurnya…
 - Tidak.
 
 237
 00:12:09,895 --> 00:12:12,481
-{\an8}hanya kau yang bisa memanjat
+hanya kau yang bisa memanjat
 dari belakang seperti tadi.
 
 238
 00:12:13,065 --> 00:12:15,067
-{\an8}Harusnya aku lebih mengalihkannya lagi.
+Harusnya aku lebih mengalihkannya lagi.
 
 239
 00:12:15,151 --> 00:12:16,235 
@@ -1054,26 +1054,26 @@ Satu, dua, tiga.
 
 244
 00:12:25,536 --> 00:12:27,621
-{\an8}Kami sangat berani tadi.
+Kami sangat berani tadi.
 
 245
 00:12:27,705 --> 00:12:30,583
-{\an8}Setelah semua berakhir,
+Setelah semua berakhir,
 Tim Damkar bertanya
 
 246
 00:12:30,666 --> 00:12:32,293
-{\an8}mengapa kami meninggalkan markas
+mengapa kami meninggalkan markas
 tanpa dijaga.
 
 247
 00:12:33,627 --> 00:12:36,630
-{\an8}Kami mau merasakan
+Kami mau merasakan
 bagaimana rasanya menyerang.
 
 248
 00:12:36,714 --> 00:12:40,009
-{\an8}Jadi, kami dengan percaya diri bilang,
+Jadi, kami dengan percaya diri bilang,
 "Ayo percaya pada kekuatan kita."
 
 249
@@ -1095,15 +1095,15 @@ EPISODE 5
 
 253
 00:12:45,598 --> 00:12:46,682
-{\an8}RUMAH POHON
+RUMAH POHON
 
 254
 00:12:46,765 --> 00:12:48,684
-{\an8}TIM ATLET
+TIM ATLET
 
 255
 00:12:51,854 --> 00:12:54,773
-{\an8}<i>Tim Atlet berhasil
+<i>Tim Atlet berhasil
 memenangkan Pertandingan Markas.</i>
 
 256
@@ -1112,11 +1112,11 @@ memenangkan Pertandingan Markas.</i>
 
 257
 00:13:02,948 --> 00:13:05,576
-{\an8}<i>Aku merasa bersalah dan sangat sedih.</i>
+<i>Aku merasa bersalah dan sangat sedih.</i>
 
 258
 00:13:07,745 --> 00:13:09,246
-{\an8}Apa ada yang terluka?
+Apa ada yang terluka?
 
 259
 00:13:11,123 --> 00:13:13,375 
@@ -1175,11 +1175,11 @@ Mereka datang bersekutu.
 
 271
 00:13:43,405 --> 00:13:44,698
-{\an8}<i>Aku tak sangka mereka bawa kapak.</i>
+<i>Aku tak sangka mereka bawa kapak.</i>
 
 272
 00:13:45,699 --> 00:13:48,744
-{\an8}<i>Tim Damkar sering menghancurkan pintu
+<i>Tim Damkar sering menghancurkan pintu
 di lokasi kejadian.</i>
 
 273
@@ -1205,7 +1205,7 @@ Semua jeratanku diputus.
 
 278
 00:14:16,021 --> 00:14:17,731
-{\an8}Markas kami hancur total.
+Markas kami hancur total.
 
 279
 00:14:21,235 --> 00:14:22,278 
@@ -1222,7 +1222,7 @@ sudah berusaha keras di bawah.
 
 282
 00:14:33,581 --> 00:14:35,583
-{\an8}Harusnya aku potong saja ini
+Harusnya aku potong saja ini
 seperti katamu.
 
 283
@@ -1232,11 +1232,11 @@ seperti katamu.
 
 284
 00:14:37,710 --> 00:14:39,253
-{\an8}Harusnya aku lompat saja.
+Harusnya aku lompat saja.
 
 285
 00:14:39,795 --> 00:14:41,630
-{\an8}Padahal tidak berbahaya. Sayang sekali.
+Padahal tidak berbahaya. Sayang sekali.
 
 286
 00:14:42,214 --> 00:14:43,549 
@@ -1358,16 +1358,16 @@ Ya.
 
 313
 00:15:42,524 --> 00:15:44,985
-{\an8}<i>Aku bangga kepada semuanya.</i>
+<i>Aku bangga kepada semuanya.</i>
 
 314
 00:15:45,069 --> 00:15:47,613
-{\an8}<i>Kami mengusahakan yang terbaik
+<i>Kami mengusahakan yang terbaik
 dalam situasi yang ada.</i>
 
 315
 00:15:48,781 --> 00:15:50,950
-{\an8}- Menyenangkan.
+- Menyenangkan.
 - Ya, seru.
 
 316
@@ -1384,7 +1384,7 @@ dalam situasi yang ada.</i>
 
 319
 00:15:59,792 --> 00:16:02,962
-{\an8}<i>Kegigihan dan kerja keras tim kami hebat.</i>
+<i>Kegigihan dan kerja keras tim kami hebat.</i>
 
 320
 00:16:03,462 --> 00:16:05,965 
@@ -1428,47 +1428,47 @@ Mengapa tak merasa begitu sebelumnya, ya?
 
 329
 00:16:32,157 --> 00:16:34,284
-{\an8}- Kalian pasti lelah berjalan dari sana.
+- Kalian pasti lelah berjalan dari sana.
 - Ya.
 
 330
 00:16:34,368 --> 00:16:36,745
-{\an8}- Ikuti aku sekarang.
+- Ikuti aku sekarang.
 - Apa?
 
 331
 00:16:36,829 --> 00:16:38,247
-{\an8}- Ikuti aku.
+- Ikuti aku.
 - Apa?
 
 332
 00:16:43,168 --> 00:16:45,295
-{\an8}22 JAM LALU
+22 JAM LALU
 
 333
 00:16:46,296 --> 00:16:49,174
-{\an8}SETELAH TIM POLISI TERELIMINASI
+SETELAH TIM POLISI TERELIMINASI
 
 334
 00:16:49,883 --> 00:16:50,926
-{\an8}Ada apa ini?
+Ada apa ini?
 
 335
 00:16:52,553 --> 00:16:54,054
-{\an8}Kita harus jalan sampai mana?
+Kita harus jalan sampai mana?
 
 336
 00:16:55,597 --> 00:16:57,141
-{\an8}Kalian lihat pulau itu?
+Kalian lihat pulau itu?
 
 337
 00:16:57,224 --> 00:16:58,308
-{\an8}- Ya.
+- Ya.
 - Ya.
 
 338
 00:16:58,392 --> 00:17:00,185
-{\an8}Kita akan berjalan sampai ke sana.
+Kita akan berjalan sampai ke sana.
 
 339
 00:17:01,645 --> 00:17:03,063 
@@ -1484,12 +1484,12 @@ TANAH KESEMPATAN
 
 342
 00:17:07,568 --> 00:17:09,570
-{\an8}<i>Tim yang tereliminasi
+<i>Tim yang tereliminasi
 di Pertandingan Markas</i>
 
 343
 00:17:09,653 --> 00:17:11,739
-{\an8}<i>akan tinggal di Pulau Kekalahan.</i>
+<i>akan tinggal di Pulau Kekalahan.</i>
 
 344
 00:17:13,032 --> 00:17:16,952 
@@ -1508,11 +1508,11 @@ yang nantinya diadakan.</i>
 
 347
 00:17:26,754 --> 00:17:28,464
-{\an8}Untunglah ada pertarungan konsolasi.
+Untunglah ada pertarungan konsolasi.
 
 348
 00:17:28,547 --> 00:17:29,757
-{\an8}Aku akan berusaha keras.
+Aku akan berusaha keras.
 
 349
 00:17:29,840 --> 00:17:31,091 
@@ -1525,7 +1525,7 @@ Tim Polisi!
 
 351
 00:17:34,344 --> 00:17:37,681
-{\an8}Aku baru saja mulai merasa tenang,
+Aku baru saja mulai merasa tenang,
 tetapi sekarang gugup lagi.
 
 352
@@ -1534,7 +1534,7 @@ Kita sudah sampai.
 
 353
 00:17:39,641 --> 00:17:41,101
-{\an8}Ada telepon di sana.
+Ada telepon di sana.
 
 354
 00:17:43,062 --> 00:17:44,605 
@@ -1542,16 +1542,16 @@ Ini Tim Polisi.
 
 355
 00:17:46,815 --> 00:17:50,778
-{\an8}Kita harus bertahan di sini
+Kita harus bertahan di sini
 sampai pertarungan konsolasi diadakan.
 
 356
 00:17:51,403 --> 00:17:53,238
-{\an8}Untung saja aku membawa tasku.
+Untung saja aku membawa tasku.
 
 357
 00:17:53,322 --> 00:17:55,115
-{\an8}Mau buat tenda di sini?
+Mau buat tenda di sini?
 
 358
 00:17:55,199 --> 00:17:58,952 
@@ -1574,11 +1574,11 @@ Ayo siapkan diri.
 
 362
 00:18:04,374 --> 00:18:06,376
-{\an8}Ayo ubah kesengsaraan ini menjadi peluang.
+Ayo ubah kesengsaraan ini menjadi peluang.
 
 363
 00:18:07,419 --> 00:18:09,671
-{\an8}Aku sangat marah kepada Tim Tentara
+Aku sangat marah kepada Tim Tentara
 dan Pemeran Pengganti.
 
 364
@@ -1587,44 +1587,44 @@ Siap, mulai.
 
 365
 00:18:18,847 --> 00:18:21,225
-{\an8}Kuharap Tim Pemeran Pengganti kalah besok.
+Kuharap Tim Pemeran Pengganti kalah besok.
 
 366
 00:18:21,892 --> 00:18:24,853
-{\an8}<i>Aku tak akan memaafkan orang
+<i>Aku tak akan memaafkan orang
 yang sudah menghancurkan markas kita.</i>
 
 367
 00:18:24,937 --> 00:18:26,688
-{\an8}Kuharap Tim Pemeran Pengganti
+Kuharap Tim Pemeran Pengganti
 datang besok.
 
 368
 00:18:26,772 --> 00:18:28,857
-{\an8}Kita harus menang jika sudah begini.
+Kita harus menang jika sudah begini.
 
 369
 00:18:30,067 --> 00:18:31,819
-{\an8}DALAM PERJALANAN KE PULAU KEKALAHAN
+DALAM PERJALANAN KE PULAU KEKALAHAN
 
 370
 00:18:31,902 --> 00:18:34,613
-{\an8}- Tim Polisi di sana juga, ya?
+- Tim Polisi di sana juga, ya?
 - Sepertinya begitu.
 
 371
 00:18:35,447 --> 00:18:37,282
-{\an8}- Astaga.
+- Astaga.
 - Astaga.
 
 372
 00:18:40,661 --> 00:18:43,831
-{\an8}Aku sangat penasaran
+Aku sangat penasaran
 siapa yang akan datang.
 
 373
 00:18:49,294 --> 00:18:51,004
-{\an8}- Teman-teman.
+- Teman-teman.
 - Mereka datang.
 
 374
@@ -1672,16 +1672,16 @@ Benar.
 
 384
 00:19:16,488 --> 00:19:18,031
-{\an8}Perasaanku campur aduk.
+Perasaanku campur aduk.
 
 385
 00:19:18,657 --> 00:19:21,160
-{\an8}Apa ada barang
+Apa ada barang
 yang harus kita sembunyikan?
 
 386
 00:19:23,370 --> 00:19:25,164
-{\an8}Tiba-tiba kita menjadi gugup.
+Tiba-tiba kita menjadi gugup.
 
 387
 00:19:27,416 --> 00:19:29,001 
@@ -1701,34 +1701,34 @@ Baik.
 
 391
 00:19:44,850 --> 00:19:49,146
-{\an8}Jangan provokasi mereka
+Jangan provokasi mereka
 dan buat mereka makin kompetitif.
 
 392
 00:19:49,229 --> 00:19:50,522
-{\an8}Berpura-pura lelah saja.
+Berpura-pura lelah saja.
 
 393
 00:19:50,606 --> 00:19:52,357
-{\an8}Ayo buat mereka lengah.
+Ayo buat mereka lengah.
 
 394
 00:19:52,441 --> 00:19:53,775
-{\an8}Ayo pura-pura tidur.
+Ayo pura-pura tidur.
 
 395
 00:19:54,902 --> 00:19:56,904
-{\an8}- Tim Polisi, kita harus menang!
+- Tim Polisi, kita harus menang!
 - Menang!
 
 396
 00:19:57,696 --> 00:19:58,530
-{\an8}TENDA TIM PEMERAN PENGGANTI
+TENDA TIM PEMERAN PENGGANTI
 PULAU KEKALAHAN
 
 397
 00:19:58,614 --> 00:20:01,366
-{\an8}Aku seperti terus dengar sesuatu.
+Aku seperti terus dengar sesuatu.
 Seperti mendengar sirene.
 
 398
@@ -1737,45 +1737,45 @@ Bunyi sirene itu?
 
 399
 00:20:04,995 --> 00:20:06,997
-{\an8}Ayo menangkan pertarungan konsolasi.
+Ayo menangkan pertarungan konsolasi.
 
 400
 00:20:07,080 --> 00:20:08,081
-{\an8}Baik.
+Baik.
 
 401
 00:20:08,165 --> 00:20:09,875
-{\an8}Aku penasaran siapa
+Aku penasaran siapa
 yang tereliminasi selanjutnya.
 
 402
 00:20:11,126 --> 00:20:12,252
-{\an8}Sepertinya Tim Tentara.
+Sepertinya Tim Tentara.
 
 403
 00:20:13,337 --> 00:20:14,713
-{\an8}<i>Firasatku berkata begitu.</i>
+<i>Firasatku berkata begitu.</i>
 
 404
 00:20:16,340 --> 00:20:18,008
-{\an8}<i>Semuanya mengincar kita.</i>
+<i>Semuanya mengincar kita.</i>
 
 405
 00:20:18,592 --> 00:20:20,719
-{\an8}Kita harus bersembunyi besok.
+Kita harus bersembunyi besok.
 
 406
 00:20:20,802 --> 00:20:22,012
-{\an8}Ya, harus.
+Ya, harus.
 
 407
 00:20:22,512 --> 00:20:26,516
-{\an8}Aku yakin 100 persen mereka akan bersekutu
+Aku yakin 100 persen mereka akan bersekutu
 dan menyerang kita besok.
 
 408
 00:20:26,600 --> 00:20:29,311
-{\an8}Pasti akan mengincar kita.
+Pasti akan mengincar kita.
 
 409
 00:20:31,063 --> 00:20:33,607 
@@ -1784,16 +1784,16 @@ dan menyerang kita besok.
 
 410
 00:20:33,690 --> 00:20:35,567
-{\an8}- Selamat datang.
+- Selamat datang.
 - Aku cemas benderamu direbut.
 
 411
 00:20:35,651 --> 00:20:38,028
-{\an8}Bagaimana Tim Damkar bisa secepat itu?
+Bagaimana Tim Damkar bisa secepat itu?
 
 412
 00:20:38,111 --> 00:20:40,155
-{\an8}Kami tak bisa membantu apa pun.
+Kami tak bisa membantu apa pun.
 
 413
 00:20:41,323 --> 00:20:43,825 
@@ -1828,90 +1828,90 @@ Entahlah.
 
 420
 00:20:56,338 --> 00:20:58,298
-{\an8}<i>Aku yakin 100 persen kita diserang besok.</i>
+<i>Aku yakin 100 persen kita diserang besok.</i>
 
 421
 00:21:00,300 --> 00:21:01,885
-{\an8}Lantas, Pertandingan Markas besok?
+Lantas, Pertandingan Markas besok?
 
 422
 00:21:01,969 --> 00:21:04,346
-{\an8}Bagaimana kalau ajak Tim Atlet
+Bagaimana kalau ajak Tim Atlet
 menyerang Tim Tentara?
 
 423
 00:21:04,429 --> 00:21:05,973
-{\an8}Tim Tentara pasti mengincar kita.
+Tim Tentara pasti mengincar kita.
 
 424
 00:21:06,056 --> 00:21:08,267
-{\an8}Aku yakin mereka akan menyerang kita.
+Aku yakin mereka akan menyerang kita.
 
 425
 00:21:08,350 --> 00:21:10,811
-{\an8}- Kita harus eliminasi mereka.
+- Kita harus eliminasi mereka.
 - Benar.
 
 426
 00:21:10,894 --> 00:21:12,980
-{\an8}- Agar semua jadi lebih mudah.
+- Agar semua jadi lebih mudah.
 - Sekarang waktu yang tepat
 
 427
 00:21:13,063 --> 00:21:15,148
-{\an8}- karena ada Tim Atlet.
+- karena ada Tim Atlet.
 - Mereka mau bantu kita.
 
 428
 00:21:15,232 --> 00:21:17,567
-{\an8}Ayo serang Tim Tentara
+Ayo serang Tim Tentara
 bersama Tim Atlet besok,
 
 429
 00:21:17,651 --> 00:21:18,527
-{\an8}serang tenda,
+serang tenda,
 
 430
 00:21:18,610 --> 00:21:20,696
-{\an8}lalu terakhir bertarung dengan Tim Atlet.
+lalu terakhir bertarung dengan Tim Atlet.
 
 431
 00:21:20,779 --> 00:21:23,282
-{\an8}Kita tak akan menang jika gagal
+Kita tak akan menang jika gagal
 mengeliminasi Tim Tentara besok.
 
 432
 00:21:23,365 --> 00:21:25,951
-{\an8}Kalau begitu, ayo kita diskusi
+Kalau begitu, ayo kita diskusi
 dengan Tim Atlet
 
 433
 00:21:26,576 --> 00:21:29,830
-{\an8}saat Pertandingan Arena nanti
+saat Pertandingan Arena nanti
 tentang persekutuan ini.
 
 434
 00:21:29,913 --> 00:21:32,082
-{\an8}Ayo kita bicara
+Ayo kita bicara
 kepada mereka, dan lakukan.
 
 435
 00:21:32,165 --> 00:21:34,251
-{\an8}- Ayo serang Tim Tentara.
+- Ayo serang Tim Tentara.
 - Ya. Serang besok.
 
 436
 00:21:35,919 --> 00:21:39,256
-{\an8}- Tim Tentara tak akan bisa membuang kita…
+- Tim Tentara tak akan bisa membuang kita…
 - Ya.
 
 437
 00:21:39,339 --> 00:21:40,590
-{\an8}sampai akhir.
+sampai akhir.
 
 438
 00:21:41,091 --> 00:21:42,634
-{\an8}Kita harus buat mereka percaya.
+Kita harus buat mereka percaya.
 
 439
 00:21:42,718 --> 00:21:45,012 
@@ -1947,50 +1947,50 @@ memenangkan pertandingan ini</i>
 
 446
 00:22:00,444 --> 00:22:03,405
-{\an8}Kita harus bicara dengan Tim Pengawal
+Kita harus bicara dengan Tim Pengawal
 agar semua jelas.
 
 447
 00:22:03,488 --> 00:22:05,782
-{\an8}Ayo minta mereka
+Ayo minta mereka
 untuk datang secepat mungkin.
 
 448
 00:22:06,575 --> 00:22:07,951
-{\an8}- Ini sulit.
+- Ini sulit.
 - Begini.
 
 449
 00:22:08,035 --> 00:22:11,705
-{\an8}Mereka mungkin saja bergabung
+Mereka mungkin saja bergabung
 dengan tim lain sekarang.
 
 450
 00:22:11,788 --> 00:22:12,622
-{\an8}Benar.
+Benar.
 
 451
 00:22:12,706 --> 00:22:16,168
-{\an8}Tim Damkar dan Atlet bersekutu,
+Tim Damkar dan Atlet bersekutu,
 dan meski mereka tahu kita bersekutu,
 
 452
 00:22:16,668 --> 00:22:17,586
-{\an8}mereka akan pikir,
+mereka akan pikir,
 
 453
 00:22:17,669 --> 00:22:19,963
-{\an8}"Tim Pengawal pasti lama.
+"Tim Pengawal pasti lama.
 Ayo serang Tim Tentara."
 
 454
 00:22:20,047 --> 00:22:21,798
-{\an8}- Benar.
+- Benar.
 - Pasti begitu.
 
 455
 00:22:21,882 --> 00:22:24,343
-{\an8}- Besok pasti akan brutal.
+- Besok pasti akan brutal.
 - Benar.
 
 456
@@ -1999,7 +1999,7 @@ Hei.
 
 457
 00:22:26,470 --> 00:22:28,472
-{\an8}- Ada berita buruk.
+- Ada berita buruk.
 - Ada berita buruk.
 
 458
@@ -2008,11 +2008,11 @@ Itu…
 
 459
 00:22:30,515 --> 00:22:31,600
-{\an8}Pelankan suaramu.
+Pelankan suaramu.
 
 460
 00:22:31,683 --> 00:22:33,477
-{\an8}- Kami datang untuk diskusi.
+- Kami datang untuk diskusi.
 - Ya.
 
 461
@@ -2021,15 +2021,15 @@ Hei.
 
 462
 00:22:34,478 --> 00:22:35,896
-{\an8}Kami pasti diserang besok.
+Kami pasti diserang besok.
 
 463
 00:22:35,979 --> 00:22:37,314
-{\an8}Ya. Pasti giliran kami.
+Ya. Pasti giliran kami.
 
 464
 00:22:37,856 --> 00:22:39,024
-{\an8}Ayo bicara di dalam.
+Ayo bicara di dalam.
 
 465
 00:22:39,107 --> 00:22:40,317 
@@ -2042,45 +2042,45 @@ Ayo bicara di sini saja.
 
 467
 00:22:43,111 --> 00:22:44,488
-{\an8}Menurutku begini.
+Menurutku begini.
 
 468
 00:22:44,571 --> 00:22:46,573
-{\an8}Tim Pemeran Pengganti sudah tereliminasi.
+Tim Pemeran Pengganti sudah tereliminasi.
 
 469
 00:22:46,656 --> 00:22:49,076
-{\an8}Jika kita bekerja sama besok,
+Jika kita bekerja sama besok,
 
 470
 00:22:49,159 --> 00:22:51,703
-{\an8}kami bisa menjaga belakang kalian.
+kami bisa menjaga belakang kalian.
 
 471
 00:22:51,787 --> 00:22:53,663
-{\an8}Namun, aku punya pertanyaan.
+Namun, aku punya pertanyaan.
 
 472
 00:22:53,747 --> 00:22:56,166
-{\an8}Kalian harus berpakaian dahulu
+Kalian harus berpakaian dahulu
 saat sirene berbunyi.
 
 473
 00:22:56,249 --> 00:22:57,709
-{\an8}Biasanya butuh berapa lama?
+Biasanya butuh berapa lama?
 
 474
 00:22:57,793 --> 00:23:00,712
-{\an8}Tim Damkar jauh,
+Tim Damkar jauh,
 tetapi sangat cepat sampai sini.
 
 475
 00:23:00,796 --> 00:23:02,881
-{\an8}Waktu kami masih berpakaian,
+Waktu kami masih berpakaian,
 
 476
 00:23:02,964 --> 00:23:04,716
-{\an8}- mereka sudah berteriak.
+- mereka sudah berteriak.
 - Ya.
 
 477
@@ -2090,20 +2090,20 @@ tetapi sangat cepat sampai sini.
 
 478
 00:23:06,218 --> 00:23:07,594
-{\an8}Kami bisa datang dalam sepuluh menit.
+Kami bisa datang dalam sepuluh menit.
 
 479
 00:23:07,677 --> 00:23:09,096
-{\an8}Paling lama sepuluh menit.
+Paling lama sepuluh menit.
 
 480
 00:23:09,179 --> 00:23:11,181
-{\an8}- Maksimal sepuluh menit.
+- Maksimal sepuluh menit.
 - Ya.
 
 481
 00:23:11,264 --> 00:23:15,060
-{\an8}Jika kalian bisa bertahan sepuluh menit,
+Jika kalian bisa bertahan sepuluh menit,
 kami akan langsung membantu.
 
 482
@@ -2113,19 +2113,19 @@ dan jalanannya berbahaya.
 
 483
 00:23:19,106 --> 00:23:20,857
-{\an8}PAGI, SAAT PERTANDINGAN MARKAS
+PAGI, SAAT PERTANDINGAN MARKAS
 
 484
 00:23:25,612 --> 00:23:27,697
-{\an8}TENDA SELTER
+TENDA SELTER
 
 485
 00:23:27,781 --> 00:23:30,158
-{\an8}<i>Kami butuh waktu untuk keluar,</i>
+<i>Kami butuh waktu untuk keluar,</i>
 
 486
 00:23:30,242 --> 00:23:33,787
-{\an8}jadi, kami merasa terburu-buru
+jadi, kami merasa terburu-buru
 saat harus menyerang.
 
 487
@@ -2144,44 +2144,44 @@ Kami berjanji akan datang
 
 490
 00:23:41,586 --> 00:23:44,047
-{\an8}Artinya besok kita semua
+Artinya besok kita semua
 harus melakukan pertahanan.
 
 491
 00:23:44,131 --> 00:23:46,091
-{\an8}- Jadi, delapan lawan delapan?
+- Jadi, delapan lawan delapan?
 - Ya.
 
 492
 00:23:46,174 --> 00:23:48,301
-{\an8}- Tak semua dari mereka akan datang.
+- Tak semua dari mereka akan datang.
 - Benar.
 
 493
 00:23:48,385 --> 00:23:51,555
-{\an8}- Kita bisa kalahkan mereka.
+- Kita bisa kalahkan mereka.
 - Kalau begitu, cari kesempatan
 
 494
 00:23:51,638 --> 00:23:55,267
-{\an8}untuk mengambil bendera Tim Atlet juga.
+untuk mengambil bendera Tim Atlet juga.
 
 495
 00:23:55,350 --> 00:23:56,852
-{\an8}Bertahanlah beberapa menit.
+Bertahanlah beberapa menit.
 
 496
 00:23:56,935 --> 00:23:58,728
-{\an8}- Kami akan ke sana.
+- Kami akan ke sana.
 - Ya, pasti.
 
 497
 00:23:58,812 --> 00:24:00,897
-{\an8}Ayo berpisah di sini.
+Ayo berpisah di sini.
 
 498
 00:24:00,981 --> 00:24:01,898
-{\an8}- Baiklah.
+- Baiklah.
 - Baik.
 
 499
@@ -2201,29 +2201,29 @@ harus melakukan pertahanan.
 
 502
 00:24:07,696 --> 00:24:10,073
-{\an8}Ayo kita kembali diam-diam.
+Ayo kita kembali diam-diam.
 
 503
 00:24:10,157 --> 00:24:12,409
-{\an8}Sepertinya pertandingan besok
+Sepertinya pertandingan besok
 akan sangat krusial.
 
 504
 00:24:12,993 --> 00:24:13,952
-{\an8}Ayo kita mengintai.
+Ayo kita mengintai.
 
 505
 00:24:20,709 --> 00:24:22,252
-{\an8}Jika merebut markas Tim Atlet,
+Jika merebut markas Tim Atlet,
 
 506
 00:24:22,335 --> 00:24:25,088
-{\an8}kita dapat
+kita dapat
 markas Tim Pemeran Pengganti juga.
 
 507
 00:24:29,092 --> 00:24:32,012
-{\an8}TIM PENGAWAL
+TIM PENGAWAL
 DEKAT TENDA JURANG
 
 508
@@ -2237,69 +2237,69 @@ Markas siapa yang lebih dekat?
 
 510
 00:24:41,188 --> 00:24:43,231
-{\an8}Kita eliminasi saja mereka besok.
+Kita eliminasi saja mereka besok.
 Ini mudah.
 
 511
 00:24:43,315 --> 00:24:44,399
-{\an8}- Lalu…
+- Lalu…
 - Setelah itu kita.
 
 512
 00:24:44,482 --> 00:24:45,483
-{\an8}Mereka akan mengincar kita.
+Mereka akan mengincar kita.
 
 513
 00:24:46,109 --> 00:24:49,696
-{\an8}Sejujurnya aku rasa kita tak bisa percaya
+Sejujurnya aku rasa kita tak bisa percaya
 100 persen kepada Tim Tentara.
 
 514
 00:24:50,280 --> 00:24:52,199
-{\an8}Jangan percaya siapa pun 100 persen.
+Jangan percaya siapa pun 100 persen.
 
 515
 00:24:52,282 --> 00:24:54,618
-{\an8}Hanya ada satu alasan
+Hanya ada satu alasan
 mereka baik kepada kita.
 
 516
 00:24:55,202 --> 00:24:57,913
-{\an8}Karena mereka bisa
+Karena mereka bisa
 membuang kita kapan saja.
 
 517
 00:24:58,538 --> 00:25:00,498
-{\an8}Ayo lakukan yang terbaik.
+Ayo lakukan yang terbaik.
 
 518
 00:25:00,999 --> 00:25:03,084
-{\an8}Kalau menurutku begini.
+Kalau menurutku begini.
 
 519
 00:25:03,168 --> 00:25:04,294
-{\an8}Bagaimanapun juga,
+Bagaimanapun juga,
 
 520
 00:25:04,377 --> 00:25:07,881
-{\an8}kita harus bicara kepada Tim Atlet
+kita harus bicara kepada Tim Atlet
 atau Damkar hari ini
 
 521
 00:25:07,964 --> 00:25:10,175
-{\an8}dan minta bantuan mereka.
+dan minta bantuan mereka.
 
 522
 00:25:10,258 --> 00:25:11,426
-{\an8}Sepertinya harus begitu.
+Sepertinya harus begitu.
 
 523
 00:25:11,509 --> 00:25:13,637
-{\an8}Kita harus menghancurkan
+Kita harus menghancurkan
 
 524
 00:25:13,720 --> 00:25:16,097
-{\an8}persekutuan mereka bagaimanapun caranya.
+persekutuan mereka bagaimanapun caranya.
 
 525
 00:25:16,181 --> 00:25:17,265 
@@ -2307,7 +2307,7 @@ Dengan begitu,
 
 526
 00:25:18,099 --> 00:25:21,394
-{\an8}yang kita mau bisa tercapai.
+yang kita mau bisa tercapai.
 
 527
 00:25:21,478 --> 00:25:25,565 
@@ -2316,50 +2316,50 @@ Dengan begitu,
 
 528
 00:25:30,570 --> 00:25:33,073
-{\an8}Kita tak boleh kalah
+Kita tak boleh kalah
 dalam perang mental ini.
 
 529
 00:25:33,156 --> 00:25:34,783
-{\an8}Namun, kita telanjur kalah.
+Namun, kita telanjur kalah.
 
 530
 00:25:34,866 --> 00:25:36,993
-{\an8}Harusnya kita bersekutu dengan Tim Atlet
+Harusnya kita bersekutu dengan Tim Atlet
 
 531
 00:25:37,077 --> 00:25:39,120
-{\an8}sebelum Tim Damkar dapat keuntungan.
+sebelum Tim Damkar dapat keuntungan.
 
 532
 00:25:39,204 --> 00:25:40,413
-{\an8}Apa rencana kita?
+Apa rencana kita?
 
 533
 00:25:40,497 --> 00:25:43,583
-{\an8}Markas Tim Tentara terlihat
+Markas Tim Tentara terlihat
 dari jalan sana.
 
 534
 00:25:43,667 --> 00:25:45,502
-{\an8}Mau lihat bersama denganku?
+Mau lihat bersama denganku?
 
 535
 00:25:46,002 --> 00:25:50,006
-{\an8}Di jalan ke markas Tim Pemeran Pengganti,
+Di jalan ke markas Tim Pemeran Pengganti,
 
 536
 00:25:50,090 --> 00:25:52,759
-{\an8}ada sebuah tempat
+ada sebuah tempat
 kita bisa melihatnya dengan jelas.
 
 537
 00:25:53,510 --> 00:25:55,136
-{\an8}Kita hampir sampai.
+Kita hampir sampai.
 
 538
 00:25:56,805 --> 00:25:58,682
-{\an8}- Markas Tim Tentara?
+- Markas Tim Tentara?
 - Ya, di sini.
 
 539
@@ -2386,16 +2386,16 @@ Ayo.
 
 544
 00:26:14,155 --> 00:26:15,365
-{\an8}Ayo kita lihat keadaan.
+Ayo kita lihat keadaan.
 
 545
 00:26:15,907 --> 00:26:18,952
-{\an8}Kita harus tunjukkan
+Kita harus tunjukkan
 bahwa kita tahu letak markas mereka.
 
 546
 00:26:19,035 --> 00:26:20,161
-{\an8}Ya, benar.
+Ya, benar.
 
 547
 00:26:20,662 --> 00:26:22,998 
@@ -2417,7 +2417,7 @@ Namun, bagian sisinya tak terlihat.
 
 551
 00:26:31,381 --> 00:26:32,757
-{\an8}Apa itu? Teropong.
+Apa itu? Teropong.
 
 552
 00:26:33,717 --> 00:26:35,427 
@@ -2438,11 +2438,11 @@ Jika mereka melihat ke sini,
 
 556
 00:26:42,058 --> 00:26:43,518
-{\an8}mereka bisa lihat kita juga.
+mereka bisa lihat kita juga.
 
 557
 00:26:43,601 --> 00:26:46,313
-{\an8}Kami sedang hendak ke markas kalian.
+Kami sedang hendak ke markas kalian.
 
 558
 00:26:46,396 --> 00:26:47,814 
@@ -2481,52 +2481,52 @@ Bagus.
 
 566
 00:27:02,120 --> 00:27:04,914
-{\an8}Kalian mau serang kami dengan mereka?
+Kalian mau serang kami dengan mereka?
 Kami bisa sampai sini lebih cepat.
 
 567
 00:27:05,457 --> 00:27:07,375
-{\an8}Tunggu. Kalian datang untuk mengancam…
+Tunggu. Kalian datang untuk mengancam…
 
 568
 00:27:07,459 --> 00:27:08,460
-{\an8}- Bukan.
+- Bukan.
 - atau bernegosiasi?
 
 569
 00:27:08,543 --> 00:27:10,837
-{\an8}Maksudnya kami bisa datang
+Maksudnya kami bisa datang
 lebih cepat dan bantu.
 
 570
 00:27:10,920 --> 00:27:12,047
-{\an8}Membantu kami?
+Membantu kami?
 
 571
 00:27:12,130 --> 00:27:14,132
-{\an8}Namun, tadi kalian bersekutu
+Namun, tadi kalian bersekutu
 dengan Tim Pemeran Pengganti, 'kan?
 
 572
 00:27:14,674 --> 00:27:17,302
-{\an8}- Tidak sama sekali.
+- Tidak sama sekali.
 - Ya, tidak sama sekali.
 
 573
 00:27:17,385 --> 00:27:19,387
-{\an8}Namun, mereka terus berteriak, "Darurat!"
+Namun, mereka terus berteriak, "Darurat!"
 
 574
 00:27:19,471 --> 00:27:21,014
-{\an8}Aku tidak tahu mereka teriak apa.
+Aku tidak tahu mereka teriak apa.
 
 575
 00:27:21,097 --> 00:27:22,807
-{\an8}Kami juga mau ambil bendera mereka.
+Kami juga mau ambil bendera mereka.
 
 576
 00:27:22,891 --> 00:27:25,143
-{\an8}Semuanya ada di sana,
+Semuanya ada di sana,
 jadi, kami mau ikut juga.
 
 577
@@ -2535,62 +2535,62 @@ Kami mau merebut benderanya,
 
 578
 00:27:26,728 --> 00:27:30,607
-{\an8}tetapi semua sudah berakhir,
+tetapi semua sudah berakhir,
 jadi, kami langsung pergi lagi.
 
 579
 00:27:34,486 --> 00:27:36,821
-{\an8}Jadi, kau mau kerja sama
+Jadi, kau mau kerja sama
 dengan kami untuk menyerang
 
 580
 00:27:36,905 --> 00:27:38,740
-{\an8}Tim Damkar besok?
+Tim Damkar besok?
 
 581
 00:27:38,823 --> 00:27:41,743
-{\an8}Maksudku, kami bisa membantu kalian.
+Maksudku, kami bisa membantu kalian.
 
 582
 00:27:41,826 --> 00:27:43,328
-{\an8}Kalian akan serang lebih dahulu?
+Kalian akan serang lebih dahulu?
 
 583
 00:27:43,411 --> 00:27:45,622
-{\an8}Maksudku, kami juga bisa bantu kalian.
+Maksudku, kami juga bisa bantu kalian.
 
 584
 00:27:45,705 --> 00:27:49,042
-{\an8}- Ya.
+- Ya.
 - Bahas siapa yang menyerang lebih dahulu.
 
 585
 00:27:49,125 --> 00:27:51,378
-{\an8}Kami belum menentukan
+Kami belum menentukan
 akan menyerang lebih dahulu atau tidak.
 
 586
 00:27:51,461 --> 00:27:54,464
-{\an8}- Kami bisa bantu. Serius.
+- Kami bisa bantu. Serius.
 - Kami juga.
 
 587
 00:27:54,547 --> 00:27:56,257
-{\an8}Jadi, kau mau membantu kami,
+Jadi, kau mau membantu kami,
 
 588
 00:27:56,341 --> 00:27:57,634
-{\an8}- atau minta bantuan?
+- atau minta bantuan?
 - Ya.
 
 589
 00:27:57,717 --> 00:27:59,928
-{\an8}Kalian seperti menyuruh kami
+Kalian seperti menyuruh kami
 menyerang lebih dahulu.
 
 590
 00:28:00,011 --> 00:28:02,347
-{\an8}- Coba katakan lagi.
+- Coba katakan lagi.
 - Tidak. Kita akan kerja sama.
 
 591
@@ -2656,12 +2656,12 @@ Kalian sudah lihat markas mereka?
 
 604
 00:28:38,508 --> 00:28:40,218
-{\an8}- Jadi…
+- Jadi…
 - Kami sudah lihat markas kalian juga.
 
 605
 00:28:40,301 --> 00:28:41,386
-{\an8}Sebenarnya…
+Sebenarnya…
 
 606
 00:28:41,469 --> 00:28:43,304 
@@ -2720,51 +2720,51 @@ Kita bisa…
 
 618
 00:29:13,501 --> 00:29:16,671
-{\an8}Mengerikan. Katanya mereka
+Mengerikan. Katanya mereka
 bisa menghancurkan tenda kita.
 
 619
 00:29:16,755 --> 00:29:18,047
-{\an8}Jelas-jelas itu ancaman.
+Jelas-jelas itu ancaman.
 
 620
 00:29:18,798 --> 00:29:21,259
-{\an8}Mereka mengintai markas kita
+Mereka mengintai markas kita
 dengan teropong.
 
 621
 00:29:21,843 --> 00:29:24,846
-{\an8}- Benar. Mengapa sampai begitu?
+- Benar. Mengapa sampai begitu?
 - Jelas sekali.
 
 622
 00:29:25,764 --> 00:29:28,183
-{\an8}Tim Tentara terus membuat banyak rencana.
+Tim Tentara terus membuat banyak rencana.
 
 623
 00:29:28,808 --> 00:29:30,185
-{\an8}Mereka bisa menyerang kita.
+Mereka bisa menyerang kita.
 
 624
 00:29:30,268 --> 00:29:31,853
-{\an8}Ayo kita diskusi.
+Ayo kita diskusi.
 
 625
 00:29:31,936 --> 00:29:33,438
-{\an8}Aku sangat kesal tadi.
+Aku sangat kesal tadi.
 
 626
 00:29:33,521 --> 00:29:35,356
-{\an8}- Mengapa?
+- Mengapa?
 - Katanya mereka bisa hancurkan kita.
 
 627
 00:29:35,440 --> 00:29:36,399
-{\an8}Menghancurkan kita?
+Menghancurkan kita?
 
 628
 00:29:36,483 --> 00:29:38,359
-{\an8}- Dia bisa kalahkan kita, katanya?
+- Dia bisa kalahkan kita, katanya?
 - Hancurkan tendanya.
 
 629
@@ -2805,38 +2805,38 @@ Coba kita pikirkan ini.
 
 637
 00:29:58,671 --> 00:30:01,633
-{\an8}Anggap kita jadi dua tim terakhir
+Anggap kita jadi dua tim terakhir
 yang bertahan.
 
 638
 00:30:01,716 --> 00:30:05,762
-{\an8}Kira-kira lebih berpeluang menang
+Kira-kira lebih berpeluang menang
 dari Tim Tentara atau Damkar?
 
 639
 00:30:05,845 --> 00:30:07,680
-{\an8}Untuk fisik dan kekuatannya,
+Untuk fisik dan kekuatannya,
 
 640
 00:30:07,764 --> 00:30:10,141
-{\an8}para damkar lebih tinggi dan kuat.
+para damkar lebih tinggi dan kuat.
 
 641
 00:30:10,225 --> 00:30:15,021
-{\an8}Jadi, aku paham kau agak kesal,
+Jadi, aku paham kau agak kesal,
 
 642
 00:30:15,104 --> 00:30:17,857
-{\an8}tetapi menurutku lebih baik
+tetapi menurutku lebih baik
 jika kita bekerja sama dengan Tim Tentara.
 
 643
 00:30:17,941 --> 00:30:19,567
-{\an8}Menurutku mereka akan lebih lemah
+Menurutku mereka akan lebih lemah
 
 644
 00:30:19,651 --> 00:30:21,861
-{\an8}jika kita harus bertarung satu lawan satu.
+jika kita harus bertarung satu lawan satu.
 
 645
 00:30:21,945 --> 00:30:24,989 
@@ -2875,11 +2875,11 @@ Aku tidak paham.
 
 653
 00:30:38,628 --> 00:30:40,547
-{\an8}Itu kecemasan terbesarku.
+Itu kecemasan terbesarku.
 
 654
 00:30:40,630 --> 00:30:43,967
-{\an8}Bagaimana jika setelah Pertandingan Arena
+Bagaimana jika setelah Pertandingan Arena
 Tim Damkar mengajak kita bersekutu?
 
 655
@@ -2904,16 +2904,16 @@ Tim Tentara nantinya.
 
 659
 00:30:57,188 --> 00:30:58,022
-{\an8}Jadi, begini.
+Jadi, begini.
 
 660
 00:30:58,106 --> 00:31:00,108
-{\an8}- Tim Damkar tak akan mengkhianati kita.
+- Tim Damkar tak akan mengkhianati kita.
 - Ya.
 
 661
 00:31:00,191 --> 00:31:02,277
-{\an8}Aku yakin tidak akan begitu.
+Aku yakin tidak akan begitu.
 
 662
 00:31:07,156 --> 00:31:08,283 
@@ -2938,20 +2938,20 @@ akan dimulai 30 menit lagi.</i>
 
 667
 00:31:55,496 --> 00:31:56,664
-{\an8}Tahu apa yang mengerikan?
+Tahu apa yang mengerikan?
 
 668
 00:31:56,748 --> 00:31:58,541
-{\an8}Kedua tim di kanan dan kiri kita
+Kedua tim di kanan dan kiri kita
 sudah tidak ada.
 
 669
 00:32:00,460 --> 00:32:01,878
-{\an8}Tahu yang lebih penting?
+Tahu yang lebih penting?
 
 670
 00:32:01,961 --> 00:32:03,379
-{\an8}Kita yang eliminasi mereka.
+Kita yang eliminasi mereka.
 
 671
 00:32:06,132 --> 00:32:07,467 
@@ -2995,12 +2995,12 @@ Apa itu Tiket Sirene?
 
 680
 00:32:25,360 --> 00:32:28,863
-{\an8}<i>bisa memulai Pertandingan Markas
+<i>bisa memulai Pertandingan Markas
 pada waktu yang diinginkan</i>
 
 681
 00:32:28,947 --> 00:32:32,033
-{\an8}<i>antara pukul 00,00 sampai 24,00 besok.</i>
+<i>antara pukul 00,00 sampai 24,00 besok.</i>
 
 682
 00:32:32,116 --> 00:32:33,660 
@@ -3012,32 +3012,32 @@ Gila sekali.
 
 684
 00:32:36,704 --> 00:32:38,998
-{\an8}<i>Keuntungannya makin bagus.</i>
+<i>Keuntungannya makin bagus.</i>
 
 685
 00:32:39,082 --> 00:32:40,249
-{\an8}Itu sangat menguntungkan.
+Itu sangat menguntungkan.
 
 686
 00:32:40,833 --> 00:32:42,418
-{\an8}Kita harus memenangkan ini.
+Kita harus memenangkan ini.
 
 687
 00:32:42,502 --> 00:32:44,754
-{\an8}Pemenangnya bisa bersiap lebih dahulu.
+Pemenangnya bisa bersiap lebih dahulu.
 
 688
 00:32:44,837 --> 00:32:46,506
-{\an8}Lalu, memulainya di waktu tersibuk.
+Lalu, memulainya di waktu tersibuk.
 
 689
 00:32:46,589 --> 00:32:48,508
-{\an8}Contohnya saat semua mengantre
+Contohnya saat semua mengantre
 untuk mandi.
 
 690
 00:32:49,217 --> 00:32:50,259
-{\an8}Benar.
+Benar.
 
 691
 00:32:50,885 --> 00:32:54,597 
@@ -3085,7 +3085,7 @@ katup tersembunyi di dalam tanah</i>
 
 701
 00:33:19,038 --> 00:33:20,331
-{\an8}Harus digali sampai dalam.
+Harus digali sampai dalam.
 
 702
 00:33:20,415 --> 00:33:21,958 
@@ -3093,29 +3093,29 @@ Kita harus menemukan tuasnya.
 
 703
 00:33:22,041 --> 00:33:25,461
-{\an8}Namun, itu bisa ada di tengah,
+Namun, itu bisa ada di tengah,
 atau mungkin agak ke pinggir.
 
 704
 00:33:25,545 --> 00:33:27,422
-{\an8}Bukankah tentara ahli dalam menggali?
+Bukankah tentara ahli dalam menggali?
 
 705
 00:33:27,505 --> 00:33:29,132
-{\an8}Tim Tentara pasti hebat.
+Tim Tentara pasti hebat.
 
 706
 00:33:29,215 --> 00:33:31,384
-{\an8}<i>Aku takut kepada Tim Tentara.</i>
+<i>Aku takut kepada Tim Tentara.</i>
 
 707
 00:33:34,345 --> 00:33:36,514
-{\an8}Kita tetap harus menang
+Kita tetap harus menang
 meski dengan sendok.
 
 708
 00:33:36,597 --> 00:33:38,975
-{\an8}<i>Aku percaya diri dalam hal ini.</i>
+<i>Aku percaya diri dalam hal ini.</i>
 
 709
 00:33:39,058 --> 00:33:41,728 
@@ -3142,12 +3142,12 @@ yang tahu di mana koin-koin itu berada.</i>
 
 714
 00:33:59,120 --> 00:34:02,915
-{\an8}Sepertinya setiap koin
+Sepertinya setiap koin
 memiliki keuntungan yang berbeda.
 
 715
 00:34:02,999 --> 00:34:07,211
-{\an8}<i>Pertandingan untuk penentuan lubang
+<i>Pertandingan untuk penentuan lubang
 akan segera dimulai.</i>
 
 716
@@ -3172,84 +3172,84 @@ akan segera dimulai.</i>
 
 721
 00:34:24,353 --> 00:34:27,565
-{\an8}Bagaimana dengan Tim Pengawal?
+Bagaimana dengan Tim Pengawal?
 Lihat ukuran tubuh mereka.
 
 722
 00:34:32,487 --> 00:34:33,905
-{\an8}Mereka punya sedikit otot tangan.
+Mereka punya sedikit otot tangan.
 
 723
 00:34:33,988 --> 00:34:35,490
-{\an8}Kita juga punya.
+Kita juga punya.
 
 724
 00:34:35,573 --> 00:34:36,991
-{\an8}Ayo lawan Tim Pengawal saja.
+Ayo lawan Tim Pengawal saja.
 
 725
 00:34:37,700 --> 00:34:39,660
-{\an8}- Kau yang bertanding.
+- Kau yang bertanding.
 - Ya.
 
 726
 00:34:39,744 --> 00:34:42,246
-{\an8}Aku akan berusaha,
+Aku akan berusaha,
 tetapi kondisi sikuku tidak baik.
 
 727
 00:34:42,330 --> 00:34:43,790
-{\an8}Ligamenku sudah tidak bagus.
+Ligamenku sudah tidak bagus.
 
 728
 00:34:43,873 --> 00:34:46,334
-{\an8}Tolong pahami itu.
+Tolong pahami itu.
 Aku terlalu sering melempar musuh.
 
 729
 00:34:46,417 --> 00:34:47,668
-{\an8}Aku bisa saja kalah.
+Aku bisa saja kalah.
 
 730
 00:34:48,252 --> 00:34:49,212
-{\an8}Jangan berharap.
+Jangan berharap.
 
 731
 00:34:49,295 --> 00:34:51,297
-{\an8}- Jangan cemas. Santai saja.
+- Jangan cemas. Santai saja.
 - Santai saja.
 
 732
 00:34:51,380 --> 00:34:53,674
-{\an8}- Na-eun.
+- Na-eun.
 - Aku gugup sekali.
 
 733
 00:34:53,758 --> 00:34:55,259
-{\an8}TIM TENTARA
+TIM TENTARA
 KIM NA-EUN
 
 734
 00:34:55,343 --> 00:34:56,385
-{\an8}Aku saja.
+Aku saja.
 
 735
 00:34:56,469 --> 00:34:58,054
-{\an8}Kau tahu teknik bahu, 'kan?
+Kau tahu teknik bahu, 'kan?
 
 736
 00:34:58,137 --> 00:35:00,181
-{\an8}- Ya. Aku belajar beberapa hari lalu.
+- Ya. Aku belajar beberapa hari lalu.
 - Ya.
 
 737
 00:35:01,140 --> 00:35:04,519
-{\an8}- Kita tak bisa mengalahkan Tim Atlet.
+- Kita tak bisa mengalahkan Tim Atlet.
 - Itu otot hasil olahraga.
 
 738
 00:35:06,896 --> 00:35:09,398
-{\an8}Tim Damkar sepertinya sangat kuat.
+Tim Damkar sepertinya sangat kuat.
 
 739
 00:35:09,482 --> 00:35:13,569 
@@ -3262,15 +3262,15 @@ Kami akan melawan Tim Pengawal.
 
 741
 00:35:18,366 --> 00:35:20,076
-{\an8}Jadi, kita lawan Tim Tentara?
+Jadi, kita lawan Tim Tentara?
 
 742
 00:35:20,618 --> 00:35:21,911
-{\an8}Tim Damkar lagi.
+Tim Damkar lagi.
 
 743
 00:35:21,994 --> 00:35:25,790
-{\an8}<i>Tim Tentara dan Damkar
+<i>Tim Tentara dan Damkar
 secara otomatis menjadi lawan.</i>
 
 744
@@ -3290,30 +3290,30 @@ diharapkan turun ke arena.</i>
 
 747
 00:35:39,679 --> 00:35:42,723
-{\an8}<i>Aku melakukan</i> CrossFit <i>dan lari tiap hari,
+<i>Aku melakukan</i> CrossFit <i>dan lari tiap hari,
 dan itu membutuhkan daya tahan.</i>
 
 748
 00:35:43,224 --> 00:35:47,645
-{\an8}<i>Aku mulai judo waktu umur sembilan tahun,
+<i>Aku mulai judo waktu umur sembilan tahun,
 dan sudah 20 tahun sampai sekarang.</i>
 
 749
 00:35:47,728 --> 00:35:49,438
-{\an8}- Dia atlet judo, 'kan?
+- Dia atlet judo, 'kan?
 - Ya.
 
 750
 00:35:49,522 --> 00:35:51,190
-{\an8}Tubuh atasnya pasti amat kuat.
+Tubuh atasnya pasti amat kuat.
 
 751
 00:35:51,691 --> 00:35:53,526
-{\an8}Judo? Cengkeramannya pasti amat kuat.
+Judo? Cengkeramannya pasti amat kuat.
 
 752
 00:35:54,152 --> 00:35:56,237
-{\an8}Dia terlihat amat kuat.
+Dia terlihat amat kuat.
 
 753
 00:35:56,779 --> 00:35:58,406 
@@ -3333,11 +3333,11 @@ Langsung berakhir.
 
 757
 00:36:13,504 --> 00:36:15,798
-{\an8}<i>Lengannya luar biasa.</i>
+<i>Lengannya luar biasa.</i>
 
 758
 00:36:15,882 --> 00:36:17,758
-{\an8}<i>Aku bahkan tak bisa bertahan.</i>
+<i>Aku bahkan tak bisa bertahan.</i>
 
 759
 00:36:19,552 --> 00:36:21,137 
@@ -3350,7 +3350,7 @@ Kerja bagus!
 
 761
 00:36:23,514 --> 00:36:27,393
-{\an8}TIM ATLET MENANG
+TIM ATLET MENANG
 
 762
 00:36:27,476 --> 00:36:30,771 
@@ -3364,32 +3364,32 @@ diharapkan turun ke arena.</i>
 
 764
 00:36:34,442 --> 00:36:35,693
-{\an8}<i>Dia yang turun.</i>
+<i>Dia yang turun.</i>
 
 765
 00:36:35,776 --> 00:36:37,195
-{\an8}<i>Dia terlihat kuat.</i>
+<i>Dia terlihat kuat.</i>
 
 766
 00:36:37,278 --> 00:36:40,573
-{\an8}<i>Aku ikut kompetisi adu panco
+<i>Aku ikut kompetisi adu panco
 waktu masih SMA,</i>
 
 767
 00:36:40,656 --> 00:36:42,033
-{\an8}<i>dan lengan lawanku patah karena aku.</i>
+<i>dan lengan lawanku patah karena aku.</i>
 
 768
 00:36:42,116 --> 00:36:45,286
-{\an8}Dia tinggi sekali.
+Dia tinggi sekali.
 
 769
 00:36:45,369 --> 00:36:46,787
-{\an8}Dia terlihat kuat.
+Dia terlihat kuat.
 
 770
 00:36:47,705 --> 00:36:49,123
-{\an8}Ukuran tubuh mereka beda.
+Ukuran tubuh mereka beda.
 
 771
 00:36:50,333 --> 00:36:52,084 
@@ -3411,11 +3411,11 @@ Bagus!
 
 775
 00:37:00,134 --> 00:37:01,260
-{\an8}Dia sangat kuat.
+Dia sangat kuat.
 
 776
 00:37:01,928 --> 00:37:03,930
-{\an8}TIM DAMKAR MENANG
+TIM DAMKAR MENANG
 
 777
 00:37:04,013 --> 00:37:06,349 
@@ -3431,25 +3431,25 @@ Bagus!
 
 780
 00:37:21,906 --> 00:37:24,367
-{\an8}<i>Aku akan berusaha keras untuk menang
+<i>Aku akan berusaha keras untuk menang
 dan tak mematahkan lenganku.</i>
 
 781
 00:37:24,450 --> 00:37:26,661
-{\an8}<i>Aku percaya diri
+<i>Aku percaya diri
 jika bertanding satu lawan satu.</i>
 
 782
 00:37:27,161 --> 00:37:28,246
-{\an8}Mereka bertanding.
+Mereka bertanding.
 
 783
 00:37:28,329 --> 00:37:29,747
-{\an8}Keduanya terlihat kuat.
+Keduanya terlihat kuat.
 
 784
 00:37:29,830 --> 00:37:31,749
-{\an8}Ukuran tubuh mereka mirip.
+Ukuran tubuh mereka mirip.
 
 785
 00:37:32,792 --> 00:37:34,710 
@@ -3465,111 +3465,111 @@ SIREN: SURVIVE THE ISLAND
 
 788
 00:37:45,471 --> 00:37:47,265
-{\an8}<i>Bukankah tentara ahli dalam menggali?</i>
+<i>Bukankah tentara ahli dalam menggali?</i>
 
 789
 00:37:51,435 --> 00:37:53,145
-{\an8}<i>Kami sudah duga tentara pasti bisa,</i>
+<i>Kami sudah duga tentara pasti bisa,</i>
 
 790
 00:37:53,229 --> 00:37:54,981
-{\an8}<i>dan mereka memang hebat.</i>
+<i>dan mereka memang hebat.</i>
 
 791
 00:37:56,899 --> 00:37:58,609
-{\an8}<i>Ini milik kami!</i>
+<i>Ini milik kami!</i>
 
 792
 00:37:59,110 --> 00:38:01,529
-{\an8}<i>- Selesai. Sudah berakhir.
+<i>- Selesai. Sudah berakhir.
 - Hancurlah mereka.</i>
 
 793
 00:38:01,612 --> 00:38:03,239
-{\an8}<i>Kita harus pilih pihak kita.</i>
+<i>Kita harus pilih pihak kita.</i>
 
 794
 00:38:03,322 --> 00:38:04,865
-{\an8}<i>Tim Tentara yang terkuat.</i>
+<i>Tim Tentara yang terkuat.</i>
 
 795
 00:38:04,949 --> 00:38:06,909
-{\an8}<i>Lebih baik bekerja sama dengan mereka.</i>
+<i>Lebih baik bekerja sama dengan mereka.</i>
 
 796
 00:38:06,993 --> 00:38:08,744
-{\an8}<i>Jika bukan sekutu, artinya musuh.</i>
+<i>Jika bukan sekutu, artinya musuh.</i>
 
 797
 00:38:08,828 --> 00:38:10,705
-{\an8}<i>Kita harus buat mereka percaya kita.</i>
+<i>Kita harus buat mereka percaya kita.</i>
 
 798
 00:38:10,788 --> 00:38:13,416
-{\an8}Kami akan tinggalkan markas kami
+Kami akan tinggalkan markas kami
 dan lindungi kalian.
 
 799
 00:38:13,499 --> 00:38:16,794
-{\an8}<i>Sepertinya itu cara paling bijaksana
+<i>Sepertinya itu cara paling bijaksana
 yang bisa kita lakukan sekarang.</i>
 
 800
 00:38:16,877 --> 00:38:18,629
-{\an8}Padahal hari ini cocok sekali
+Padahal hari ini cocok sekali
 untuk menyerang Tim Damkar.
 
 801
 00:38:18,713 --> 00:38:19,880
-{\an8}Itu rencana sempurna.
+Itu rencana sempurna.
 
 802
 00:38:19,964 --> 00:38:22,049
-{\an8}<i>Artinya tiga tim akan bekerja sama.</i>
+<i>Artinya tiga tim akan bekerja sama.</i>
 
 803
 00:38:22,133 --> 00:38:24,343
-{\an8}<i>Kita harus mengeliminasi
+<i>Kita harus mengeliminasi
 Tim Damkar lebih dahulu.</i>
 
 804
 00:38:26,220 --> 00:38:28,389
-{\an8}Aku tak mau kalah
+Aku tak mau kalah
 karena mereka mengeroyok kita.
 
 805
 00:38:28,472 --> 00:38:30,349
-{\an8}<i>Kita pun mau terus bertahan.</i>
+<i>Kita pun mau terus bertahan.</i>
 
 806
 00:38:30,433 --> 00:38:32,184
-{\an8}<i>Ayo kita pasang jebakan,</i>
+<i>Ayo kita pasang jebakan,</i>
 
 807
 00:38:32,268 --> 00:38:34,353
-{\an8}<i>dan pancing mereka ke markas kita.</i>
+<i>dan pancing mereka ke markas kita.</i>
 
 808
 00:38:34,437 --> 00:38:37,023
-{\an8}<i>Mereka akan menyebut kita antagonis,
+<i>Mereka akan menyebut kita antagonis,
 dan berkata, "Apa tentara sudah gila?"</i>
 
 809
 00:38:37,106 --> 00:38:39,608
-{\an8}Kau harus kejam
+Kau harus kejam
 jika ingin menjadi pemenang.
 
 810
 00:38:39,692 --> 00:38:41,819
-{\an8}<i>Waktunya hampir tiba.</i>
+<i>Waktunya hampir tiba.</i>
 
 811
 00:38:41,902 --> 00:38:43,529
-{\an8}<i>Siaga.</i>
+<i>Siaga.</i>
 
 812
 00:38:43,612 --> 00:38:44,655
-{\an8}<i>Aku akan membunuh mereka.</i>
+<i>Aku akan membunuh mereka.</i>
 
 813
 00:38:45,197 --> 00:38:51,829 
@@ -3577,5 +3577,5 @@ SIREN: SURVIVE THE ISLAND
 
 814
 00:39:59,313 --> 00:40:04,318
-{\an8}Terjemahan subtitle oleh Deaz Putri
+Terjemahan subtitle oleh Deaz Putri
 
