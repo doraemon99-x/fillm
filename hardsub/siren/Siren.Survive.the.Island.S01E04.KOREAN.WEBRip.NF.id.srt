@@ -1,0 +1,3509 @@
+﻿1
+00:00:09,009 --> 00:00:10,719 
+<i>Pertandingan Arena hari ini</i>
+
+2
+00:00:10,802 --> 00:00:13,221 
+<i>adalah Pastikan Apinya Sudah Mati.</i>
+
+3
+00:00:14,806 --> 00:00:17,058 
+<i>Tiap tim akan menggunakan
+alat yang diberikan</i>
+
+4
+00:00:17,142 --> 00:00:20,061 
+<i>untuk membelah 30 batang kayu.</i>
+
+5
+00:00:20,145 --> 00:00:22,939
+{\an8}TIM DAMKAR
+
+6
+00:00:23,023 --> 00:00:26,276
+{\an8}<i>Namun, aku berusaha hanya fokus
+kepada kekuatan dan emosiku.</i>
+
+7
+00:00:27,360 --> 00:00:30,029
+{\an8}TIM ATLET
+
+8
+00:00:30,780 --> 00:00:33,700
+{\an8}<i>Lakukan sebisa kalian
+dan kukerjakan sisanya.</i>
+
+9
+00:00:34,409 --> 00:00:37,954
+{\an8}TIM PEMERAN PENGGANTI
+
+10
+00:00:38,038 --> 00:00:40,832
+{\an8}<i>Aku terus berkata kepada diriku
+untuk melakukan yang terbaik.</i>
+
+11
+00:00:40,915 --> 00:00:41,750
+{\an8}Semangat!
+
+12
+00:00:41,833 --> 00:00:44,044
+{\an8}TIM TENTARA
+
+13
+00:00:44,127 --> 00:00:45,503
+{\an8}Kau keren!
+
+14
+00:00:46,212 --> 00:00:48,923
+{\an8}<i>Aku mau tunjukkan apa yang aku bisa.</i>
+
+15
+00:00:52,594 --> 00:00:54,596 
+- Semangat!
+- Semangat!
+
+16
+00:00:57,223 --> 00:01:00,226 
+Kang Eun-mi, kau keren sekali!
+
+17
+00:01:00,810 --> 00:01:02,270 
+Kau seksi sekali!
+
+18
+00:01:02,353 --> 00:01:04,314 
+- Astaga!
+- Kau amat seksi!
+
+19
+00:01:05,523 --> 00:01:06,775 
+Tim Tentara!
+
+20
+00:01:06,858 --> 00:01:08,318 
+- Semangat!
+- Semangat!
+
+21
+00:01:09,235 --> 00:01:11,112 
+- Bagus!
+- Teruskan.
+
+22
+00:01:11,196 --> 00:01:12,739 
+Satu lagi. Semangat!
+
+23
+00:01:12,822 --> 00:01:14,407
+{\an8}Yang terakhir.
+
+24
+00:01:14,491 --> 00:01:16,159
+{\an8}TIM TENTARA
+SISA KAYU: 1
+
+25
+00:01:16,242 --> 00:01:17,911 
+Yang terakhir. Semangat!
+
+26
+00:01:17,994 --> 00:01:19,704 
+Aku akan belah yang terakhir!
+
+27
+00:01:19,788 --> 00:01:21,998 
+Aku akan belah yang terakhir!
+
+28
+00:01:22,082 --> 00:01:23,333 
+Akan kubelah!
+
+29
+00:01:23,416 --> 00:01:24,292 
+Akan kubelah!
+
+30
+00:01:30,673 --> 00:01:32,759
+{\an8}Padahal aku sudah pakai
+sarung tangan, Eun-mi!
+
+31
+00:01:34,219 --> 00:01:35,553 
+Hebat!
+
+32
+00:01:37,722 --> 00:01:39,098
+{\an8}- Bagus.
+- Kusisakan setengah.
+
+33
+00:01:39,182 --> 00:01:40,183
+{\an8}Hanya setengah?
+
+34
+00:01:40,266 --> 00:01:41,184
+{\an8}Lap wajahnya!
+
+35
+00:01:41,267 --> 00:01:42,101 
+Keren!
+
+36
+00:01:42,602 --> 00:01:43,436 
+Setengah kayu.
+
+37
+00:01:44,395 --> 00:01:45,438 
+- Setengah kayu!
+- Hanya setengah.
+
+38
+00:01:45,522 --> 00:01:47,106 
+Semangat!
+
+39
+00:01:47,190 --> 00:01:48,525 
+Lepas bajumu!
+
+40
+00:01:48,608 --> 00:01:50,485 
+- Cepat lepas!
+- Cepat!
+
+41
+00:01:50,568 --> 00:01:53,321 
+Keren!
+
+42
+00:01:53,404 --> 00:01:55,073 
+Kerja bagus!
+
+43
+00:01:58,743 --> 00:01:59,577 
+Selesai.
+
+44
+00:01:59,661 --> 00:02:01,412 
+- Bagus.
+- Hebat!
+
+45
+00:02:01,496 --> 00:02:04,624
+{\an8}<i>Tim Tentara selesai membelah kayu.</i>
+
+46
+00:02:04,707 --> 00:02:06,751
+{\an8}<i>Tahap Kedua akan segera dimulai.</i>
+
+47
+00:02:07,335 --> 00:02:10,296 
+<i>Tahap kedua. Menyalakan Api.</i>
+
+48
+00:02:11,840 --> 00:02:14,592
+{\an8}<i>Ini hal yang Eun-mi sering lakukan.</i>
+
+49
+00:02:14,676 --> 00:02:18,471
+{\an8}<i>Buat api sebesar mungkin
+di lubang api tim kalian masing-masing.</i>
+
+50
+00:02:18,555 --> 00:02:22,142
+{\an8}<i>Waktunya akan dimulai untuk semua tim</i>
+
+51
+00:02:22,225 --> 00:02:25,019
+{\an8}<i>begitu Tim Tentara memulai Tahap Kedua.</i>
+
+52
+00:02:25,770 --> 00:02:27,939 
+<i>Waktu 60 menit kalian…</i>
+
+53
+00:02:28,523 --> 00:02:29,357 
+<i>dimulai.</i>
+
+54
+00:02:29,858 --> 00:02:30,942
+{\an8}Kapak.
+
+55
+00:02:32,527 --> 00:02:33,653
+{\an8}Kipas.
+
+56
+00:02:37,198 --> 00:02:39,033 
+Belah ini dengan kapak.
+
+57
+00:02:44,289 --> 00:02:46,249 
+Kumpulkan yang kecil.
+
+58
+00:02:46,332 --> 00:02:47,208 
+Kumpulkan ini.
+
+59
+00:02:47,292 --> 00:02:48,668 
+Hyun-seon, kumpulkan ini.
+
+60
+00:02:48,751 --> 00:02:50,336
+{\an8}<i>Kami punya strategi.</i>
+
+61
+00:02:50,420 --> 00:02:54,215
+{\an8}<i>Kami membelah kayunya sampai sekecil jari.</i>
+
+62
+00:02:54,299 --> 00:02:56,050
+{\an8}Belah setipis mungkin.
+
+63
+00:02:58,970 --> 00:03:01,639
+{\an8}Kita punya banyak waktu
+karena selesai lebih dahulu.
+
+64
+00:03:01,723 --> 00:03:04,350
+{\an8}Hei, tutupi dari pandangan mereka.
+
+65
+00:03:04,434 --> 00:03:06,185
+{\an8}Jangan sampai mereka lihat cara kita.
+
+66
+00:03:06,269 --> 00:03:08,813
+{\an8}Kita harus lihat
+cara mereka menyalakan api.
+
+67
+00:03:08,897 --> 00:03:10,440
+{\an8}Itu yang terakhir, Min-seon.
+
+68
+00:03:10,523 --> 00:03:11,816
+{\an8}Kau satu-satunya orang
+
+69
+00:03:11,900 --> 00:03:13,359
+{\an8}- yang membelah 30 kayu.
+- Ya.
+
+70
+00:03:13,443 --> 00:03:15,987
+{\an8}Itu yang terakhir, Seong-yeon!
+
+71
+00:03:16,070 --> 00:03:18,156
+{\an8}TIM ATLET
+SISA KAYU: 1
+
+72
+00:03:19,699 --> 00:03:21,701 
+- Bagus!
+- Selesai!
+
+73
+00:03:21,784 --> 00:03:25,914
+{\an8}<i>Tim Damkar dan Atlet
+selesai membelah kayu.</i>
+
+74
+00:03:25,997 --> 00:03:28,041
+{\an8}<i>Alat untuk menyalakan api akan diberikan.</i>
+
+75
+00:03:29,417 --> 00:03:30,835
+{\an8}Kerja bagus.
+
+76
+00:03:31,586 --> 00:03:33,212
+{\an8}Bagus. Kau sangat berkeringat.
+
+77
+00:03:33,296 --> 00:03:34,464
+{\an8}- Ayo.
+- Ayo.
+
+78
+00:03:34,547 --> 00:03:35,423 
+Ayo lakukan!
+
+79
+00:03:35,506 --> 00:03:37,216
+{\an8}Aku akan buat serpihan kayu.
+
+80
+00:03:46,142 --> 00:03:48,436
+{\an8}TIM ATLET
+
+81
+00:03:48,519 --> 00:03:50,355
+{\an8}Kita harus buat serpihan kayu pakai ini.
+
+82
+00:03:50,438 --> 00:03:51,689
+{\an8}Buat yang kecil begini.
+
+83
+00:03:51,773 --> 00:03:53,066 
+Di mana kita bisa…
+
+84
+00:04:00,323 --> 00:04:02,450
+{\an8}TIM PEMERAN PENGGANTI
+SISA KAYU: 1
+
+85
+00:04:03,117 --> 00:04:05,036
+{\an8}Keren, Kyung-ae!
+
+86
+00:04:05,119 --> 00:04:06,329 
+Yang terakhir!
+
+87
+00:04:06,412 --> 00:04:08,122 
+Aku hendak melakukannya sebisaku.
+
+88
+00:04:08,206 --> 00:04:10,250 
+<i>Namun, rupanya staminaku
+sanggup sampai akhir.</i>
+
+89
+00:04:12,377 --> 00:04:13,211 
+Bagus!
+
+90
+00:04:13,294 --> 00:04:16,631
+{\an8}<i>Tim Pemeran Pengganti
+selesai membelah kayu.</i>
+
+91
+00:04:16,714 --> 00:04:18,883
+{\an8}Kumpulkan kayu yang tipis.
+
+92
+00:04:18,967 --> 00:04:21,511 
+- Lalu, buat jadi lebih kecil lagi.
+- Baik.
+
+93
+00:04:21,594 --> 00:04:25,473 
+<i>Tahap Kedua. Menyalakan Api.
+Sisa waktu 30 menit lagi.</i>
+
+94
+00:04:25,556 --> 00:04:28,059
+{\an8}Aku yakin tidak ada
+yang tahu tongkat bulu.
+
+95
+00:04:28,643 --> 00:04:31,229
+{\an8}- Mereka tak pernah buat.
+- Benar. Mereka tak akan bisa.
+
+96
+00:04:31,312 --> 00:04:35,024
+{\an8}- Teknik bertahan hidupku paling baik.
+- Benar. Kau memang ahlinya.
+
+97
+00:04:35,608 --> 00:04:39,112
+{\an8}Ayo kumpulkan tongkat bulunya
+dan nyalakan dengan korek api.
+
+98
+00:04:39,195 --> 00:04:40,113
+{\an8}Baik.
+
+99
+00:04:40,196 --> 00:04:42,949
+{\an8}Gesek saja seperti akan membuat api.
+
+100
+00:04:43,825 --> 00:04:46,369
+{\an8}- Apa biasanya selama ini?
+- Ya.
+
+101
+00:04:46,452 --> 00:04:47,662
+{\an8}Aku merasa terburu-buru.
+
+102
+00:04:47,745 --> 00:04:49,247
+{\an8}- Kau pakar peledak, 'kan?
+- Ya.
+
+103
+00:04:49,330 --> 00:04:51,874
+{\an8}Anggap saja sedang mengisi alat peledak.
+
+104
+00:04:51,958 --> 00:04:52,875
+{\an8}Baik.
+
+105
+00:04:52,959 --> 00:04:55,586
+{\an8}Itu analogi yang tepat.
+Aku harus hati-hati.
+
+106
+00:05:01,801 --> 00:05:03,136 
+Bagus. Berhasil.
+
+107
+00:05:03,219 --> 00:05:05,346 
+Sekarang saatnya. Cepat!
+
+108
+00:05:05,430 --> 00:05:06,431 
+Taruh kayu bakarnya.
+
+109
+00:05:06,514 --> 00:05:08,349 
+Tumpuk di atas. Seperti itu.
+
+110
+00:05:08,433 --> 00:05:09,267 
+Baik.
+
+111
+00:05:09,934 --> 00:05:11,644 
+- Mereka berhasil.
+- Apa?
+
+112
+00:05:13,354 --> 00:05:15,148
+{\an8}Bagaimana caranya melakukan itu?
+
+113
+00:05:15,231 --> 00:05:16,858 
+Api mereka sudah menyala.
+
+114
+00:05:17,400 --> 00:05:18,985
+{\an8}Di mana tongkat bulunya?
+
+115
+00:05:19,068 --> 00:05:20,278 
+Ya, yang itu.
+
+116
+00:05:20,361 --> 00:05:22,238 
+Masukkan.
+
+117
+00:05:22,947 --> 00:05:24,282
+{\an8}Buat apinya lebih besar.
+
+118
+00:05:24,365 --> 00:05:26,367
+{\an8}Kita punya banyak waktu. Bakar saja semua.
+
+119
+00:05:26,451 --> 00:05:27,869 
+Ayo bakar arenanya juga.
+
+120
+00:05:27,952 --> 00:05:29,370
+{\an8}Bagus.
+
+121
+00:05:29,454 --> 00:05:31,039
+{\an8}Kita berhasil jika sudah begini.
+
+122
+00:05:31,664 --> 00:05:33,499
+{\an8}Ini tak akan bisa dipadamkan dengan air.
+
+123
+00:05:34,000 --> 00:05:37,462
+{\an8}Para damkar hanya tahu cara
+memadamkan api, bukan menyalakannya.
+
+124
+00:05:37,545 --> 00:05:39,339
+{\an8}Api mereka akan padam.
+
+125
+00:05:41,257 --> 00:05:42,925
+{\an8}TIM DAMKAR
+
+126
+00:05:43,009 --> 00:05:45,762
+{\an8}- Aku mau memadamkan api saja.
+- Aku juga.
+
+127
+00:05:45,845 --> 00:05:48,973
+{\an8}Kita hanya tahu cara memadamkan api,
+bukan menyalakannya.
+
+128
+00:05:51,142 --> 00:05:52,727 
+Jangan sampai padam.
+
+129
+00:05:53,811 --> 00:05:54,812 
+Seperti itu.
+
+130
+00:05:54,896 --> 00:05:58,107
+{\an8}Apinya padam jika begitu.
+Tunggu sampai menyala dahulu.
+
+131
+00:05:58,691 --> 00:06:00,943
+{\an8}- Astaga.
+- Maaf, aku membuatnya padam.
+
+132
+00:06:01,736 --> 00:06:03,488 
+Kumohon, jangan padam lagi.
+
+133
+00:06:06,282 --> 00:06:08,159 
+Hati-hati, atau itu akan padam.
+
+134
+00:06:08,242 --> 00:06:09,494 
+Kuberikan ini kepadamu.
+
+135
+00:06:09,577 --> 00:06:11,537 
+- Kau saja.
+- Masukkan.
+
+136
+00:06:11,621 --> 00:06:13,956 
+- Di atasnya?
+- Tidak, di sini.
+
+137
+00:06:14,040 --> 00:06:16,667 
+- Masukkan saja?
+- Itu akan membesarkan apinya.
+
+138
+00:06:17,335 --> 00:06:18,753 
+Apinya akan mulai membesar.
+
+139
+00:06:21,005 --> 00:06:22,757
+{\an8}Pertahankan sampai kayunya terbakar.
+
+140
+00:06:22,840 --> 00:06:26,636
+{\an8}Hanya sampai kayu bakarnya terbakar saja.
+
+141
+00:06:26,719 --> 00:06:29,555
+{\an8}Hyeon-ah sedang berusaha
+sekuat tenaga membesarkannya.
+
+142
+00:06:36,270 --> 00:06:38,147 
+Satu kayu yang terbakar saja sudah cukup.
+
+143
+00:06:39,774 --> 00:06:41,067 
+Gawat.
+
+144
+00:06:41,150 --> 00:06:43,027 
+Tidak ada yang mempertahankan apinya.
+
+145
+00:06:44,821 --> 00:06:47,615
+{\an8}Mengapa tak kunjung besar?
+Aku hanya tahu cara memadamkannya.
+
+146
+00:06:48,699 --> 00:06:51,202
+{\an8}Ya. Siapa sangka mereka
+menyuruh damkar begini?
+
+147
+00:06:51,285 --> 00:06:52,453
+{\an8}- Berhasil.
+- Sudah terbakar.
+
+148
+00:06:52,537 --> 00:06:54,413 
+Kipas terus dari dua arah ini.
+
+149
+00:06:54,497 --> 00:06:56,332 
+- Teruskan.
+- Punyamu dan punyaku.
+
+150
+00:06:57,083 --> 00:06:58,209
+{\an8}Itu bagus.
+
+151
+00:06:58,292 --> 00:07:00,169
+{\an8}Tak masalah aku kena asap.
+Kipas saja terus.
+
+152
+00:07:00,253 --> 00:07:02,922
+{\an8}Maaf, Hyeon-ah.
+Namun, harus dikipas dari arah sini.
+
+153
+00:07:03,631 --> 00:07:04,465 
+Ya, begitu.
+
+154
+00:07:11,764 --> 00:07:13,975 
+- Berhasil.
+- Menyala!
+
+155
+00:07:14,058 --> 00:07:16,310 
+Bagus. Sekarang perlahan saja.
+
+156
+00:07:22,233 --> 00:07:25,778
+{\an8}Rupanya damkar andal
+dalam menyalakan api juga.
+
+157
+00:07:25,862 --> 00:07:26,863
+{\an8}Mereka bisa segalanya.
+
+158
+00:07:26,946 --> 00:07:28,281 
+Kita juga pasti bisa.
+
+159
+00:07:30,199 --> 00:07:31,367 
+Tunggu.
+
+160
+00:07:32,827 --> 00:07:34,662 
+- Mulai menyala.
+- Bagus.
+
+161
+00:07:34,745 --> 00:07:35,705 
+Mulai menyala.
+
+162
+00:07:39,459 --> 00:07:42,378 
+Mengapa tak kita pakai
+korek apinya sekaligus saja?
+
+163
+00:07:42,879 --> 00:07:44,338 
+Hati-hati tanganmu.
+
+164
+00:07:44,422 --> 00:07:46,841 
+- Baik. Bagus.
+- Taruh di sini.
+
+165
+00:07:48,342 --> 00:07:50,219 
+Terus masukkan. Masukkan saja semua.
+
+166
+00:07:50,303 --> 00:07:52,847
+{\an8}Masukkan semua.
+Itu terakhir yang kita punya.
+
+167
+00:07:54,932 --> 00:07:57,018 
+Seharusnya kita begini sejak awal.
+
+168
+00:08:00,021 --> 00:08:01,481 
+Apinya hampir mati.
+
+169
+00:08:02,064 --> 00:08:05,860
+{\an8}<i>Awalnya apinya besar,
+jadi, kupikir kami berhasil.</i>
+
+170
+00:08:05,943 --> 00:08:08,779 
+Jadi, aku langsung suruh mereka
+masukkan semua korek apinya.
+
+171
+00:08:09,906 --> 00:08:11,741 
+Aku menyesali hal itu.
+
+172
+00:08:11,824 --> 00:08:14,160
+{\an8}Kuharap kita tak kalah
+dari Tim Pemeran Pengganti.
+
+173
+00:08:15,620 --> 00:08:16,996
+{\an8}Jangan biarkan mereka menang.
+
+174
+00:08:17,079 --> 00:08:18,998
+{\an8}Jika mereka berhasil
+lebih dahulu daripada kita,
+
+175
+00:08:19,081 --> 00:08:22,001
+{\an8}kita tak boleh makan malam
+hari ini. Kita harus diskusi.
+
+176
+00:08:22,877 --> 00:08:23,878 
+Paham?
+
+177
+00:08:25,171 --> 00:08:26,631
+{\an8}Taruh kayunya di bawah.
+
+178
+00:08:26,714 --> 00:08:29,592
+{\an8}Kalian tahu aku besar di desa, 'kan?
+
+179
+00:08:29,675 --> 00:08:32,136
+{\an8}- Benar. Di atas situ.
+- Nyalakan di sebelah sini.
+
+180
+00:08:32,220 --> 00:08:34,514
+{\an8}- Berikan ruang untuk aliran udara.
+- Baik.
+
+181
+00:08:35,097 --> 00:08:38,643
+{\an8}Jika ayahku melihat ini, dia pasti malu
+kalau aku gagal menyalakan api.
+
+182
+00:08:43,397 --> 00:08:45,858
+{\an8}<i>Kami potong kecil lagi kayunya,
+lalu biarkan terbakar.</i>
+
+183
+00:08:45,942 --> 00:08:47,860
+{\an8}<i>Ternyata itu berhasil.</i>
+
+184
+00:08:47,944 --> 00:08:50,571 
+Ayo buat sesuatu
+untuk menumpuk kayu di atasnya.
+
+185
+00:08:50,655 --> 00:08:52,073 
+Buat semacam bingkainya dahulu.
+
+186
+00:08:54,617 --> 00:08:55,868
+{\an8}- Semangat!
+- Kau bisa!
+
+187
+00:08:55,952 --> 00:08:58,371
+{\an8}Apa mereka masih membelah kayu?
+
+188
+00:08:58,454 --> 00:09:01,374
+{\an8}TIM PENGAWAL
+
+189
+00:09:06,837 --> 00:09:09,090
+{\an8}Maaf, aku tidak sanggup lagi.
+
+190
+00:09:11,467 --> 00:09:13,803
+{\an8}- Bagus.
+-<i> Kami sudah tidak ada waktu.</i>
+
+191
+00:09:13,886 --> 00:09:17,181
+{\an8}<i>Aku sangat frustrasi
+karena tak bisa membelahnya.</i>
+
+192
+00:09:18,349 --> 00:09:20,351 
+<i>Tahap Kedua. Menyalakan Api.</i>
+
+193
+00:09:21,435 --> 00:09:24,230 
+<i>Tiga, dua, satu.</i>
+
+194
+00:09:25,690 --> 00:09:27,942 
+TAHAP KEDUA BERAKHIR
+
+195
+00:09:28,025 --> 00:09:29,610 
+<i>Hasilnya akan diumumkan.</i>
+
+196
+00:09:30,194 --> 00:09:32,154
+{\an8}<i>Tim Pemeran Pengganti lolos.</i>
+
+197
+00:09:32,238 --> 00:09:33,990
+{\an8}<i>Tim Tentara lolos.</i>
+
+198
+00:09:34,073 --> 00:09:36,450
+{\an8}<i>Tim Damkar lolos.</i>
+
+199
+00:09:36,993 --> 00:09:39,829 
+<i>Tim Pengawal dan Atlet tereliminasi.</i>
+
+200
+00:09:40,705 --> 00:09:42,873 
+<i>Tahap Ketiga segera dimulai.</i>
+
+201
+00:09:42,957 --> 00:09:45,376 
+<i>Tahap Ketiga. Melindungi Api.</i>
+
+202
+00:09:46,919 --> 00:09:48,129 
+"Melindungi Api"?
+
+203
+00:09:48,212 --> 00:09:49,589 
+"Melindungi Api"?
+
+204
+00:09:49,672 --> 00:09:52,341 
+<i>Tiap tim akan menunjuk perwakilan.</i>
+
+205
+00:09:52,425 --> 00:09:58,306 
+<i>Perwakilan tim akan diberi kesempatan
+untuk menyiram lubang api tim lain.</i>
+
+206
+00:09:59,807 --> 00:10:02,226 
+<i>Tiap tim punya waktu 30 detik
+untuk menyerang.</i>
+
+207
+00:10:02,310 --> 00:10:05,396 
+<i>Hanya ada satu cara
+untuk menghindari serangan.</i>
+
+208
+00:10:05,479 --> 00:10:09,567 
+<i>Kalian hanya boleh melindungi
+lubang api dengan tubuh kalian.</i>
+
+209
+00:10:10,651 --> 00:10:12,361 
+<i>Setelah serangan berakhir,</i>
+
+210
+00:10:12,445 --> 00:10:15,698 
+<i>kalian punya lima menit
+untuk menyalakan apinya lagi.</i>
+
+211
+00:10:16,490 --> 00:10:20,411 
+<i>Tim yang berhasil melindungi apinya
+sampai akhir menjadi pemenang.</i>
+
+212
+00:10:20,494 --> 00:10:23,873 
+Sebuah misi memadamkan api
+dengan selang air?
+
+213
+00:10:23,956 --> 00:10:27,960 
+Jika kalah, aku akan terlalu malu
+untuk pulang. Tidak bisa begitu.
+
+214
+00:10:28,044 --> 00:10:30,630 
+Bagaimanapun juga
+aku harus berhasil memadamkan api.
+
+215
+00:10:30,713 --> 00:10:34,133
+{\an8}<i>Silakan tentukan tim mana
+yang ingin kalian serang.</i>
+
+216
+00:10:34,216 --> 00:10:36,510
+{\an8}Pasti mereka mengincar kita
+karena apinya kecil.
+
+217
+00:10:36,594 --> 00:10:38,137
+{\an8}Satu tim bisa diserang dua tim.
+
+218
+00:10:38,220 --> 00:10:39,805
+{\an8}Lebih baik yang apinya kecil.
+
+219
+00:10:40,765 --> 00:10:41,974 
+Benar.
+
+220
+00:10:42,058 --> 00:10:44,935
+{\an8}Tentu lebih baik kita menyerang tim
+yang apinya paling kecil.
+
+221
+00:10:45,019 --> 00:10:47,521
+{\an8}Selama bisa melindungi arang di dalamnya,
+
+222
+00:10:47,605 --> 00:10:50,941
+{\an8}kita bisa menyalakan apinya lagi
+dengan mudah.
+
+223
+00:10:51,025 --> 00:10:53,319
+{\an8}Kita harus melindungi api
+dengan tubuh kita.
+
+224
+00:10:53,402 --> 00:10:54,695
+{\an8}- Ya, 'kan?
+- Benar.
+
+225
+00:10:54,779 --> 00:10:55,863
+{\an8}Kalau begitu,
+
+226
+00:10:56,572 --> 00:10:58,783
+{\an8}- biar aku yang menyerang.
+- Ya, baik.
+
+227
+00:10:58,866 --> 00:10:59,909 
+<i>Tim Tentara.</i>
+
+228
+00:10:59,992 --> 00:11:02,244 
+<i>Silakan umumkan tim mana
+yang akan kalian serang.</i>
+
+229
+00:11:02,328 --> 00:11:03,537
+{\an8}Tim Damkar.
+
+230
+00:11:04,121 --> 00:11:05,331 
+Tim Damkar.
+
+231
+00:11:06,749 --> 00:11:07,750
+{\an8}Mereka tak pilih kita.
+
+232
+00:11:08,834 --> 00:11:11,170
+{\an8}Mereka tak pilih kita.
+Untung kita bersekutu.
+
+233
+00:11:11,962 --> 00:11:13,881
+{\an8}<i>Kami pernah menjadi sekutu.</i>
+
+234
+00:11:13,964 --> 00:11:16,133
+{\an8}Kami juga memilih Tim Damkar.
+
+235
+00:11:16,217 --> 00:11:18,511
+{\an8}Bagus, kita harus bekerja sama.
+
+236
+00:11:18,594 --> 00:11:21,138
+{\an8}Kita pasti antagonisnya.
+
+237
+00:11:21,222 --> 00:11:23,224
+{\an8}Ayo kita serang Tim Tentara.
+
+238
+00:11:23,307 --> 00:11:24,350
+{\an8}Tim Tentara?
+
+239
+00:11:24,433 --> 00:11:26,644
+{\an8}- Serang mereka?
+- Tentu saja.
+
+240
+00:11:27,770 --> 00:11:29,230
+{\an8}Kita harus padamkan api mereka.
+
+241
+00:11:29,313 --> 00:11:30,398
+{\an8}<i>Tim Damkar.</i>
+
+242
+00:11:30,481 --> 00:11:32,233 
+<i>Silakan umumkan tim mana
+yang akan kalian serang.</i>
+
+243
+00:11:32,316 --> 00:11:33,609
+{\an8}Kami pilih Tim Tentara.
+
+244
+00:11:34,693 --> 00:11:35,820 
+Kami pilih Tim Tentara.
+
+245
+00:11:35,903 --> 00:11:37,655
+{\an8}- Apa?
+- Mengapa bukan kita?
+
+246
+00:11:38,322 --> 00:11:39,824
+{\an8}Tak seru menang dengan mudah.
+
+247
+00:11:40,658 --> 00:11:42,076
+{\an8}Begini lebih keren.
+
+248
+00:11:44,537 --> 00:11:47,373 
+EPISODE 4
+"TAK SERU MENANG DENGAN MUDAH"
+
+249
+00:11:47,456 --> 00:11:49,750 
+<i>Serangan ronde pertama akan dimulai.</i>
+
+250
+00:11:49,834 --> 00:11:51,001
+{\an8}ARAH SERANGAN
+
+251
+00:11:52,044 --> 00:11:53,337 
+<i>Bersiap.</i>
+
+252
+00:11:57,007 --> 00:11:57,883 
+<i>Tiga.</i>
+
+253
+00:11:59,260 --> 00:12:00,136 
+<i>Dua.</i>
+
+254
+00:12:01,637 --> 00:12:02,471 
+<i>Satu.</i>
+
+255
+00:12:08,727 --> 00:12:10,438 
+Baiklah, serang mereka.
+
+256
+00:12:24,952 --> 00:12:27,329
+{\an8}<i>Aku hanya terus berpikir untuk menang.</i>
+
+257
+00:12:33,752 --> 00:12:36,255
+{\an8}<i>Aku harus melindungi apinya sebisaku.</i>
+
+258
+00:12:41,635 --> 00:12:44,472
+{\an8}<i>Kami harus terus bertahan
+sekuat kami bisa.</i>
+
+259
+00:12:47,850 --> 00:12:48,934 
+Hye-kyung.
+
+260
+00:12:49,018 --> 00:12:51,270 
+- Lihat Tim Damkar.
+- Ikuti caranya.
+
+261
+00:12:51,353 --> 00:12:52,521 
+Ikuti caranya, Hye-kyung.
+
+262
+00:12:59,153 --> 00:13:00,488 
+Angkat.
+
+263
+00:13:02,114 --> 00:13:06,035 
+Menyiram api dari atas
+tidak akan memadamkan api.
+
+264
+00:13:06,118 --> 00:13:09,705 
+Kau harus membidiknya sumber apinya
+dengan tepat agar bisa mati.
+
+265
+00:13:09,788 --> 00:13:11,415 
+Namun, ada tiga orang menghalangi.
+
+266
+00:13:11,499 --> 00:13:16,003 
+Jadi, meski aku sudah membidik
+dari celah antara mereka dan kaki mereka,
+
+267
+00:13:16,086 --> 00:13:18,464 
+aku tetap tak bisa
+menemukan sudut yang tepat.
+
+268
+00:13:18,547 --> 00:13:22,426 
+Aku hanya bisa mengangkat selangnya
+setinggi mungkin untuk dapat sudut tepat,
+
+269
+00:13:22,510 --> 00:13:24,595 
+jadi, posisiku seperti itu.
+
+270
+00:13:38,067 --> 00:13:39,276
+{\an8}Dia hebat sekali.
+
+271
+00:13:44,073 --> 00:13:44,990 
+<i>Tiga.</i>
+
+272
+00:13:47,785 --> 00:13:48,702 
+<i>Dua.</i>
+
+273
+00:13:49,954 --> 00:13:50,913 
+<i>Satu.</i>
+
+274
+00:13:55,751 --> 00:13:58,128 
+<i>Serangan ronde pertama berakhir.</i>
+
+275
+00:14:00,756 --> 00:14:01,966 
+Astaga.
+
+276
+00:14:02,049 --> 00:14:05,803
+{\an8}<i>Tim Tentara, Tim Pemeran Pengganti,
+dan Tim Damkar lolos.</i>
+
+277
+00:14:06,387 --> 00:14:09,265 
+<i>Kalian dilarang
+melindungi lubang api lagi.</i>
+
+278
+00:14:10,432 --> 00:14:14,311 
+<i>Semuanya silakan pindah
+ke belakang lubang api.</i>
+
+279
+00:14:16,063 --> 00:14:17,022
+{\an8}Jangan.
+
+280
+00:14:17,106 --> 00:14:18,524
+{\an8}Kalau begini, pasti akan mati.
+
+281
+00:14:18,607 --> 00:14:20,109
+{\an8}<i>Api kami pasti akan padam.</i>
+
+282
+00:14:20,693 --> 00:14:23,028
+{\an8}Aku berpikir begitu.
+Aku yakin api kami akan padam.
+
+283
+00:14:23,112 --> 00:14:24,196 
+<i>Perwakilan tiap tim,</i>
+
+284
+00:14:24,280 --> 00:14:26,156 
+<i>umumkan tim mana yang akan diserang.</i>
+
+285
+00:14:26,240 --> 00:14:27,449
+{\an8}Tim Damkar.
+
+286
+00:14:27,533 --> 00:14:28,659
+{\an8}Tim Damkar.
+
+287
+00:14:28,742 --> 00:14:30,536
+{\an8}Ayo serang Tim Pemeran Pengganti.
+
+288
+00:14:31,120 --> 00:14:32,329
+{\an8}Kami pilih Tim Pemeran Pengganti.
+
+289
+00:14:32,997 --> 00:14:35,791
+{\an8}- Kami pilih Tim Pemeran Pengganti.
+- Ini seru.
+
+290
+00:14:35,875 --> 00:14:37,626
+{\an8}ARAH SERANGAN
+
+291
+00:14:40,212 --> 00:14:41,338
+{\an8}Kau siram mereka,
+
+292
+00:14:42,006 --> 00:14:43,841
+{\an8}dan aku akan menghalangi airnya.
+
+293
+00:14:43,924 --> 00:14:47,344
+{\an8}Sepertinya lebih baik kau yang siram,
+dan aku alihkan siraman mereka.
+
+294
+00:14:48,762 --> 00:14:51,307 
+<i>Serangan ronde kedua akan dimulai.</i>
+
+295
+00:14:51,390 --> 00:14:55,227 
+<i>Penyerang dari setiap tim
+harap maju lima langkah.</i>
+
+296
+00:14:57,062 --> 00:14:58,230 
+<i>Bersiap.</i>
+
+297
+00:14:58,898 --> 00:14:59,815 
+<i>Tiga.</i>
+
+298
+00:15:02,067 --> 00:15:02,902 
+<i>Dua.</i>
+
+299
+00:15:04,486 --> 00:15:05,362 
+<i>Satu.</i>
+
+300
+00:15:11,035 --> 00:15:13,579 
+Min-seon, merunduklah!
+
+301
+00:15:13,662 --> 00:15:15,831 
+- Bagus.
+- Teruskan begitu.
+
+302
+00:15:15,915 --> 00:15:18,918 
+- Bidik lebih tinggi.
+- Berdiri yang kuat.
+
+303
+00:15:19,001 --> 00:15:20,127 
+Bagus!
+
+304
+00:15:29,637 --> 00:15:31,263
+{\an8}TIM DAMKAR
+
+305
+00:15:34,516 --> 00:15:35,559 
+Kerja bagus!
+
+306
+00:15:35,643 --> 00:15:37,394 
+Bidik lebih ke bawah!
+
+307
+00:15:38,062 --> 00:15:39,980 
+- Bagus!
+- Benar begitu!
+
+308
+00:15:40,064 --> 00:15:43,025 
+- Bagus!
+- Terus, Min-seon.
+
+309
+00:15:46,153 --> 00:15:49,823
+{\an8}Aku mustahil bisa memadamkannya
+jika menyiramnya dengan lurus.
+
+310
+00:15:49,907 --> 00:15:53,369
+{\an8}Aku harus ubah setelan mulut pipanya,
+dan siram dari atas
+
+311
+00:15:53,452 --> 00:15:55,454
+{\an8}agar semua area bisa kena.
+
+312
+00:15:55,537 --> 00:15:57,623 
+<i>Itulah yang aku lakukan.</i>
+
+313
+00:15:58,207 --> 00:16:00,000
+{\an8}TIM PEMERAN PENGGANTI
+
+314
+00:16:00,084 --> 00:16:01,961 
+- Lebih ke atas!
+- Bertahan!
+
+315
+00:16:09,343 --> 00:16:11,261
+{\an8}<i>Aku tak bisa melihat dengan jelas.</i>
+
+316
+00:16:11,345 --> 00:16:12,888
+{\an8}Aku tak tahu siapa orangnya,
+
+317
+00:16:13,764 --> 00:16:16,558
+{\an8}tetapi mengapa dia malah menyiramku?
+Jadi, aku siram balik.
+
+318
+00:16:16,642 --> 00:16:19,395
+{\an8}Aku berusaha menghalangi airnya,
+dan airnya masuk ke mataku.
+
+319
+00:16:19,478 --> 00:16:21,689
+{\an8}Aku hanya bisa membuka
+satu mataku kali itu,
+
+320
+00:16:21,772 --> 00:16:23,440
+{\an8}tetapi air terus disiram ke wajahku.
+
+321
+00:16:23,524 --> 00:16:24,525 
+<i>Tiga.</i>
+
+322
+00:16:25,567 --> 00:16:26,443
+{\an8}<i>Dua.</i>
+
+323
+00:16:26,527 --> 00:16:27,736
+{\an8}TIM PEMERAN PENGGANTI
+
+324
+00:16:27,820 --> 00:16:28,737
+{\an8}<i>Satu.</i>
+
+325
+00:16:31,615 --> 00:16:33,575
+{\an8}<i>Serangan ronde kedua berakhir.</i>
+
+326
+00:16:34,284 --> 00:16:37,121 
+<i>Silakan nyalakan api kalian lagi
+dalam lima menit.</i>
+
+327
+00:16:37,204 --> 00:16:38,622 
+<i>Lima menit dimulai sekarang.</i>
+
+328
+00:16:39,248 --> 00:16:41,208
+{\an8}TIM DAMKAR
+
+329
+00:16:41,291 --> 00:16:43,293
+{\an8}- Bisa singkirkan ini?
+- Baik.
+
+330
+00:16:43,377 --> 00:16:44,586
+{\an8}Singkirkan saja ini?
+
+331
+00:16:44,670 --> 00:16:47,131
+{\an8}Ya, singkirkan saja. Yang gosong saja.
+
+332
+00:16:48,465 --> 00:16:50,300
+{\an8}Terus kipasi apinya.
+
+333
+00:16:51,927 --> 00:16:54,471
+{\an8}Namun, apinya akan langsung disiram lagi.
+
+334
+00:16:54,555 --> 00:16:56,849
+{\an8}Lebih baik kita tutupi saja.
+
+335
+00:16:57,391 --> 00:16:59,852
+{\an8}- Dari depan?
+- Ini akan segera disiram lagi.
+
+336
+00:17:00,728 --> 00:17:05,733
+{\an8}Menurutku Tim Tentara tidak punya
+banyak kayu yang masih kering.
+
+337
+00:17:05,816 --> 00:17:08,318
+{\an8}Kami punya lebih banyak daripada mereka.
+
+338
+00:17:08,402 --> 00:17:11,822
+{\an8}<i>Jadi, kami buat dinding kayu
+untuk melindungi apinya.</i>
+
+339
+00:17:13,157 --> 00:17:15,993 
+- Bagaimana dengan ini?
+- Kita harus tutupi.
+
+340
+00:17:16,076 --> 00:17:16,910
+{\an8}Sepertinya cukup.
+
+341
+00:17:16,994 --> 00:17:18,370
+{\an8}- Biarkan yang ini terbakar.
+- Baik.
+
+342
+00:17:21,457 --> 00:17:23,751 
+TAHAP KETIGA
+MELINDUNGI API
+
+343
+00:17:23,834 --> 00:17:26,545
+{\an8}- Ini korek apinya.
+- Ayo nyalakan apinya lagi.
+
+344
+00:17:27,838 --> 00:17:29,506
+{\an8}Kita butuh kayu lagi, Seo-young.
+
+345
+00:17:29,590 --> 00:17:31,091
+{\an8}Di mana kayu bakarnya?
+
+346
+00:17:35,721 --> 00:17:37,097
+{\an8}Yang penting apinya menyala.
+
+347
+00:17:38,849 --> 00:17:39,892 
+<i>Tiga.</i>
+
+348
+00:17:39,975 --> 00:17:40,893 
+<i>Dua.</i>
+
+349
+00:17:42,311 --> 00:17:43,270 
+<i>Satu.</i>
+
+350
+00:17:44,813 --> 00:17:47,357 
+-<i> Waktu habis.</i>
+- Apinya mati.
+
+351
+00:17:47,441 --> 00:17:49,651
+{\an8}<i>Tim Pemeran Pengganti tereliminasi.</i>
+
+352
+00:17:49,735 --> 00:17:53,155
+{\an8}<i>Tim Tentara dan Damkar lolos.</i>
+
+353
+00:17:53,238 --> 00:17:56,116
+{\an8}Kini satu lawan satu.
+Aku yakin bisa memenangkan ini.
+
+354
+00:17:56,200 --> 00:17:58,535
+{\an8}Kita harus menang. Mereka menjengkelkan.
+
+355
+00:18:01,872 --> 00:18:04,374
+{\an8}<i>Aku tak akan pulang jika gagal.</i>
+
+356
+00:18:04,458 --> 00:18:06,877
+{\an8}<i>Harga diriku sebagai damkar dipertaruhkan.</i>
+
+357
+00:18:06,960 --> 00:18:11,381
+{\an8}<i>Setelah mengalahkan tim-tim lain,
+aku merasa makin dekat dengan kemenangan.</i>
+
+358
+00:18:14,676 --> 00:18:17,054 
+<i>Serangan ronde ketiga akan dimulai.</i>
+
+359
+00:18:17,596 --> 00:18:18,555 
+<i>Tiga.</i>
+
+360
+00:18:20,933 --> 00:18:21,850 
+<i>Dua.</i>
+
+361
+00:18:22,851 --> 00:18:23,727 
+<i>Satu.</i>
+
+362
+00:18:29,149 --> 00:18:31,610 
+- Lebih tinggi, Min-seon.
+- Bagus.
+
+363
+00:18:31,693 --> 00:18:33,612 
+- Ya, bagus.
+- Bidik lubang apinya.
+
+364
+00:18:33,695 --> 00:18:34,571 
+Bagus.
+
+365
+00:18:35,239 --> 00:18:36,782 
+- Ke bawah!
+- Bidik api mereka!
+
+366
+00:18:36,865 --> 00:18:39,076 
+- Kerja bagus, Min-seon.
+- Bidik apinya!
+
+367
+00:18:39,159 --> 00:18:40,744
+{\an8}TIM TENTARA
+
+368
+00:18:40,828 --> 00:18:41,745
+{\an8}Bagus, di tengah.
+
+369
+00:18:42,788 --> 00:18:44,248 
+Kau bisa, Min-seon.
+
+370
+00:18:44,331 --> 00:18:45,874 
+Kami tak apa-apa di sini.
+
+371
+00:18:46,750 --> 00:18:48,335
+{\an8}Dia memadamkannya.
+
+372
+00:18:48,418 --> 00:18:49,503
+{\an8}Sepertinya sudah padam.
+
+373
+00:18:49,586 --> 00:18:51,004 
+Kau melakukannya dengan baik.
+
+374
+00:18:51,088 --> 00:18:53,924 
+- Goyangkan sedikit.
+- Bagus!
+
+375
+00:18:54,007 --> 00:18:56,677 
+- Goyangkan lagi!
+- Siram sesukamu.
+
+376
+00:18:56,760 --> 00:18:58,303 
+Siram dengan gerakan menyapu.
+
+377
+00:18:58,387 --> 00:19:00,848
+{\an8}<i>Saat memadamkan api
+dengan gerakan menyapu,</i>
+
+378
+00:19:00,931 --> 00:19:02,766
+{\an8}<i>airnya akan menguap,</i>
+
+379
+00:19:02,850 --> 00:19:06,603
+{\an8}dan membuat uap air panas.
+
+380
+00:19:06,687 --> 00:19:10,858
+{\an8}Jika uap air panas itu bisa menutupi
+seluruh lubang dari depan ke belakang,
+
+381
+00:19:10,941 --> 00:19:15,612
+{\an8}aku yakin tak butuh waktu lama
+sampai apinya padam.
+
+382
+00:19:15,696 --> 00:19:18,490 
+Bertahan dan siram dari atas ke bawah.
+
+383
+00:19:20,742 --> 00:19:22,327 
+- Bagus, Hyun-seon.
+- Bagus!
+
+384
+00:19:22,411 --> 00:19:25,080 
+- Siram bawahnya!
+- Fokus! Api kita tak akan mati.
+
+385
+00:19:25,789 --> 00:19:27,916 
+Api kita tak akan mati!
+
+386
+00:19:28,584 --> 00:19:32,087
+{\an8}<i>Aku hanya meniru apa yang damkar lakukan.</i>
+
+387
+00:19:32,171 --> 00:19:35,090
+{\an8}- Bagus.
+- Hampir padam!
+
+388
+00:19:35,174 --> 00:19:37,634 
+- Hyun-seon, api kita tak apa-apa.
+- Siram dari atas!
+
+389
+00:19:37,718 --> 00:19:39,011
+{\an8}Lihat ke depan saja!
+
+390
+00:19:39,094 --> 00:19:40,679 
+- Sedikit lagi.
+<i>- Tiga.</i>
+
+391
+00:19:45,225 --> 00:19:46,935 
+- Kau pasti bisa!
+<i>- Dua.</i>
+
+392
+00:19:47,019 --> 00:19:48,145 
+Semangat, Min-seon!
+
+393
+00:19:48,228 --> 00:19:49,605 
+Sampai akhir!
+
+394
+00:19:49,688 --> 00:19:51,440 
+- Jangan berhenti!
+<i>- Satu.</i>
+
+395
+00:19:53,942 --> 00:19:56,153 
+<i>Serangan ronde ketiga berakhir.</i>
+
+396
+00:19:56,236 --> 00:19:58,906
+{\an8}<i>Silakan nyalakan api kalian lagi
+dalam lima menit.</i>
+
+397
+00:19:58,989 --> 00:20:00,365
+{\an8}<i>Mulai dari sekarang.</i>
+
+398
+00:20:01,033 --> 00:20:01,909 
+Tunggu.
+
+399
+00:20:07,331 --> 00:20:08,457 
+Astaga, yang ini keras.
+
+400
+00:20:10,542 --> 00:20:12,502 
+Masih ada apinya di tengah.
+
+401
+00:20:16,006 --> 00:20:18,842
+{\an8}- Kita harus menang.
+- Kita tak boleh kalah setelah semua ini.
+
+402
+00:20:19,468 --> 00:20:22,596
+{\an8}Kita butuh Tameng Pelindung 30 menit.
+
+403
+00:20:22,679 --> 00:20:24,640
+{\an8}- Tameng Pelindung 30 menit.
+- Ya, benar.
+
+404
+00:20:24,723 --> 00:20:25,849 
+Tameng Pelindung 30 menit dan daging.
+
+405
+00:20:27,309 --> 00:20:28,518 
+Pemenang pertama.
+
+406
+00:20:29,019 --> 00:20:29,895 
+Tameng Pelindung.
+
+407
+00:20:29,978 --> 00:20:31,021 
+<i>Tiga.</i>
+
+408
+00:20:33,857 --> 00:20:34,816 
+<i>Dua.</i>
+
+409
+00:20:36,443 --> 00:20:37,361 
+<i>Satu.</i>
+
+410
+00:20:38,487 --> 00:20:42,282 
+<i>Sebuah kertas akan ditaruh di atas api
+untuk penilaian yang akurat.</i>
+
+411
+00:20:42,366 --> 00:20:43,825
+{\an8}<i>Satu menit dimulai sekarang.</i>
+
+412
+00:20:43,909 --> 00:20:45,285
+{\an8}TIM DAMKAR
+
+413
+00:20:45,369 --> 00:20:46,203 
+Kumohon.
+
+414
+00:20:49,164 --> 00:20:50,040
+{\an8}TIM DAMKAR
+
+415
+00:20:50,123 --> 00:20:51,124
+{\an8}TIM TENTARA
+
+416
+00:21:00,342 --> 00:21:02,219 
+HASIL PERTANDINGAN
+
+417
+00:21:02,302 --> 00:21:04,471 
+<i>Tim Damkar menang.</i>
+
+418
+00:21:05,055 --> 00:21:05,889 
+Kerja bagus.
+
+419
+00:21:06,473 --> 00:21:07,724
+{\an8}Mereka memang damkar hebat.
+
+420
+00:21:08,767 --> 00:21:09,977 
+Kerja bagus.
+
+421
+00:21:10,060 --> 00:21:11,019 
+Kerja bagus.
+
+422
+00:21:16,275 --> 00:21:17,609 
+Min-seon.
+
+423
+00:21:17,693 --> 00:21:19,278
+{\an8}<i>Saat sepuluh detik terakhir,</i>
+
+424
+00:21:19,361 --> 00:21:21,321 
+aku hampir saja menangis.
+
+425
+00:21:21,405 --> 00:21:24,074 
+Aku mau kerja keras kami hari ini
+mendapatkan penghargaan.
+
+426
+00:21:24,741 --> 00:21:27,160 
+Aku terus berdoa
+agar menang, dan akhirnya…
+
+427
+00:21:28,203 --> 00:21:29,204 
+menang.
+
+428
+00:21:29,288 --> 00:21:30,622 
+Kami bisa makan daging malam ini.
+
+429
+00:21:30,706 --> 00:21:32,249 
+Aku sangat bahagia.
+
+430
+00:21:32,833 --> 00:21:33,834
+{\an8}Kita mengalahkan mereka dengan api.
+
+431
+00:21:33,917 --> 00:21:35,419
+{\an8}- Ya, benar.
+- Ayo kita bersorak.
+
+432
+00:21:35,502 --> 00:21:36,962
+{\an8}- Ayo.
+- Baik.
+
+433
+00:21:37,045 --> 00:21:38,880 
+Selalu seperti sedang di lapangan!
+
+434
+00:21:38,964 --> 00:21:40,507 
+- Semangat!
+- Semangat!
+
+435
+00:21:42,926 --> 00:21:45,887 
+<i>Pertandingan Arena hari ini berakhir.</i>
+
+436
+00:21:46,513 --> 00:21:49,182
+{\an8}Menumpuk kayu benar-benar keputusan baik.
+
+437
+00:21:49,266 --> 00:21:50,434
+{\an8}- Benar.
+- Aku setuju.
+
+438
+00:21:50,517 --> 00:21:52,728
+{\an8}- Karena kita lakukan itu…
+- Mereka meniru kita.
+
+439
+00:21:52,811 --> 00:21:56,565
+{\an8}Mereka melihatku
+menggerakkan mulut pipanya…
+
+440
+00:21:56,648 --> 00:21:58,108
+{\an8}- Mereka menirumu?
+- Tim Pemeran Pengganti…
+
+441
+00:21:58,191 --> 00:22:01,611
+{\an8}- Dia terus memperhatikan aku.
+- Dia terus menirumu.
+
+442
+00:22:01,695 --> 00:22:04,281
+{\an8}- Kita memang damkar.
+- Ya, benar.
+
+443
+00:22:04,364 --> 00:22:07,784
+{\an8}Kita punya Tameng Pelindung 30 menit.
+
+444
+00:22:07,868 --> 00:22:10,704
+{\an8}Dengan itu dan waktu yang dibutuhkan
+untuk melepas tali kita,
+
+445
+00:22:10,787 --> 00:22:12,289
+{\an8}kita bisa menang Pertandingan Markas.
+
+446
+00:22:12,372 --> 00:22:13,874 
+Kita dapat sesuatu.
+
+447
+00:22:16,293 --> 00:22:17,127 
+Di mana?
+
+448
+00:22:18,712 --> 00:22:20,547 
+Astaga. Mau buka bersama?
+
+449
+00:22:20,630 --> 00:22:21,882 
+Yang cantik saja yang buka.
+
+450
+00:22:21,965 --> 00:22:23,800 
+- Kalau begitu, kau.
+- Tidak. Kau saja.
+
+451
+00:22:23,884 --> 00:22:25,344 
+Astaga, yang benar saja?
+
+452
+00:22:25,427 --> 00:22:28,055
+{\an8}Biarkan yang sudah membelah
+30 kayu saja yang buka.
+
+453
+00:22:28,138 --> 00:22:31,016 
+Tameng Pelindung 30 menit. Bagus.
+
+454
+00:22:31,099 --> 00:22:33,101 
+Hebat.
+
+455
+00:22:33,185 --> 00:22:34,227 
+Baiklah.
+
+456
+00:22:34,311 --> 00:22:36,605
+{\an8}- Ini diaktifkan begitu mulai.
+- "Tameng berlaku
+
+457
+00:22:36,688 --> 00:22:39,691
+{\an8}saat Pertandingan Markas dimulai,
+menghalangi musuh memasuki markasmu."
+
+458
+00:22:39,775 --> 00:22:41,443 
+- Teman-Teman.
+- Apa rencana kita?
+
+459
+00:22:41,985 --> 00:22:42,986 
+Ayo serang bersama.
+
+460
+00:22:43,070 --> 00:22:43,904 
+Kita berempat.
+
+461
+00:22:43,987 --> 00:22:45,530 
+Ayo langsung lari dan serang.
+
+462
+00:22:45,614 --> 00:22:48,450
+{\an8}- Namun, musuh kita…
+- Awalnya kita mau bertahan, tetapi…
+
+463
+00:22:48,533 --> 00:22:51,995
+{\an8}Alih-alih menghabiskan waktu
+pada Tim Tentara karena mereka dekat,
+
+464
+00:22:52,079 --> 00:22:56,166
+{\an8}- lebih baik cari target yang lebih mudah.
+- Ayo serang Tim Pemeran Pengganti.
+
+465
+00:22:56,249 --> 00:22:58,043 
+Kami menang Tameng Pelindung.
+
+466
+00:22:58,126 --> 00:22:59,669 
+Kami harus menyerang habis-habisan.
+
+467
+00:22:59,753 --> 00:23:01,463 
+Kami akan menyerang Tim Pemeran Pengganti.
+
+468
+00:23:01,546 --> 00:23:05,550 
+Tim Pemeran Pengganti bersekutu
+dengan Tim Tentara di Pertandingan Arena.
+
+469
+00:23:05,634 --> 00:23:09,971 
+Mereka menyerang kami bersama.
+
+470
+00:23:10,055 --> 00:23:11,598 
+Aku mau balas dendam.
+
+471
+00:23:11,681 --> 00:23:13,558
+{\an8}- Kita pasti bisa.
+- Kita serang yang pasti saja.
+
+472
+00:23:13,642 --> 00:23:14,476
+{\an8}Baik.
+
+473
+00:23:14,559 --> 00:23:15,602 
+Juga ada ini.
+
+474
+00:23:15,685 --> 00:23:17,479 
+- Apa ini daging?
+- Coba buka.
+
+475
+00:23:17,562 --> 00:23:19,272 
+- Alat pembuat api?
+- Mungkin.
+
+476
+00:23:19,356 --> 00:23:21,108 
+- Apa itu tadi?
+- Apa ini?
+
+477
+00:23:21,191 --> 00:23:22,400 
+- Kompor!
+- Kompor gas!
+
+478
+00:23:22,484 --> 00:23:25,028 
+- Ini kompor gas!
+- Kompor!
+
+479
+00:23:27,364 --> 00:23:28,365 
+Ada dua tungku!
+
+480
+00:23:31,118 --> 00:23:32,744 
+Hebat!
+
+481
+00:23:32,828 --> 00:23:34,538 
+Kita bisa memanggang daging besok.
+
+482
+00:23:34,621 --> 00:23:36,206 
+Ini juga sangat awet.
+
+483
+00:23:36,289 --> 00:23:38,041 
+- Bisa dipakai sampai pulang.
+- Itu gas?
+
+484
+00:23:38,125 --> 00:23:41,169 
+- Ya, gas.
+- Kita tak perlu membelah kayu lagi.
+
+485
+00:23:41,253 --> 00:23:43,171
+{\an8}- Ayo berpelukan.
+- Berpelukan!
+
+486
+00:23:45,715 --> 00:23:48,093 
+- Kupikir korek api.
+- Kita mau makan daging.
+
+487
+00:23:48,176 --> 00:23:50,720
+{\an8}Ini semua berkat kegigihan kita.
+
+488
+00:23:50,804 --> 00:23:52,430
+{\an8}Tadi kita terlalu cepat putus asa.
+
+489
+00:23:52,514 --> 00:23:54,432
+{\an8}Aku sedih kau terluka, tetapi…
+
+490
+00:23:54,516 --> 00:23:56,184 
+Aku bahkan tak merasakan sakit lagi.
+
+491
+00:23:56,268 --> 00:23:57,394 
+Berhasil.
+
+492
+00:23:57,477 --> 00:23:58,979 
+Kami bisa makan daging.
+
+493
+00:23:59,062 --> 00:24:00,230 
+Aku sangat senang.
+
+494
+00:24:00,313 --> 00:24:03,191 
+Kami seperti mendapat hadiah
+atas usaha kami hari ini,
+
+495
+00:24:03,275 --> 00:24:05,777 
+dan berpikir bahwa kami berempat
+
+496
+00:24:05,861 --> 00:24:08,989 
+punya banyak alasan untuk berada di sini.
+
+497
+00:24:09,072 --> 00:24:12,492
+{\an8}Kupikir semua sudah berakhir
+saat kita berlari di lumpur kemarin.
+
+498
+00:24:13,368 --> 00:24:17,038
+{\an8}Begitu juga saat bendera kita diambil,
+
+499
+00:24:17,122 --> 00:24:19,249
+{\an8}dan saat aku terjatuh dari pohon.
+
+500
+00:24:22,502 --> 00:24:24,546
+{\an8}Ini tak berakhir sampai sungguh berakhir.
+
+501
+00:24:25,463 --> 00:24:29,801
+{\an8}- Ada tim yang mau kau serang?
+- Sebenarnya ada hal yang mengusikku.
+
+502
+00:24:30,468 --> 00:24:31,803
+{\an8}Tim Tentara harus tereliminasi
+
+503
+00:24:31,887 --> 00:24:33,805
+{\an8}- agar ini lebih mudah bagi kita.
+- Benar.
+
+504
+00:24:33,889 --> 00:24:35,974
+{\an8}Karena itu, menurutku ini kesempatan kita.
+
+505
+00:24:36,057 --> 00:24:38,226
+{\an8}Entah apa yang kita dapat
+di pertandingan selanjutnya.
+
+506
+00:24:38,310 --> 00:24:41,563
+{\an8}Jadi, kita harus pakai 30 menit itu
+untuk menyerang Tim Tentara.
+
+507
+00:24:41,646 --> 00:24:45,025
+{\an8}<i>Semua akan jadi lebih mudah
+jika mereka sudah tereliminasi.</i>
+
+508
+00:24:45,108 --> 00:24:48,195
+{\an8}<i>Kita punya banyak waktu untuk itu.</i>
+
+509
+00:24:53,325 --> 00:24:58,914
+{\an8}<i>Aku berfirasat mereka akan menyerang kami.</i>
+
+510
+00:25:00,332 --> 00:25:01,958
+{\an8}<i>Kami tidak bisa tinggal diam.</i>
+
+511
+00:25:02,709 --> 00:25:04,002 
+Kami harus bersiap.
+
+512
+00:25:04,085 --> 00:25:07,881 
+Jadi, malam itu kami mengecek
+lokasi bendera mereka lagi,
+
+513
+00:25:08,548 --> 00:25:12,928 
+<i>begitu juga dengan struktur markas
+dan pintu masuk mereka.</i>
+
+514
+00:25:13,011 --> 00:25:15,222 
+<i>Kami mengecek letak benderanya
+dari jendela.</i>
+
+515
+00:25:15,305 --> 00:25:19,517
+{\an8}Tim Tentara pasti akan fokus
+untuk bertahan.
+
+516
+00:25:19,601 --> 00:25:21,770
+{\an8}Mereka punya dua markas.
+
+517
+00:25:21,853 --> 00:25:26,858
+{\an8}Anggap mereka menyembunyikan
+bendera di rumah terapung.
+
+518
+00:25:32,906 --> 00:25:33,782
+{\an8}<i>Kami sudah cek.</i>
+
+519
+00:25:34,366 --> 00:25:35,283
+{\an8}Bagus.
+
+520
+00:25:43,708 --> 00:25:47,879
+{\an8}Aku yakin Tim Damkar
+akan menyerang kita besok.
+
+521
+00:25:47,963 --> 00:25:50,090 
+Aku juga berpikir begitu.
+
+522
+00:25:51,925 --> 00:25:53,176 
+Cepat sekali.
+
+523
+00:25:54,261 --> 00:25:55,095 
+Hai.
+
+524
+00:25:55,178 --> 00:25:57,305
+{\an8}<i>Kami sudah cek markas Tim Damkar.</i>
+
+525
+00:25:57,389 --> 00:25:59,266
+{\an8}<i>Kami dapat informasi bagus.</i>
+
+526
+00:26:00,141 --> 00:26:03,937 
+Ada jendela kecil,
+tetapi aku tidak ingat berapa jumlahnya.
+
+527
+00:26:04,020 --> 00:26:05,355 
+- Sepertinya empat.
+- Ya.
+
+528
+00:26:05,438 --> 00:26:07,482 
+- Seperti ini.
+- Seberapa besar markasnya?
+
+529
+00:26:07,565 --> 00:26:09,693 
+- Sangat besar.
+- Markas mereka besar.
+
+530
+00:26:09,776 --> 00:26:11,861 
+- Besar, ya.
+- Di dalam ada pohon besar.
+
+531
+00:26:11,945 --> 00:26:13,947 
+Aku tahu mengapa ketua mereka jatuh.
+
+532
+00:26:14,030 --> 00:26:15,907 
+- Mengapa?
+- Karena ini.
+
+533
+00:26:15,991 --> 00:26:17,534 
+Di sini ada pohon, 'kan?
+
+534
+00:26:17,617 --> 00:26:20,370 
+Bendera mereka terikat
+di antara dahan pohonnya.
+
+535
+00:26:20,954 --> 00:26:23,164 
+- Dengan tali.
+- Diikat erat dengan tali.
+
+536
+00:26:23,248 --> 00:26:26,376
+{\an8}Kita butuh kapak untuk memotong talinya.
+
+537
+00:26:26,459 --> 00:26:29,045 
+Kita harus memanjat pohonnya?
+
+538
+00:26:29,129 --> 00:26:30,588 
+- Ya.
+- Ya, benar.
+
+539
+00:26:30,672 --> 00:26:33,049 
+- Kita harus bawa kapak.
+- Ya, kapak.
+
+540
+00:26:33,133 --> 00:26:36,970 
+Kita berasumsi Tim Damkar
+akan menyerang kita, 'kan?
+
+541
+00:26:37,053 --> 00:26:38,847 
+Aku yakin begitu.
+
+542
+00:26:38,930 --> 00:26:42,350
+{\an8}Mereka berempat pasti akan menyerang
+karena markasnya dilindungi.
+
+543
+00:26:42,434 --> 00:26:44,769
+{\an8}Jika begitu, kau masuk.
+
+544
+00:26:44,853 --> 00:26:46,938
+{\an8}Kami akan menjaga markas.
+
+545
+00:26:47,022 --> 00:26:48,606
+{\an8}- Kita harus mengambil benderanya.
+- Ya, benar.
+
+546
+00:26:48,690 --> 00:26:51,067
+{\an8}Kita tahan mereka di sini
+sampai waktunya habis.
+
+547
+00:26:51,151 --> 00:26:52,777
+{\an8}- Ya, benar.
+- Harus begitu.
+
+548
+00:26:52,861 --> 00:26:55,739
+{\an8}Aku akan bersembunyi untuk menyergap
+begitu pertandingan mulai.
+
+549
+00:26:56,364 --> 00:26:58,158
+{\an8}- Kita bicara lewat protofon?
+- Ya.
+
+550
+00:26:58,241 --> 00:27:02,454
+{\an8}Bisa saja Tameng Pelindung ini
+menjadi hal buruk bagi mereka.
+
+551
+00:27:02,537 --> 00:27:04,289
+{\an8}<i>Harusnya kusembunyikan kapak di sana.</i>
+
+552
+00:27:04,372 --> 00:27:06,291
+{\an8}<i>Benar. Kita bisa
+sembunyikan di sana dahulu.</i>
+
+553
+00:27:06,374 --> 00:27:08,126
+{\an8}<i>Ya, di dekat markas mereka.</i>
+
+554
+00:27:08,209 --> 00:27:10,295
+{\an8}<i>- Mau ke sana sekarang?
+- Kau mau?</i>
+
+555
+00:27:10,378 --> 00:27:11,671
+{\an8}<i>- Ya, ayo.
+- Baiklah.</i>
+
+556
+00:27:12,464 --> 00:27:14,049 
+Bawa alat-alatmu.
+
+557
+00:27:14,924 --> 00:27:16,593 
+Ayo kalahkan mereka dengan kapak.
+
+558
+00:27:23,183 --> 00:27:26,394
+{\an8}WAKTU SAAT INI
+
+559
+00:27:36,404 --> 00:27:38,656
+{\an8}TIM TENTARA
+DEKAT RUMAH PERSEGI
+
+560
+00:27:38,740 --> 00:27:42,744 
+<i>Kami sudah cek benderanya
+diikat erat dengan tali.</i>
+
+561
+00:27:43,578 --> 00:27:46,539 
+<i>Talinya sangat tebal,
+jadi, kami butuh kapak.</i>
+
+562
+00:27:46,623 --> 00:27:49,876 
+<i>Kami harus memotong sesuatu,
+entah itu dahan atau talinya.</i>
+
+563
+00:27:58,134 --> 00:28:01,137
+{\an8}Sepertinya kita harus berkunjung
+ke pusat medis secara berkala
+
+564
+00:28:01,221 --> 00:28:02,889
+{\an8}untuk tahu siapa yang ke sana.
+
+565
+00:28:02,972 --> 00:28:05,225
+{\an8}Untuk mengecek siapa yang sakit
+dan berapa orang.
+
+566
+00:28:06,309 --> 00:28:09,771
+{\an8}- Satu damkar terluka.
+- Ya. Beberapa orang terluka.
+
+567
+00:28:09,854 --> 00:28:11,022
+{\an8}Kecilkan suaramu.
+
+568
+00:28:11,106 --> 00:28:12,857 
+Mungkin mereka di dekat sini.
+
+569
+00:28:14,943 --> 00:28:17,195
+{\an8}<i>Kami ke pusat medis.</i>
+
+570
+00:28:18,113 --> 00:28:20,782
+{\an8}<i>Biasanya informasi muncul
+dari tempat seperti itu.</i>
+
+571
+00:28:22,826 --> 00:28:24,577 
+<i>Na-eun langsung duduk depan meja.</i>
+
+572
+00:28:26,621 --> 00:28:30,500
+{\an8}<i>Lalu, dia melihat nama-nama orang
+yang ada di daftarnya.</i>
+
+573
+00:28:30,583 --> 00:28:31,835
+{\an8}Semua punya alergi.
+
+574
+00:28:34,504 --> 00:28:36,131 
+Ini informasi penting.
+
+575
+00:28:37,048 --> 00:28:40,009
+{\an8}<i>Aku pernah bertugas di bagian analisis.</i>
+
+576
+00:28:40,093 --> 00:28:42,345
+{\an8}<i>Aku harus memastikannya
+dengan mataku sendiri</i>
+
+577
+00:28:42,429 --> 00:28:45,890
+{\an8}<i>untuk mendapatkan informasi yang akurat.</i>
+
+578
+00:28:45,974 --> 00:28:48,226 
+SAKIT PINGGANG
+
+579
+00:28:48,893 --> 00:28:49,728 
+Hei.
+
+580
+00:28:50,687 --> 00:28:52,731
+{\an8}Kau memang ahli dalam mencari informasi.
+
+581
+00:28:52,814 --> 00:28:54,899
+{\an8}Spesialisasinya menganalisis manusia.
+
+582
+00:29:02,323 --> 00:29:05,994 
+HARI KE-3
+
+583
+00:29:09,539 --> 00:29:11,666 
+Aku lapar. Ayo kita makan.
+
+584
+00:29:11,750 --> 00:29:15,295 
+Mungkin hanya kita yang tak menyarap,
+dan harus langsung beroperasi hari ini.
+
+585
+00:29:16,921 --> 00:29:18,548 
+- Sersan Kang.
+- Ya?
+
+586
+00:29:18,631 --> 00:29:20,091 
+- Kemarilah.
+- Mengapa?
+
+587
+00:29:20,175 --> 00:29:21,801 
+Kita harus mempertahankan apinya.
+
+588
+00:29:21,885 --> 00:29:23,511 
+Apinya hampir mati!
+
+589
+00:29:23,595 --> 00:29:25,722 
+Bukankah aku sudah bilang?
+
+590
+00:29:25,805 --> 00:29:27,390 
+Jika apinya mati, kau pun mati.
+
+591
+00:29:27,474 --> 00:29:29,684 
+- Sersan Kang, bawakan kayu kering.
+- Sudah mati.
+
+592
+00:29:29,768 --> 00:29:32,061 
+Yang kering! Cepat!
+
+593
+00:29:32,145 --> 00:29:33,021 
+Baiklah.
+
+594
+00:29:34,981 --> 00:29:37,275 
+Junior belakangan ini sangat menyeramkan.
+
+595
+00:29:37,358 --> 00:29:40,570 
+<i>Hyun-seon dan aku pernah bertugas
+di unit yang sama.</i>
+
+596
+00:29:40,653 --> 00:29:42,530 
+Aku selalu mengomentarinya,
+
+597
+00:29:42,614 --> 00:29:44,532 
+dan dia pun tidak pernah mau kalah.
+
+598
+00:29:44,616 --> 00:29:46,868 
+Kubilang kepadanya,
+"Jangan kurang ajar kepadaku.
+
+599
+00:29:47,744 --> 00:29:51,122 
+Aku lebih tua dan pangkatku lebih tinggi.
+Jadi, jangan kurang ajar."
+
+600
+00:29:51,664 --> 00:29:54,250
+{\an8}<i>Namun, dia tetap junior yang aku sayangi.</i>
+
+601
+00:29:55,376 --> 00:29:56,753 
+- Ini cukup?
+- Ya.
+
+602
+00:29:56,836 --> 00:29:58,296 
+Ini sudah cukup.
+
+603
+00:29:58,379 --> 00:30:01,841 
+Kalau saja orang-orang tahu
+betapa sulitnya menyalakan api.
+
+604
+00:30:02,509 --> 00:30:03,843
+{\an8}Mataku perih sekali.
+
+605
+00:30:03,927 --> 00:30:06,137
+{\an8}Asapnya terhirup.
+Rasanya seperti pelatihan CBRN.
+
+606
+00:30:06,221 --> 00:30:07,305
+{\an8}Ini memang tidak mudah.
+
+607
+00:30:07,388 --> 00:30:09,098 
+Semua lebih mudah dengan gas.
+
+608
+00:30:09,182 --> 00:30:10,725 
+Dasar para damkar.
+
+609
+00:30:10,809 --> 00:30:13,436 
+Seharusnya kita kalahkan mereka
+dan dapat kompor.
+
+610
+00:30:13,520 --> 00:30:15,438
+{\an8}Kita harus rebut itu dari mereka.
+
+611
+00:30:15,522 --> 00:30:16,940
+{\an8}Ini terlalu melelahkan.
+
+612
+00:30:17,023 --> 00:30:19,400
+{\an8}- Agar bisa mudah membuat api.
+- Ayo kita rebut.
+
+613
+00:30:21,277 --> 00:30:22,654
+{\an8}TIM DAMKAR
+RUMAH PERSEGI
+
+614
+00:30:22,737 --> 00:30:25,782
+{\an8}Lihat ini. Aku akan masak daging babinya.
+
+615
+00:30:25,865 --> 00:30:27,992
+{\an8}Baiklah! Daging babi.
+
+616
+00:30:28,076 --> 00:30:30,370 
+- Ini satu kilo.
+- Ya, benar.
+
+617
+00:30:30,453 --> 00:30:32,497 
+Tak bisa kupercaya. Kita beruntung sekali.
+
+618
+00:30:33,873 --> 00:30:35,959 
+Aromanya luar biasa.
+
+619
+00:30:36,960 --> 00:30:38,628 
+- Seperti kentang goreng.
+- Ya.
+
+620
+00:30:38,711 --> 00:30:40,505 
+Taruh yang tebal di tengah.
+
+621
+00:30:40,588 --> 00:30:43,216 
+Akan kusuapi kalian satu per satu
+karena ini kali pertama.
+
+622
+00:30:43,800 --> 00:30:44,717 
+Kau lebih dahulu.
+
+623
+00:30:47,303 --> 00:30:49,514 
+Sekarang Min-seon.
+Tunggu, ini terlalu berminyak.
+
+624
+00:30:50,849 --> 00:30:51,891 
+Terima kasih.
+
+625
+00:30:53,434 --> 00:30:55,019 
+Enak sekali!
+
+626
+00:30:55,103 --> 00:30:56,187 
+Makan semuanya.
+
+627
+00:30:57,313 --> 00:30:59,023 
+- Bagaimana?
+- Enak sekali.
+
+628
+00:30:59,107 --> 00:31:00,400 
+Sangat enak!
+
+629
+00:31:00,483 --> 00:31:01,484 
+Gila!
+
+630
+00:31:02,986 --> 00:31:04,904
+{\an8}KEMARIN MALAM, WAKTU MAKAN MALAM
+
+631
+00:31:06,406 --> 00:31:08,825 
+<i>Sepertinya kita hanya bisa makan kentang
+dan kimci untuk sementara.</i>
+
+632
+00:31:11,619 --> 00:31:13,496 
+Ini enak sekali.
+
+633
+00:31:16,207 --> 00:31:17,876 
+Ini. Aku makan bagian berlemaknya.
+
+634
+00:31:17,959 --> 00:31:20,378 
+Tunggu. Ini untuk Hyeon-ji
+agar dia lebih gemuk.
+
+635
+00:31:20,461 --> 00:31:22,755 
+- Makan ini.
+- Ini enak sekali.
+
+636
+00:31:22,839 --> 00:31:24,799 
+Ini baru namanya hidup.
+
+637
+00:31:24,883 --> 00:31:25,842 
+Benar.
+
+638
+00:31:25,925 --> 00:31:27,760 
+- Kita harus makan enak.
+- Benar.
+
+639
+00:31:27,844 --> 00:31:28,720 
+Nikmati hidup.
+
+640
+00:31:29,429 --> 00:31:31,264 
+Padahal Pertandingan Markas
+bisa mulai kapan pun.
+
+641
+00:31:31,347 --> 00:31:32,599 
+Ya, benar.
+
+642
+00:31:32,682 --> 00:31:34,058 
+Mungkin ini yang mereka mau.
+
+643
+00:31:34,142 --> 00:31:35,727 
+Dia mau kita terus waspada.
+
+644
+00:31:35,810 --> 00:31:38,855
+{\an8}Seperti bunyi sirene di pos damkar.
+
+645
+00:31:38,938 --> 00:31:41,691
+{\an8}Namun, apa kita bisa berhasil
+dalam 30 menit?
+
+646
+00:31:41,774 --> 00:31:42,942 
+Kita harus berlari.
+
+647
+00:31:43,443 --> 00:31:44,694 
+Lari secepat mungkin.
+
+648
+00:31:44,777 --> 00:31:47,572 
+Dua puluh menit saja.
+Kalahkan mereka dalam beberapa menit.
+
+649
+00:31:48,281 --> 00:31:49,616 
+Aku sangat gugup.
+
+650
+00:31:50,450 --> 00:31:52,785
+{\an8}Sirenenya tak akan bunyi sekarang, 'kan?
+
+651
+00:31:52,869 --> 00:31:55,079
+{\an8}- Aku akan sedih jika begitu.
+- Aku juga.
+
+652
+00:31:55,163 --> 00:31:58,958
+{\an8}Aku bahkan bermimpi
+soal Pertandingan Markas.
+
+653
+00:31:59,042 --> 00:32:02,837 
+"Ayo tunggu untuk menyerang,
+lalu ambil benderanya saat sirene bunyi."
+
+654
+00:32:02,921 --> 00:32:05,006 
+Aku mendengar itu di mimpiku.
+
+655
+00:32:05,089 --> 00:32:09,594 
+Aku lihat ke atas saat sirene bunyi,
+tetapi benderanya sudah terlepas.
+
+656
+00:32:09,677 --> 00:32:11,054 
+- Jadi…
+- Di mimpi?
+
+657
+00:32:11,137 --> 00:32:12,347 
+- Ya.
+- Astaga.
+
+658
+00:32:12,430 --> 00:32:14,891 
+Aku sedang amat sibuk mencari
+di mana musuh kita,
+
+659
+00:32:14,974 --> 00:32:17,060 
+lalu ada suara, "Semua, cepat bangun."
+
+660
+00:32:19,604 --> 00:32:21,814 
+- Seperti adegan drama.
+- Benar.
+
+661
+00:32:21,898 --> 00:32:24,359 
+Wanita yang masuk ke bawah sini waktu itu
+
+662
+00:32:24,442 --> 00:32:26,110 
+- meninggalkan kesan kuat.
+- Ya.
+
+663
+00:32:26,194 --> 00:32:27,570 
+- Ke bawah sini?
+- Ya, damkar.
+
+664
+00:32:27,654 --> 00:32:28,529 
+Jadi…
+
+665
+00:32:28,613 --> 00:32:30,657
+{\an8}HARI PERTAMA, RUMAH POHON
+
+666
+00:32:33,743 --> 00:32:37,038
+{\an8}Mereka ada persis di depan kita.
+
+667
+00:32:41,084 --> 00:32:45,338 
+Jadi, di mimpiku pun mereka mencoba
+menyusup dari atas dan bawah.
+
+668
+00:32:47,465 --> 00:32:52,345 
+Dua lawan terkuat kita
+adalah Tim Tentara dan Damkar.
+
+669
+00:32:52,428 --> 00:32:55,473
+{\an8}Siapa yang Tim Damkar akan serang?
+
+670
+00:32:55,556 --> 00:32:57,600 
+- Sepertinya kita.
+- Aku setuju.
+
+671
+00:32:57,684 --> 00:32:59,727 
+Kupikir Tim Atlet akan menyerang kita.
+
+672
+00:32:59,811 --> 00:33:02,397 
+Aku pun begitu.
+Namun, mereka tak banyak bergerak.
+
+673
+00:33:02,480 --> 00:33:05,024
+{\an8}Rencana A adalah menyerang
+Tim Pemeran Pengganti.
+
+674
+00:33:05,108 --> 00:33:08,695
+{\an8}Rencana B adalah bergabung
+dengan sekutu Tim Damkar.
+
+675
+00:33:08,778 --> 00:33:10,613 
+Namun, mereka terlalu jauh.
+
+676
+00:33:10,697 --> 00:33:12,657
+{\an8}Jika ini perang perebutan kekuasaan,
+
+677
+00:33:12,740 --> 00:33:15,994
+{\an8}<i>Tim Tentara sudah melebarkan
+wilayah mereka sampai ke sana.</i>
+
+678
+00:33:16,077 --> 00:33:19,664
+{\an8}<i>Jika mereka berhasil menguasai
+daerah ini juga, kita akan terpojok.</i>
+
+679
+00:33:19,747 --> 00:33:23,960
+{\an8}- Benar. Bisa dianggap begitu.
+- Mereka mengeliminasi Tim Polisi.
+
+680
+00:33:24,043 --> 00:33:26,462 
+Namun, aku tak yakin
+mereka ada di rumah terapung.
+
+681
+00:33:26,546 --> 00:33:29,007 
+Lokasi markas mereka sekarang
+sudah strategis,
+
+682
+00:33:29,090 --> 00:33:30,925 
+dan rumah terapung
+di sebelah markas Tim Pemeran Pengganti.
+
+683
+00:33:31,009 --> 00:33:34,137 
+Itu membuat semua
+makin membingungkan untuk kita.
+
+684
+00:33:34,220 --> 00:33:36,222 
+Kita tak tahu mereka ada di mana.
+
+685
+00:33:36,305 --> 00:33:39,517 
+- Juga di mana bendera mereka.
+- Ya, benar.
+
+686
+00:33:39,600 --> 00:33:42,311 
+Semua jadi lebih lambat
+saat makin banyak yang tereliminasi.
+
+687
+00:33:42,395 --> 00:33:44,981 
+- Kita harus bergegas.
+- Kita harus merebut markas.
+
+688
+00:33:45,064 --> 00:33:47,191
+{\an8}Kita harus pakai teknik kita.
+
+689
+00:33:47,275 --> 00:33:50,653
+{\an8}Gunakan gerakan <i>ssireum</i>-mu juga
+jika dibutuhkan.
+
+690
+00:33:54,949 --> 00:33:57,452
+{\an8}Jika Min-sun sudah menangkap lawan,
+
+691
+00:33:57,535 --> 00:34:00,079
+{\an8}sepertinya mustahil
+lawan itu bisa lepas darinya.
+
+692
+00:34:00,163 --> 00:34:01,247
+{\an8}Lihat pembuluh nadinya.
+
+693
+00:34:01,330 --> 00:34:03,249
+{\an8}<i>Untung saja dia tim kita.</i>
+
+694
+00:34:05,251 --> 00:34:07,003
+{\an8}Namun, jika sudah menangkap seseorang,
+
+695
+00:34:07,086 --> 00:34:10,089
+{\an8}- aku tak bisa melakukan apa pun lagi.
+- Berikan saja pada kami.
+
+696
+00:34:10,173 --> 00:34:12,133
+{\an8}Aku akan berkelahi dan eliminasi dia.
+
+697
+00:34:16,012 --> 00:34:17,430 
+Tubuh kita adalah senjata.
+
+698
+00:34:17,513 --> 00:34:20,016 
+Tim mana yang kalian mau
+eliminasi lebih dahulu?
+
+699
+00:34:20,099 --> 00:34:21,434 
+- Tim Pemeran Pengganti.
+- Pemeran Pengganti?
+
+700
+00:34:21,517 --> 00:34:23,061 
+- Aku juga.
+- Ya, 'kan?
+
+701
+00:34:23,144 --> 00:34:25,313 
+- Aku juga.
+- Setuju serang mereka?
+
+702
+00:34:25,396 --> 00:34:26,731 
+Aku tidak sabar lagi.
+
+703
+00:34:26,814 --> 00:34:30,193 
+Bagi kami, semua
+atau tidak sama sekali hari ini.
+
+704
+00:34:30,276 --> 00:34:31,944 
+Markas mereka dekat dari kami,
+
+705
+00:34:32,028 --> 00:34:34,614 
+dan kami yakin bisa melawan mereka.
+
+706
+00:34:34,697 --> 00:34:37,241
+{\an8}Kita hanya bisa berjaga hari ini.
+
+707
+00:34:37,825 --> 00:34:40,828
+{\an8}- Mau membuat kode?
+- Ya. Jika ada yang datang,
+
+708
+00:34:40,912 --> 00:34:43,581 
+ketuk beberapa kali sejumlah yang datang
+kalau sudah dekat.
+
+709
+00:34:43,664 --> 00:34:45,458 
+Untuk kode memberi tahu jumlah lawan,
+
+710
+00:34:45,541 --> 00:34:47,627 
+ketuk pelan-pelan seperti satu, dua, tiga.
+
+711
+00:34:47,710 --> 00:34:50,755 
+- Harus jelas.
+- Ya, baik.
+
+712
+00:34:50,838 --> 00:34:52,840 
+Bagaimana kode untuk "ada yang datang"?
+
+713
+00:34:52,924 --> 00:34:54,300 
+- Ada yang datang?
+- Dua kali.
+
+714
+00:34:54,383 --> 00:34:55,343 
+- Ada yang datang?
+- Ya.
+
+715
+00:34:55,426 --> 00:34:57,845 
+- Lalu, berapa jumlahnya.
+- Jika sudah tahu berapa,
+
+716
+00:34:57,929 --> 00:35:00,306 
+ketuk perlahan sesuai angkanya.
+
+717
+00:35:00,389 --> 00:35:01,808 
+Dengan jeda seperti ini.
+
+718
+00:35:01,891 --> 00:35:03,559 
+Aku merasakannya sekarang.
+
+719
+00:35:03,643 --> 00:35:07,063 
+Rasa gugup ketika hendak mulai syuting.
+
+720
+00:35:07,146 --> 00:35:08,815 
+- Benarkah?
+- Astaga.
+
+721
+00:35:08,898 --> 00:35:12,110 
+Rasa gelisah dan mengalirnya adrenalin.
+
+722
+00:35:12,735 --> 00:35:13,569
+{\an8}Astaga.
+
+723
+00:35:13,653 --> 00:35:15,238
+{\an8}Aku harus ke toilet.
+
+724
+00:35:15,321 --> 00:35:16,489
+{\an8}Aku juga.
+
+725
+00:35:16,572 --> 00:35:20,576
+{\an8}Aku merasa sepertinya ada sesuatu
+yang akan segera terjadi.
+
+726
+00:35:22,829 --> 00:35:24,038 
+Ayo kita ke toilet.
+
+727
+00:35:27,208 --> 00:35:28,876 
+Cuacanya bagus hari ini.
+
+728
+00:35:32,421 --> 00:35:33,673 
+Ada kepiting.
+
+729
+00:35:36,217 --> 00:35:37,301 
+Menakjubkan sekali.
+
+730
+00:35:37,385 --> 00:35:39,804 
+Ada kepiting,
+padahal kita tak dekat pantai.
+
+731
+00:35:55,486 --> 00:35:57,613 
+<i>- Sirenenya berbunyi!
+- Apa?</i>
+
+732
+00:35:57,697 --> 00:36:00,241 
+10:02, BERAWAN
+PERTANDINGAN MARKAS KEDUA DIMULAI
+
+733
+00:36:01,951 --> 00:36:02,952 
+Sial.
+
+734
+00:36:03,744 --> 00:36:05,538 
+Harusnya dua dari kita di markas.
+
+735
+00:36:15,715 --> 00:36:17,425
+{\an8}TIM ATLET
+TENDA JURANG
+
+736
+00:36:17,508 --> 00:36:18,676
+{\an8}Cepat! Bergegas!
+
+737
+00:36:18,759 --> 00:36:21,053
+{\an8}- Sial.
+- Mengapa harus sekarang?
+
+738
+00:36:22,555 --> 00:36:23,514
+{\an8}Astaga.
+
+739
+00:36:23,598 --> 00:36:26,309
+{\an8}TIM DAMKAR
+RUMAH PERSEGI
+
+740
+00:36:29,770 --> 00:36:30,605 
+Sepatuku.
+
+741
+00:36:31,355 --> 00:36:32,481 
+Ayo!
+
+742
+00:36:35,484 --> 00:36:36,736 
+Sekarang pukul 10,02 pagi.
+
+743
+00:36:36,819 --> 00:36:40,072 
+<i>Tameng Pelindung 30 menit
+milik Tim Damkar diaktifkan.</i>
+
+744
+00:36:50,833 --> 00:36:52,460
+{\an8}TIM PEMERAN PENGGANTI
+SAMPAI DI RUMAH POHON
+
+745
+00:37:04,138 --> 00:37:06,432 
+- Kami akan bergegas dan naik.
+- Baik.
+
+746
+00:37:06,515 --> 00:37:08,226 
+- Halangi mereka ke atas.
+- Baik.
+
+747
+00:37:10,102 --> 00:37:11,187 
+- Aku sudah siap.
+- Ya.
+
+748
+00:37:12,188 --> 00:37:13,898 
+Kami segera naik. Jangan cemas.
+
+749
+00:37:13,981 --> 00:37:15,107 
+- Baik.
+- Ya.
+
+750
+00:37:17,610 --> 00:37:19,320 
+Sial.
+
+751
+00:37:22,531 --> 00:37:24,075 
+Ayolah.
+
+752
+00:37:25,451 --> 00:37:28,788
+{\an8}Sirene berbunyi sekitar pukul 10,00.
+Kita harus kembali pukul 10,20.
+
+753
+00:37:29,330 --> 00:37:30,998 
+- Sekarang pukul 10,04.
+- Baik.
+
+754
+00:37:34,168 --> 00:37:35,461 
+- Sudah selesai.
+- Kami siap.
+
+755
+00:37:35,544 --> 00:37:36,545 
+Bagus.
+
+756
+00:37:37,255 --> 00:37:38,673 
+Kunci pintunya, Seo-young.
+
+757
+00:37:38,756 --> 00:37:40,341 
+Kami kunci pintunya dari dalam.
+
+758
+00:37:40,424 --> 00:37:41,259 
+Baik.
+
+759
+00:37:43,761 --> 00:37:44,804 
+Ya?
+
+760
+00:37:49,725 --> 00:37:50,893 
+- Mereka datang.
+- Siapa?
+
+761
+00:37:50,977 --> 00:37:51,811 
+Dua orang.
+
+762
+00:37:55,398 --> 00:37:56,524 
+Tim Damkar.
+
+763
+00:37:56,607 --> 00:37:58,776
+{\an8}Tim Damkar menuju ke sini.
+
+764
+00:38:00,611 --> 00:38:02,863
+{\an8}- Sial. Mereka menuju kemari.
+- Di mana?
+
+765
+00:38:05,616 --> 00:38:08,703
+{\an8}TIM DAMKAR
+DEKAT RUMAH POHON
+
+766
+00:38:10,538 --> 00:38:13,666
+{\an8}RUMAH POHON, TENDA JURANG
+
+767
+00:38:13,749 --> 00:38:15,626
+{\an8}Kemari jika mau berhadapan dengan mereka.
+
+768
+00:38:15,710 --> 00:38:17,128
+{\an8}Jangan di tempat lebih rendah.
+
+769
+00:38:20,589 --> 00:38:22,091 
+- Hei.
+- Bantu dia.
+
+770
+00:38:22,174 --> 00:38:24,051 
+- Kau hanya akan lewat?
+- Tunggu.
+
+771
+00:38:24,135 --> 00:38:26,220 
+- Tunggu. Mau ke sana?
+- Ya.
+
+772
+00:38:26,304 --> 00:38:28,556
+{\an8}- Mau ke sana bersama?
+- Yang dapat bendera lebih dahulu menang.
+
+773
+00:38:28,639 --> 00:38:29,473
+{\an8}Dengar.
+
+774
+00:38:30,099 --> 00:38:34,145 
+Kami tidak akan menyerang kalian,
+jadi, ambil saja benderanya dan menang.
+
+775
+00:38:34,228 --> 00:38:36,022 
+- Jangan mengkhianati satu sama lain.
+- Ya, jangan berkhianat.
+
+776
+00:38:36,105 --> 00:38:37,898 
+- Aku serius.
+- Kalian menang saja. Kami bantu.
+
+777
+00:38:37,982 --> 00:38:39,650 
+- Baik.
+- Kalian tak bisa serang markas kami.
+
+778
+00:38:39,734 --> 00:38:41,986 
+Kami buat kesepakatan
+dalam tiga atau empat detik.
+
+779
+00:38:42,069 --> 00:38:45,323 
+Saat bertugas, kami harus
+berpikir dengan cepat.
+
+780
+00:38:45,406 --> 00:38:47,992 
+Kami harus cekatan
+dalam membuat keputusan.
+
+781
+00:38:48,075 --> 00:38:53,164 
+"Rebut markas mereka."
+Itu langsung terlontar dari mulutku.
+
+782
+00:38:53,247 --> 00:38:55,124 
+Lalu, aku yang memimpin mereka.
+
+783
+00:38:56,375 --> 00:38:59,879 
+Aku memperlihatkan punggungku
+agar mereka bisa percaya.
+
+784
+00:38:59,962 --> 00:39:02,173 
+Ayo lari. Kita bersekutu hari ini.
+
+785
+00:39:02,256 --> 00:39:03,591 
+Bekerja berpasangan.
+
+786
+00:39:03,674 --> 00:39:06,052 
+Mari buat Tim Atlet menang hari ini.
+
+787
+00:39:06,135 --> 00:39:07,553 
+- Baik.
+- Semangat.
+
+788
+00:39:12,224 --> 00:39:13,267 
+- Saling berpasangan?
+- Ya.
+
+789
+00:39:13,351 --> 00:39:15,811 
+- Biarkan mereka menang.
+- Kerja berpasangan.
+
+790
+00:39:15,895 --> 00:39:17,313 
+Jangan saling rebut bendera.
+
+791
+00:39:17,396 --> 00:39:19,482 
+- Tiap pasangan serang seorang.
+- Masuklah.
+
+792
+00:39:19,565 --> 00:39:21,025 
+- Semangat.
+- Ayo.
+
+793
+00:39:24,737 --> 00:39:26,489
+{\an8}Apa kau sedang mencoba kodenya?
+
+794
+00:39:26,572 --> 00:39:28,366 
+Mereka bersekutu.
+
+795
+00:39:31,327 --> 00:39:37,541 
+SIREN: SURVIVE THE ISLAND
+
+796
+00:41:05,254 --> 00:41:10,259
+{\an8}Terjemahan subtitle oleh Deaz Putri
+
