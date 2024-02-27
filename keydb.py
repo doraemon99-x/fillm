@@ -31,7 +31,7 @@ def handle_post(message):
     # Split the message text into parts
     parts = message.text.split(maxsplit=2)
     if len(parts) != 3:
-        bot.reply_to(message, "Format pesan salah. Harusnya: /post <url> <pssh>")
+        bot.reply_to(message, "Format pesan salah. Harusnya: /key <url> <pssh>")
         return
 
     _, license_url, pssh = parts
