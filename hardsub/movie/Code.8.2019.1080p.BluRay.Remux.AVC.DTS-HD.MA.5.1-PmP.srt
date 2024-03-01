@@ -5,12 +5,12 @@
 
 2
 00:00:06,515 --> 00:00:11,515
-Bonus New Member 50%
+
 
 3
 00:00:11,539 --> 00:00:16,539
-Cashback 7%
-Rollingan Casino 1%
+
+
 
 4
 00:00:35,703 --> 00:00:38,676
@@ -2918,12 +2918,12 @@ dan melihat Ibu meninggal.
 
 651
 00:47:32,418 --> 00:47:35,918
-Bonus New Member 50%
+
 
 652
 00:47:35,942 --> 00:47:39,442
-Cashback 7%
-Rollingan Casino 1%
+
+
 
 653
 00:47:41,260 --> 00:47:43,690
@@ -4763,10 +4763,10 @@ Aku menyayangimu.
 
 1066
 01:28:51,812 --> 01:28:56,812
-Bonus New Member 50%
+
 
 1067
 01:28:56,836 --> 01:29:01,836
-Cashback 7%
-Rollingan Casino 1%
+
+
 
