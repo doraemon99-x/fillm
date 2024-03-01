@@ -46,6 +46,11 @@
             autostart: false,
             "mute": false,
             "volume": 25,
+            events: {
+                    onTime: function(event) {
+                 $('#timer').html(Math.floor(event.position));
+                     }
+                    },
             logo: {
                     file: 'https://i.postimg.cc/7hBXqptn/tipion.png',
                     link: '',
