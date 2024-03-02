@@ -1,0 +1,4155 @@
+﻿1
+00:01:07,750 --> 00:01:10,958
+<i>Jakub, kau akan bergabung dalam siaran?</i>
+
+2
+00:01:12,208 --> 00:01:13,583
+<i>Kami harus sambungkan.</i>
+
+3
+00:01:14,666 --> 00:01:15,583
+Tunggu.
+
+4
+00:01:54,000 --> 00:01:55,166
+Ayolah.
+
+5
+00:02:20,625 --> 00:02:23,541
+{\an8}BERDASARKAN BUKU <i>SPACEMAN OF BOHEMIA</i>
+KARYA JAROSLAV KALFAR
+
+6
+00:02:49,125 --> 00:02:50,291
+Peter.
+
+7
+00:02:50,375 --> 00:02:52,250
+<i>Kau disambungkan sekarang.</i>
+
+8
+00:02:58,625 --> 00:03:04,375
+Atas nama Program Antariksa Eropa
+dan rakyat Ceko,
+
+9
+00:03:04,458 --> 00:03:10,666
+setelah 189 hari perjalanan solomu,
+
+10
+00:03:10,750 --> 00:03:13,291
+selamat datang kembali,
+Komandan Prochazka.
+
+11
+00:03:16,166 --> 00:03:19,041
+<i>Komisaris Tuma!
+Salam dari pinggiran Jupiter.</i>
+
+12
+00:03:19,125 --> 00:03:21,666
+<i>Aku sangat senang
+bisa bicara denganmu dari sini.</i>
+
+13
+00:03:21,750 --> 00:03:24,583
+Senang melihatmu lagi. Kau tampak sehat.
+
+14
+00:03:24,666 --> 00:03:28,500
+Rasanya penantian yang panjang ini
+akan segera berakhir.
+
+15
+00:03:28,583 --> 00:03:29,916
+<i>Ya, itu benar.</i>
+
+16
+00:03:30,000 --> 00:03:32,750
+<i>Tujuan perjalanan ini
+sudah tepat di depanku.</i>
+
+17
+00:03:33,833 --> 00:03:37,416
+<i>Aku yakin gambar-gambar yang kukirim
+masih tak seindah aslinya.</i>
+
+18
+00:03:37,500 --> 00:03:41,625
+<i>Namun, Awan Chopra lebih mencengangkan
+dari yang bisa kalian bayangkan.</i>
+
+19
+00:03:42,375 --> 00:03:44,583
+<i>Andai kalian bisa lihat seperti aku.</i>
+
+20
+00:03:44,666 --> 00:03:48,250
+Fenomena ini menghantui langit kita
+selama empat tahun terakhir
+
+21
+00:03:48,333 --> 00:03:50,791
+dan kini gambar-gambarmu
+memikat seluruh dunia.
+
+22
+00:03:50,875 --> 00:03:52,875
+<i>Sungguh spektakuler.</i>
+
+23
+00:03:53,833 --> 00:03:55,708
+Yah, kurang dari sepekan,
+
+24
+00:03:55,791 --> 00:03:59,541
+aku akan mengumpulkan dan menganalisis
+semua partikel awan itu.
+
+25
+00:03:59,625 --> 00:04:02,500
+<i>Kita masih tak tahu apa ini
+dan dari mana asalnya.</i>
+
+26
+00:04:02,583 --> 00:04:05,375
+{\an8}<i>Namun, selagi aku memasuki Awan Chopra,</i>
+
+27
+00:04:05,458 --> 00:04:09,250
+{\an8}<i>aku mungkin bisa memecahkan
+beberapa misteri alam semesta.</i>
+
+28
+00:04:10,166 --> 00:04:15,250
+<i>Komandan, bisa terima
+beberapa pertanyaan dari rakyat dunia?</i>
+
+29
+00:04:15,833 --> 00:04:16,916
+Kucoba sebisaku.
+
+30
+00:04:17,708 --> 00:04:20,083
+<i>Halo, namaku Anna.</i>
+
+31
+00:04:20,166 --> 00:04:21,708
+<i>Aku siswi kelas enam.</i>
+
+32
+00:04:21,791 --> 00:04:24,458
+<i>Kubaca kau adalah
+pria paling kesepian di dunia.</i>
+
+33
+00:04:26,625 --> 00:04:29,666
+Kurasa maksud Anna adalah sang komandan
+
+34
+00:04:29,750 --> 00:04:32,125
+berjarak paling jauh
+dari siapa pun dalam sejarah.
+
+35
+00:04:32,208 --> 00:04:33,750
+<i>Apa itu maksudmu?</i>
+
+36
+00:04:34,416 --> 00:04:36,625
+<i>Apa kau sedih karena begitu jauh?</i>
+
+37
+00:04:36,708 --> 00:04:39,958
+Jarakku memang sekitar 500 juta kilometer.
+
+38
+00:04:40,625 --> 00:04:44,708
+Ya, ini memang misi solo,
+tetapi aku tahu akan segera kembali.
+
+39
+00:04:44,791 --> 00:04:48,875
+<i>Aku sudah hampir separuh jalan
+untuk jadwal kepulanganku ke Bumi,</i>
+
+40
+00:04:48,958 --> 00:04:50,500
+<i>dan tugasku masih banyak.</i>
+
+41
+00:04:51,208 --> 00:04:53,500
+<i>Aku juga bicara
+dengan orang dari mana-mana</i>
+
+42
+00:04:53,583 --> 00:04:55,916
+<i>seperti kau dan Pusat Kendali Misi.</i>
+
+43
+00:04:56,000 --> 00:04:57,833
+Juga istrimu, Lenka, tentunya.
+
+44
+00:05:01,958 --> 00:05:04,625
+Kami bisa bicara
+lewat CzechConnect Quantum
+
+45
+00:05:04,708 --> 00:05:06,500
+melebihi Telepon Kecepatan Cahaya
+
+46
+00:05:07,083 --> 00:05:09,041
+<i>agar tetap berhubungan.</i>
+
+47
+00:05:10,166 --> 00:05:11,458
+<i>Kami mengobrol tiap hari.</i>
+
+48
+00:05:12,041 --> 00:05:15,875
+<i>Kulakukan ini untuk semua di dunia
+dan itu membuatku sangat bangga.</i>
+
+49
+00:05:16,625 --> 00:05:19,416
+<i>Tidak, aku bukan pria paling kesepian
+di dunia.</i>
+
+50
+00:05:20,000 --> 00:05:21,000
+Terima kasih, Anna.
+
+51
+00:05:21,083 --> 00:05:22,833
+Terima kasih juga, Komandan.
+
+52
+00:05:23,458 --> 00:05:25,833
+Kami akan jeda sebentar
+
+53
+00:05:25,916 --> 00:05:30,125
+<i>dan akan kembali setelah pesan-pesan
+dari sponsor dermawan kita.</i>
+
+54
+00:05:39,791 --> 00:05:41,333
+<i>Antiquease anti-kantuk.</i>
+
+55
+00:05:41,416 --> 00:05:45,166
+<i>Obat mual resmi
+untuk Misi Jakub Prochazka ke Chopra.</i>
+
+56
+00:05:49,500 --> 00:05:51,375
+<i>Kau akan baik-baik saja, Jakub.</i>
+
+57
+00:05:52,083 --> 00:05:54,000
+<i>Kau tak takut sendirian.</i>
+
+58
+00:05:55,208 --> 00:05:59,125
+<i>Tadinya aku takut, tetapi kini tidak lagi.</i>
+
+59
+00:06:03,541 --> 00:06:04,625
+<i>Aku mencintaimu.</i>
+
+60
+00:06:06,541 --> 00:06:07,875
+<i>Namun, orang berubah.</i>
+
+61
+00:06:09,291 --> 00:06:11,875
+<i>Jika tak dibiarkan berubah, mereka mati.</i>
+
+62
+00:06:16,875 --> 00:06:18,708
+<i>Aku harus meninggalkanmu.</i>
+
+63
+00:06:20,666 --> 00:06:24,000
+<i>Maaf karena harus sekarang, tetapi...</i>
+
+64
+00:06:32,791 --> 00:06:33,750
+<i>Ya?</i>
+
+65
+00:06:34,375 --> 00:06:35,416
+Masalah Lenka.
+
+66
+00:06:53,041 --> 00:06:58,875
+Peter, bisa tolong setujui
+perbaikan toilet lagi?
+
+67
+00:06:59,500 --> 00:07:01,958
+<i>Coba kuminta persetujuan Teknik.</i>
+
+68
+00:07:02,041 --> 00:07:03,875
+<i>Sudah ganti O-ring seperti saran kami?</i>
+
+69
+00:07:03,958 --> 00:07:05,375
+Ya.
+
+70
+00:07:05,458 --> 00:07:06,916
+Masih saja bersuara.
+
+71
+00:07:07,000 --> 00:07:08,666
+<i>Mungkin bisa diusut nanti.</i>
+
+72
+00:07:08,750 --> 00:07:12,625
+<i>Berdasarkan perintah, kamera rusak
+didahulukan sebelum toilet. Jadi...</i>
+
+73
+00:07:13,916 --> 00:07:16,583
+<i>Pukul berapa
+kau minum obat tidurmu semalam?</i>
+
+74
+00:07:16,666 --> 00:07:18,125
+Pukul 20,30. Kenapa?
+
+75
+00:07:18,208 --> 00:07:20,625
+<i>Rupamu tak sehat. Apa kau tidur?</i>
+
+76
+00:07:20,708 --> 00:07:21,833
+Sudah kucoba.
+
+77
+00:07:22,583 --> 00:07:24,166
+Mungkin aku tampak lesu
+
+78
+00:07:24,250 --> 00:07:27,000
+karena suara toilet
+membuatku tak bisa tidur.
+
+79
+00:07:27,083 --> 00:07:28,541
+<i>Baik, aku mengerti.</i>
+
+80
+00:07:29,416 --> 00:07:32,458
+<i>Namun, cobalah sempatkan tidur.
+Kau perlu istirahat.</i>
+
+81
+00:07:35,833 --> 00:07:37,833
+Kalian dengar kabar dari Lenka?
+
+82
+00:07:38,958 --> 00:07:40,458
+<i>Tidak. Kenapa?</i>
+
+83
+00:08:20,333 --> 00:08:22,750
+<i>Aku tahu kau bisa rasakan kesunyiannya.</i>
+
+84
+00:08:24,583 --> 00:08:25,666
+Astaga.
+
+85
+00:08:25,750 --> 00:08:27,916
+<i>Kita sama-sama di CzechConnect</i>
+
+86
+00:08:29,333 --> 00:08:30,750
+<i>dan sama-sama sunyi.</i>
+
+87
+00:08:33,416 --> 00:08:34,666
+<i>Jadi, apa gunanya?</i>
+
+88
+00:08:36,625 --> 00:08:38,250
+Jakub menghadapi tekanan besar.
+
+89
+00:08:38,333 --> 00:08:39,708
+Tak bisa tidur.
+
+90
+00:08:43,208 --> 00:08:44,750
+Dia tak boleh terima pesan ini.
+
+91
+00:08:47,166 --> 00:08:48,375
+Kita akan tahan?
+
+92
+00:08:51,041 --> 00:08:53,416
+Dia sudah khawatir
+karena tak dengar kabarnya.
+
+93
+00:08:53,500 --> 00:08:55,416
+Pokoknya tak boleh terima pesan ini.
+
+94
+00:08:56,125 --> 00:08:58,125
+Aku akan bicara dengan Lenka.
+
+95
+00:09:00,208 --> 00:09:01,750
+Aku akan cari alasan untuk Jakub.
+
+96
+00:09:37,833 --> 00:09:39,541
+<i>Lenka tak menjawab.</i>
+
+97
+00:09:39,625 --> 00:09:41,625
+<i>Jika ingin tinggalkan pesan...</i>
+
+98
+00:09:42,375 --> 00:09:44,458
+<i>CzechConnect membantumu tetap terhubung.</i>
+
+99
+00:10:11,000 --> 00:10:13,458
+{\an8}DORMIUM
+OBAT TIDUR KE BINTANG
+
+100
+00:11:43,458 --> 00:11:44,541
+Apa?
+
+101
+00:12:10,333 --> 00:12:13,833
+<i>Kau dapat persetujuan
+untuk Simulasi Pengumpulan Sampel Chopra.</i>
+
+102
+00:12:14,708 --> 00:12:16,666
+<i>Konfirmasi skenario Beta 3-3.</i>
+
+103
+00:12:17,625 --> 00:12:20,208
+Simulasi Pengumpulan Sampel dikonfirmasi.
+
+104
+00:12:28,416 --> 00:12:30,333
+Peter, kau bisa lihat?
+
+105
+00:12:30,416 --> 00:12:32,125
+<i>Kamera D masih tak menyala?</i>
+
+106
+00:12:32,208 --> 00:12:36,041
+Ya. Listriknya tak bermasalah.
+Kameranya mati. Tetap sama.
+
+107
+00:12:36,125 --> 00:12:38,625
+<i>Sudah separuh kamera pesawat
+yang malafungsi.</i>
+
+108
+00:12:38,708 --> 00:12:40,833
+<i>Aku tak mengerti apa masalahnya.</i>
+
+109
+00:12:40,916 --> 00:12:42,250
+<i>Akan kuajukan laporan lagi.</i>
+
+110
+00:12:42,833 --> 00:12:45,041
+Aku yakin itu akan sangat efektif.
+
+111
+00:12:48,458 --> 00:12:50,125
+<i>Ada yang bisa ke rumahku?</i>
+
+112
+00:12:51,458 --> 00:12:52,500
+<i>Kenapa?</i>
+
+113
+00:12:54,541 --> 00:12:56,208
+<i>Masih belum ada kabar dari dia.</i>
+
+114
+00:12:57,791 --> 00:12:59,708
+<i>Baik, kami akan temukan dia.</i>
+
+115
+00:12:59,791 --> 00:13:00,875
+<i>Jangan khawatir.</i>
+
+116
+00:13:08,083 --> 00:13:11,333
+<i>Lenka tak menjawab.
+Jika ingin tinggalkan pesan...</i>
+
+117
+00:13:22,750 --> 00:13:23,750
+Lenka?
+
+118
+00:13:28,875 --> 00:13:29,875
+Halo?
+
+119
+00:13:30,458 --> 00:13:31,541
+<i>Halo.</i>
+
+120
+00:13:33,916 --> 00:13:34,958
+Siapa ini?
+
+121
+00:13:39,541 --> 00:13:40,750
+Siapa ini?
+
+122
+00:13:42,041 --> 00:13:43,916
+<i>Bisa kubantu?</i>
+
+123
+00:13:46,625 --> 00:13:47,875
+Siapa ini?
+
+124
+00:13:51,291 --> 00:13:52,291
+Halo?
+
+125
+00:13:52,791 --> 00:13:54,125
+<i>Maaf.</i>
+
+126
+00:13:57,458 --> 00:13:58,833
+Peter, kau di situ?
+
+127
+00:14:00,375 --> 00:14:01,291
+<i>Ya.</i>
+
+128
+00:14:02,125 --> 00:14:03,500
+Ada interferensi.
+
+129
+00:14:05,416 --> 00:14:06,541
+<i>Aneh sekali.</i>
+
+130
+00:14:08,666 --> 00:14:10,833
+Mungkin ada yang retas CzechConnect?
+
+131
+00:14:11,833 --> 00:14:14,708
+<i>Mustahil. Sistem kita sangat aman.</i>
+
+132
+00:14:14,791 --> 00:14:17,250
+<i>Jika ada interferensi,
+lewat radio, tetapi...</i>
+
+133
+00:14:18,583 --> 00:14:19,708
+Apa Korea?
+
+134
+00:14:20,208 --> 00:14:21,541
+<i>Kenapa Korea?</i>
+
+135
+00:14:23,125 --> 00:14:25,833
+<i>Ada indikasi Korea Selatan mendekat.</i>
+
+136
+00:14:26,708 --> 00:14:28,291
+Bukan Korea.
+
+137
+00:14:30,083 --> 00:14:32,125
+Mungkin ada yang biarkan saluran terbuka.
+
+138
+00:14:32,791 --> 00:14:34,375
+Apa saranmu?
+
+139
+00:14:36,166 --> 00:14:37,458
+<i>Akan kuselidiki.</i>
+
+140
+00:14:41,541 --> 00:14:44,458
+<i>Kau baik-baik saja? Semuanya beres?</i>
+
+141
+00:14:46,500 --> 00:14:48,583
+Ya, Peter, semuanya beres.
+
+142
+00:14:52,166 --> 00:14:56,375
+<i>Kami baru tahu
+bahwa Lenka pergi mengunjungi ibunya.</i>
+
+143
+00:14:57,416 --> 00:14:59,208
+<i>Dia akan pulang dua hari lagi.</i>
+
+144
+00:15:00,041 --> 00:15:02,791
+Begitu? Minta dia meneleponku.
+
+145
+00:16:50,333 --> 00:16:51,291
+Apa-apaan itu?
+
+146
+00:17:01,041 --> 00:17:04,708
+Pusat Kendali.
+Ada kamera rahasia di bagian depan?
+
+147
+00:17:06,125 --> 00:17:07,875
+<i>- Kenapa?</i>
+- Apa ada?
+
+148
+00:17:09,125 --> 00:17:10,875
+<i>Ya. Demi keamanan.</i>
+
+149
+00:17:11,750 --> 00:17:12,958
+Tampilkan sekarang.
+
+150
+00:17:13,583 --> 00:17:16,041
+<i>Sudah mati. Salah satu yang pertama mati.</i>
+
+151
+00:17:16,833 --> 00:17:18,166
+Yang benar saja.
+
+152
+00:17:21,958 --> 00:17:23,583
+<i>Jakub, ada apa? Halo?</i>
+
+153
+00:17:29,208 --> 00:17:30,958
+<i>Jakub, kenapa tak menjawab?</i>
+
+154
+00:17:35,625 --> 00:17:39,458
+Aku terbuai
+dengan bunyi meditasi dari tabungmu.
+
+155
+00:17:47,333 --> 00:17:50,166
+Aku tak berniat menakutimu, Manusia Kurus.
+
+156
+00:17:53,041 --> 00:17:54,208
+<i>Jakub, ada apa?</i>
+
+157
+00:17:54,291 --> 00:17:55,833
+Jangan takut.
+
+158
+00:17:59,708 --> 00:18:00,708
+<i>Halo?</i>
+
+159
+00:18:01,791 --> 00:18:03,166
+Aku mulai gila.
+
+160
+00:18:08,500 --> 00:18:09,875
+<i>Kenapa ke ruang kedap udara?</i>
+
+161
+00:18:10,625 --> 00:18:12,750
+Pesawat harus didekontaminasi!
+
+162
+00:18:12,833 --> 00:18:13,750
+<i>Apa? Kenapa?</i>
+
+163
+00:18:13,833 --> 00:18:17,500
+Tindakan pencegahan.
+Siapa tahu ada kontaminan di pesawat.
+
+164
+00:18:18,000 --> 00:18:20,875
+<i>Tak ada tanda-tandanya di sensor kami.</i>
+
+165
+00:18:21,708 --> 00:18:23,958
+Aku melihat gejala-gejala aneh
+
+166
+00:18:24,041 --> 00:18:27,958
+dan harus memastikan
+sebelum memasuki tahap kritis misi ini.
+
+167
+00:18:30,375 --> 00:18:31,583
+Kupakai baju antariksa.
+
+168
+00:18:31,666 --> 00:18:33,333
+Baik, kau komandannya.
+
+169
+00:18:33,416 --> 00:18:35,000
+Akan kuminta persetujuan.
+
+170
+00:18:53,166 --> 00:18:54,833
+Peter, aku perlu konfirmasi.
+
+171
+00:18:55,666 --> 00:18:59,083
+Aku baru terima konfirmasi enggan.
+
+172
+00:18:59,166 --> 00:19:00,875
+<i>Kata Sponsor Korporat,</i>
+
+173
+00:19:00,958 --> 00:19:02,791
+<i>mereka mau kau sebutkan slogan dahulu.</i>
+
+174
+00:19:02,875 --> 00:19:03,916
+Apa?
+
+175
+00:19:04,416 --> 00:19:06,125
+<i>Sebelum meluncurkan dekontaminan.</i>
+
+176
+00:19:06,208 --> 00:19:08,250
+Slogan Bomba.
+
+177
+00:19:10,791 --> 00:19:12,041
+Dua, tiga...
+
+178
+00:19:12,125 --> 00:19:16,041
+Bomba 99,999% efektif
+
+179
+00:19:16,125 --> 00:19:20,208
+dalam membunuh
+segala jenis elemen mikrob udara.
+
+180
+00:19:20,916 --> 00:19:24,500
+Bahkan di antariksa pun,
+jangan biarkan kuman merusak harimu.
+
+181
+00:19:24,583 --> 00:19:26,375
+Bomba, diluncurkan!
+
+182
+00:19:28,833 --> 00:19:30,625
+Baik, bagus. Silakan.
+
+183
+00:20:02,458 --> 00:20:03,750
+<i>Kau ikut ke mana aku pergi</i>
+
+184
+00:20:04,583 --> 00:20:06,375
+<i>dan aku ikut ke mana kau pergi.</i>
+
+185
+00:20:06,458 --> 00:20:07,333
+<i>Betul, Spaceman?</i>
+
+186
+00:20:09,250 --> 00:20:10,083
+<i>Jakub?</i>
+
+187
+00:20:12,958 --> 00:20:13,958
+Apa?
+
+188
+00:20:15,708 --> 00:20:16,791
+<i>Kau baik-baik saja?</i>
+
+189
+00:20:17,541 --> 00:20:18,625
+<i>Ada apa?</i>
+
+190
+00:20:24,000 --> 00:20:25,375
+<i>Ada yang tak beres.</i>
+
+191
+00:20:26,625 --> 00:20:27,791
+<i>Apa yang tak beres?</i>
+
+192
+00:20:30,500 --> 00:20:31,500
+<i>Jakub?</i>
+
+193
+00:20:32,708 --> 00:20:33,833
+<i>Aku baik-baik saja.</i>
+
+194
+00:20:33,916 --> 00:20:35,750
+<i>Aku harus bicara dengan Lenka.</i>
+
+195
+00:20:37,166 --> 00:20:38,500
+<i>Kau harus bicara denganku.</i>
+
+196
+00:20:41,208 --> 00:20:42,458
+Aku tahu.
+
+197
+00:20:43,541 --> 00:20:46,041
+<i>Kesehatanmu adalah tanggung jawabku.</i>
+
+198
+00:20:46,125 --> 00:20:47,708
+<i>Kau harus transparan denganku.</i>
+
+199
+00:20:49,583 --> 00:20:51,208
+Aku tahu, aku transparan.
+
+200
+00:20:56,208 --> 00:21:01,083
+<i>Baik. Atmosfer seharusnya
+kembali normal dalam dua menit.</i>
+
+201
+00:21:01,166 --> 00:21:02,666
+<i>Bagaimana hasil sensormu?</i>
+
+202
+00:21:06,791 --> 00:21:08,833
+DEKONTAMINASI SELESAI
+
+203
+00:21:13,166 --> 00:21:14,416
+<i>Ada yang tak lazim?</i>
+
+204
+00:21:16,000 --> 00:21:17,125
+Saat ini tidak.
+
+205
+00:21:22,500 --> 00:21:25,833
+<i>Kami bisa minta Dr. Kurak datang
+jika kau perlu bicara.</i>
+
+206
+00:21:26,416 --> 00:21:29,083
+Aku tak perlu psikiater.
+Aku baik-baik saja.
+
+207
+00:21:29,791 --> 00:21:33,125
+<i>Aku tak mau kesehatan mentalmu
+membuat misi ini dipertanyakan.</i>
+
+208
+00:21:35,375 --> 00:21:36,416
+Aku setuju.
+
+209
+00:21:38,375 --> 00:21:40,083
+Kau tak perlu cemaskan aku.
+
+210
+00:21:40,166 --> 00:21:41,541
+<i>Justru itu tugasku.</i>
+
+211
+00:21:44,041 --> 00:21:47,791
+<i>Karena terisolasi enam bulan,
+kau mulai terlalu banyak berpikir.</i>
+
+212
+00:21:49,625 --> 00:21:53,333
+Ya, aku harus keluar lagi, Peter.
+
+213
+00:21:53,416 --> 00:21:54,416
+<i>Baik.</i>
+
+214
+00:21:57,708 --> 00:21:59,375
+Aku merasakan ketakutanmu.
+
+215
+00:22:04,000 --> 00:22:06,125
+Namun, aku tak berniat melukaimu.
+
+216
+00:22:13,250 --> 00:22:14,666
+Kau tak perlu khawatir.
+
+217
+00:22:15,416 --> 00:22:19,500
+Aku tak merasakan sakit
+saat terkena obat pembersih Bumi.
+
+218
+00:22:20,916 --> 00:22:21,916
+Hanya...
+
+219
+00:22:26,500 --> 00:22:27,958
+Mohon maaf.
+
+220
+00:22:30,625 --> 00:22:32,833
+Kau tak perlu cangkang pelindungmu.
+
+221
+00:22:33,333 --> 00:22:36,250
+Aku tak akan memakan
+atau mengontaminasimu.
+
+222
+00:22:41,291 --> 00:22:43,250
+Kau ingin tahu apa aku ini nyata.
+
+223
+00:22:44,625 --> 00:22:45,625
+Apa kau nyata?
+
+224
+00:22:46,750 --> 00:22:49,666
+Aku senyata dirimu.
+
+225
+00:22:50,666 --> 00:22:51,958
+Tak mungkin.
+
+226
+00:22:52,041 --> 00:22:53,583
+<i>Apa katamu, Jakub?</i>
+
+227
+00:22:54,125 --> 00:22:55,541
+Tidak.
+
+228
+00:22:56,416 --> 00:22:57,750
+Peter, bukan apa-apa.
+
+229
+00:23:06,000 --> 00:23:07,916
+Lebih baik tidak.
+
+230
+00:23:08,416 --> 00:23:12,041
+Itu bukan kebiasaan sukuku.
+
+231
+00:23:12,125 --> 00:23:14,833
+Tubuh tak boleh dinodai.
+
+232
+00:23:42,333 --> 00:23:43,625
+Kenapa kau di sini?
+
+233
+00:23:45,166 --> 00:23:48,041
+Aku adalah penjelajah, seperti kau.
+
+234
+00:23:50,750 --> 00:23:53,208
+Namun, kenapa kau di pesawat ini?
+
+235
+00:23:55,000 --> 00:23:57,208
+Aku sedang menuju pinggiran tata suryamu
+
+236
+00:23:57,291 --> 00:24:00,750
+saat merasakan tarikan manusia.
+
+237
+00:24:01,333 --> 00:24:05,375
+Aku menyurvei Bumi-mu dari orbit,
+mempelajari sejarahmu,
+
+238
+00:24:05,458 --> 00:24:06,833
+belajar bahasa-bahasamu.
+
+239
+00:24:06,916 --> 00:24:09,958
+Namun, walau sudah mengakses ilmu itu,
+
+240
+00:24:10,041 --> 00:24:12,208
+aku masih tak mengerti.
+
+241
+00:24:13,875 --> 00:24:16,250
+Saat itulah aku melihat pesawatmu.
+
+242
+00:24:17,333 --> 00:24:22,291
+Kesepianmu membuatku tertarik.
+
+243
+00:24:24,125 --> 00:24:28,208
+Aku berniat mempelajarimu
+satu atau dua hari, lalu ingin tahu lebih.
+
+244
+00:24:29,041 --> 00:24:30,583
+Kau membuatku penasaran.
+
+245
+00:24:32,958 --> 00:24:37,208
+Kurasa aku bisa membantu.
+
+246
+00:24:38,250 --> 00:24:39,333
+Aku harus...
+
+247
+00:24:47,875 --> 00:24:48,750
+Manusia?
+
+248
+00:24:53,000 --> 00:24:54,500
+Manusia Kurus?
+
+249
+00:25:06,083 --> 00:25:07,708
+Aku tak akan mengganggumu.
+
+250
+00:25:09,291 --> 00:25:10,750
+Apa yang menimpaku?
+
+251
+00:25:25,500 --> 00:25:27,500
+<i>Ini akan menjadi rumah kita, Jakub.</i>
+
+252
+00:26:31,875 --> 00:26:33,166
+Saat mencintai orang,
+
+253
+00:26:33,250 --> 00:26:35,458
+kau harus merelakan bagian dirimu
+
+254
+00:26:35,541 --> 00:26:37,000
+dan ganti dengan bagian dia.
+
+255
+00:26:37,875 --> 00:26:39,458
+Jangan takut.
+
+256
+00:26:42,125 --> 00:26:43,208
+Apa ini?
+
+257
+00:26:44,291 --> 00:26:46,666
+Kau paham aku merelakan
+begitu banyak diriku
+
+258
+00:26:46,750 --> 00:26:48,416
+sampai tak tahu lagi siapa diriku?
+
+259
+00:26:48,500 --> 00:26:50,625
+- Apa yang sudah kau relakan?
+- Terserah.
+
+260
+00:27:01,958 --> 00:27:03,916
+Kau melakukan ini kepadaku?
+
+261
+00:27:05,000 --> 00:27:07,750
+Kau ikut aku dan aku ikut kau.
+Betul, Spaceman?
+
+262
+00:27:09,541 --> 00:27:12,666
+Aku ingin membantumu
+menghadapi gangguan emosionalmu.
+
+263
+00:27:13,541 --> 00:27:16,750
+Tampaknya pasanganmu menarik diri.
+
+264
+00:27:18,583 --> 00:27:22,291
+Mungkin kehadiranku
+bisa mengurangi kesendirianmu.
+
+265
+00:27:25,541 --> 00:27:26,958
+Aku tak butuh bantuanmu.
+
+266
+00:27:27,625 --> 00:27:29,083
+Kau butuh.
+
+267
+00:27:57,291 --> 00:28:00,458
+Ada tempat khusus
+untuk wanita hamil sendirian di pedesaan.
+
+268
+00:28:01,333 --> 00:28:03,500
+Mereka tinggal bersama, makan bersama.
+
+269
+00:28:04,416 --> 00:28:07,458
+Saling dukung saat persalinan
+dan beberapa pekan pertama.
+
+270
+00:28:07,541 --> 00:28:09,625
+Aku tak mengerti.
+
+271
+00:28:11,333 --> 00:28:14,625
+Kau lebih suka
+dikelilingi orang asing dalam hutan?
+
+272
+00:28:14,708 --> 00:28:16,791
+Aku sudah batalkan ceramahku di Hamburg...
+
+273
+00:28:16,875 --> 00:28:18,750
+Berpihaklah kepadaku, kumohon.
+
+274
+00:28:20,583 --> 00:28:21,583
+Memang, ya.
+
+275
+00:28:23,875 --> 00:28:25,041
+Selalu.
+
+276
+00:28:26,791 --> 00:28:30,208
+Sayang, ini waktu tak tepat
+untuk membuat keputusan besar.
+
+277
+00:28:30,291 --> 00:28:32,666
+Waktu tak tepat untuk meninggalkan dia.
+
+278
+00:28:33,583 --> 00:28:34,583
+Aku tahu.
+
+279
+00:28:36,250 --> 00:28:38,250
+Seharusnya kulakukan sejak lama.
+
+280
+00:28:59,333 --> 00:29:01,041
+Manusia Kurus?
+
+281
+00:29:01,125 --> 00:29:03,083
+- Tidak!
+- Perlu tanya soal pasanganmu.
+
+282
+00:29:03,166 --> 00:29:04,625
+Ruang ini terlarang.
+
+283
+00:29:41,791 --> 00:29:43,625
+Ada gambar dirimu.
+
+284
+00:29:43,708 --> 00:29:46,208
+Apa kau anggota terhormat dalam sukumu?
+
+285
+00:29:47,208 --> 00:29:49,750
+Ruang ini juga terlarang.
+
+286
+00:29:51,041 --> 00:29:51,916
+Berikan itu.
+
+287
+00:29:55,666 --> 00:29:59,291
+Kau punya banyak batasan, Manusia Kurus.
+
+288
+00:29:59,375 --> 00:30:02,833
+Mungkin itu penyebab kesendirianmu?
+
+289
+00:30:05,375 --> 00:30:06,416
+Keluar.
+
+290
+00:30:29,166 --> 00:30:31,041
+Kau punya ovulum?
+
+291
+00:30:33,375 --> 00:30:35,208
+Dari jenis unggas?
+
+292
+00:30:40,000 --> 00:30:41,875
+Manusia Kurus?
+
+293
+00:30:43,166 --> 00:30:44,791
+Maksudmu telur?
+
+294
+00:30:44,875 --> 00:30:47,500
+Ya, aku ingin mencicipinya.
+
+295
+00:30:48,125 --> 00:30:50,083
+Kalian mengistimewakannya.
+
+296
+00:30:51,750 --> 00:30:55,125
+Aku tak punya.
+Tak cocok untuk perjalanan jauh.
+
+297
+00:31:14,958 --> 00:31:16,583
+Kau mau cicipi ini?
+
+298
+00:31:48,500 --> 00:31:55,375
+Kaya dan lembut,
+seperti larva shtoma di kampung halamanku.
+
+299
+00:31:58,166 --> 00:32:00,833
+Tepatnya di mana kampung halamanmu?
+
+300
+00:32:02,166 --> 00:32:03,458
+Sudah sirna.
+
+301
+00:32:05,000 --> 00:32:07,500
+Gorompeds menyerbu kami.
+
+302
+00:32:08,791 --> 00:32:11,250
+Sama sepertimu, aku kabur dari planetku.
+
+303
+00:32:11,750 --> 00:32:14,041
+Melintasi banyak galaksi dan lubang hitam.
+
+304
+00:32:14,125 --> 00:32:19,166
+Aku kabur melewati semesta,
+melewati waktu, mencari pelipur lara.
+
+305
+00:32:19,791 --> 00:32:21,708
+Namun, kemudian aku menemukanmu.
+
+306
+00:32:28,083 --> 00:32:31,666
+Apa ini cara kaummu
+mengatasi rasa kesepian?
+
+307
+00:32:32,666 --> 00:32:34,333
+Salah satunya, kurasa.
+
+308
+00:32:39,750 --> 00:32:41,458
+Dia kenal suaminya.
+
+309
+00:32:42,000 --> 00:32:48,458
+Karakternya yang menjadikannya orang tepat
+untuk hidup setahun sendirian di antariksa
+
+310
+00:32:48,541 --> 00:32:51,833
+memang menandakan Jakub memang aneh.
+
+311
+00:32:55,708 --> 00:32:57,041
+Lenka mau bicara denganmu?
+
+312
+00:33:00,250 --> 00:33:02,833
+Dia hamil tua dan sangat kesepian.
+
+313
+00:33:04,125 --> 00:33:06,041
+Saat sendirian, orang merenung.
+
+314
+00:33:09,000 --> 00:33:11,250
+Waktu merenungnya sudah terlalu banyak.
+
+315
+00:33:23,041 --> 00:33:24,750
+Ada yang harus kita lakukan.
+
+316
+00:33:26,666 --> 00:33:28,250
+<i>Kau punya waktu untuk ini?</i>
+
+317
+00:33:31,541 --> 00:33:33,541
+Kupikir kau akan menatap awanmu.
+
+318
+00:33:33,625 --> 00:33:34,708
+<i>Jakub.</i>
+
+319
+00:33:37,333 --> 00:33:38,375
+<i>Jakub.</i>
+
+320
+00:33:39,833 --> 00:33:41,083
+Apa?
+
+321
+00:33:41,166 --> 00:33:44,166
+<i>Ada beberapa masalah
+pada CzechConnect Lenka.</i>
+
+322
+00:33:46,916 --> 00:33:48,250
+- Baik.
+- Kemarilah.
+
+323
+00:33:49,708 --> 00:33:51,125
+Kapan akan diperbaiki?
+
+324
+00:33:51,208 --> 00:33:53,000
+<i>Ahli teknik sedang tangani.</i>
+
+325
+00:33:54,916 --> 00:33:57,666
+Begitu? Terima kasih.
+
+326
+00:33:57,750 --> 00:33:59,916
+Peter, aku harus lanjut bekerja.
+
+327
+00:34:01,125 --> 00:34:02,291
+<i>Silakan.</i>
+
+328
+00:34:19,500 --> 00:34:23,666
+Awan ini juga indah bagimu?
+
+329
+00:34:24,458 --> 00:34:28,000
+Awan ini berisi banyak kebijaksanaan,
+Manusia Kurus.
+
+330
+00:34:29,625 --> 00:34:33,041
+Saat masih muda,
+kutangkap butiran-butirannya di lidahku.
+
+331
+00:34:34,208 --> 00:34:36,708
+Itu dari Permulaan.
+
+332
+00:34:37,500 --> 00:34:39,000
+Partikel-partikel ini...
+
+333
+00:34:41,083 --> 00:34:43,458
+Dari awal mulanya semesta?
+
+334
+00:34:44,416 --> 00:34:46,500
+Itukah Chopra?
+
+335
+00:34:47,500 --> 00:34:48,625
+Mungkin.
+
+336
+00:34:49,958 --> 00:34:51,458
+Kau ada saat itu?
+
+337
+00:34:54,375 --> 00:34:55,708
+Berapa usiamu?
+
+338
+00:34:57,916 --> 00:34:59,500
+Apa kaummu tak mati?
+
+339
+00:35:00,250 --> 00:35:03,708
+Semua yang bermula harus berakhir,
+Manusia Kurus.
+
+340
+00:35:04,625 --> 00:35:06,583
+Bahkan begitu pun alam semesta.
+
+341
+00:35:09,875 --> 00:35:11,416
+Ia menarik kita masuk.
+
+342
+00:35:12,625 --> 00:35:14,375
+Apa ada sesuatu di dalam?
+
+343
+00:35:15,458 --> 00:35:16,458
+Ya.
+
+344
+00:35:18,166 --> 00:35:19,416
+Apa?
+
+345
+00:35:21,125 --> 00:35:22,375
+Permulaan.
+
+346
+00:35:24,166 --> 00:35:25,333
+Permulaan...
+
+347
+00:35:28,500 --> 00:35:29,666
+Apa ini?
+
+348
+00:35:38,875 --> 00:35:40,500
+Aku punya tawaran untukmu.
+
+349
+00:35:42,041 --> 00:35:43,291
+Kau ikut aku.
+
+350
+00:35:44,041 --> 00:35:45,666
+Aku ikut kau.
+
+351
+00:35:45,750 --> 00:35:46,791
+Sepakat?
+
+352
+00:35:47,833 --> 00:35:48,958
+Ya.
+
+353
+00:35:50,833 --> 00:35:52,458
+Ke mana kau membawaku?
+
+354
+00:35:52,541 --> 00:35:53,541
+Percaya kepadaku!
+
+355
+00:35:55,750 --> 00:35:57,500
+Baik, aku ikut ke mana kau pergi.
+
+356
+00:35:58,541 --> 00:36:00,125
+Aku tak mengerti.
+
+357
+00:36:00,833 --> 00:36:04,125
+Kenapa berkomitmen pada janji
+jika bisa mudah diingkari?
+
+358
+00:36:04,875 --> 00:36:07,958
+Apa tujuan komitmen macam itu?
+
+359
+00:36:08,041 --> 00:36:09,958
+Apa kau yang membentuk pikiran ini?
+
+360
+00:36:10,791 --> 00:36:11,791
+<i>Tidak.</i>
+
+361
+00:36:13,416 --> 00:36:15,250
+<i>Ini pikiran-pikiranmu.</i>
+
+362
+00:36:17,250 --> 00:36:19,958
+Aku hanya menemukannya bersamamu.
+
+363
+00:36:20,041 --> 00:36:21,500
+Tidak.
+
+364
+00:36:23,083 --> 00:36:24,458
+Aku tak mengizinkan itu.
+
+365
+00:36:26,583 --> 00:36:28,041
+<i>Hentikan itu.</i>
+
+366
+00:36:29,208 --> 00:36:31,458
+Kenapa kau melawan eksplorasi ini?
+
+367
+00:36:33,083 --> 00:36:34,416
+Biar aku membantumu.
+
+368
+00:36:35,541 --> 00:36:36,875
+Aku tak suka air.
+
+369
+00:36:38,375 --> 00:36:39,291
+Aku penjaga pantai.
+
+370
+00:36:39,375 --> 00:36:40,666
+Aku bisa menjadi itu.
+
+371
+00:36:42,166 --> 00:36:43,666
+Aku akan menyelamatkanmu.
+
+372
+00:36:43,750 --> 00:36:47,625
+<i>Kau hanya merindukan pasanganmu
+begitu dia pergi.</i>
+
+373
+00:36:47,708 --> 00:36:49,125
+Terserah kau saja.
+
+374
+00:36:49,708 --> 00:36:50,958
+<i>Kenapa?</i>
+
+375
+00:36:52,458 --> 00:36:55,125
+<i>Di mana kerinduan itu saat kalian bersama?</i>
+
+376
+00:36:58,791 --> 00:37:00,750
+Aku tak punya jawaban untukmu.
+
+377
+00:37:13,958 --> 00:37:17,083
+Perselisihan dengan Lenka-mu ini.
+
+378
+00:37:18,291 --> 00:37:20,958
+Menggugah sesuatu
+yang tak kukenal di dalamku.
+
+379
+00:37:22,750 --> 00:37:27,750
+Kenanganmu membuatku depresi?
+
+380
+00:37:30,208 --> 00:37:32,208
+Namun, selai kacang hazel ini
+
+381
+00:37:32,291 --> 00:37:35,208
+mengurangi ketidaknyamanan
+dari kesadaranku.
+
+382
+00:37:38,666 --> 00:37:41,208
+Jika begitu,
+mungkin harus sisakan untuk nanti.
+
+383
+00:37:56,916 --> 00:37:59,291
+Pernah merasa kau akan menguap?
+
+384
+00:38:04,333 --> 00:38:05,791
+Begitu yang kurasakan.
+
+385
+00:38:09,375 --> 00:38:10,541
+Aku punya harapan.
+
+386
+00:38:15,000 --> 00:38:16,333
+Bahwa akan segera membaik.
+
+387
+00:38:20,125 --> 00:38:22,583
+Aku akan menata diri.
+Aku tak akan menguap.
+
+388
+00:38:26,208 --> 00:38:30,333
+Hanya saja, dia tak bisa melihatku.
+
+389
+00:38:33,000 --> 00:38:35,208
+Tak lihat jelas. Dunia di bawah sini...
+
+390
+00:38:37,333 --> 00:38:38,916
+Kita hanya titik-titik.
+
+391
+00:38:44,958 --> 00:38:48,000
+- Kau bukan titik.
+- Aku tahu.
+
+392
+00:38:49,041 --> 00:38:50,458
+Aku sudah menyadari itu.
+
+393
+00:38:52,125 --> 00:38:53,375
+Aku sungguh ada.
+
+394
+00:38:57,333 --> 00:38:59,625
+Membesarkan anak sendirian itu sulit.
+
+395
+00:39:12,291 --> 00:39:15,166
+Sudah pikirkan
+yang akan kau katakan kepada putrimu?
+
+396
+00:39:17,833 --> 00:39:19,625
+Aku akan beri tahu sejujurnya.
+
+397
+00:39:23,541 --> 00:39:28,166
+Saat menikahi ayahnya, aku mencintainya.
+
+398
+00:39:31,500 --> 00:39:33,750
+Aku mencintai ayahnya yang ambisius.
+
+399
+00:39:40,541 --> 00:39:41,750
+Ternyata aku salah.
+
+400
+00:39:45,291 --> 00:39:47,291
+Anak muda selalu salah.
+
+401
+00:39:48,708 --> 00:39:51,041
+Semua orang memang selalu salah.
+
+402
+00:40:10,250 --> 00:40:11,458
+Kau punya nama?
+
+403
+00:40:12,791 --> 00:40:14,375
+Aku harus panggil apa?
+
+404
+00:40:15,083 --> 00:40:17,458
+Aku tak pernah punya nama.
+
+405
+00:40:18,375 --> 00:40:20,791
+Apa membantu jika kau memberiku nama?
+
+406
+00:40:20,875 --> 00:40:22,166
+Ya.
+
+407
+00:40:22,875 --> 00:40:24,708
+Jika begitu, beri aku nama.
+
+408
+00:40:25,541 --> 00:40:27,958
+Ada nama yang mencerminkanku?
+
+409
+00:40:31,833 --> 00:40:32,958
+Kalau Hanus?
+
+410
+00:40:33,916 --> 00:40:35,541
+Hanus...
+
+411
+00:40:37,208 --> 00:40:39,041
+<i>Ayahku cerita soal dia.</i>
+
+412
+00:40:40,625 --> 00:40:43,416
+Dia membuat jam astronomi di Praha.
+
+413
+00:40:44,583 --> 00:40:48,333
+<i>Jam itu mengukur
+pergerakan bintang dan planet.</i>
+
+414
+00:40:48,416 --> 00:40:50,541
+Tak ada yang serupa dengannya di dunia.
+
+415
+00:40:50,625 --> 00:40:52,958
+Apa yang terjadi dengan Hanus?
+
+416
+00:40:53,583 --> 00:40:55,875
+Ada raja yang mencungkil matanya.
+
+417
+00:40:57,208 --> 00:41:00,875
+<i>Kurasa karena iri.
+Itu mengancam legasinya.</i>
+
+418
+00:41:02,083 --> 00:41:03,166
+Aneh.
+
+419
+00:41:04,291 --> 00:41:06,333
+Lalu mesin penunjuk waktunya?
+
+420
+00:41:06,416 --> 00:41:07,708
+Kini berfungsi.
+
+421
+00:41:09,416 --> 00:41:12,041
+Namun, aku tak yakin apa Hanus yang buat,
+
+422
+00:41:13,125 --> 00:41:15,083
+atau orang lain,
+
+423
+00:41:16,916 --> 00:41:19,375
+<i>atau apa Hanus sungguh ada.</i>
+
+424
+00:41:22,208 --> 00:41:24,458
+Maka panggil aku "Hanus".
+
+425
+00:41:26,916 --> 00:41:27,958
+Bagus.
+
+426
+00:41:29,041 --> 00:41:30,250
+Hanus.
+
+427
+00:42:09,083 --> 00:42:12,250
+Ini opera tragis?
+
+428
+00:42:13,291 --> 00:42:14,583
+berkisah tentang apa?
+
+429
+00:42:15,125 --> 00:42:16,833
+Ini Rusalka.
+
+430
+00:42:17,541 --> 00:42:20,708
+Peri air perempuan
+yang jatuh cinta dengan pria fana.
+
+431
+00:42:21,666 --> 00:42:23,083
+Mereka tak bisa bersatu.
+
+432
+00:42:23,875 --> 00:42:27,125
+Kau menyamakan dirimu
+dengan kekasih tak berjodoh ini.
+
+433
+00:42:30,125 --> 00:42:31,250
+<i>Jangan takut.</i>
+
+434
+00:42:32,416 --> 00:42:34,791
+Aku kosmonaut dalam pelatihan.
+Tak pernah takut.
+
+435
+00:42:36,541 --> 00:42:38,750
+Kau selalu ingin menjadi kosmonaut?
+
+436
+00:42:39,625 --> 00:42:41,833
+Seharusnya aku beternak babi.
+
+437
+00:42:42,625 --> 00:42:43,875
+<i>Sungguh?</i>
+
+438
+00:42:45,500 --> 00:42:48,416
+Setelah ayahku mati,
+impianku menjadi lebih besar.
+
+439
+00:42:50,708 --> 00:42:52,083
+Ayahku juga sudah mati.
+
+440
+00:42:55,583 --> 00:42:56,833
+Ke mana kau membawaku?
+
+441
+00:42:57,833 --> 00:43:00,875
+Kupikir kau mungkin mau lihat sesuatu.
+
+442
+00:43:01,458 --> 00:43:02,625
+Apa ini?
+
+443
+00:43:03,375 --> 00:43:05,125
+Tempat rahasia.
+
+444
+00:43:06,250 --> 00:43:08,958
+Dahulu, ada begitu banyak cinta.
+
+445
+00:43:10,416 --> 00:43:11,708
+Ke mana itu semua?
+
+446
+00:43:12,291 --> 00:43:14,791
+Tolong berhenti melakukan ini kepadaku.
+
+447
+00:43:14,875 --> 00:43:18,291
+Kita harus bertahan, Manusia Kurus.
+
+448
+00:43:53,666 --> 00:43:57,416
+<i>Warga sekalian, kamerad terkasih.</i>
+
+449
+00:43:58,041 --> 00:44:03,208
+<i>Rakyat sudah tak memercayai
+kuasa partai Komunis lagi.</i>
+
+450
+00:44:03,291 --> 00:44:09,125
+<i>Hari ini, aku bicara untuk memastikan
+kita bisa menghindari negara tak berhukum.</i>
+
+451
+00:44:09,833 --> 00:44:15,916
+<i>Aku mundur dari jabatanku sebagai Presiden
+Republik Sosialis Cekoslowakia.</i>
+
+452
+00:44:17,166 --> 00:44:22,125
+<i>Aku mendoakan perkembangan demokratis
+yang sukses bagi negara dan rakyat kita.</i>
+
+453
+00:44:49,250 --> 00:44:52,333
+Kau mendengarkan itu di sini semalaman?
+
+454
+00:44:52,416 --> 00:44:54,583
+Getarannya menenangkan bagiku.
+
+455
+00:44:55,416 --> 00:44:57,875
+Awalnya, aku memasuki pikiranmu
+bersama kau.
+
+456
+00:44:57,958 --> 00:45:00,583
+Namun, aku merasa tak nyaman.
+
+457
+00:45:01,125 --> 00:45:03,750
+Kaummu menanggung
+beban berat rasa bersalah.
+
+458
+00:45:04,333 --> 00:45:05,666
+Kaummu tidak?
+
+459
+00:45:05,750 --> 00:45:07,875
+Tidak. Untuk apa?
+
+460
+00:45:08,625 --> 00:45:11,250
+Alam semesta sudah seperti seharusnya.
+
+461
+00:45:13,958 --> 00:45:17,166
+Aku mencabut laranganmu
+memasuki ruang ini, Hanus.
+
+462
+00:45:18,458 --> 00:45:19,708
+Agar kau bisa tenang.
+
+463
+00:45:31,041 --> 00:45:33,583
+Apa tujuan dari aksimu ini?
+
+464
+00:45:33,666 --> 00:45:37,291
+Aku harus lakukan ini dua jam sehari
+agar tulangku tak membusuk.
+
+465
+00:45:41,458 --> 00:45:44,250
+Kau memilih kabur dari planetmu,
+
+466
+00:45:44,333 --> 00:45:46,541
+tetapi tindakan itu berbahaya bagimu.
+
+467
+00:45:50,458 --> 00:45:53,166
+Ayahmu. Boleh aku bertanya tentang ayahmu?
+
+468
+00:45:59,791 --> 00:46:00,833
+Soal apa?
+
+469
+00:46:01,458 --> 00:46:02,541
+Apa yang menimpanya?
+
+470
+00:46:06,666 --> 00:46:09,250
+Dia dibunuh
+atas apa yang dia yakini benar.
+
+471
+00:46:10,000 --> 00:46:12,000
+Ayahmu seorang martir?
+
+472
+00:46:12,583 --> 00:46:14,875
+Dia memihak yang salah dalam sejarah.
+
+473
+00:46:14,958 --> 00:46:15,916
+Ayah!
+
+474
+00:46:16,000 --> 00:46:18,625
+<i>Ayahku adalah pria baik
+yang berbuat buruk.</i>
+
+475
+00:46:19,458 --> 00:46:21,500
+<i>Dia informan Partai.</i>
+
+476
+00:46:23,583 --> 00:46:27,958
+Kau percaya misi besar ini
+akan menebus dosa-dosa ayahmu.
+
+477
+00:46:30,208 --> 00:46:33,708
+Kau harus lebih fokus
+pada orang yang hidup, Manusia Kurus.
+
+478
+00:46:34,583 --> 00:46:37,625
+Kini giliranmu menjadi seorang ayah.
+
+479
+00:47:00,833 --> 00:47:04,041
+Sayang, ada yang mau menemuimu.
+
+480
+00:47:10,333 --> 00:47:12,041
+<i>Kau mau meninggalkan suamimu?</i>
+
+481
+00:47:16,250 --> 00:47:17,750
+Aku sudah meninggalkan dia.
+
+482
+00:47:17,833 --> 00:47:21,041
+Tidak, kau meninggalkan pesan.
+
+483
+00:47:21,750 --> 00:47:24,625
+Namun, aku belum sampaikan kepadanya.
+
+484
+00:47:27,291 --> 00:47:28,458
+Tentu saja.
+
+485
+00:47:29,125 --> 00:47:31,583
+Tugasku adalah melindunginya.
+
+486
+00:47:32,958 --> 00:47:35,458
+Aku berusaha melindungi ibu anaknya.
+
+487
+00:47:37,750 --> 00:47:39,291
+Misimu aman.
+
+488
+00:47:39,375 --> 00:47:41,416
+Kujamin Jakub akan baik-baik saja.
+
+489
+00:47:42,333 --> 00:47:44,000
+Dia sanggup sendirian.
+
+490
+00:47:45,041 --> 00:47:47,458
+Aku yakin pasti sulit hidup dengannya.
+
+491
+00:47:48,791 --> 00:47:50,125
+Dia sedang tidak baik.
+
+492
+00:47:52,500 --> 00:47:54,708
+Apa artinya? "Dia sedang tak baik"?
+
+493
+00:47:56,125 --> 00:47:57,541
+Dia merindukan istrinya.
+
+494
+00:47:59,666 --> 00:48:01,166
+Seharusnya jangan pergi.
+
+495
+00:48:04,708 --> 00:48:07,000
+Aku tak akan menyampaikan pesanmu.
+
+496
+00:48:09,625 --> 00:48:14,708
+Ada tim di rumahmu
+yang sedang mematikan CzechConnect.
+
+497
+00:48:16,083 --> 00:48:18,666
+Jika kau tak mau lindungi Jakub,
+aku akan lakukan.
+
+498
+00:48:20,208 --> 00:48:22,791
+Saat ini, dia harus percaya
+
+499
+00:48:22,875 --> 00:48:25,291
+bahwa kalian masih saling mencintai.
+
+500
+00:48:25,375 --> 00:48:27,041
+Aku tak yakin dia masih cinta.
+
+501
+00:48:29,833 --> 00:48:33,208
+Jangan tinggalkan suamimu
+saat dia dalam tempat berbahaya.
+
+502
+00:48:33,291 --> 00:48:35,208
+Aku tak menempatkannya di situ.
+
+503
+00:48:36,958 --> 00:48:39,208
+Kenapa tak bisa tunggu sampai dia pulang?
+
+504
+00:48:41,416 --> 00:48:43,083
+Maaf. Aku tak bisa membantumu.
+
+505
+00:48:51,083 --> 00:48:55,375
+Kau tahu, Lenka,
+kesunyian itu yang penting.
+
+506
+00:48:57,916 --> 00:48:58,875
+Apa?
+
+507
+00:48:59,916 --> 00:49:03,083
+"Kita sama-sama di CzechConnect
+dan sama-sama sunyi.
+
+508
+00:49:03,166 --> 00:49:04,416
+Jadi, apa gunanya?"
+
+509
+00:49:05,708 --> 00:49:07,750
+Kesunyian itulah yang penting.
+
+510
+00:49:09,208 --> 00:49:12,041
+Kalian berdua, bersama,
+
+511
+00:49:12,125 --> 00:49:15,958
+sunyi, tersesat, takut, dalam kegelapan.
+
+512
+00:49:16,583 --> 00:49:17,666
+Bertahan.
+
+513
+00:49:19,083 --> 00:49:20,666
+Justru itu yang penting.
+
+514
+00:49:33,333 --> 00:49:34,708
+<i>Kecepatan di nol.</i>
+
+515
+00:49:35,375 --> 00:49:37,000
+<i>Konfirmasi SSR.</i>
+
+516
+00:49:39,583 --> 00:49:42,625
+SSR di target. Rotasi 12 derajat.
+
+517
+00:49:42,708 --> 00:49:44,541
+FSC aktif.
+
+518
+00:49:46,625 --> 00:49:48,083
+Kontak. Selesai.
+
+519
+00:49:50,541 --> 00:49:54,666
+<i>Simulasi Pengumpulan FERDA,
+Skenario Beta 3-3 selesai.</i>
+
+520
+00:49:54,750 --> 00:49:56,666
+<i>Bagus, Komandan. Itu sempurna.</i>
+
+521
+00:49:57,791 --> 00:50:00,125
+Sudah enam bulan di ini.
+Aku tahu ini, Peter.
+
+522
+00:50:00,791 --> 00:50:03,625
+<i>Aku tahu, tetapi masih 45 jam lagi.</i>
+
+523
+00:50:04,625 --> 00:50:06,000
+<i>Kau yang pertama tiba.</i>
+
+524
+00:50:07,333 --> 00:50:09,041
+<i>Kami sangat bangga kepadamu.</i>
+
+525
+00:50:09,750 --> 00:50:10,750
+Ya.
+
+526
+00:50:17,875 --> 00:50:18,833
+<i>Halo?</i>
+
+527
+00:50:20,041 --> 00:50:21,458
+<i>Bumi memanggil Jakub?</i>
+
+528
+00:50:21,541 --> 00:50:25,708
+Bisa berhenti? Aku tak punya waktu.
+
+529
+00:50:26,375 --> 00:50:28,125
+Itu bukan ulahku.
+
+530
+00:50:30,250 --> 00:50:31,375
+<i>Kau di situ?</i>
+
+531
+00:50:34,208 --> 00:50:35,333
+<i>Aku minta maaf.</i>
+
+532
+00:50:36,833 --> 00:50:39,791
+<i>Aku hanya lelah dan kesepian.</i>
+
+533
+00:50:40,500 --> 00:50:41,541
+<i>Aku tahu rasanya.</i>
+
+534
+00:50:42,666 --> 00:50:43,666
+<i>Aku tahu.</i>
+
+535
+00:50:45,083 --> 00:50:47,041
+<i>Mungkin kau bisa bicara kepadaku.</i>
+
+536
+00:50:48,833 --> 00:50:50,500
+<i>Kau mau bicara apa?</i>
+
+537
+00:50:51,708 --> 00:50:52,666
+<i>Apa saja.</i>
+
+538
+00:50:52,750 --> 00:50:54,041
+Apa ini?
+
+539
+00:50:54,583 --> 00:50:56,083
+<i>Beri tahu aku rahasia.</i>
+
+540
+00:50:56,791 --> 00:50:57,708
+<i>Lenka, tolong.</i>
+
+541
+00:50:58,541 --> 00:51:01,375
+Ini obrolan lama dari berbulan-bulan lalu.
+
+542
+00:51:01,458 --> 00:51:02,458
+<i>Ingat saat kau</i>
+
+543
+00:51:03,625 --> 00:51:06,750
+<i>akhirnya cerita soal kejadian
+yang menimpamu saat kecil?</i>
+
+544
+00:51:07,250 --> 00:51:08,416
+<i>Memangnya kenapa?</i>
+
+545
+00:51:09,958 --> 00:51:13,750
+<i>Soal kau dilempar ke sungai karena ayahmu?</i>
+
+546
+00:51:15,833 --> 00:51:17,833
+<i>Aku masih tak mau membahasnya.</i>
+
+547
+00:51:19,333 --> 00:51:21,958
+<i>Aku hanya berusaha memahami
+siapa dirimu, Jakub.</i>
+
+548
+00:51:22,041 --> 00:51:23,916
+Bagaimana bisa ini diputar?
+
+549
+00:51:24,000 --> 00:51:25,750
+<i>Menurutmu siapa aku?</i>
+
+550
+00:51:26,666 --> 00:51:30,083
+<i>Yang kutahu,
+kau orang yang berkata ingin pulang,</i>
+
+551
+00:51:30,875 --> 00:51:34,083
+<i>lalu berkata ingin melihat
+ada apa setelah Jupiter.</i>
+
+552
+00:51:34,583 --> 00:51:36,083
+<i>Aku tak boleh punya impian?</i>
+
+553
+00:51:37,166 --> 00:51:38,375
+Sial!
+
+554
+00:51:38,958 --> 00:51:42,708
+<i>Saat kau bermimpi, kau pergi.</i>
+
+555
+00:51:43,500 --> 00:51:44,500
+<i>Terserah.</i>
+
+556
+00:51:56,250 --> 00:51:57,583
+Hanus, apa itu...
+
+557
+00:51:57,666 --> 00:52:00,291
+Butiran dari Permulaan!
+
+558
+00:52:01,333 --> 00:52:02,666
+Itu Chopra!
+
+559
+00:52:40,375 --> 00:52:41,916
+Luar biasa!
+
+560
+00:52:42,416 --> 00:52:43,333
+Ya!
+
+561
+00:52:47,416 --> 00:52:51,000
+Tak bisa dikurung, Manusia Kurus.
+
+562
+00:52:54,666 --> 00:52:56,125
+Tidak!
+
+563
+00:53:33,208 --> 00:53:34,875
+Kau membungkam tabungku.
+
+564
+00:53:44,250 --> 00:53:47,375
+Sampahmu yang memalukan
+tak bisa menampung yang kau cari.
+
+565
+00:53:58,500 --> 00:54:01,291
+Peter, kurasa ada masalah.
+
+566
+00:54:08,375 --> 00:54:09,375
+Peter?
+
+567
+00:54:14,791 --> 00:54:16,125
+Peter, apa-apaan ini?
+
+568
+00:54:25,416 --> 00:54:27,458
+Pusat Kendali, bisa dengar?
+
+569
+00:55:14,708 --> 00:55:15,708
+Pusat Kendali?
+
+570
+00:55:19,916 --> 00:55:22,166
+Peter, bisa dengar?
+
+571
+00:55:40,875 --> 00:55:43,625
+Hanus, kau lihat itu?
+
+572
+00:55:47,583 --> 00:55:50,000
+Permulaan mendekat.
+
+573
+00:55:53,791 --> 00:55:55,208
+Apa aku perlu khawatir?
+
+574
+00:55:56,375 --> 00:55:58,958
+Kau tak perlu takut, Manusia Kurus.
+
+575
+00:56:00,125 --> 00:56:02,666
+Permulaan tak akan melukai.
+
+576
+00:56:03,791 --> 00:56:06,541
+Itu hanya tempat penyimpanan.
+
+577
+00:56:09,958 --> 00:56:10,791
+Untuk apa?
+
+578
+00:56:11,750 --> 00:56:15,583
+Kata-kata dalam bahasa sukumu
+tak bisa menggambarkan ini.
+
+579
+00:56:16,833 --> 00:56:19,500
+Mungkin kita akan mengalaminya
+
+580
+00:56:21,208 --> 00:56:22,208
+bersama.
+
+581
+00:57:07,625 --> 00:57:10,666
+Pusat Kendali, apa kalian dengar?
+
+582
+00:57:12,458 --> 00:57:13,833
+Manusia Kurus.
+
+583
+00:57:15,958 --> 00:57:19,416
+Aku harus bertanya sesuatu
+yang mungkin membuatmu kesal.
+
+584
+00:57:20,291 --> 00:57:21,375
+Apa?
+
+585
+00:57:21,916 --> 00:57:24,875
+Keturunanmu yang akan segera lahir,
+
+586
+00:57:25,958 --> 00:57:28,750
+kenapa itu membuat Lenka-mu tertekan?
+
+587
+00:57:29,250 --> 00:57:30,625
+Itu tak membuatnya tertekan.
+
+588
+00:57:30,708 --> 00:57:34,875
+Namun, dia merasa ketakutan.
+
+589
+00:57:34,958 --> 00:57:38,541
+Kalian bersetubuh lagi
+untuk menciptakan keturunan ini.
+
+590
+00:57:38,625 --> 00:57:41,083
+Kalian membahas
+keturunan ini dengan gembira.
+
+591
+00:57:41,166 --> 00:57:43,791
+Kami mengalami sesuatu yang membuat takut.
+
+592
+00:57:43,875 --> 00:57:46,041
+Tunjukkan kepadaku, Manusia Kurus.
+
+593
+00:57:47,333 --> 00:57:48,583
+Aku tak ada saat itu.
+
+594
+00:58:19,958 --> 00:58:23,416
+Hanus, bagaimana bisa aku melihat ini?
+
+595
+00:58:25,291 --> 00:58:26,291
+Aku tak ada saat itu.
+
+596
+00:58:28,041 --> 00:58:30,541
+Pikiranmu pernah di sana, bukan?
+
+597
+00:58:31,375 --> 00:58:33,750
+Kejadiannya pernah digambarkan kepadamu?
+
+598
+00:58:40,125 --> 00:58:41,750
+Aku hanya ingin kau pulang.
+
+599
+00:58:42,375 --> 00:58:43,916
+Kau tahu aku tak bisa.
+
+600
+00:58:44,000 --> 00:58:45,375
+<i>Aku yakin kau bisa.</i>
+
+601
+00:58:46,583 --> 00:58:49,916
+<i>Lenka, apa kata dr. Cerný?</i>
+
+602
+00:58:50,875 --> 00:58:54,750
+Kau tak hadir saat pasanganmu
+kehilangan keturunan pertama kalian.
+
+603
+00:58:56,125 --> 00:58:58,458
+Setelah itu pun kau tak hadir.
+
+604
+00:59:00,291 --> 00:59:02,125
+Itu menghancurkan jiwaku.
+
+605
+00:59:03,541 --> 00:59:05,500
+<i>Aku sangat kesepian, Jakub.</i>
+
+606
+00:59:05,583 --> 00:59:07,166
+Sial!
+
+607
+00:59:08,541 --> 00:59:10,041
+Ada keadaan darurat.
+
+608
+00:59:10,125 --> 00:59:11,500
+Nanti kutelepon balik.
+
+609
+00:59:12,166 --> 00:59:13,125
+<i>Pasti.</i>
+
+610
+00:59:13,833 --> 00:59:15,083
+CzechConnect menghubung...
+
+611
+00:59:20,750 --> 00:59:24,500
+Dia mengandung anakmu lagi
+dan kau tak hadir lagi.
+
+612
+00:59:26,791 --> 00:59:27,875
+Untuk apa?
+
+613
+00:59:29,125 --> 00:59:34,666
+Derita yang timbul dari itu,
+apa berharga bagimu?
+
+614
+00:59:49,583 --> 00:59:51,500
+<i>Kami merasa terhormat kau ada di sini.</i>
+
+615
+00:59:52,041 --> 00:59:55,125
+<i>Aku yakin kehadiranku
+sama dengan yang lain, tapi terima kasih.</i>
+
+616
+00:59:55,916 --> 01:00:00,375
+Tentu, tetapi kami berkata ini
+kepada semua penghuni dan kami tulus.
+
+617
+01:00:01,166 --> 01:00:02,583
+Kami hanya menjalani tugas.
+
+618
+01:00:03,208 --> 01:00:05,250
+Baik karena pilihan atau keharusan,
+
+619
+01:00:05,333 --> 01:00:07,750
+pasti tak mudah menanggung ini sendirian.
+
+620
+01:00:09,208 --> 01:00:12,750
+Útočiště bisa menjadi suaka
+maupun pedalaman,
+
+621
+01:00:13,416 --> 01:00:15,125
+terserah apa yang kau perlu.
+
+622
+01:00:15,625 --> 01:00:16,791
+Terima kasih.
+
+623
+01:00:46,125 --> 01:00:51,458
+Dengan semua temuan kita,
+kau masih fokus pada temuan besarmu.
+
+624
+01:00:52,250 --> 01:00:54,708
+Aku fokus mencari cara
+menghubungi Pusat Kendali.
+
+625
+01:00:57,041 --> 01:00:58,833
+Kita belum selesai.
+
+626
+01:01:00,958 --> 01:01:03,000
+<i>Setidaknya kau turut senang untukku?</i>
+
+627
+01:01:04,333 --> 01:01:05,500
+Tentu saja.
+
+628
+01:01:06,458 --> 01:01:08,541
+Aku senang dan bangga kepadamu.
+
+629
+01:01:10,041 --> 01:01:11,416
+<i>Mereka memilihmu.</i>
+
+630
+01:01:13,041 --> 01:01:14,750
+Kita pasti bisa.
+
+631
+01:01:14,833 --> 01:01:17,750
+Kita menjalani ini bersama. Kau dan aku.
+
+632
+01:01:19,166 --> 01:01:20,541
+Berjanjilah satu hal.
+
+633
+01:01:21,250 --> 01:01:24,500
+Bahwa kita tetap akan lakukan
+semua hal yang kita bahas.
+
+634
+01:01:25,500 --> 01:01:28,541
+Tentu. Aku berjanji.
+
+635
+01:01:30,666 --> 01:01:33,000
+<i>Dia merasakan kebohonganmu.</i>
+
+636
+01:01:34,333 --> 01:01:36,500
+<i>Kau tak tahu apa yang kau ucapkan.</i>
+
+637
+01:01:38,833 --> 01:01:40,916
+Kau menyambut kesedihannya.
+
+638
+01:01:41,916 --> 01:01:44,250
+Semua janji yang diingkari ini,
+
+639
+01:01:45,000 --> 01:01:48,291
+kecuali satu janjimu
+terkait temuan besarmu.
+
+640
+01:01:49,791 --> 01:01:51,958
+Bagaimana bisa kau gagal menyadari
+
+641
+01:01:52,041 --> 01:01:55,041
+bahwa kelak dia tak akan
+memercayaimu lagi?
+
+642
+01:02:15,375 --> 01:02:16,791
+Ayolah.
+
+643
+01:02:20,416 --> 01:02:21,583
+<i>Ini Peter.</i>
+
+644
+01:02:21,666 --> 01:02:24,291
+Peter, ini Jakub.
+Kuhubungi dari CzechConnect.
+
+645
+01:02:24,375 --> 01:02:26,500
+Kutemukan cara konfigurasi ulang.
+
+646
+01:02:26,583 --> 01:02:29,458
+Radionya mati,
+tetapi tampaknya ini berfungsi.
+
+647
+01:02:30,375 --> 01:02:33,166
+Entah apa kau bisa dengar aku. Peter?
+
+648
+01:02:34,416 --> 01:02:36,416
+<i>Kami pikir komunikasi telah terputus.</i>
+
+649
+01:02:36,500 --> 01:02:38,875
+<i>Semua di sini mengurusnya
+sejak komunikasi mati.</i>
+
+650
+01:02:38,958 --> 01:02:41,208
+<i>Kau meretas CzechConnect? Luar biasa.</i>
+
+651
+01:02:41,291 --> 01:02:42,125
+Ya.
+
+652
+01:02:42,208 --> 01:02:45,125
+Kau baik-baik saja? Pesawatnya aman?
+
+653
+01:02:45,208 --> 01:02:46,541
+<i>Ya, semuanya...</i>
+
+654
+01:02:53,375 --> 01:02:55,250
+Ada lagi yang ingin kulihat.
+
+655
+01:02:57,166 --> 01:02:59,583
+<i>Tolong jangan terus berkata
+semua akan baik-baik saja.</i>
+
+656
+01:03:00,375 --> 01:03:01,458
+Memang akan begitu.
+
+657
+01:03:02,500 --> 01:03:04,250
+Kau terlalu cemas.
+
+658
+01:03:05,791 --> 01:03:09,333
+Aku tahu ini setahun,
+tetapi kita tahu cara melaluinya.
+
+659
+01:03:10,750 --> 01:03:12,541
+Banyak yang terjadi saat sendirian.
+
+660
+01:03:16,166 --> 01:03:17,541
+<i>Kita akan melaluinya.</i>
+
+661
+01:03:18,375 --> 01:03:19,708
+<i>Ini kali terakhir.</i>
+
+662
+01:03:21,041 --> 01:03:22,791
+<i>Kau juga terus berkata begitu.</i>
+
+663
+01:03:25,625 --> 01:03:26,875
+<i>Apa kau takut?</i>
+
+664
+01:03:27,625 --> 01:03:30,583
+<i>Sudah kubilang,
+tak ada yang perlu ditakuti.</i>
+
+665
+01:03:31,916 --> 01:03:33,791
+<i>Kau tak pernah pikirkan akibatnya?</i>
+
+666
+01:03:35,416 --> 01:03:37,375
+<i>Harga yang kita bayar atas semua ini?</i>
+
+667
+01:03:38,125 --> 01:03:39,125
+<i>Kau dan aku.</i>
+
+668
+01:03:40,166 --> 01:03:42,708
+Aku khawatir
+karena tak tahu situasinya kelak.
+
+669
+01:03:43,791 --> 01:03:44,916
+Kenapa kau tidak?
+
+670
+01:03:48,458 --> 01:03:52,583
+Dengan keyakinan besar, kau bahkan
+tak berusaha mengerti pasanganmu.
+
+671
+01:03:53,333 --> 01:03:54,500
+Apa akibatnya?
+
+672
+01:03:55,041 --> 01:03:57,666
+Pasti mustahil terhubung dengan orang
+
+673
+01:03:57,750 --> 01:04:00,416
+yang tak mau melihat apa pun
+selain dirinya,
+
+674
+01:04:00,500 --> 01:04:04,541
+yang hanya mau berhubungan
+saat dia sendiri sedang butuh.
+
+675
+01:04:04,625 --> 01:04:07,166
+Awalnya kupikir begitulah sifat kaummu,
+
+676
+01:04:07,250 --> 01:04:09,583
+egois dan berpikiran sempit.
+
+677
+01:04:09,666 --> 01:04:12,416
+Namun, melalui Lenka-mu,
+kini aku mengerti.
+
+678
+01:04:13,583 --> 01:04:14,708
+Ternyata kau.
+
+679
+01:04:15,500 --> 01:04:18,458
+Kesendirianmu adalah
+akibat perbuatanmu sendiri.
+
+680
+01:04:21,416 --> 01:04:23,541
+Silakan melanjutkan misimu.
+
+681
+01:04:25,000 --> 01:04:27,041
+Apa? Hanus!
+
+682
+01:04:27,125 --> 01:04:29,625
+Rasa tertarikku kepadamu telah sirna.
+
+683
+01:04:30,375 --> 01:04:31,500
+Kau tak bisa pergi.
+
+684
+01:04:33,666 --> 01:04:34,875
+Aku butuh kau.
+
+685
+01:04:36,208 --> 01:04:38,166
+Kau membantu! Aku mendengarkanmu!
+
+686
+01:04:38,250 --> 01:04:39,833
+Kau tak bisa dibantu.
+
+687
+01:04:40,416 --> 01:04:41,458
+Tidak!
+
+688
+01:04:43,875 --> 01:04:46,333
+Aku lebih suka kau tak menyentuhku.
+
+689
+01:04:56,583 --> 01:04:57,833
+Kau tak boleh pergi.
+
+690
+01:05:00,875 --> 01:05:01,750
+Aku perlu...
+
+691
+01:05:01,833 --> 01:05:05,166
+Kau perlu kembali
+dengan temuan yang berbeda,
+
+692
+01:05:05,916 --> 01:05:08,291
+tetapi kau hanya bisa melihat dirimu.
+
+693
+01:05:09,291 --> 01:05:11,583
+Semoga sukses, Manusia Kurus.
+
+694
+01:05:13,458 --> 01:05:14,666
+Hanus.
+
+695
+01:05:15,708 --> 01:05:18,041
+Tidak! Tunggu!
+
+696
+01:05:40,458 --> 01:05:41,458
+Hanus?
+
+697
+01:06:02,125 --> 01:06:03,541
+Hanus, kumohon.
+
+698
+01:06:05,250 --> 01:06:06,791
+Aku rela lakukan apa pun.
+
+699
+01:06:08,375 --> 01:06:10,958
+Hanus, kumohon. Aku berjanji.
+
+700
+01:06:25,208 --> 01:06:26,375
+<i>Apa ini?</i>
+
+701
+01:06:28,000 --> 01:06:29,416
+Tempat rahasia.
+
+702
+01:06:30,416 --> 01:06:31,833
+Bagaimana menurutmu?
+
+703
+01:06:32,583 --> 01:06:34,375
+Kurasa aku mau tinggal di sini.
+
+704
+01:06:37,875 --> 01:06:40,291
+<i>Mungkin kau mau menjalani misi bersama.</i>
+
+705
+01:06:42,125 --> 01:06:44,125
+<i>Mungkin kau mau bertukar rahasia.</i>
+
+706
+01:06:48,083 --> 01:06:49,708
+Mungkin kau mau menciumku.
+
+707
+01:06:51,333 --> 01:06:52,416
+Aku mau.
+
+708
+01:06:54,083 --> 01:06:55,166
+Bagus.
+
+709
+01:09:03,458 --> 01:09:04,458
+<i>Peter!</i>
+
+710
+01:09:04,541 --> 01:09:06,750
+Apa-apaan? Kau ke mana saja?
+
+711
+01:09:07,291 --> 01:09:10,375
+<i>Semua panik hebat di sini.
+Kau pasti tahu alasannya.</i>
+
+712
+01:09:10,458 --> 01:09:12,333
+Peter, semuanya baik-baik saja.
+
+713
+01:09:13,125 --> 01:09:15,083
+Tak ada yang melenceng dari rencana.
+
+714
+01:09:15,166 --> 01:09:17,833
+Pesawat beroperasi
+sesuai tujuan rancangannya.
+
+715
+01:09:18,791 --> 01:09:22,541
+Ada protokol yang ditetapkan
+untuk mengatasi putus komunikasi
+
+716
+01:09:22,625 --> 01:09:25,083
+dan kuikuti semua langkah
+yang sudah dilatih,
+
+717
+01:09:25,166 --> 01:09:27,125
+termasuk memperbaiki masalahnya.
+
+718
+01:09:27,208 --> 01:09:28,666
+Tenanglah.
+
+719
+01:09:29,541 --> 01:09:30,708
+Lain kali, kabari.
+
+720
+01:09:31,750 --> 01:09:35,416
+Sebelum melanjutkan,
+aku mau kau menemui Lenka.
+
+721
+01:09:37,208 --> 01:09:38,750
+Apa? Kenapa?
+
+722
+01:09:38,833 --> 01:09:40,458
+Saat ini sedang sibuk sekali.
+
+723
+01:09:40,541 --> 01:09:43,041
+<i>- Korea Selatan hampir menyusulmu.</i>
+- Peter.
+
+724
+01:09:43,875 --> 01:09:45,208
+Kau akan menemuinya.
+
+725
+01:09:45,708 --> 01:09:46,750
+<i>Untuk apa?</i>
+
+726
+01:09:52,041 --> 01:09:53,500
+Lenka Prochazka?
+
+727
+01:10:11,625 --> 01:10:12,791
+Dia masih hidup.
+
+728
+01:10:13,708 --> 01:10:15,625
+Demi Tuhan, Peter!
+
+729
+01:10:19,041 --> 01:10:22,250
+Aku perlu bicara denganmu, Lenka,
+Lima menit, kumohon.
+
+730
+01:10:29,125 --> 01:10:30,750
+<i>Aku bukan mau ikut campur.</i>
+
+731
+01:10:32,958 --> 01:10:35,541
+<i>Apa pun masalahnya, urusan kalian berdua.</i>
+
+732
+01:10:38,166 --> 01:10:41,833
+Namun, demi kepentingan
+keamanan misi dan risiko-risikonya,
+
+733
+01:10:42,791 --> 01:10:46,250
+aku perlu berbuat sebisaku
+untuk meringankan beban mental Jakub.
+
+734
+01:10:47,291 --> 01:10:48,875
+Semoga kau bisa mengerti itu.
+
+735
+01:10:50,125 --> 01:10:51,166
+Peter.
+
+736
+01:10:53,291 --> 01:10:54,291
+Aku tak bisa.
+
+737
+01:10:54,875 --> 01:10:57,583
+Dia ingin kau dengar. Itu saja.
+
+738
+01:11:12,583 --> 01:11:13,750
+Kutunggu di luar.
+
+739
+01:11:19,458 --> 01:11:21,875
+<i>Lenka, semoga kau di situ.</i>
+
+740
+01:11:27,708 --> 01:11:30,333
+Kini aku mengerti. Sungguh.
+
+741
+01:11:33,125 --> 01:11:36,875
+<i>Kau ingat saat aku berkata
+aku ingin melihat setelah Jupiter?</i>
+
+742
+01:11:38,125 --> 01:11:40,791
+<i>Kini tak ada
+yang lebih buruk dari itu bagiku.</i>
+
+743
+01:11:43,416 --> 01:11:45,000
+<i>Aku hanya ingin pulang.</i>
+
+744
+01:11:48,291 --> 01:11:52,000
+<i>Saat kita pertama bertemu,
+aku merasa aman untuk pertama kalinya.</i>
+
+745
+01:11:56,250 --> 01:12:01,958
+<i>Kini aku sama sekali tak bisa mengerti
+kenapa aku terus meninggalkanmu,</i>
+
+746
+01:12:03,458 --> 01:12:05,750
+<i>padahal kau satu-satunya yang penting.</i>
+
+747
+01:12:08,791 --> 01:12:10,750
+<i>Kau berusaha keras mengenalku.</i>
+
+748
+01:12:11,250 --> 01:12:14,916
+<i>Aku sungguh minta maaf
+karena tak pernah berusaha mengenalmu.</i>
+
+749
+01:12:19,541 --> 01:12:22,916
+<i>Kau ada tepat di depanku
+dan aku tak melihatmu.</i>
+
+750
+01:12:28,083 --> 01:12:31,000
+<i>Kujalani hidupku
+demi alasan-alasan yang salah.</i>
+
+751
+01:12:34,250 --> 01:12:35,833
+Sia-sia sekali.
+
+752
+01:12:41,000 --> 01:12:42,416
+Aku tak pantas untukmu.
+
+753
+01:12:44,500 --> 01:12:45,916
+<i>Aku tak pernah pantas.</i>
+
+754
+01:12:48,000 --> 01:12:51,666
+<i>Jika bisa mengulangi semua,
+aku akan lebih baik.</i>
+
+755
+01:12:53,875 --> 01:12:57,041
+<i>Itu adalah janji
+yang tak akan pernah kuingkari.</i>
+
+756
+01:13:00,333 --> 01:13:03,750
+<i>Jika aku bisa mengulanginya.</i>
+
+757
+01:13:06,333 --> 01:13:07,583
+<i>Aku minta maaf.</i>
+
+758
+01:13:08,541 --> 01:13:10,625
+<i>Sungguh minta maaf.</i>
+
+759
+01:14:38,375 --> 01:14:41,500
+Hanus? Aku bisa merasakanmu.
+
+760
+01:14:42,416 --> 01:14:43,958
+Kau masih di sini?
+
+761
+01:14:48,541 --> 01:14:50,375
+Kau harus istirahat sekarang.
+
+762
+01:14:52,500 --> 01:14:53,916
+Aku mau sekali.
+
+763
+01:14:54,791 --> 01:14:55,958
+Istirahatlah.
+
+764
+01:15:08,958 --> 01:15:11,708
+Kau menyucikan dirimu, Manusia Kurus.
+
+765
+01:15:12,625 --> 01:15:13,708
+Aku melihatnya.
+
+766
+01:15:15,583 --> 01:15:16,541
+Istirahatlah.
+
+767
+01:15:32,000 --> 01:15:34,000
+Aku tak sengaja membangunkanmu.
+
+768
+01:15:35,500 --> 01:15:37,208
+Jangan begitu lagi kepadaku.
+
+769
+01:15:38,041 --> 01:15:39,416
+Jangan tinggalkan aku.
+
+770
+01:15:40,291 --> 01:15:43,000
+Aku tak bisa biarkan
+kau hadapi Permulaan sendirian.
+
+771
+01:15:43,916 --> 01:15:48,458
+Aku sudah mengerti
+bahwa aku pun tak ingin sendiri untuk itu.
+
+772
+01:15:56,875 --> 01:15:58,041
+Kau baik-baik saja?
+
+773
+01:16:06,750 --> 01:16:08,208
+Apa yang terjadi kepadamu?
+
+774
+01:16:11,583 --> 01:16:14,416
+Sebelumnya,
+aku tak sepenuhnya jujur kepadamu.
+
+775
+01:16:17,333 --> 01:16:18,583
+Soal apa?
+
+776
+01:16:19,166 --> 01:16:22,083
+Kubilang bahwa Gorompeds menyerbu kami.
+
+777
+01:16:22,750 --> 01:16:26,333
+Mereka memakan keturunan dan tetua kami.
+
+778
+01:16:26,416 --> 01:16:28,291
+Jadi, aku kabur dari duniaku.
+
+779
+01:16:28,375 --> 01:16:29,958
+Namun, aku terlambat.
+
+780
+01:16:30,958 --> 01:16:32,333
+Kau membuatku takut.
+
+781
+01:16:33,083 --> 01:16:35,083
+Untuk apa takut akan kebenaran?
+
+782
+01:16:35,666 --> 01:16:37,875
+Itu bukan sifat kaumku,
+
+783
+01:16:38,541 --> 01:16:41,166
+melainkan sifat manusia.
+
+784
+01:16:43,000 --> 01:16:49,458
+Aku mulai mengerti
+kenapa lamunan dan mimpi buruk
+
+785
+01:16:49,541 --> 01:16:51,375
+sama-sama penting.
+
+786
+01:16:55,416 --> 01:16:57,458
+Kenapa kau tak cerita kepadaku?
+
+787
+01:17:00,083 --> 01:17:02,166
+Kau tak pernah bertanya soal aku.
+
+788
+01:17:15,916 --> 01:17:17,750
+Hanus, kumohon.
+
+789
+01:17:37,625 --> 01:17:40,291
+Kau harus istirahat, Manusia Kurus.
+
+790
+01:17:41,958 --> 01:17:45,125
+Besok, kita akan memasuki Permulaan.
+
+791
+01:18:18,375 --> 01:18:21,708
+Ini bagai kisah mimpi tak nyata
+yang diceritakan kepada anak.
+
+792
+01:18:22,416 --> 01:18:24,500
+Pada tahun kelahiranmu, langitnya ungu.
+
+793
+01:18:24,583 --> 01:18:26,500
+Tak ada yang tahu kenapa.
+
+794
+01:18:26,583 --> 01:18:29,125
+Mereka pikir
+itu partikel dari luar angkasa.
+
+795
+01:18:33,291 --> 01:18:35,208
+Bisa bayangkan di atas sana sendiri?
+
+796
+01:18:36,708 --> 01:18:39,708
+Tanpa gravitasi. Bisa melayang menjauh.
+
+797
+01:18:41,791 --> 01:18:43,875
+Kadang aku merasa begitu di sini.
+
+798
+01:18:47,291 --> 01:18:49,958
+Aku memilih di sini
+daripada mengejar debu kosmis.
+
+799
+01:18:51,875 --> 01:18:53,458
+Debu yang sangat berkilau.
+
+800
+01:19:25,666 --> 01:19:29,125
+Manusia Kurus, sudah waktunya.
+
+801
+01:19:29,708 --> 01:19:32,416
+Temuan besarmu menanti.
+
+802
+01:19:33,291 --> 01:19:34,291
+Terima kasih.
+
+803
+01:19:37,708 --> 01:19:42,916
+Air kacang panas adalah ritual suci.
+
+804
+01:19:50,791 --> 01:19:52,750
+Rasanya bagai kampung halaman.
+
+805
+01:20:15,333 --> 01:20:18,791
+Tes, tes, tes!
+
+806
+01:20:19,625 --> 01:20:20,958
+<i>Ya, masih mendengarmu.</i>
+
+807
+01:20:37,041 --> 01:20:39,125
+<i>Komandan, aku perlu sampaikan</i>
+
+808
+01:20:39,208 --> 01:20:42,833
+bahwa kami menginisiasi siaran
+dari prarekaman terbarumu.
+
+809
+01:20:45,291 --> 01:20:48,958
+Kami tahu itu momen penting bagimu
+untuk melakukannya secara langsung.
+
+810
+01:20:49,541 --> 01:20:51,541
+<i>Tak ada pilihan karena kameranya mati.</i>
+
+811
+01:20:53,250 --> 01:20:54,500
+<i>Kau hebat di prarekaman.</i>
+
+812
+01:20:55,083 --> 01:20:56,375
+Tak apa, Peter.
+
+813
+01:21:00,916 --> 01:21:02,541
+<i>Komandan Prochazka,</i>
+
+814
+01:21:02,625 --> 01:21:05,625
+<i>terima kasih telah meluangkan waktu
+pada momen berharga ini.</i>
+
+815
+01:21:06,791 --> 01:21:09,000
+<i>Bagaimana perasaanmu?</i>
+
+816
+01:21:09,958 --> 01:21:15,166
+<i>Komisaris Tuma, aku merasa rendah diri,
+terpukau, dan fokus, semuanya sekaligus.</i>
+
+817
+01:21:15,250 --> 01:21:18,500
+<i>Tak kusangka anak yang tumbuh di desa</i>
+
+818
+01:21:18,583 --> 01:21:20,666
+<i>kelak bisa berpartisipasi dalam ini.</i>
+
+819
+01:21:20,750 --> 01:21:24,458
+<i>Beberapa saat lagi,
+kita akan meluncurkan FERDA ke Chopra,</i>
+
+820
+01:21:24,541 --> 01:21:25,833
+<i>tetapi sebelumnya,</i>
+
+821
+01:21:25,916 --> 01:21:30,250
+<i>aku ingin berterima kasih banyak
+atas dukungan rakyat Ceko.</i>
+
+822
+01:21:30,333 --> 01:21:33,500
+<i>Misi ini didedikasikan
+kepada umat manusia di dunia,</i>
+
+823
+01:21:33,583 --> 01:21:35,541
+<i>para penyandang dana dan sponsor,</i>
+
+824
+01:21:36,791 --> 01:21:38,541
+<i>serta Lenka, tentunya.</i>
+
+825
+01:21:39,250 --> 01:21:41,291
+<i>Atas dukungannya yang tak ada habisnya.</i>
+
+826
+01:21:43,541 --> 01:21:46,541
+<i>Dua kekasih yang terhubung
+lewat bintang-bintang.</i>
+
+827
+01:21:48,416 --> 01:21:52,166
+<i>Aku yakin dia tak sabar
+menantimu pulang dengan selamat.</i>
+
+828
+01:21:52,250 --> 01:21:54,416
+<i>Semua orang di Bumi sedang menyaksikan.</i>
+
+829
+01:21:55,708 --> 01:21:57,666
+<i>Karena dalam beberapa menit lagi,</i>
+
+830
+01:21:58,375 --> 01:22:01,916
+<i>Jan Hus 1 dan Komandan Prochazka</i>
+
+831
+01:22:02,000 --> 01:22:04,458
+<i>akan memasuki Awan Chopra.</i>
+
+832
+01:22:05,458 --> 01:22:09,958
+<i>Republik Ceko dengan bangga
+telah mengalahkan misi Korea Selatan</i>
+
+833
+01:22:10,041 --> 01:22:13,291
+<i>dan menjadi yang pertama
+menginvestigasi fenomena ungu</i>
+
+834
+01:22:13,375 --> 01:22:17,083
+<i>yang telah menghantui langit kita
+selama empat tahun ini.</i>
+
+835
+01:22:20,041 --> 01:22:21,583
+Mempersenjatai hidraulika.
+
+836
+01:22:24,458 --> 01:22:25,541
+Sistem berfungsi.
+
+837
+01:22:27,500 --> 01:22:30,291
+Kita di ambang pintu alam semesta.
+
+838
+01:22:31,166 --> 01:22:34,000
+Kau siap, Manusia Kurus?
+
+839
+01:22:35,333 --> 01:22:37,666
+Ya, aku siap.
+
+840
+01:22:39,333 --> 01:22:40,791
+<i>Sistem berfungsi di sini, Jakub.</i>
+
+841
+01:22:41,875 --> 01:22:44,583
+<i>Hitung mundur ke pengumpulan sampel
+dalam sepuluh detik.</i>
+
+842
+01:22:45,625 --> 01:22:46,666
+Kecepatan nol.
+
+843
+01:22:47,291 --> 01:22:49,000
+<i>SSR di bawah 20.</i>
+
+844
+01:22:49,083 --> 01:22:50,416
+SSR pada 20.
+
+845
+01:22:51,166 --> 01:22:52,875
+Melepaskan gerbang.
+
+846
+01:22:55,916 --> 01:22:57,250
+Lengan aktif.
+
+847
+01:22:59,750 --> 01:23:01,500
+Rotasi delapan derajat.
+
+848
+01:23:03,958 --> 01:23:07,125
+FERDA diluncurkan untuk pengumpulan.
+
+849
+01:23:07,208 --> 01:23:09,625
+Namun, mungkin saja ini upaya sia-sia.
+
+850
+01:23:11,250 --> 01:23:15,750
+<i>Kami tak bisa dengar, Jakub.
+Kami... kelainan.</i>
+
+851
+01:23:16,833 --> 01:23:19,041
+Pusat Kendali, ada gangguan.
+
+852
+01:23:20,875 --> 01:23:22,250
+<i>Kami bisa dengar sekarang.</i>
+
+853
+01:23:27,541 --> 01:23:30,041
+<i>Aman untuk pengumpulan sampel.</i>
+
+854
+01:23:37,791 --> 01:23:39,500
+FSC diaktifkan.
+
+855
+01:23:43,416 --> 01:23:44,250
+Kontak.
+
+856
+01:23:45,708 --> 01:23:47,500
+Memulai upaya pengumpulan.
+
+857
+01:23:51,916 --> 01:23:53,208
+Manusia Kurus.
+
+858
+01:23:56,875 --> 01:23:59,083
+Aku tak pernah dengar kesunyian begini.
+
+859
+01:24:05,458 --> 01:24:06,708
+Hanus!
+
+860
+01:24:07,333 --> 01:24:09,083
+<i>Komandan, apa yang terjadi?</i>
+
+861
+01:24:11,291 --> 01:24:13,916
+<i>- Hasil negatif dari pengumpulan sampel.</i>
+- Hanus!
+
+862
+01:24:14,000 --> 01:24:15,750
+<i>- Ada masalah.</i>
+- Hanus!
+
+863
+01:24:17,583 --> 01:24:19,083
+<i>Kegagalan sistem dari FERDA.</i>
+
+864
+01:24:19,166 --> 01:24:21,541
+<i>Batalkan pengumpulan sampel segera.</i>
+
+865
+01:24:23,958 --> 01:24:24,916
+Hanus!
+
+866
+01:24:25,000 --> 01:24:27,208
+<i>Kami mendapati
+banyak malafungsi, Komandan.</i>
+
+867
+01:24:27,291 --> 01:24:28,750
+<i>Kau harus segera mundur.</i>
+
+868
+01:24:30,000 --> 01:24:31,375
+<i>Batalkan misi!</i>
+
+869
+01:24:37,750 --> 01:24:39,875
+<i>Kau mengalami kegagalan sistem besar.</i>
+
+870
+01:24:41,166 --> 01:24:42,875
+<i>Jakub, kami tak bisa dengar.</i>
+
+871
+01:24:43,416 --> 01:24:45,625
+<i>Indikator menunjukkan kelainan.</i>
+
+872
+01:24:49,125 --> 01:24:51,125
+Jangan takut, Manusia Kurus.
+
+873
+01:24:52,041 --> 01:24:55,125
+Hanus! Bertahanlah! Aku datang!
+
+874
+01:24:55,208 --> 01:24:56,666
+<i>Batalkan pengumpulan sampel</i>
+
+875
+01:24:56,750 --> 01:24:58,625
+<i>- dan aktifkan pendorong.</i>
+- Tak bisa.
+
+876
+01:25:05,208 --> 01:25:06,916
+<i>Kau sedang apa dengan Bomba?</i>
+
+877
+01:25:07,541 --> 01:25:10,416
+<i>Komandan, mundur sekarang! Harap ulang!</i>
+
+878
+01:25:18,500 --> 01:25:20,125
+<i>Komandan, apa yang terjadi?</i>
+
+879
+01:25:23,125 --> 01:25:24,750
+<i>Kenapa masuk ruang kedap udara?</i>
+
+880
+01:25:27,291 --> 01:25:28,750
+<i>Sensor pakaian aktif.</i>
+
+881
+01:25:31,708 --> 01:25:34,041
+Peter, aku akan keluar!
+
+882
+01:25:34,791 --> 01:25:36,041
+Apa kau gila?
+
+883
+01:25:36,625 --> 01:25:38,416
+Lupakan Chopra, Komandan.
+
+884
+01:25:38,500 --> 01:25:40,375
+<i>Mundur! Selamatkan dirimu!</i>
+
+885
+01:25:41,000 --> 01:25:44,958
+Ada yang harus kulakukan!
+Aku akan segera kembali!
+
+886
+01:25:45,041 --> 01:25:46,750
+<i>Komandan, kami tak bisa dengar!</i>
+
+887
+01:25:47,375 --> 01:25:48,291
+<i>Lapor, Komandan!</i>
+
+888
+01:25:53,583 --> 01:25:55,250
+Ayo cepat!
+
+889
+01:26:07,166 --> 01:26:08,291
+Hanus!
+
+890
+01:26:41,750 --> 01:26:42,708
+Hanus!
+
+891
+01:26:43,875 --> 01:26:47,416
+Kau baik-baik saja? Apa Bomba berhasil?
+
+892
+01:26:48,458 --> 01:26:54,625
+Manusia Kurus, upayamu
+dengan dekontaminan sungguh heroik.
+
+893
+01:26:55,291 --> 01:26:59,916
+Namun, Gorompeds akan segera membuatku
+cukup lemah untuk memakan tubuhku.
+
+894
+01:27:01,791 --> 01:27:03,375
+Namun, kita punya sedikit waktu.
+
+895
+01:27:06,375 --> 01:27:08,333
+Kematian belum menemukanku.
+
+896
+01:27:28,291 --> 01:27:29,291
+Hanus.
+
+897
+01:27:30,875 --> 01:27:32,833
+Aku hampir tenggelam saat kecil.
+
+898
+01:27:33,500 --> 01:27:34,916
+Ini membuatku teringat itu.
+
+899
+01:27:41,250 --> 01:27:44,958
+<i>Aku bisa melihat matahari dalam air,
+hijau dan berkelap-kelip.</i>
+
+900
+01:27:45,833 --> 01:27:48,625
+<i>Saat itulah aku tahu aku tenggelam,</i>
+
+901
+01:27:48,708 --> 01:27:51,625
+<i>tetapi matahari akan terus bersinar.</i>
+
+902
+01:27:59,500 --> 01:28:03,916
+<i>Ayah, aku mengampuni dosa-dosamu</i>
+
+903
+01:28:04,875 --> 01:28:07,458
+<i>dan aku mengampuni diriku juga.</i>
+
+904
+01:28:09,250 --> 01:28:10,208
+<i>Indah.</i>
+
+905
+01:28:15,125 --> 01:28:18,750
+Ini bukan tempat yang buruk
+untuk mengakhiri segalanya.
+
+906
+01:28:21,000 --> 01:28:22,625
+Ini bukan akhir.
+
+907
+01:28:23,666 --> 01:28:26,291
+Mari. Biar kutunjukkan kepadamu.
+
+908
+01:29:35,416 --> 01:29:37,666
+<i>Kita baru berkenalan,
+tetapi aku tak keberatan.</i>
+
+909
+01:29:41,708 --> 01:29:43,708
+<i>Itu sebabnya aku tak berkata jujur.</i>
+
+910
+01:29:44,583 --> 01:29:45,750
+Apa ini?
+
+911
+01:29:46,250 --> 01:29:50,083
+Manusia Kurus, inilah dia.
+
+912
+01:29:50,166 --> 01:29:51,708
+Ini segalanya.
+
+913
+01:29:53,666 --> 01:29:58,416
+Ini adalah Permulaan dan akhir.
+
+914
+01:30:01,083 --> 01:30:03,375
+Tiap getaran sepanjang waktu.
+
+915
+01:30:04,375 --> 01:30:06,625
+Semuanya ditampung di sini.
+
+916
+01:30:06,708 --> 01:30:08,416
+<i>Bagus, Komandan. Itu sempurna.</i>
+
+917
+01:30:10,208 --> 01:30:12,708
+Masa lalumu dan masa depanmu.
+
+918
+01:30:12,791 --> 01:30:14,916
+<i>Hei! Tunggu aku!</i>
+
+919
+01:30:16,541 --> 01:30:19,541
+Aku, kau, Lenka-mu...
+
+920
+01:30:19,625 --> 01:30:22,500
+<i>Kau ikut aku dan aku ikut kau.
+Betul, Spaceman?</i>
+
+921
+01:30:22,583 --> 01:30:23,583
+Ayahmu.
+
+922
+01:30:23,666 --> 01:30:24,666
+<i>Jakub!</i>
+
+923
+01:30:24,750 --> 01:30:28,083
+Tiap janji. Tiap patah hati.
+
+924
+01:30:28,166 --> 01:30:29,375
+<i>Jakub, kau dengar?</i>
+
+925
+01:30:30,208 --> 01:30:31,916
+Tiap penebusan.
+
+926
+01:30:32,000 --> 01:30:33,416
+<i>Aku datang!</i>
+
+927
+01:30:33,500 --> 01:30:37,958
+Semuanya permanen,
+tetapi tak ada yang abadi.
+
+928
+01:30:38,041 --> 01:30:40,250
+<i>Sungguh? Kecil?</i>
+
+929
+01:30:41,625 --> 01:30:43,833
+Itulah kebenaran semesta.
+
+930
+01:30:45,666 --> 01:30:50,208
+<i>Kau pernah memikirkan yang kau pelajari
+agak terlambat dalam hidupmu?</i>
+
+931
+01:30:50,291 --> 01:30:52,250
+<i>Mungkin aku belum di tahap itu.</i>
+
+932
+01:30:53,375 --> 01:30:57,000
+Tak ada yang harus terluka, tidak di sini<i>,</i>
+
+933
+01:30:57,083 --> 01:30:59,791
+di mana kau bisa melihat semuanya.
+
+934
+01:31:29,041 --> 01:31:31,791
+Hanus! Luar biasa!
+
+935
+01:31:32,416 --> 01:31:37,625
+Manusia Kurus,
+alam semesta sudah seperti seharusnya.
+
+936
+01:31:38,458 --> 01:31:40,208
+Ya, benar.
+
+937
+01:31:41,208 --> 01:31:43,000
+Begitu sedikit yang kutahu.
+
+938
+01:31:47,541 --> 01:31:49,916
+Namun, ada satu yang selalu kutahu.
+
+939
+01:31:52,500 --> 01:31:54,125
+Mari, biar kutunjukkan.
+
+940
+01:31:57,208 --> 01:31:58,958
+<i>Ini adalah Permulaan.</i>
+
+941
+01:31:59,541 --> 01:32:00,458
+<i>Bersama Lenka-mu.</i>
+
+942
+01:32:01,833 --> 01:32:03,583
+Kau baik-baik saja, Spaceman?
+
+943
+01:32:04,083 --> 01:32:09,458
+<i>Momen pertama aku melihatnya,
+aku tahu aku ingin hal-hal baik untuknya.</i>
+
+944
+01:32:11,416 --> 01:32:14,250
+<i>Meski tak tahu hal lain,
+setidaknya aku tahu itu.</i>
+
+945
+01:32:20,166 --> 01:32:23,791
+<i>Andai aku selalu melihatnya
+seperti aku melihatnya saat itu.</i>
+
+946
+01:32:26,416 --> 01:32:29,625
+<i>Kau bisa melihatnya saja
+sudah merupakan mukjizat.</i>
+
+947
+01:32:32,000 --> 01:32:36,333
+<i>Pertemuan dia dan aku sungguh tak mungkin,</i>
+
+948
+01:32:37,291 --> 01:32:38,875
+seperti pertemuan kau dan aku.
+
+949
+01:32:38,958 --> 01:32:41,916
+Namun, begini kenyataannya.
+
+950
+01:32:43,916 --> 01:32:47,500
+Pikirmu inilah yang kau mau.
+
+951
+01:32:48,458 --> 01:32:50,916
+Jadi, apa yang tak ada di sini, Jakub?
+
+952
+01:32:52,416 --> 01:32:53,791
+Dia tak ada di sini.
+
+953
+01:33:01,083 --> 01:33:02,916
+Sudah waktunya, ya?
+
+954
+01:33:07,416 --> 01:33:09,541
+Aku merasa kau akan pergi jauh.
+
+955
+01:33:09,625 --> 01:33:13,875
+Ya, ini tak terelakkan.
+
+956
+01:33:13,958 --> 01:33:16,083
+Ada rasa takut,
+
+957
+01:33:17,125 --> 01:33:20,166
+tetapi kini aku bisa meninggalkanmu.
+
+958
+01:33:22,625 --> 01:33:24,333
+Kubawakan sesuatu untukmu.
+
+959
+01:33:26,458 --> 01:33:27,833
+Untuk menenangkan.
+
+960
+01:33:34,708 --> 01:33:35,833
+Terima kasih.
+
+961
+01:33:37,666 --> 01:33:41,500
+Aku bermula dan berakhir di sini.
+
+962
+01:33:53,916 --> 01:33:59,541
+Namun, mungkin ini bukan akhirmu,
+Manusia Kurus.
+
+963
+01:34:01,458 --> 01:34:02,916
+Kini aku merasa takut.
+
+964
+01:34:05,250 --> 01:34:06,458
+Ya, kau takut.
+
+965
+01:34:07,916 --> 01:34:14,166
+Namun, kau juga merasakan
+harapan untukmu, Lenka-mu.
+
+966
+01:34:15,791 --> 01:34:19,833
+Itulah kebijaksanaan dari kaummu.
+
+967
+01:34:22,458 --> 01:34:23,750
+Kau bisa dengar dia?
+
+968
+01:34:24,791 --> 01:34:26,625
+Aku tak bisa dengar apa pun.
+
+969
+01:34:28,125 --> 01:34:30,125
+Dengarkan kesunyiannya.
+
+970
+01:34:35,875 --> 01:34:39,625
+Terima kasih, Hanus. Atas segalanya.
+
+971
+01:34:45,458 --> 01:34:48,458
+Rasanya seperti kampung halaman.
+
+972
+01:35:02,500 --> 01:35:05,541
+Tidak!
+
+973
+01:35:09,166 --> 01:35:11,875
+Tidak.
+
+974
+01:35:26,750 --> 01:35:28,375
+Hanus!
+
+975
+01:36:57,541 --> 01:36:58,750
+Rusalka...
+
+976
+01:37:02,166 --> 01:37:03,833
+Aku hanya mau sebuah ciuman.
+
+977
+01:37:05,000 --> 01:37:06,833
+Kau tahu itu akan membunuhmu.
+
+978
+01:37:09,458 --> 01:37:10,750
+Aku tak keberatan.
+
+979
+01:37:19,500 --> 01:37:20,333
+Lenka.
+
+980
+01:37:27,541 --> 01:37:28,791
+Jakub.
+
+981
+01:38:53,333 --> 01:38:54,375
+<i>Terima kasih.</i>
+
+982
+01:39:01,666 --> 01:39:04,333
+Andai dahulu tahu yang kuketahui sekarang,
+
+983
+01:39:05,458 --> 01:39:07,375
+aku tak akan pergi.
+
+984
+01:39:12,000 --> 01:39:14,416
+Andai dahulu tahu yang kuketahui sekarang,
+
+985
+01:39:15,791 --> 01:39:17,166
+akankah aku menciummu?
+
+986
+01:39:18,708 --> 01:39:19,750
+Maukah kau?
+
+987
+01:39:22,250 --> 01:39:23,833
+Maukah kau menciumku lagi?
+
+988
+01:39:31,250 --> 01:39:33,333
+Ciumannya sangat menyenangkan.
+
+989
+01:46:58,750 --> 01:47:03,750
+Terjemahan subtitle oleh Lady Helen
+
