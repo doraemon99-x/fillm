@@ -68,6 +68,16 @@
             cast:{}
         });
     </script>
+        <script>
+            jwplayer().addButton(
+              "https://i.postimg.cc/fLBRS56n/bttndw.png",
+              "Download Video", 
+              function() {
+                window.location.href = jwplayer().getPlaylist()[0].sources[0].file;
+              },
+              "download"
+          );
+          </script>
 </body>
 
 </html>
