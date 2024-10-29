@@ -1,7 +1,6 @@
 ﻿1
 00:00:00,200 --> 00:00:02,200
-BUAT SITUS NONTON STREAMING,
-MOHON TAK MERUBAH KONTEN SUB INI
+...
 
 2
 00:00:02,300 --> 00:00:05,300
@@ -4789,9 +4788,7 @@ Kau adalah Joker.
 
 1112
 01:24:09,030 --> 01:24:12,330
-⚽ KEMENANGAN PULUHAN RIBU
-SAMPAI MILYARAN RUPIAH DIBAYAR CEPAT ⚽
-<font color="#00ffff">www.itcbetdanamon.com</font>
+#STOPJUDI
 
 1113
 01:24:14,354 --> 01:24:18,354
@@ -7195,18 +7192,15 @@ MARI SUPPORT TERUS DI
 
 1670
 02:10:15,624 --> 02:10:20,624
-<font color="#00ffff">ITCBET</font> | <font color="#ffff00">SITUS TARUHAN B⚽LA</font>
-TERPERCAYA SEJAK TAHUN 2012
+#STOPJUDI
 
 1671
 02:10:20,648 --> 02:10:25,648
-⚽ Kemenangan Puluhan Ribu
-sampai Milyaran Rupiah Dibayar Cepat ⚽
+#STOPJUDI
 
 1672
 02:10:25,672 --> 02:10:55,672
-⚽⚽⚽
-<font color="#00ffff">www.itcbetdanamon.com</font>
+#STOPJUDI
 
 1673
 02:11:57,496 --> 02:12:00,496
