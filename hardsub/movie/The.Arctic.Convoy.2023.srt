@@ -1,3011 +1,3011 @@
 ﻿1
-00:00:46,847 --> 00:00:51,722
+00:00:28,350 --> 00:00:33,221
 Pertempuran penentu
 perang ada di Front Timur.
 
 2
-00:00:51,892 --> 00:00:56,687
+00:00:33,391 --> 00:00:38,182
 Sekutu harus mengirim senjata
 dan pasokan ke Uni Soviet.
 
 3
-00:00:58,308 --> 00:01:03,944
+00:00:39,801 --> 00:00:45,433
 Barang dikirim kapal barang
 yang jalan dalam formasi, konvoi.
 
 4
-00:01:04,114 --> 00:01:07,447
+00:00:45,602 --> 00:00:48,933
 Awaknya pelaut sipil.
 
 5
-00:01:09,820 --> 00:01:14,034
+00:00:51,304 --> 00:00:55,514
 Sekutu melindungi konvoi
 dengan pengawalan militer.
 
 6
-00:01:14,204 --> 00:01:18,458
+00:00:55,684 --> 00:00:59,934
 Pesawat, kapal perang, dan kapal
 selam Jerman terus jadi ancaman.
 
 7
-00:01:22,633 --> 00:01:27,427
+00:01:04,106 --> 00:01:08,896
 Musim panas 1942 Rute konvoi:
 Islandia - Murmansk/Arkangelsk (Uni Soviet)
 
 8
-00:01:27,587 --> 00:01:30,841
+00:01:09,056 --> 00:01:12,307
 Estimasi waktu perjalanan: 12 hari
 
 9
-00:01:54,204 --> 00:01:57,417
+00:01:35,650 --> 00:01:38,861
 - Naikkan sekoci!
 - tinggalkan itu
 
 10
-00:01:57,577 --> 00:01:59,750
+00:01:39,020 --> 00:01:41,192
 Kita belum kenalan.
 
 11
-00:02:11,972 --> 00:02:15,435
+00:01:53,403 --> 00:01:56,863
 - Aku jaga anjungan.
 - Sinyal lampu dari Kapal nomor 11.
 
 12
-00:02:15,595 --> 00:02:19,599
+00:01:57,023 --> 00:02:01,024
 - Kapal selam terlihat.
 - Akan ada lebih banyak dari arah Kapal 21.
 
 13
-00:02:25,776 --> 00:02:29,489
+00:02:07,196 --> 00:02:10,906
 - Ada berita baru?
 - Tak ada lalu lintas sejak tadi.
 
 14
-00:02:36,406 --> 00:02:41,411
+00:02:17,817 --> 00:02:22,818
 - Kita tertinggal. Setengah kecepatan maju.
 - Dimengerti.
 
 15
-00:02:41,581 --> 00:02:45,375
+00:02:22,987 --> 00:02:26,778
 Piston bocor.
 
 16
-00:02:45,545 --> 00:02:48,668
+00:02:26,948 --> 00:02:30,068
 Kapal selam, di arah 075 derajat.
 
 17
-00:03:04,484 --> 00:03:08,648
+00:02:45,871 --> 00:02:50,032
 Kau jaga anjungan.
 Hanya awak yang diperlukan di dek
 
 18
-00:03:19,039 --> 00:03:23,163
+00:03:00,414 --> 00:03:04,534
 Aku butuh lampu jalur. Cepat muat!
 
 19
-00:03:28,298 --> 00:03:32,132
+00:03:09,665 --> 00:03:13,496
 Kau harusnya bisa lakukan
 ini dengan mata tertutup.
 
 20
-00:03:32,302 --> 00:03:33,764
+00:03:13,666 --> 00:03:15,127
 Ya.
 
 21
-00:03:40,720 --> 00:03:45,225
+00:03:22,077 --> 00:03:26,578
 - Kau lihat sesuatu?
 - Tak ada, tak ada yang perlu ditunda.
 
 22
-00:03:57,577 --> 00:03:59,539
+00:03:38,919 --> 00:03:40,880
 Kapten!
 
 23
-00:04:18,558 --> 00:04:21,721
+00:03:59,883 --> 00:04:03,043
 - Belok kanan penuh!
 - Belok kanan penuh.
 
 24
-00:04:34,614 --> 00:04:37,447
+00:04:15,925 --> 00:04:18,756
 Kapal selam di kanan!
 
 25
-00:04:40,620 --> 00:04:42,372
+00:04:21,926 --> 00:04:23,677
 Kotak!
 
 26
-00:05:41,091 --> 00:05:44,844
+00:05:22,346 --> 00:05:26,096
 Terinspirasi dari kejadian nyata
 
 27
-00:05:48,058 --> 00:05:52,022
+00:05:29,307 --> 00:05:33,268
 <b>KONVOI ARKTIK</b>
 
 28
-00:05:55,460 --> 00:06:03,060
+00:05:36,703 --> 00:05:44,297
 <font color="#ff3430"><b>Penerjemah : josarg</b></font>
 
 29
-00:06:04,800 --> 00:06:06,800
+00:05:46,035 --> 00:05:48,034
 Hari ke-5
 
 30
-00:06:11,211 --> 00:06:14,124
+00:05:52,441 --> 00:05:55,352
 Halo. Kami menerima pesan tadi malam.
 
 31
-00:06:15,545 --> 00:06:18,468
+00:05:56,771 --> 00:05:59,692
 Kapal yang tenggelam adalah nomor 34.
 
 32
-00:06:18,628 --> 00:06:22,933
+00:05:59,852 --> 00:06:04,153
 Kapal 21 mengalami masalah
 mesin dan kembali ke Islandia.
 
 33
-00:06:23,093 --> 00:06:25,765
+00:06:04,313 --> 00:06:06,983
 Itu kapal yang miring.
 
 34
-00:06:25,936 --> 00:06:28,688
+00:06:07,154 --> 00:06:09,903
 Pengawal menghancurkan kapal
 selam dengan bom kedalaman.
 
 35
-00:06:28,848 --> 00:06:33,143
+00:06:10,063 --> 00:06:14,355
 Dan empat pesawat Heinkel
 ditembak jatuh sebelum sampai ke kita.
 
 36
-00:06:33,313 --> 00:06:36,146
+00:06:14,524 --> 00:06:17,355
 Inggris sepertinya sudah
 melakukan bagiannya.
 
 37
-00:06:36,316 --> 00:06:38,898
+00:06:17,525 --> 00:06:20,105
 bau apa ini?
 
 38
-00:06:40,070 --> 00:06:42,993
+00:06:21,276 --> 00:06:24,196
 - Apa yang kau lakukan?
 - Maaf.
 
 39
-00:06:43,153 --> 00:06:46,997
+00:06:24,356 --> 00:06:28,197
 Ini buku log. Ini ceroboh sekali.
 
 40
-00:06:48,328 --> 00:06:52,252
+00:06:29,527 --> 00:06:33,447
 Operator radio lainnya adalah
 babi. Bisakah kita ganti dia?
 
 41
-00:06:52,412 --> 00:06:56,466
+00:06:33,607 --> 00:06:37,658
 Kepala ABK bilang
 dia pelaut terbaik pagi ini.
 
 42
-00:07:07,978 --> 00:07:10,060
+00:06:49,160 --> 00:06:51,240
 "Babi"?
 
 43
-00:07:10,230 --> 00:07:13,483
+00:06:51,410 --> 00:06:54,661
 Apa maksudnya? Apa maksudnya?
 
 44
-00:07:13,643 --> 00:07:17,397
+00:06:54,820 --> 00:06:58,571
 Oke, dia bisa besok. Tapi dia
 belum mempelajari kebiasaan kita.
 
 45
-00:07:17,567 --> 00:07:22,822
+00:06:58,741 --> 00:07:03,992
 Anak itu langsung jadi petugas radio.
 
 46
-00:07:24,154 --> 00:07:28,948
+00:07:05,323 --> 00:07:10,113
 - Terlalu banyak muatan di meriam?
 - Aku dengar itu. Dia sangat teliti.
 
 47
-00:07:29,119 --> 00:07:34,414
+00:07:10,283 --> 00:07:15,574
 Kami menata ulang beberapa kotak,  
 agar dapat apa yang dia mau.
 
 48
-00:07:34,584 --> 00:07:38,008
+00:07:15,744 --> 00:07:19,165
 Semua sudah menyapa kepala ABK kita?
 
 49
-00:07:38,168 --> 00:07:40,170
+00:07:19,325 --> 00:07:21,325
 - Halo.
 - Halo.
 
 50
-00:07:40,340 --> 00:07:44,514
+00:07:21,495 --> 00:07:25,665
 setel gitar itu sebelum kulempar ke laut.
 
 51
-00:07:44,674 --> 00:07:51,641
+00:07:25,825 --> 00:07:32,786
 - Kabin tak cukup?
 - Kalau kena torpedo, pintu terkunci.
 
 52
-00:07:51,811 --> 00:07:54,974
+00:07:32,956 --> 00:07:36,117
 Lebih baik tidur di ruang makan.
 
 53
-00:07:55,145 --> 00:07:59,979
+00:07:36,287 --> 00:07:41,117
 Selain itu, semua seperti
 seharusnya. Kecuali Evensen.
 
 54
-00:08:00,150 --> 00:08:04,234
+00:07:41,288 --> 00:07:45,369
 - Dia kena kutu.
 - Sudah tak gatal lagi.
 
 55
-00:08:04,404 --> 00:08:08,158
+00:07:45,539 --> 00:07:49,290
 - Maaf, kau lupa ini.
 - Terima kasih.
 
 56
-00:08:08,328 --> 00:08:13,873
+00:07:49,459 --> 00:07:55,000
 Kita terlalu lama di Islandia.
 Aku tak bisa kirim kru ke darat.
 
 57
-00:08:14,044 --> 00:08:19,379
+00:07:55,171 --> 00:08:00,501
 tapi itu hanya target palsu.
 Hanya papan, papan serpihan, dan paku.
 
 58
-00:08:19,549 --> 00:08:25,305
+00:08:00,671 --> 00:08:06,422
 - Pangkalan udaranya dari kayu.
 Benar benar sia-sia.
 - Seperti pertahanan Norwegia dulu.
 
 59
-00:08:25,465 --> 00:08:28,808
+00:08:06,582 --> 00:08:09,922
 Dari udara terlihat seperti
 target bom yang menggiurkan.
 
 60
-00:08:28,968 --> 00:08:33,603
+00:08:10,082 --> 00:08:14,713
 Orang Jerman melihat dengan bersemangat
 saat mereka melihat Inggris
 membuka lubang bom pesawat.
 
 61
-00:08:33,763 --> 00:08:37,067
+00:08:14,873 --> 00:08:18,174
 Tapi hanya satu bom yang dijatuhkan.
 
 62
-00:08:37,227 --> 00:08:42,612
+00:08:18,334 --> 00:08:23,715
 Dan saat bom itu mengenai
 landasan, tak ada yang meledak.
 
 63
-00:08:42,772 --> 00:08:47,527
+00:08:23,874 --> 00:08:28,625
 Lalu orang Jerman melihat
 bahwa bom itu juga terbuat dari kayu.
 
 64
-00:08:47,697 --> 00:08:50,990
+00:08:28,795 --> 00:08:32,085
 Sebuah tunggul. Dan di
 atas tunggul itu tertulis:
 
 65
-00:08:51,161 --> 00:08:53,703
+00:08:32,256 --> 00:08:34,796
 "Kau kena kayu!"
 
 66
-00:08:53,873 --> 00:08:59,879
+00:08:34,966 --> 00:08:40,967
 Kenapa mengambil risiko mengirim pesawat dan
 pilot ke wilayah musuh untuk hal seperti itu?
 
 67
-00:09:02,792 --> 00:09:05,845
+00:08:43,878 --> 00:08:46,928
 Godaan itu mungkin terlalu besar.
 
 68
-00:09:06,005 --> 00:09:10,800
+00:08:47,088 --> 00:08:51,879
 Pemimpin militer manapun pasti ingin 
 menunjukkan keunggulannya pada musuh.
 
 69
-00:09:11,851 --> 00:09:17,477
+00:08:52,929 --> 00:08:58,550
 Jangan memimpin dengan godaan, 
 tetap berpikir jernih.
 
 70
-00:09:17,647 --> 00:09:22,522
+00:08:58,720 --> 00:09:03,591
 Pikirkan jangka panjang, 
 bukan dengan emosi sesaat.
 
 71
-00:09:22,692 --> 00:09:27,907
+00:09:03,761 --> 00:09:08,971
 - Jika tidak, itu akan menjadi keputusan yang pengecut
 - Kau membicarakan perdana menteri?
 
 72
-00:09:28,067 --> 00:09:31,491
+00:09:09,131 --> 00:09:12,552
 Hemingway berkata, "Keberanian
 adalah ketenangan di bawah tekanan."
 
 73
-00:09:31,661 --> 00:09:34,374
+00:09:12,722 --> 00:09:15,433
 Nygaardsvold tak tahu apa itu.
 
 74
-00:09:34,534 --> 00:09:39,539
+00:09:15,593 --> 00:09:20,594
 Hemingway juga berkata bahwa pemenang 
 perang adalah yang tidak terlibat.
 
 75
-00:09:39,709 --> 00:09:42,882
+00:09:20,763 --> 00:09:23,934
 Mungkin itu yang dipikirkan
 Perdana Menteri.
 
 76
-00:09:43,042 --> 00:09:46,466
+00:09:24,094 --> 00:09:27,515
 Dia pikir dia bisa
 menghindar dari perang?
 
 77
-00:09:49,799 --> 00:09:54,053
+00:09:30,845 --> 00:09:35,095
 Dia tak mampu menjalankan tugasnya.
 
 78
-00:09:54,224 --> 00:09:57,937
+00:09:35,266 --> 00:09:38,976
 Mengirim anak-anak dan istrinya ke
 Swedia lalu kabur ke London.
 
 79
-00:09:58,097 --> 00:10:04,354
+00:09:39,136 --> 00:09:45,388
 Rakyat didorong untuk perlawanan pasif.
 Di Norwegia, ada klip kertas di jas.
 
 80
-00:10:05,275 --> 00:10:09,159
+00:09:46,308 --> 00:09:50,189
 Kau tahu bagaimana
 Nygaardsvold minum kopinya?
 
 81
-00:10:11,161 --> 00:10:13,363
+00:09:52,189 --> 00:09:54,389
 Dia harus melakukannya dengan kedua tangan.
 
 82
-00:10:42,892 --> 00:10:47,567
+00:10:23,893 --> 00:10:28,564
 Kau ingat dia... yang di dapur? Gundersen.
 
 83
-00:10:50,570 --> 00:10:53,403
+00:10:31,565 --> 00:10:34,395
 Yang agak... lambat itu?
 
 84
-00:10:53,573 --> 00:10:59,329
+00:10:34,565 --> 00:10:40,316
 Kasihan dia. Tak bisa bedakan
 antara pesawat Jerman dan Inggris
 dan jadi ketakutan.
 
 85
-00:11:10,089 --> 00:11:13,052
+00:10:51,067 --> 00:10:54,028
 Apa kau tahu tentang
 perwira pertama?
 
 86
-00:11:14,844 --> 00:11:18,097
+00:10:55,818 --> 00:10:59,069
 Banyak pengalaman. Dia dulu kapten.
 
 87
-00:11:18,268 --> 00:11:20,350
+00:10:59,240 --> 00:11:01,320
 Ada sesuatu tentang dia.
 
 88
-00:11:20,520 --> 00:11:24,644
+00:11:01,490 --> 00:11:05,610
 Saat dia berdiri sendirian di anjungan,
 aku ingin tahu apa itu.
 
 89
-00:11:24,814 --> 00:11:28,278
+00:11:05,780 --> 00:11:09,241
 Kau selalu begitu skeptis.
 Beri dia waktu.
 
 90
-00:11:35,445 --> 00:11:37,447
+00:11:16,402 --> 00:11:18,402
 Ada yang baru?
 
 91
-00:11:37,617 --> 00:11:39,699
+00:11:18,572 --> 00:11:20,652
 Tidak ada.
 
 92
-00:11:43,753 --> 00:11:47,337
+00:11:24,703 --> 00:11:28,284
 Aku dengar apa yang kau
 katakan ke Kapten.
 
 93
-00:11:47,507 --> 00:11:51,130
+00:11:28,454 --> 00:11:32,074
 Aku tidak datang langsung
 dari konfirmasi.
 
 94
-00:11:51,301 --> 00:11:56,806
+00:11:32,245 --> 00:11:37,745
 Ayah mengajariku Morse waktu aku tujuh tahun
 dan aku ikut kursus telegraf di Oslo.
 
 95
-00:11:56,966 --> 00:12:00,640
+00:11:37,905 --> 00:11:41,576
 Sebenarnya, aku berencana 
 menjadi tukang listrik.
 
 96
-00:12:00,810 --> 00:12:06,316
+00:11:41,746 --> 00:11:47,247
 Tapi aku janji akan bekerja dengan baik.
 Aku tak akan makan hering lagi di sini.
 
 97
-00:12:06,476 --> 00:12:08,648
+00:11:47,407 --> 00:11:49,577
 Aku janji.
 
 98
-00:12:47,727 --> 00:12:52,362
+00:12:28,623 --> 00:12:33,254
 Apa maksud semua ini?
 Tak mungkin.
 
 99
-00:12:53,523 --> 00:12:57,577
+00:12:34,414 --> 00:12:38,465
 - Apa kau benar-benar yakin?
 - Ya. Tunggu, ada satu lagi.
 
 100
-00:13:03,743 --> 00:13:05,995
+00:12:44,626 --> 00:12:46,876
 Tutup pintunya.
 
 101
-00:13:13,503 --> 00:13:18,548
+00:12:54,378 --> 00:12:59,418
 "Konvoi harus bubar dan
 bergerak menuju pelabuhan Rusia."
 
 102
-00:13:20,760 --> 00:13:23,853
+00:13:01,628 --> 00:13:04,719
 lalu ini pesan kedua.
 
 103
-00:13:26,936 --> 00:13:29,609
+00:13:07,799 --> 00:13:10,470
 "Konvoi harus bubar."
 
 104
-00:13:29,769 --> 00:13:32,402
+00:13:10,630 --> 00:13:13,261
 Haruskah kita bergerak satu per satu?
 
 105
-00:13:32,562 --> 00:13:35,445
+00:13:13,420 --> 00:13:16,301
 Dan pengawalan ditarik.
 
 106
-00:13:36,446 --> 00:13:40,530
+00:13:17,301 --> 00:13:21,382
 Dan tidak ada... tidak ada penjelasan?
 
 107
-00:13:40,700 --> 00:13:44,283
+00:13:21,552 --> 00:13:25,132
 Tidak. Tidak ada laporan
 tentang badai atau cuaca buruk.
 
 108
-00:13:44,454 --> 00:13:49,208
+00:13:25,302 --> 00:13:30,052
 Inggris sialan itu sepertinya ingin
 menggunakan kapal mereka di tempat lain.
 
 109
-00:13:50,960 --> 00:13:56,386
+00:13:31,803 --> 00:13:37,224
 Ya. Ada alasan ketiga
 untuk membubarkan konvoi.
 
 110
-00:13:59,429 --> 00:14:04,554
+00:13:40,265 --> 00:13:45,386
 Kekuatan militer. Jika pengawalan
 tidak ada harapan, mereka menariknya.
 
 111
-00:14:04,724 --> 00:14:08,478
+00:13:45,555 --> 00:13:49,306
 Apakah kapal perang Jerman
 sedang menuju ke arah kita?
 
 112
-00:14:09,519 --> 00:14:10,850
+00:13:50,346 --> 00:13:51,676
 Ya.
 
 113
-00:14:14,984 --> 00:14:19,158
+00:13:55,807 --> 00:13:59,977
 Konvoi sekarang akan menyebar
 ke semua arah ke timur.
 
 114
-00:14:19,318 --> 00:14:24,574
+00:14:00,137 --> 00:14:05,389
 Jika kita tidak ada kapal yang tertinggal,
 maka seluruh konvoi ada di sekitar sini.
 
 115
-00:14:26,706 --> 00:14:32,371
+00:14:07,519 --> 00:14:13,179
 Tantangan terbesar kita adalah
 pangkalan udara Jerman di Norwegia Utara.
 
 116
-00:14:32,542 --> 00:14:37,627
+00:14:13,350 --> 00:14:18,431
 Tidak peduli rute mana yang kita pilih,
 kita berada dalam jangkauan rencana mereka.
 
 117
-00:14:46,185 --> 00:14:48,187
+00:14:26,982 --> 00:14:28,982
 Kenapa kita harus bubar?
 
 118
-00:14:48,347 --> 00:14:52,191
+00:14:29,142 --> 00:14:32,982
 Kita tak tahu apa yang dipikirkan Inggris.
 Ini radio bisu.
 
 119
-00:14:52,351 --> 00:14:56,105
+00:14:33,142 --> 00:14:36,893
 Persetan radio bisu itu!
 Kita sudah ditinggalkan di sini!
 
 120
-00:14:56,275 --> 00:15:01,240
+00:14:37,063 --> 00:14:42,024
 Jika kukirim sesuatu sekarang, 
 itu akan mengungkap posisi kita dan kapal lainnya.
 
 121
-00:15:24,804 --> 00:15:28,387
+00:15:05,568 --> 00:15:09,148
 Kita menabrak puing,
 tapi berjalan dengan baik.
 
 122
-00:15:28,558 --> 00:15:33,062
+00:15:09,319 --> 00:15:13,819
 - Mereka tidur saat berjaga di atas sana?
 - Tidak, visibilitas tebal dan buruk.
 
 123
-00:15:34,984 --> 00:15:36,936
+00:15:15,739 --> 00:15:17,690
 Aku jalan ke atas.
 
 124
-00:15:41,440 --> 00:15:46,245
+00:15:22,190 --> 00:15:26,991
 Di telegram kedua, tidak ada
 tentang melanjutkan ke Murmansk.
 
 125
-00:15:46,405 --> 00:15:49,699
+00:15:27,151 --> 00:15:30,442
 Tidak ada keraguan
 tentang apa tugas kita.
 
 126
-00:15:51,290 --> 00:15:57,256
+00:15:32,032 --> 00:15:37,993
 Kapten? Kita punya masalah mesin.
 Yang terbaik kembali ke Islandia.
 
 127
-00:15:57,416 --> 00:16:01,380
+00:15:38,153 --> 00:15:42,113
 Kita bukan kapal pertama
 yang kembali.
 
 128
-00:16:04,804 --> 00:16:07,056
+00:15:45,534 --> 00:15:47,784
 Apa pendapatmu, Mørk?
 
 129
-00:16:08,888 --> 00:16:13,563
+00:15:49,615 --> 00:15:54,286
 - Aku tidak tahu.
 - Kau tak tahu? kau harus menyatakan sesuatu
 
 130
-00:16:15,064 --> 00:16:20,029
+00:15:55,786 --> 00:16:00,747
 Jika aku tidak disini,
 kau yang buat keputusan sendiri. Apa yang kau lakukan?
 
 131
-00:16:21,861 --> 00:16:27,486
+00:16:02,577 --> 00:16:08,197
 - Ya, kita kembali ke Islandia.
 - Ya. Aku setuju.
 
 132
-00:16:28,407 --> 00:16:32,912
+00:16:09,117 --> 00:16:13,619
 - Kenapa?
 - Untuk menghindari kerusakan mesin.
 
 133
-00:16:34,083 --> 00:16:37,707
+00:16:14,789 --> 00:16:18,410
 Kita tidak punya senjata di
 buritan atau sayap anjungan.
 
 134
-00:16:37,877 --> 00:16:41,711
+00:16:18,579 --> 00:16:22,410
 Kita tidak siap
 untuk pergi sendiri.
 
 135
-00:16:41,881 --> 00:16:45,254
+00:16:22,580 --> 00:16:25,950
 Bagaimana dengan sekutu kita
 yang membutuhkan pasokan itu?
 
 136
-00:16:45,424 --> 00:16:50,099
+00:16:26,120 --> 00:16:30,791
 Uni Soviet? Setahun lalu
 mereka sahabat baik dengan Nazi.
 
 137
-00:16:53,472 --> 00:16:56,646
+00:16:34,161 --> 00:16:37,333
 Kau benar.
 Orang Inggris gagal.
 
 138
-00:16:56,816 --> 00:17:02,021
+00:16:37,503 --> 00:16:42,703
 Kita tidak. Kita tetap di jalur.
 Jerman tidak akan menduga ini
 
 139
-00:17:03,693 --> 00:17:07,196
+00:16:44,374 --> 00:16:47,874
 - Saat kita pergi sendiri, kita bisa meningkatkan kecepatan.
 - Tidak.
 
 140
-00:17:07,366 --> 00:17:10,910
+00:16:48,044 --> 00:16:51,585
 Jika kita pergi lebih cepat dari
 setengah kecepatan, mesin akan berasap.
 
 141
-00:17:11,080 --> 00:17:14,584
+00:16:51,755 --> 00:16:55,256
 Kondensor akan retak jika aku
 jalankan di tekanan yang lebih tinggi.
 
 142
-00:17:14,744 --> 00:17:16,746
+00:16:55,415 --> 00:16:57,416
 Cukup.
 
 143
-00:17:21,130 --> 00:17:23,342
+00:17:01,796 --> 00:17:04,006
 Kita lakukan itu.
 
 144
-00:17:25,795 --> 00:17:31,100
+00:17:06,457 --> 00:17:11,758
 - Apa yang kita bilang ke kru?
 - Hanya apa yang perlu mereka tahu.
 
 145
-00:17:46,115 --> 00:17:50,279
+00:17:26,760 --> 00:17:30,921
 - Di mana kepala ABK?
 - Dia baru saja di dek, Kapten.
 
 146
-00:17:56,706 --> 00:17:58,708
+00:17:37,342 --> 00:17:39,342
 Kapten?
 
 147
-00:17:58,878 --> 00:18:04,964
+00:17:39,512 --> 00:17:45,593
 Konvoi sudah bubar.
 Jadi kita ganti ke pengawasan ganda.
 
 148
-00:18:05,134 --> 00:18:08,563
+00:17:45,763 --> 00:17:49,189
 - Bagaimana dengan pengawal?
 - Mereka mengikuti kita dengan
 pesawat dan kapal penjelajah.
 
 149
-00:18:08,587 --> 00:18:13,803
+00:17:49,213 --> 00:17:54,425
 Tapi akan ada jarak yang lebih jauh,
 jadi aku ingin berada di sisi yang aman.
 
 150
-00:18:57,306 --> 00:18:58,728
+00:18:37,891 --> 00:18:39,312
 Masuk!
 
 151
-00:19:00,770 --> 00:19:04,393
+00:18:41,352 --> 00:18:44,972
 - Kau memanggilku?
 - Duduk saja.
 
 152
-00:19:18,708 --> 00:19:21,620
+00:18:59,275 --> 00:19:02,185
 Aku sudah baca dokumenmu.
 
 153
-00:19:21,791 --> 00:19:25,374
+00:19:02,356 --> 00:19:05,936
 Bahwa kau pernah jadi
 kapten di D/S Jutland.
 
 154
-00:19:26,505 --> 00:19:29,668
+00:19:07,066 --> 00:19:10,226
 - Ya.
 - Dan sekarang kau sudah di laut lagi?
 
 155
-00:19:31,841 --> 00:19:33,763
+00:19:12,397 --> 00:19:14,317
 Itu mengesankan.
 
 156
-00:19:39,268 --> 00:19:41,891
+00:19:19,818 --> 00:19:22,439
 kapalmu tenggelam?
 
 157
-00:19:44,523 --> 00:19:46,025
+00:19:25,068 --> 00:19:26,569
 Tidak.
 
 158
-00:19:52,111 --> 00:19:54,363
+00:19:32,650 --> 00:19:34,900
 Tak perlu malu.
 
 159
-00:19:55,945 --> 00:19:59,698
+00:19:36,481 --> 00:19:40,231
 Sedikit takut pada air itu wajar saja.
 Itu membuat kita tetap waspada.
 
 160
-00:19:59,869 --> 00:20:04,253
+00:19:40,401 --> 00:19:44,782
 Banyak perwira laut terbaik
 punya ketakutan pada air.
 
 161
-00:20:04,413 --> 00:20:09,298
+00:19:44,942 --> 00:19:49,823
 Jadi kalau kau punya sesuatu untuk
 diungkapkan, lebih baik dikeluarkan saja.
 
 162
-00:20:22,431 --> 00:20:25,354
+00:20:02,944 --> 00:20:05,865
 Ya... Kami ditorpedo.
 
 163
-00:20:26,525 --> 00:20:29,228
+00:20:07,035 --> 00:20:09,736
 Tapi kau sudah baca itu, kan?
 
 164
-00:20:31,110 --> 00:20:36,285
+00:20:11,616 --> 00:20:16,787
 Butuh setengah jam sebelum kapal tenggelam,
 jadi kami... kami punya banyak waktu.
 
 165
-00:20:36,445 --> 00:20:40,830
+00:20:16,947 --> 00:20:21,328
 Semua orang masuk perahu penyelamat.
 Ada 16 orang.
 
 166
-00:20:42,541 --> 00:20:44,994
+00:20:23,038 --> 00:20:25,488
 Jadi kau bisa tetap tenang?
 
 167
-00:20:46,745 --> 00:20:50,379
+00:20:27,238 --> 00:20:30,869
 Itu tidak seburuk yang orang katakan.
 
 168
-00:20:51,841 --> 00:20:56,135
+00:20:32,330 --> 00:20:36,620
 Bagus. Tapi jangan
 pernah bilang begitu lagi.
 
 169
-00:20:56,305 --> 00:21:00,599
+00:20:36,790 --> 00:20:41,080
 Semua orang tahu bahwa seorang kapten
 yang kehilangan kapalnya membawa sial.
 
 170
-00:21:00,759 --> 00:21:04,894
+00:20:41,240 --> 00:20:45,372
 Dan jika ketakutan dibiarkan menyebar,
 itu akan menyebar seperti wabah.
 
 171
-00:21:06,645 --> 00:21:09,939
+00:20:47,121 --> 00:20:50,412
 Aku melihat kapal ini seperti peti mati.
 
 172
-00:21:10,109 --> 00:21:16,325
+00:20:50,582 --> 00:20:56,793
 Setiap kali aku naik ke kapal, aku mati.
 Lalu tak ada lagi yang harus ditakuti.
 
 173
-00:21:18,237 --> 00:21:20,529
+00:20:58,704 --> 00:21:00,994
 Itu tutup petinya.
 
 174
-00:21:47,000 --> 00:21:49,000
+00:21:27,442 --> 00:21:29,441
 Hari ke-8
 
 175
-00:21:52,811 --> 00:21:55,154
+00:21:33,248 --> 00:21:35,589
 Kita terima pesan darurat.
 
 176
-00:21:55,314 --> 00:21:59,118
+00:21:35,749 --> 00:21:39,550
 Ditorpedo. kapal itu sudah tenggelam.
 
 177
-00:22:04,914 --> 00:22:09,288
+00:21:45,341 --> 00:21:49,712
 Ada pesan darurat dari
 empat kapal. Yang terakhir dari Kapal 18.
 
 178
-00:22:09,458 --> 00:22:15,544
+00:21:49,881 --> 00:21:55,962
 Mereka tenggelam dan masuk sekoci.
 Keempatnya sepertinya kena.
 
 179
-00:22:22,761 --> 00:22:26,515
+00:22:03,173 --> 00:22:06,924
 bagaimana menurutmu?
 Kita masih bisa berbalik arah.
 
 180
-00:22:27,846 --> 00:22:31,981
+00:22:08,254 --> 00:22:12,385
 Ini akan jadi jalan memutar jika
 kita menuju Murmansk.
 
 181
-00:22:32,151 --> 00:22:36,105
+00:22:12,555 --> 00:22:16,506
 Pertahankan jalur dan kecepatan.
 Panggil aku jika ada apa-apa.
 
 182
-00:23:09,808 --> 00:23:11,850
+00:22:50,181 --> 00:22:52,221
 Aku pegang kemudi.
 
 183
-00:23:43,052 --> 00:23:48,267
+00:23:23,397 --> 00:23:28,607
 Kau bawa amunisi ke kabin?
 Kau bisa ledakkan seluruh kabin!
 
 184
-00:23:51,981 --> 00:23:57,896
+00:23:32,318 --> 00:23:38,228
 Masuk ke ruang makan. Bilang kau latihan diam 
 sebelum masuk ke kabin si Swedia
 
 185
-00:24:06,655 --> 00:24:08,697
+00:23:46,980 --> 00:23:49,020
 Beri aku yang itu.
 
 186
-00:24:11,790 --> 00:24:15,544
+00:23:52,110 --> 00:23:55,861
 Jenis meriam apa yang
 ada di kapal tempatmu dulul?
 
 187
-00:24:15,704 --> 00:24:18,377
+00:23:56,021 --> 00:23:58,692
 - Aku tak tahu.
 - Kau tak tahu?
 
 188
-00:24:18,547 --> 00:24:23,552
+00:23:58,862 --> 00:24:03,863
 Tidak, aku bocah pelayan.
 Kami tak pernah dekat musuh.
 
 189
-00:24:31,850 --> 00:24:36,475
+00:24:12,154 --> 00:24:16,775
 Jika kau berhasil menghindari musuh sampai sekarang,
 artinya kau beruntung.
 
 190
-00:24:36,645 --> 00:24:42,231
+00:24:16,945 --> 00:24:22,526
 Di tempat ini,
 keberuntungan jarang terjadi.
 
 191
-00:24:58,207 --> 00:25:00,339
+00:24:38,488 --> 00:24:40,619
 Perwira pertama?
 
 192
-00:25:30,699 --> 00:25:34,243
+00:25:10,953 --> 00:25:14,494
 - Ada apa?
 - Kapal di haluan kiri. Tetap di jalur.
 
 193
-00:25:34,413 --> 00:25:37,996
+00:25:14,664 --> 00:25:18,244
 Mungkin itu kapal tanker yang
 kirim pesan darurat.
 
 194
-00:26:07,276 --> 00:26:12,030
+00:25:47,499 --> 00:25:52,249
 Evensen? Kita luncurkan perahu penyelamat.
 Cari mandor kapal.
 
 195
-00:26:15,204 --> 00:26:18,877
+00:25:55,421 --> 00:25:59,090
 - Ubah jalur ke kapal.
 - Mengubah jalur ke kapal.
 
 196
-00:26:19,037 --> 00:26:21,580
+00:25:59,250 --> 00:26:01,791
 Kau yakin tentang ini?
 
 197
-00:26:28,257 --> 00:26:30,339
+00:26:08,463 --> 00:26:10,543
 Jalan perlahan!
 
 198
-00:26:46,405 --> 00:26:50,609
+00:26:26,595 --> 00:26:30,796
 Kita seharusnya tetap di jalur.
 Kenapa mereka siapkan perahu penyelamat?
 
 199
-00:26:50,779 --> 00:26:54,573
+00:26:30,966 --> 00:26:34,756
 Ada orang dalam bahaya di depan.
 Kita angkut mereka sekarang.
 
 200
-00:26:56,495 --> 00:26:59,538
+00:26:36,677 --> 00:26:39,717
 Dilarang berhenti di konvoi.
 
 201
-00:26:59,708 --> 00:27:02,211
+00:26:39,887 --> 00:26:42,388
 Kita bukan lagi konvoi.
 
 202
-00:27:02,371 --> 00:27:05,624
+00:26:42,548 --> 00:26:45,798
 - Belok keras ke kanan - sekarang!
 - Belok keras ke kanan!
 
 203
-00:27:19,598 --> 00:27:21,230
+00:26:59,760 --> 00:27:01,391
 Apa tadi itu?
 
 204
-00:27:46,415 --> 00:27:50,299
+00:27:26,555 --> 00:27:30,435
 Sial. Ranjau. Mereka
 terapung sampai ke sini.
 
 205
-00:27:52,471 --> 00:27:55,924
+00:27:32,606 --> 00:27:36,056
 Lihat ranjau-ranjau itu? Di antaranya.
 
 206
-00:27:56,094 --> 00:27:57,886
+00:27:36,226 --> 00:27:38,016
 Ayo cepat.
 
 207
-00:28:15,153 --> 00:28:18,196
+00:27:55,269 --> 00:27:58,309
 Bisa konfirmasi mesin berhenti total?
 
 208
-00:28:18,367 --> 00:28:21,870
+00:27:58,480 --> 00:28:01,980
 Benar. Ada ranjau di depan.
 
 209
-00:28:29,007 --> 00:28:32,421
+00:28:09,111 --> 00:28:12,522
 - Kita butuh kecepatan kemudi.
 - Kita tidak boleh mengemudi.
 
 210
-00:28:32,591 --> 00:28:38,717
+00:28:12,692 --> 00:28:18,813
 Cari kepala ABK.
 Kirim orang untuk membersihkan ranjau itu
 
 211
-00:28:38,887 --> 00:28:41,219
+00:28:18,983 --> 00:28:21,313
 Gunakan anak-anak muda.
 
 212
-00:28:46,315 --> 00:28:51,280
+00:28:26,404 --> 00:28:31,365
 Lars. Kita butuh kait kapal,
 tali, dan jaring panjat di haluan.
 
 213
-00:28:51,440 --> 00:28:55,324
+00:28:31,525 --> 00:28:35,406
 Aku butuh kau, Evensen. Dan...
 
 214
-00:28:55,484 --> 00:28:57,286
+00:28:35,566 --> 00:28:37,366
 Bergvik.
 
 215
-00:28:57,446 --> 00:29:00,579
+00:28:37,526 --> 00:28:40,656
 Lalu Isaksen.
 - Dan kau, Sigurd.
 
 216
-00:29:00,739 --> 00:29:05,624
+00:28:40,816 --> 00:28:45,697
 Pakai jaket pelampungmu dan
 keluar ke dek. Ayo cepat!
 
 217
-00:29:20,008 --> 00:29:23,852
+00:29:00,069 --> 00:29:03,910
 Oke, naik pagar sekarang.
 Kita masih bergerak maju.
 
 218
-00:29:29,648 --> 00:29:31,480
+00:29:09,701 --> 00:29:11,531
 Ayo cepat!
 
 219
-00:29:44,082 --> 00:29:46,835
+00:29:24,123 --> 00:29:26,873
 Bersihkan sisi kanan!
 
 220
-00:30:12,771 --> 00:30:14,653
+00:29:52,788 --> 00:29:54,668
 Sigurd.
 
 221
-00:30:15,734 --> 00:30:18,196
+00:29:55,748 --> 00:29:58,208
 Yang ini milikmu.
 
 222
-00:30:25,784 --> 00:30:29,828
+00:30:05,790 --> 00:30:09,830
 Kau bisa lakukan ini.
 Jangan sampai menyentuh tanduknya.
 
 223
-00:30:53,692 --> 00:30:55,233
+00:30:33,674 --> 00:30:35,214
 Tenang, tenang, tenang.
 
 224
-00:31:06,415 --> 00:31:08,997
+00:30:46,386 --> 00:30:48,966
 Isaksen, ini giliranmu.
 
 225
-00:31:14,833 --> 00:31:16,925
+00:30:54,797 --> 00:30:56,888
 Bagus, bagus.
 
 226
-00:31:17,085 --> 00:31:21,089
+00:30:57,047 --> 00:31:01,048
 Ayo. Aku memegangmu.
 
 227
-00:31:21,259 --> 00:31:22,801
+00:31:01,218 --> 00:31:02,759
 Bagus.
 
 228
-00:31:26,725 --> 00:31:29,227
+00:31:06,679 --> 00:31:09,179
 Semua baik-baik saja.
 
 229
-00:31:39,067 --> 00:31:41,900
+00:31:19,011 --> 00:31:21,842
 Isaksen. Masih ada satu lagi.
 
 230
-00:32:07,476 --> 00:32:11,349
+00:31:47,396 --> 00:31:51,266
 - Isaksen!
 - Tali, tali, tali! Orang jatuh ke laut!
 
 231
-00:32:13,351 --> 00:32:16,935
+00:31:53,266 --> 00:31:56,847
 - Orang jatuh ke laut!
 - Isaksen!
 
 232
-00:32:17,105 --> 00:32:19,738
+00:31:57,017 --> 00:31:59,648
 - Isaksen!
 - Beri aku tali!
 
 233
-00:32:22,861 --> 00:32:26,945
+00:32:02,768 --> 00:32:06,849
 - Bantu dia!
 - Isaksen! Pegang ujung talinya!
 
 234
-00:32:32,250 --> 00:32:34,412
+00:32:12,149 --> 00:32:14,309
 Bantu aku!
 
 235
-00:32:40,959 --> 00:32:42,511
+00:32:20,851 --> 00:32:22,402
 Tolong!
 
 236
-00:32:42,671 --> 00:32:44,342
+00:32:22,561 --> 00:32:24,231
 Mørk?
 
 237
-00:32:54,102 --> 00:32:57,355
+00:32:33,983 --> 00:32:37,233
 Apakah ada yang jatuh ke laut?
 
 238
-00:32:57,526 --> 00:33:00,609
+00:32:37,404 --> 00:32:40,484
 - Skar?
 - Operator radio kedua.
 
 239
-00:33:19,087 --> 00:33:21,089
+00:32:58,947 --> 00:33:00,947
 Kita akan berhasil.
 
 240
-00:33:24,052 --> 00:33:26,174
+00:33:03,908 --> 00:33:06,028
 Kau yang pegang kemudi.
 
 241
-00:33:51,409 --> 00:33:55,123
+00:33:31,242 --> 00:33:34,952
 Lain kali, kalau mau kurangi awak, 
 kau pilih sendiri.
 
 242
-00:33:55,283 --> 00:33:58,997
+00:33:35,112 --> 00:33:38,823
 - Kita selamatkan kapal dan kargonya.
 - Anak itu yang melakukannya.
 
 243
-00:33:59,167 --> 00:34:04,843
+00:33:38,993 --> 00:33:44,664
 Tugasku membuat pilihan yang sulit.
 Tugasmu tidak mengarahkan kita ke ladang ranjau.
 
 244
-00:34:05,003 --> 00:34:09,217
+00:33:44,824 --> 00:33:49,035
 Jika kita tetap pada jalurku, anak itu
 tidak akan pernah jatuh ke air.
 
 245
-00:35:09,858 --> 00:35:12,741
+00:34:49,625 --> 00:34:52,505
 Sini kubantu
 
 246
-00:35:29,007 --> 00:35:32,931
+00:35:08,757 --> 00:35:12,678
 - Di mana barang-barang Isaksen?
 - Ini bukunya.
 
 247
-00:35:34,052 --> 00:35:36,184
+00:35:13,798 --> 00:35:15,928
 Ini juga?
 
 248
-00:35:40,769 --> 00:35:43,391
+00:35:20,509 --> 00:35:23,129
 Tidak. Itu milik Olof.
 
 249
-00:35:46,985 --> 00:35:50,108
+00:35:26,720 --> 00:35:29,841
 Tolong jaga kebersihan disini
 
 250
-00:36:41,199 --> 00:36:44,002
+00:36:20,889 --> 00:36:23,689
 Aku harus turun dari kapal ini.
 
 251
-00:36:45,503 --> 00:36:49,337
+00:36:25,189 --> 00:36:29,020
 - Bagaimana status mesin?
 - Aku tak tahan di sini.
 
 252
-00:36:49,507 --> 00:36:53,711
+00:36:29,190 --> 00:36:33,390
 Sekarang dengarkan aku.
 Tak ada sukarelawan disini.
 
 253
-00:37:02,560 --> 00:37:07,525
+00:36:42,232 --> 00:36:47,192
 Erik, kau punya tugas paling penting.
 Kalau mesin berasap, kita tamat.
 
 254
-00:37:07,685 --> 00:37:12,030
+00:36:47,352 --> 00:36:51,694
 Jika kau bawa kita ke Murmansk
 sekali lagi, ku akan membantumu.
 
 255
-00:37:12,190 --> 00:37:17,405
+00:36:51,854 --> 00:36:57,064
 Aku kenal dokter di sana.
 Kau bisa cuti jika dia bilang kau sakit.
 
 256
-00:37:21,289 --> 00:37:22,831
+00:37:00,945 --> 00:37:02,486
 Ya.
 
 257
-00:37:24,833 --> 00:37:26,955
+00:37:04,486 --> 00:37:06,606
 Sifilis, mungkin?
 
 258
-00:37:32,170 --> 00:37:34,172
+00:37:11,817 --> 00:37:13,817
 Jadi, bagaimana statusnya?
 
 259
-00:37:34,342 --> 00:37:38,426
+00:37:13,987 --> 00:37:18,067
 Jika kita tetap di bawah setengah
 kecepatan, semua harus berjalan baik.
 
 260
-00:37:38,596 --> 00:37:40,258
+00:37:18,237 --> 00:37:19,898
 Baiklah.
 
 261
-00:37:41,599 --> 00:37:43,561
+00:37:21,238 --> 00:37:23,198
 Makan sekarang.
 
 262
-00:37:57,826 --> 00:38:02,911
+00:37:37,451 --> 00:37:42,532
 - Kenapa kau di sini?
 - Maksudmu?
 
 263
-00:38:03,081 --> 00:38:07,335
+00:37:42,702 --> 00:37:46,952
 Swedia netral.
 Mereka tidak membantu dalam perang.
 
 264
-00:38:15,173 --> 00:38:18,296
+00:37:54,784 --> 00:37:57,904
 Ada perusahaan...
 
 265
-00:38:19,968 --> 00:38:24,182
+00:37:59,574 --> 00:38:03,785
 pengolahan kayu Jerman di München.
 
 266
-00:38:24,352 --> 00:38:27,225
+00:38:03,955 --> 00:38:06,825
 Namanya Koch dan Seidelman.
 
 267
-00:38:28,897 --> 00:38:31,309
+00:38:08,496 --> 00:38:10,906
 Kau tahu itu?
 
 268
-00:38:31,479 --> 00:38:37,025
+00:38:11,076 --> 00:38:16,617
 Mereka buat piston untuk Mauser
 Karabiner 98k dan senapan Jerman lainnya.
 
 269
-00:38:38,196 --> 00:38:43,952
+00:38:17,787 --> 00:38:23,538
 Kayunya berasal dari hutan di Härryda
 di luar Göteborg.
 
 270
-00:38:46,244 --> 00:38:49,247
+00:38:25,828 --> 00:38:28,829
 Dari pohon-pohon yang
 aku mainkan saat kecil.
 
 271
-00:38:49,417 --> 00:38:53,251
+00:38:28,999 --> 00:38:32,829
 Kami tak punya banyak,
 tapi kami punya hutan.
 
 272
-00:38:53,421 --> 00:38:57,465
+00:38:32,999 --> 00:38:37,040
 Saat Jerman memutus
 semua jalur perdagangan, jadi...
 
 273
-00:38:59,637 --> 00:39:05,053
+00:38:39,210 --> 00:38:44,622
 Kau harus hidup dari sesuatu.
 Tapi bukan sesuatu yang aku banggakan.
 
 274
-00:39:05,223 --> 00:39:10,188
+00:38:44,791 --> 00:38:49,752
 Jadi aku ingin ada sesuatu yang bisa
 diceritakan tentang keluargaku juga.
 
 275
-00:39:13,651 --> 00:39:17,065
+00:38:53,212 --> 00:38:56,623
 Kalau aku, aku akan tinggal di rumah.
 
 276
-00:39:18,566 --> 00:39:23,321
+00:38:58,123 --> 00:39:02,874
 Aku akan lakukan apapun
 untuk hindari berada di sini.
 
 277
-00:40:01,739 --> 00:40:06,534
+00:39:41,260 --> 00:39:46,051
 - Aku harus punya barang-barangnya. Isaksen.
 - Ini bukunya.
 
 278
-00:40:22,010 --> 00:40:27,135
+00:40:01,514 --> 00:40:06,634
 Aku sudah bicara dengan yang lain.
 Tidak ada yang bisa pagi ini, jadi kau dapat...
 
 279
-00:40:28,176 --> 00:40:29,847
+00:40:07,675 --> 00:40:09,344
 Oke.
 
 280
-00:41:21,649 --> 00:41:24,282
+00:41:01,103 --> 00:41:03,733
 Ada keributan di ruang makan kru.
 
 281
-00:41:25,533 --> 00:41:29,577
+00:41:04,983 --> 00:41:09,024
 Biasanya aku kirim perwira
 untuk membereskannya.
 
 282
-00:41:29,737 --> 00:41:32,910
+00:41:09,184 --> 00:41:12,354
 Kalau kau merasa bisa mengatasinya.
 
 283
-00:41:33,081 --> 00:41:38,296
+00:41:12,525 --> 00:41:17,736
 Berita tentang pengawalan sudah tersebar.
 Mereka layak mendapatkan penjelasan.
 
 284
-00:41:38,456 --> 00:41:43,171
+00:41:17,895 --> 00:41:22,606
 Kita kehilangan satu orang hari ini.
 Kau pikir mereka butuh berita buruk lagi?
 
 285
-00:41:43,341 --> 00:41:45,093
+00:41:22,776 --> 00:41:24,527
 Satu orang?
 
 286
-00:41:47,965 --> 00:41:53,561
+00:41:27,396 --> 00:41:32,988
 - Kau bahkan tidak tahu namanya?
 - Aku tak tahu nama mereka semua.
 
 287
-00:41:53,721 --> 00:41:58,316
+00:41:33,148 --> 00:41:37,739
 Namanya Isaksen.
 Dan menurutku, kau seharusnya pegang ini.
 
 288
-00:42:18,536 --> 00:42:21,629
+00:41:57,942 --> 00:42:01,032
 "Pesan darurat.
 Torpedo. Kapal tenggelam."
 
 289
-00:42:21,789 --> 00:42:24,792
+00:42:01,192 --> 00:42:04,192
 "Pengeboman. Tangki minyak meledak.
 Kami naik ke perahu penyelamat."
 
 290
-00:42:24,962 --> 00:42:28,636
+00:42:04,362 --> 00:42:08,033
 Mereka mengirim kita langsung
 ke neraka tanpa berkedip!
 
 291
-00:42:30,218 --> 00:42:35,433
+00:42:09,614 --> 00:42:14,824
 Aku sudah beri tahu kru.
 Mereka tahu tak ada pengawalan
 
 292
-00:42:35,603 --> 00:42:40,938
+00:42:14,994 --> 00:42:20,325
 dan kapten kita sendiri telah
 membawa kita ke misi bunuh diri!
 
 293
-00:42:46,984 --> 00:42:52,700
+00:42:26,366 --> 00:42:32,077
 Dengar. Situasi kita memang lebih buruk.
 
 294
-00:42:52,870 --> 00:42:57,325
+00:42:32,247 --> 00:42:36,698
 Tapi informasi itu beban
 yang tak perlu dibagi ke kru.
 
 295
-00:42:57,495 --> 00:43:02,960
+00:42:36,868 --> 00:42:42,328
 Kau telah gagal dalam tugasmu. Kau malah
 memilih menyebarkan ketakutan
 
 296
-00:43:03,131 --> 00:43:06,884
+00:42:42,499 --> 00:42:46,249
 Dan itu tak menguntungkan
 kita semua. Duduk.
 
 297
-00:43:09,797 --> 00:43:13,181
+00:42:49,160 --> 00:42:52,541
 Syukurlah, kepala ABK salah.
 
 298
-00:43:13,341 --> 00:43:17,054
+00:42:52,701 --> 00:42:56,410
 Membubarkan konvoi punya banyak keuntungan.
 
 299
-00:43:17,225 --> 00:43:20,648
+00:42:56,581 --> 00:43:00,001
 Sekarang kita bisa menentukan
 jalur dan kecepatan kita sendiri.
 
 300
-00:43:20,808 --> 00:43:26,564
+00:43:00,161 --> 00:43:05,912
 Jika kita maju penuh, tak ada kapal
 selam Jerman yang bisa mengejar kita.
 
 301
-00:43:29,607 --> 00:43:33,411
+00:43:08,953 --> 00:43:12,754
 Uni Soviet adalah sekutu
 kita dan mereka butuh bantuan.
 
 302
-00:43:33,571 --> 00:43:37,785
+00:43:12,914 --> 00:43:17,124
 Ribuan tentara Rusia mati setiap hari
 menghentikan Jerman di Front Timur.
 
 303
-00:43:37,955 --> 00:43:44,001
+00:43:17,294 --> 00:43:23,335
 Apa kita harus mengambil jalan mudah? 
 kalian ingin orang lain melakukan semuanya untukmu?
 
 304
-00:43:45,793 --> 00:43:51,429
+00:43:25,125 --> 00:43:30,756
 Di Norwegia, kita tak punya pertahanan.
 Ketika Jerman datang, aku ada di parit.
 
 305
-00:43:51,589 --> 00:43:56,934
+00:43:30,916 --> 00:43:36,257
 18 orang berbagi empat senapan.
 Setelah satu jam, peluru kami habis.
 
 306
-00:43:57,094 --> 00:44:01,229
+00:43:36,417 --> 00:43:40,548
 Kami tak punya peluang, Norwegia kalah.
 Itu semua karena pemerintah kita.
 
 307
-00:44:01,389 --> 00:44:06,484
+00:43:40,708 --> 00:43:45,799
 Pertama, mereka memotong anggaran
 pertahanan, lalu kabur saat perang datang.
 
 308
-00:44:09,647 --> 00:44:12,530
+00:43:48,959 --> 00:43:51,840
 Satu orang meninggal hari ini.
 
 309
-00:44:14,111 --> 00:44:17,785
+00:43:53,419 --> 00:43:57,090
 Isaksen. Tapi dia tidak mati sia-sia.
 
 310
-00:44:19,247 --> 00:44:22,330
+00:43:58,551 --> 00:44:01,631
 Dia mati demi kargo ini.
 
 311
-00:44:23,501 --> 00:44:28,796
+00:44:02,801 --> 00:44:08,092
 Jika Soviet mendapatkan bantuan mereka,
 mereka bisa memukul mundur Jerman.
 
 312
-00:44:28,966 --> 00:44:33,591
+00:44:08,262 --> 00:44:12,883
 Sekarang kita bisa beri mereka 
 kesempatan yang tak didapat pejuang Norwegia.
 
 313
-00:44:33,761 --> 00:44:36,514
+00:44:13,053 --> 00:44:15,804
 Dan perang ini akan berakhir.
 
 314
-00:44:36,674 --> 00:44:41,018
+00:44:15,963 --> 00:44:20,304
 Kontribusi kita, kontribusi Isaksen,
 itu yang membuat perbedaan.
 
 315
-00:44:42,890 --> 00:44:46,063
+00:44:22,174 --> 00:44:25,345
 Dan itulah cara kita bisa pulang.
 
 316
-00:45:07,915 --> 00:45:13,381
+00:44:47,178 --> 00:44:52,640
 Kapten? Ini tak bisa diteruskan. Kita harus
 kumpulkan semua perwira dan diskusikan.
 
 317
-00:45:49,000 --> 00:45:51,000
+00:45:28,229 --> 00:45:30,227
 Hari ke-9
 
 318
-00:45:53,130 --> 00:45:55,593
+00:45:32,355 --> 00:45:34,816
 Pesan darurat dari kapal nomor 23.
 
 319
-00:46:13,270 --> 00:46:15,403
+00:45:52,478 --> 00:45:54,609
 Pesannya dibatalkan.
 
 320
-00:46:21,278 --> 00:46:23,701
+00:46:00,479 --> 00:46:02,900
 Tidak ada koordinat.
 
 321
-00:46:27,875 --> 00:46:32,500
+00:46:07,071 --> 00:46:11,692
 Ragnhild, kau tahu apa yang terjadi.
 Rencana Skar salah total.
 
 322
-00:46:32,670 --> 00:46:36,424
+00:46:11,862 --> 00:46:15,613
 Kau mungkin tidak paham semua keputusannya.
 
 323
-00:46:36,594 --> 00:46:39,136
+00:46:15,782 --> 00:46:18,322
 Aku juga tidak.
 
 324
-00:46:39,296 --> 00:46:44,722
+00:46:18,482 --> 00:46:23,904
 Para kru akan berbalik melawannya.
 Tapi dia mendengarkanmu.
 
 325
-00:46:48,476 --> 00:46:51,399
+00:46:27,654 --> 00:46:30,575
 Dia sudah menyeberangi Atlantik 15 kali.
 
 326
-00:46:51,559 --> 00:46:54,442
+00:46:30,735 --> 00:46:33,615
 Dia berbohong kepada kru.
 
 327
-00:47:01,619 --> 00:47:05,573
+00:46:40,786 --> 00:46:44,737
 Kita sudah menerima beberapa pesan darurat.
 Dari setengah kapal sekarang.
 
 328
-00:47:05,743 --> 00:47:09,997
+00:46:44,907 --> 00:46:49,157
 - Itu bukan berarti semuanya tenggelam.
 - Tidak, tapi kita harus ubah jalur.
 
 329
-00:47:10,167 --> 00:47:12,960
+00:46:49,327 --> 00:46:52,118
 Kapten, aku pikir kita
 melihat kapal nomor 23.
 
 330
-00:47:13,130 --> 00:47:16,464
+00:46:52,288 --> 00:46:55,619
 Dia diserang beberapa menit lalu.
 
 331
-00:47:25,893 --> 00:47:32,400
+00:47:05,040 --> 00:47:11,541
 Apa yang sulit kau pahami?
 Ragnhild setuju denganku. sudah tak ada harapan!
 
 332
-00:47:32,560 --> 00:47:36,564
+00:47:11,701 --> 00:47:15,702
 Sudahlah, pengecut.
 Kau sudah merengek sejak hari pertama!
 
 333
-00:47:36,734 --> 00:47:38,856
+00:47:15,872 --> 00:47:17,992
 Kau ketakutan!
 
 334
-00:47:39,026 --> 00:47:42,610
+00:47:18,162 --> 00:47:21,743
 Kau hanya memikirkan dirimu sendiri
 dan bukan misi konvoi ini!
 
 335
-00:47:42,780 --> 00:47:48,916
+00:47:21,913 --> 00:47:28,044
 - "Tetap di jalur" itu yang kau terus katakan.
 - Lalu, bagaimana hasilnya terakhir kali kau jadi kapten?
 
 336
-00:47:50,037 --> 00:47:55,332
+00:47:29,164 --> 00:47:34,454
 Tepat. Kalau kau ingin menyelamatkan nyawa, jangan
 hanya nyawamu sendiri, kita selesaikan pengiriman ini!
 
 337
-00:48:01,088 --> 00:48:03,801
+00:47:40,205 --> 00:47:42,916
 Pesawat di haluan kanan!
 
 338
-00:48:21,318 --> 00:48:24,071
+00:48:00,418 --> 00:48:03,169
 Hanya kru yang diperlukan di dek.
 
 339
-00:48:25,453 --> 00:48:27,034
+00:48:04,550 --> 00:48:06,130
 Sekarang!
 
 340
-00:48:29,997 --> 00:48:32,910
+00:48:09,090 --> 00:48:12,001
 Turun ke bawah dek. Ayo turun!
 
 341
-00:48:34,622 --> 00:48:37,755
+00:48:13,711 --> 00:48:16,841
 Lars! Ajak semua orang turun ke bawah dek!
 
 342
-00:48:37,915 --> 00:48:41,088
+00:48:17,001 --> 00:48:20,172
 Semua orang turun ke bawah dek!
 Ayo, semua turun ke bawah dek!
 
 343
-00:48:43,340 --> 00:48:45,172
+00:48:22,422 --> 00:48:24,252
 Gerak cepat!
 
 344
-00:48:46,804 --> 00:48:49,637
+00:48:25,883 --> 00:48:28,713
 Ayo! Semua ke bawah dek!
 
 345
-00:48:56,774 --> 00:49:00,067
+00:48:35,844 --> 00:48:39,135
 - Turun ke bawah dek!
 - Cepat, cepat, cepat!
 
 346
-00:49:21,669 --> 00:49:24,512
+00:49:00,719 --> 00:49:03,559
 Bautnya! Tarik!
 
 347
-00:49:43,440 --> 00:49:45,783
+00:49:22,471 --> 00:49:24,812
 Berlindung!
 
 348
-00:49:50,037 --> 00:49:51,829
+00:49:29,063 --> 00:49:30,853
 Evensen!
 
 349
-00:50:24,401 --> 00:50:26,073
+00:50:03,398 --> 00:50:05,068
 Tetap tenang!
 
 350
-00:50:27,404 --> 00:50:31,408
+00:50:06,398 --> 00:50:10,399
 Cari sesuatu untuk menahan! Ini, pegang!
 
 351
-00:50:37,374 --> 00:50:39,416
+00:50:16,360 --> 00:50:18,400
 Haluan hadapkan ke pesawat.
 
 352
-00:50:41,669 --> 00:50:45,843
+00:50:20,651 --> 00:50:24,822
 - Mesin penuh ke depan!
 - Kau tidak serius, kan?
 
 353
-00:50:46,003 --> 00:50:48,716
+00:50:24,982 --> 00:50:27,692
 Mesin penuh ke depan!
 
 354
-00:50:48,886 --> 00:50:50,888
+00:50:27,862 --> 00:50:29,862
 Tingkatkan tekanan di boiler!
 
 355
-00:50:51,048 --> 00:50:55,392
+00:50:30,022 --> 00:50:34,363
 Begitu si Swedia sudah menembak,
 belok keras ke kanan!
 
 356
-00:50:56,303 --> 00:50:57,935
+00:50:35,273 --> 00:50:36,903
 Amunisi!
 
 357
-00:50:58,105 --> 00:51:00,107
+00:50:37,073 --> 00:50:39,074
 Sigurd!
 
 358
-00:51:12,700 --> 00:51:16,573
+00:50:51,656 --> 00:50:55,526
 - Ada api di dek!
 - Dek terbakar!
 
 359
-00:51:16,744 --> 00:51:20,327
+00:50:55,697 --> 00:50:59,277
 - Lars! Api di dek!
 - Tetap di bawah sini!
 
 360
-00:51:33,220 --> 00:51:34,762
+00:51:12,159 --> 00:51:13,699
 siap!
 
 361
-00:52:13,130 --> 00:52:15,973
+00:51:52,035 --> 00:51:54,876
 - Belok keras ke kanan!
 - Belok keras ke kanan!
 
 362
-00:52:16,133 --> 00:52:18,095
+00:51:55,036 --> 00:51:56,996
 Ayo, putar kita!
 
 363
-00:52:18,265 --> 00:52:20,057
+00:51:57,166 --> 00:51:58,956
 Satu putaran lagi.
 
 364
-00:52:20,227 --> 00:52:22,519
+00:51:59,126 --> 00:52:01,416
 Sigurd!
 
 365
-00:52:22,690 --> 00:52:24,641
+00:52:01,587 --> 00:52:03,537
 Amunisi!
 
 366
-00:52:28,315 --> 00:52:29,606
+00:52:07,207 --> 00:52:08,497
 Evensen?
 
 367
-00:52:31,108 --> 00:52:33,200
+00:52:09,998 --> 00:52:12,088
 Evensen, keluar dari sini!
 
 368
-00:52:35,652 --> 00:52:39,997
+00:52:14,538 --> 00:52:18,880
 Satu putaran lagi! Ayo! Iya, begitu.
 
 369
-00:52:40,958 --> 00:52:43,000
+00:52:19,840 --> 00:52:21,880
 Sigurd!
 
 370
-00:52:53,881 --> 00:52:55,723
+00:52:32,752 --> 00:52:34,592
 Hei. Hei!
 
 371
-00:52:55,883 --> 00:52:59,226
+00:52:34,752 --> 00:52:38,092
 Hei! Evensen. Kita harus turun!
 
 372
-00:53:00,387 --> 00:53:04,561
+00:52:39,252 --> 00:52:43,423
 Dia datang lagi! Cepat,
 cepat, cepat, cepat!
 
 373
-00:53:06,894 --> 00:53:09,436
+00:52:45,754 --> 00:52:48,294
 Tiarap! Tiarap!
 
 374
-00:53:10,437 --> 00:53:11,899
+00:52:49,294 --> 00:52:50,755
 Ayo.
 
 375
-00:53:13,280 --> 00:53:15,192
+00:52:52,135 --> 00:52:54,045
 Amunisi!
 
 376
-00:53:17,694 --> 00:53:19,616
+00:52:56,545 --> 00:52:58,465
 Ayo!
 
 377
-00:53:19,787 --> 00:53:22,499
+00:52:58,636 --> 00:53:01,346
 Ayo! Evensen!
 
 378
-00:53:36,263 --> 00:53:37,845
+00:53:15,098 --> 00:53:16,679
 siap!
 
 379
-00:53:43,390 --> 00:53:45,142
+00:53:22,219 --> 00:53:23,970
 Tiarap, tiarap, tiarap!
 
 380
-00:54:05,492 --> 00:54:07,494
+00:53:44,303 --> 00:53:46,303
 Ayo!
 
 381
-00:54:14,051 --> 00:54:16,213
+00:53:52,854 --> 00:53:55,015
 Cepat, cepat, cepat, cepat!
 
 382
-00:54:20,097 --> 00:54:22,389
+00:53:58,895 --> 00:54:01,185
 anjungan tertembak!
 
 383
-00:54:43,951 --> 00:54:46,914
+00:54:22,729 --> 00:54:25,690
 Bawa dia ke ruang makan.
 - Tetap di jalur.
 
 384
-00:54:49,837 --> 00:54:52,379
+00:54:28,610 --> 00:54:31,150
 Di mana itu?
 
 385
-00:55:02,299 --> 00:55:05,893
+00:54:41,062 --> 00:54:44,653
 - Mereka berputar lagi. Belok keras ke kiri!
 - Belok keras ke kiri!
 
 386
-00:55:14,902 --> 00:55:17,614
+00:54:53,654 --> 00:54:56,364
 Kita harus keluarkan serpihannya.
 
 387
-00:55:30,878 --> 00:55:33,000
+00:55:09,617 --> 00:55:11,737
 Potong sekarang.
 
 388
-00:55:34,501 --> 00:55:37,044
+00:55:13,237 --> 00:55:15,778
 Kau dapat morfin sekarang.
 
 389
-00:55:43,720 --> 00:55:46,843
+00:55:22,448 --> 00:55:25,568
 Oke. Buka terus.
 
 390
-00:55:47,014 --> 00:55:48,645
+00:55:25,739 --> 00:55:27,369
 Aku...
 
 391
-00:55:51,228 --> 00:55:53,941
+00:55:29,950 --> 00:55:32,660
 Oke, Lars. Bertahanlah.
 
 392
-00:55:58,355 --> 00:56:02,159
+00:55:37,071 --> 00:55:40,871
 Hadapkan haluan ke pesawat.
 Putar ke kanan.
 
 393
-00:56:03,280 --> 00:56:06,113
+00:55:41,991 --> 00:55:44,822
 Luruskan. Kanan, kanan.
 
 394
-00:56:30,517 --> 00:56:32,479
+00:56:09,206 --> 00:56:11,166
 Kerja bagus.
 
 395
-00:56:43,740 --> 00:56:45,242
+00:56:22,417 --> 00:56:23,918
 Ini.
 
 396
-00:56:59,086 --> 00:57:02,629
+00:56:37,751 --> 00:56:41,291
 - kerja bagus.
 - Gunting. Potong di situ.
 
 397
-00:57:05,512 --> 00:57:08,425
+00:56:44,171 --> 00:56:47,082
 Kerja bagus. Dia tidur sekarang.
 
 398
-00:57:11,979 --> 00:57:13,640
+00:56:50,633 --> 00:56:52,292
 siap!
 
 399
-00:57:15,642 --> 00:57:17,524
+00:56:54,293 --> 00:56:56,173
 Bagus!
 
 400
-00:57:18,525 --> 00:57:19,936
+00:56:57,173 --> 00:56:58,583
 Tahan, tahan.
 
 401
-00:57:35,002 --> 00:57:36,703
+00:57:13,636 --> 00:57:15,336
 Tembak!
 
 402
-00:57:36,873 --> 00:57:38,625
+00:57:15,506 --> 00:57:17,256
 Tembak!
 
 403
-00:58:04,861 --> 00:58:07,784
+00:57:43,470 --> 00:57:46,391
 - Kita mengenainya.
 - Kena?
 
 404
-00:58:09,366 --> 00:58:11,488
+00:57:47,971 --> 00:57:50,092
 Kita berhasil.
 
 405
-00:58:21,418 --> 00:58:23,170
+00:58:00,013 --> 00:58:01,764
 Apa semuanya baik?
 
 406
-00:58:24,841 --> 00:58:26,133
+00:58:03,433 --> 00:58:04,724
 Ya.
 
 407
-00:58:50,327 --> 00:58:52,028
+00:58:28,898 --> 00:58:30,597
 Evensen?
 
 408
-00:59:25,482 --> 00:59:27,654
+00:59:04,023 --> 00:59:06,193
 Apakah dia akan selamat?
 
 409
-00:59:29,366 --> 00:59:33,320
+00:59:07,904 --> 00:59:11,855
 Tergantung apakah dia
 mengalami pendarahan dalam.
 
 410
-00:59:33,490 --> 00:59:38,785
+00:59:12,025 --> 00:59:17,315
 - Berapa lama efek morfin bertahan?
 - Tidak tahu. Mungkin beberapa jam lagi.
 
 411
-00:59:46,423 --> 00:59:49,836
+00:59:24,947 --> 00:59:28,357
 - Apakah kita masih punya lebih banyak?
 - Ya.
 
 412
-00:59:55,142 --> 00:59:59,186
+00:59:33,658 --> 00:59:37,699
 Aku harus menunggu dia bangun
 supaya aku bisa menilai kondisinya.
 
 413
-01:00:01,148 --> 01:00:04,851
+00:59:39,659 --> 00:59:43,359
 Selama dia masih tidak sadarkan diri,
 aku yang mengambil keputusan.
 
 414
-01:00:05,021 --> 01:00:09,105
+00:59:43,529 --> 00:59:47,610
 - Maksudmu apa?
 - Kita bisa menyelamatkan seluruh kru.
 
 415
-01:00:09,276 --> 01:00:13,860
+00:59:47,780 --> 00:59:52,361
 - Kita bisa kembali ke Islandia.
 - Kau akan ditangkap.
 
 416
-01:00:14,030 --> 01:00:17,864
+00:59:52,530 --> 00:59:56,361
 - Aku akan bertanggung jawab penuh.
 - Aku tidak setuju dengan ini!
 
 417
-01:00:18,825 --> 01:00:21,117
+00:59:57,321 --> 00:59:59,611
 - Tidak?
 - Tidak.
 
 418
-01:00:21,288 --> 01:00:24,921
+00:59:59,782 --> 01:00:03,412
 Aku butuh kau di anjungan.
 Aku butuh kau di anjungan!
 
 419
-01:00:25,081 --> 01:00:29,296
+01:00:03,572 --> 01:00:07,784
 - Lupakan! Apa kau tak dengar apa yang kukatakan?
 - Ke anjungan! Sekarang.
 
 420
-01:00:43,690 --> 01:00:46,643
+01:00:22,165 --> 01:00:25,116
 Kita tidak akan mendapatkan
 kesempatan ini lagi.
 
 421
-01:00:50,026 --> 01:00:51,738
+01:00:28,496 --> 01:00:30,207
 Tolong.
 
 422
-01:00:54,451 --> 01:00:57,534
+01:00:32,917 --> 01:00:35,998
 Aku tidak akan memberi suntikan itu.
 
 423
-01:03:14,381 --> 01:03:19,426
+01:02:52,730 --> 01:02:57,770
 Kau! Aku sudah bilang jelas
 bahwa mesin tidak bisa beroperasi penuh.
 
 424
-01:03:19,596 --> 01:03:22,349
+01:02:57,940 --> 01:03:00,691
 Kapten terluka saat serangan tadi.
 
 425
-01:03:27,434 --> 01:03:30,607
+01:03:05,772 --> 01:03:08,942
 - Apakah dia akan selamat?
 - Ya, kami pikir begitu.
 
 426
-01:03:32,108 --> 01:03:36,523
+01:03:10,442 --> 01:03:14,853
 Tapi dia belum sadar.
 Aku yang bertanggung jawab sementara ini.
 
 427
-01:03:36,693 --> 01:03:39,526
+01:03:15,023 --> 01:03:17,853
 - Kita harus menghidupkan mesinnya.
 - Mesinnya mati.
 
 428
-01:03:39,696 --> 01:03:45,121
+01:03:18,023 --> 01:03:23,444
 Kita kehabisan uap, tekanannya terlalu
 rendah, poros baling-baling hampir rusak.
 
 429
-01:03:45,281 --> 01:03:51,167
+01:03:23,604 --> 01:03:29,485
 Kecepatan lambat masih bisa jalan.
 Kalau kita berhenti setengah hari,
 kita bisa memperbaikinya.
 
 430
-01:04:12,899 --> 01:04:16,192
+01:03:51,198 --> 01:03:54,489
 Kenapa mesinnya tidak berjalan?
 
 431
-01:04:16,352 --> 01:04:20,527
+01:03:54,648 --> 01:03:58,820
 Butuh perbaikan.
 Kepala mesin butuh setengah hari.
 
 432
-01:04:21,698 --> 01:04:23,990
+01:03:59,990 --> 01:04:02,280
 Setengah hari?
 
 433
-01:04:25,862 --> 01:04:30,497
+01:04:04,150 --> 01:04:08,782
 Aku masih menerima pesan darurat.
 Aku tidak tahu berapa banyak yang tersisa.
 
 434
-01:04:30,667 --> 01:04:34,921
+01:04:08,951 --> 01:04:13,202
 Dan kita akan diam seperti sasaran?
 Selama setengah hari?
 
 435
-01:04:35,081 --> 01:04:38,585
+01:04:13,362 --> 01:04:16,863
 Kita bisa bergerak
 lambat beberapa mil lagi.
 
 436
-01:04:40,336 --> 01:04:45,512
+01:04:18,612 --> 01:04:23,784
 - Lalu apa rencanamu?
 - Aku... aku tidak tahu.
 
 437
-01:04:45,682 --> 01:04:48,475
+01:04:23,954 --> 01:04:26,744
 - Kau tidak tahu?
 - Tidak, aku tidak tahu.
 
 438
-01:04:57,774 --> 01:05:01,738
+01:04:36,036 --> 01:04:39,996
 Aku butuh kita tetap bersama sekarang.
 
 439
-01:06:19,896 --> 01:06:23,109
+01:05:58,088 --> 01:06:01,299
 Berikan semua yang kau bisa selagi bisa.
 
 440
-01:06:29,075 --> 01:06:31,908
+01:06:07,260 --> 01:06:10,090
 Kita ubah arah. 340 derajat.
 
 441
-01:06:32,989 --> 01:06:35,081
+01:06:11,170 --> 01:06:13,261
 340 derajat.
 
 442
-01:06:52,000 --> 01:06:54,000
+01:06:30,165 --> 01:06:32,164
 Hari ke-11
 
 443
-01:07:02,148 --> 01:07:04,571
+01:06:40,305 --> 01:06:42,726
 Kita kehilangan Evensen.
 
 444
-01:07:07,483 --> 01:07:10,156
+01:06:45,635 --> 01:06:48,306
 Kapten terluka parah.
 
 445
-01:07:13,740 --> 01:07:16,492
+01:06:51,887 --> 01:06:54,637
 Mesin berasap.
 
 446
-01:07:16,663 --> 01:07:20,837
+01:06:54,808 --> 01:06:58,978
 Kita mengalami kerusakan besar
 di lambung dan dek.
 
 447
-01:07:25,001 --> 01:07:29,716
+01:07:03,139 --> 01:07:07,850
 Aku tahu ini bukan yang
 ingin kalian dengar sekarang.
 
 448
-01:07:33,429 --> 01:07:36,142
+01:07:11,560 --> 01:07:14,270
 Tapi harapan belum hilang.
 
 449
-01:07:36,302 --> 01:07:39,145
+01:07:14,430 --> 01:07:17,271
 Tidak. Kita sekarang
 mengarahkan jalur ke utara.
 
 450
-01:07:39,896 --> 01:07:43,479
+01:07:18,021 --> 01:07:21,601
 Di sana kita di luar jangkauan
 pesawat Jerman.
 
 451
-01:07:43,650 --> 01:07:47,443
+01:07:21,772 --> 01:07:25,562
 Es apungnya begitu tebal sehingga
 kapal selam tidak bisa digunakan.
 
 452
-01:07:47,614 --> 01:07:52,318
+01:07:25,733 --> 01:07:30,433
 Itu memberi kita waktu untuk
 memperbaiki kerusakan yang diperlukan.
 
 453
-01:07:54,621 --> 01:07:57,664
+01:07:32,734 --> 01:07:35,774
 Agar kita tetap bisa bertahan.
 
 454
-01:07:58,785 --> 01:08:05,291
+01:07:36,894 --> 01:07:43,395
 Yesus, jadikan aku tenang, tenanglah
 
 455
-01:08:07,674 --> 01:08:14,801
+01:07:45,776 --> 01:07:52,897
 biarkan aku beristirahat
 dalam kenyamanan-Mu
 
 456
-01:08:14,971 --> 01:08:19,846
+01:07:53,067 --> 01:07:57,937
 Kalian tidak perlu melakukan ini untukku.
 Lakukan untuk satu sama lain.
 
 457
-01:08:21,517 --> 01:08:25,401
+01:07:59,607 --> 01:08:03,488
 Dan untuk mereka yang
 menunggu kita di rumah.
 
 458
-01:08:27,193 --> 01:08:33,740
+01:08:05,278 --> 01:08:11,820
 Saat setan mencoba menyesatkanku
 
 459
-01:08:36,202 --> 01:08:44,202
+01:08:14,280 --> 01:08:22,273
 biarkan aku hanya mendengar suara-Mu
 
 460
-01:09:24,080 --> 01:09:28,164
+01:09:02,117 --> 01:09:06,198
 Satu garis untuk setiap pesawat yang ditembak jatuh. 
 buat di tanganmu
 
 461
-01:09:28,334 --> 01:09:31,217
+01:09:06,368 --> 01:09:09,248
 Aku belum menembak jatuh
 pesawat apapun.
 
 462
-01:09:31,377 --> 01:09:36,552
+01:09:09,408 --> 01:09:14,579
 Ini berlaku untuk penembak dan pemuat.
 Aku belajar itu di sekolah menembak.
 
 463
-01:09:42,979 --> 01:09:48,234
+01:09:21,001 --> 01:09:26,251
 Kita baru saja ditembaki oleh dua
 pesawat Jerman dan hampir meledak.
 
 464
-01:09:48,394 --> 01:09:51,938
+01:09:26,411 --> 01:09:29,952
 Ini hanya jarum kecil. Dengan tinta.
 
 465
-01:09:53,740 --> 01:09:55,651
+01:09:31,752 --> 01:09:33,662
 Diamlah.
 
 466
-01:10:00,036 --> 01:10:02,118
+01:09:38,043 --> 01:09:40,123
 Sudah beres?
 
 467
-01:10:03,249 --> 01:10:06,702
+01:09:41,253 --> 01:09:44,704
 Ibu akan membunuhku
 kalau dia melihat ini.
 
 468
-01:10:06,873 --> 01:10:09,916
+01:09:44,874 --> 01:09:47,915
 Dia akan memaafkanmu, lihat saja nanti.
 
 469
-01:10:11,547 --> 01:10:13,549
+01:09:49,544 --> 01:09:51,545
 Tato pertamaku...
 
 470
-01:10:13,710 --> 01:10:17,964
+01:09:51,706 --> 01:09:55,956
 aku buat di seorang seniman tato
 di Halifax, Kanada.
 
 471
-01:10:18,134 --> 01:10:20,426
+01:09:56,126 --> 01:09:58,416
 Hasilnya jelek.
 
 472
-01:10:20,596 --> 01:10:24,180
+01:09:58,586 --> 01:10:02,167
 Aku sudah di sana.
 Jadi kupikir...
 
 473
-01:10:24,350 --> 01:10:28,775
+01:10:02,337 --> 01:10:06,758
 apa boleh buat.
 Aku buat sendiri saja.
 
 474
-01:10:33,359 --> 01:10:37,323
+01:10:11,338 --> 01:10:15,299
 Sekarang tak ada keraguan lagi bahwa
 kau sudah berhadapan dengan musuh.
 
 475
-01:10:48,875 --> 01:10:52,298
+01:10:26,841 --> 01:10:30,261
 - Untuk Evensen.
 - Dan Isaksen.
 
 476
-01:10:53,810 --> 01:10:55,802
+01:10:31,772 --> 01:10:33,762
 Dan Olof.
 
 477
-01:11:03,970 --> 01:11:08,684
+01:10:41,923 --> 01:10:46,633
 - Siapa Olof?
 - Orang yang sebelumnya mengisi posisimu.
 
 478
-01:11:11,517 --> 01:11:13,609
+01:10:49,464 --> 01:10:51,554
 Saudaraku.
 
 479
-01:11:36,462 --> 01:11:39,215
+01:11:14,388 --> 01:11:17,139
 Ya... sembilan goresan.
 
 480
-01:11:43,219 --> 01:11:48,644
+01:11:21,139 --> 01:11:26,560
 Apapun yang terjadi, aku akan menambah
 satu lagi sebelum semua ini selesai.
 
 481
-01:11:50,396 --> 01:11:52,608
+01:11:28,310 --> 01:11:30,520
 Begitulah adanya.
 
 482
-01:12:00,000 --> 01:12:03,000
+01:11:37,906 --> 01:11:40,904
 Hari ke-12
 
 483
-01:12:47,863 --> 01:12:50,366
+01:12:25,729 --> 01:12:28,230
 Esnya terlalu tebal.
 
 484
-01:13:11,347 --> 01:13:15,982
+01:12:49,193 --> 01:12:53,824
 Sudah benar-benar beku.
 Tidak bisa mengisi sekali pun.
 
 485
-01:13:16,142 --> 01:13:19,815
+01:12:53,984 --> 01:12:57,654
 Tidak apa-apa.
 Kita sekarang sudah cukup jauh ke utara.
 
 486
-01:13:40,546 --> 01:13:43,469
+01:13:18,368 --> 01:13:21,288
 Berapa banyak waktu yang kau butuhkan?
 
 487
-01:13:45,341 --> 01:13:49,725
+01:13:23,159 --> 01:13:27,539
 Aku tidak tahu.
 Butuh waktu yang diperlukan.
 
 488
-01:13:50,846 --> 01:13:55,101
+01:13:28,659 --> 01:13:32,910
 Sementara itu, kita hanya
 punya sedikit panas.
 
 489
-01:13:55,271 --> 01:14:00,316
+01:13:33,080 --> 01:13:38,121
 Ini seharusnya bisa memanaskan
 kapal tanpa asap keluar dari cerobong.
 
 490
-01:14:04,940 --> 01:14:06,572
+01:13:42,741 --> 01:13:44,372
 Mørk!
 
 491
-01:14:11,747 --> 01:14:16,752
+01:13:49,542 --> 01:13:54,543
 Aku hanya ingin kau tahu bahwa aku
 punya kesepakatan dengan Kapten.
 
 492
-01:14:16,912 --> 01:14:22,338
+01:13:54,703 --> 01:14:00,124
 Dia janjikan padaku dokter
 yang menyatakan aku sakit di Murmansk nanti.
 
 493
-01:14:24,920 --> 01:14:26,422
+01:14:02,704 --> 01:14:04,205
 Tidak.
 
 494
-01:14:27,513 --> 01:14:31,177
+01:14:05,295 --> 01:14:08,956
 Aku tak percaya
 semua yang dia katakan.
 
 495
-01:14:52,288 --> 01:14:55,831
+01:14:30,049 --> 01:14:33,589
 Mungkin ini berhasil.
 
 496
-01:14:55,991 --> 01:15:00,416
+01:14:33,749 --> 01:14:38,170
 Kalau kepala mesin berhasil
 memperbaiki mesinnya dan kru istirahat,
 
 497
-01:15:00,586 --> 01:15:04,380
+01:14:38,340 --> 01:14:42,131
 kita bisa melewati Tanjung Utara
 tanpa diketahui.
 
 498
-01:15:04,550 --> 01:15:07,673
+01:14:42,301 --> 01:14:45,421
 Dan di selatan kita dapat
 dukungan dari Rusia.
 
 499
-01:15:07,843 --> 01:15:12,098
+01:14:45,591 --> 01:14:49,842
 - Aku tidak akan menghitung itu.
 - Kenapa kau bilang begitu?
 
 500
-01:15:16,062 --> 01:15:20,226
+01:14:53,803 --> 01:14:57,964
 Aku pernah menunggu
 bantuan dari Rusia sebelumnya.
 
 501
-01:15:20,396 --> 01:15:23,319
+01:14:58,133 --> 01:15:01,054
 Di sekoci dengan 15 orang lainnya.
 
 502
-01:15:24,320 --> 01:15:27,483
+01:15:02,054 --> 01:15:05,215
 Kami begitu dekat dengan
 Murmansk hingga kami...
 
 503
-01:15:28,654 --> 01:15:31,407
+01:15:06,385 --> 01:15:09,135
 Kami pikir bantuan akan
 datang kapan saja.
 
 504
-01:15:31,577 --> 01:15:35,331
+01:15:09,305 --> 01:15:13,056
 Setengah dari kami mati beku
 di malam pertama.
 
 505
-01:15:35,491 --> 01:15:40,626
+01:15:13,216 --> 01:15:18,346
 Beberapa dari mereka tersangkut
 di sekoci dan tidak bisa dilempar ke laut.
 
 506
-01:15:40,786 --> 01:15:45,341
+01:15:18,506 --> 01:15:23,058
 Hari berikutnya tiga kapal lewat.
 Tak ada yang mengambil kami.
 
 507
-01:15:46,792 --> 01:15:50,796
+01:15:24,507 --> 01:15:28,508
 Di kapal terakhir mereka hanya
 berdiri di dek dan melambai.
 
 508
-01:15:50,966 --> 01:15:53,219
+01:15:28,678 --> 01:15:30,929
 Kami...
 
 509
-01:15:53,389 --> 01:15:56,262
+01:15:31,099 --> 01:15:33,969
 empat orang yang selamat.
 
 510
-01:15:59,305 --> 01:16:02,017
+01:15:37,010 --> 01:15:39,719
 Tidak akan ada bantuan.
 
 511
-01:16:04,650 --> 01:16:07,273
+01:15:42,350 --> 01:15:44,971
 Kita sendirian.
 
 512
-01:16:15,821 --> 01:16:18,824
+01:15:53,512 --> 01:15:56,512
 Mungkin itu justru jadi
 keuntungan sekarang.
 
 513
-01:16:20,576 --> 01:16:25,080
+01:15:58,263 --> 01:16:02,763
 Mereka tidak mengira ada kapal tunggal
 beberapa hari setelah yang lain.
 
 514
-01:17:22,000 --> 01:17:25,000
+01:16:59,635 --> 01:17:02,633
 Hari ke-13
 
 515
-01:18:00,846 --> 01:18:04,770
+01:17:38,448 --> 01:17:42,369
 Skar menghilang.
 Aku cari di bawah, kamu naik ke atas.
 
 516
-01:19:08,624 --> 01:19:10,205
+01:18:46,169 --> 01:18:47,749
 Skar?
 
 517
-01:20:08,684 --> 01:20:10,936
+01:19:46,179 --> 01:19:48,429
 Bagaimana kabarmu?
 
 518
-01:20:17,813 --> 01:20:21,156
+01:19:55,300 --> 01:19:58,640
 Kamu ingat rapatnya, kan?
 
 519
-01:20:21,316 --> 01:20:24,740
+01:19:58,800 --> 01:20:02,221
 Aku ingat ada keributan di ruang makan kru.
 
 520
-01:20:24,910 --> 01:20:27,623
+01:20:02,391 --> 01:20:05,102
 Dan aku mempersenjatai diriku.
 
 521
-01:20:27,783 --> 01:20:31,497
+01:20:05,262 --> 01:20:08,973
 Lalu aku bangun terkunci
 di kabinku tanpa senjata.
 
 522
-01:20:31,667 --> 01:20:35,130
+01:20:09,142 --> 01:20:12,603
 Ya, aku menguncinya di brankasmu.
 
 523
-01:20:35,290 --> 01:20:40,175
+01:20:12,762 --> 01:20:17,643
 Aku tak ingin kru mengganggumu,
 jadi aku kunci pintumu.
 
 524
-01:20:50,185 --> 01:20:53,228
+01:20:27,645 --> 01:20:30,685
 Si Swedia menembak jatuh pesawat itu.
 
 525
-01:20:55,060 --> 01:20:58,524
+01:20:32,516 --> 01:20:35,977
 Lalu kita mengalami
 kerusakan besar pada kapal.
 
 526
-01:20:58,694 --> 01:21:04,239
+01:20:36,147 --> 01:20:41,687
 - Dan kita kehilangan seorang pelaut.
 - Evensen? Aku melihatnya.
 
 527
-01:21:12,117 --> 01:21:14,750
+01:20:49,558 --> 01:20:52,189
 Sungguh mengejutkan melihat ke luar.
 
 528
-01:21:14,920 --> 01:21:17,873
+01:20:52,359 --> 01:20:55,310
 Putih sejauh mata memandang.
 
 529
-01:21:18,043 --> 01:21:21,126
+01:20:55,479 --> 01:20:58,560
 Kita tampaknya sudah jauh keluar jalur.
 
 530
-01:21:21,296 --> 01:21:24,800
+01:20:58,730 --> 01:21:02,231
 Ya, kita sekarang berada di antara
 Spitsbergen dan Hopen.
 
 531
-01:21:24,970 --> 01:21:28,093
+01:21:02,401 --> 01:21:05,521
 Untuk memperbaiki mesin dengan tenang.
 
 532
-01:21:28,263 --> 01:21:30,766
+01:21:05,691 --> 01:21:08,192
 Kita sempat berhenti total.
 
 533
-01:21:40,946 --> 01:21:42,648
+01:21:18,363 --> 01:21:20,064
 Mørk?
 
 534
-01:21:42,818 --> 01:21:44,900
+01:21:20,234 --> 01:21:22,314
 Mørk? Aku menemukan rencana.
 
 535
-01:22:08,383 --> 01:22:11,226
+01:21:45,777 --> 01:21:48,618
 Kita melihat pesawat di haluan kanan.
 
 536
-01:22:11,386 --> 01:22:15,060
+01:21:48,778 --> 01:21:52,448
 Masih jauh. Tak mungkin melihat arahnya.
 
 537
-01:22:15,230 --> 01:22:18,604
+01:21:52,618 --> 01:21:55,989
 mereka belum pasti menemukan kita.
 
 538
-01:22:18,774 --> 01:22:23,318
+01:21:56,159 --> 01:22:00,700
 Timur Spitsbergen masih dalam
 jangkauan pesawat Jerman.
 
 539
-01:22:23,489 --> 01:22:28,363
+01:22:00,870 --> 01:22:05,740
 Apa yang kau pikirkan?
 Mereka pasti akan datang.
 
 540
-01:22:32,117 --> 01:22:35,080
+01:22:09,491 --> 01:22:12,452
 Suruh si Swedia siapkan meriam.
 
 541
-01:22:35,250 --> 01:22:38,373
+01:22:12,621 --> 01:22:15,742
 - Itu membeku.
 - Hah?
 
 542
-01:22:49,965 --> 01:22:53,428
+01:22:27,324 --> 01:22:30,784
 Kita punya tiga meriam Bofors di kargo.
 
 543
-01:23:08,824 --> 01:23:15,160
+01:22:46,167 --> 01:22:52,498
 - Bisa menggunakannya?
 - Bofors 40 mm L/60. Buatan Swedia.
 
 544
-01:23:16,451 --> 01:23:19,745
+01:22:53,788 --> 01:22:57,079
 Siapa bilang Swedia tidak
 berkontribusi dalam perang?
 
 545
-01:23:19,915 --> 01:23:23,549
+01:22:57,249 --> 01:23:00,880
 Tanpa derek, kita tak bisa
 memindahkannya ke dek.
 
 546
-01:23:23,709 --> 01:23:26,922
+01:23:01,040 --> 01:23:04,250
 Harus melalui lubang kargo.
 
 547
-01:23:36,011 --> 01:23:40,566
+01:23:13,331 --> 01:23:17,882
 Aku tak bisa melihat pesawat sekarang.
 Tapi awan mulai menghilang.
 
 548
-01:23:42,517 --> 01:23:45,771
+01:23:19,832 --> 01:23:23,083
 Kita terlalu terlihat.
 Mereka pasti akan melihat kita.
 
 549
-01:23:51,276 --> 01:23:53,528
+01:23:28,583 --> 01:23:30,834
 - Ragnhild.
 - Ya?
 
 550
-01:23:53,699 --> 01:23:58,584
+01:23:31,004 --> 01:23:35,885
 Sebelum dicat abu-abu,
 kapal ini berwarna apa?
 
 551
-01:24:12,678 --> 01:24:14,800
+01:23:49,967 --> 01:23:52,088
 Siapkan langkah selanjutnya.
 
 552
-01:24:25,731 --> 01:24:29,564
+01:24:03,009 --> 01:24:06,839
 Aku menemukannya! Cat putih, semuanya.
 
 553
-01:24:32,367 --> 01:24:37,532
+01:24:09,640 --> 01:24:14,801
 Kapten. Kita punya cat putih di kargo.
 Bisa kita gunakan di lambung kapal?
 
 554
-01:24:37,703 --> 01:24:41,326
+01:24:14,971 --> 01:24:18,591
 Jika kita menyatu dengan es,
 kita akan lebih sulit terlihat.
 
 555
-01:24:45,881 --> 01:24:50,175
+01:24:23,143 --> 01:24:27,433
 Jika itu yang kau butuhkan untuk
 menenangkan dirimu, lakukan saja.
 
 556
-01:25:03,268 --> 01:25:05,811
+01:24:40,515 --> 01:24:43,056
 Ambil semua yang bisa kau temukan.
 
 557
-01:25:54,399 --> 01:25:59,034
+01:25:31,603 --> 01:25:36,234
 Kita punya kesempatan.
 Pesawat harus terbang tepat di atas kita.
 
 558
-01:25:59,204 --> 01:26:01,656
+01:25:36,404 --> 01:25:38,854
 Kita akan siap saat ia datang.
 
 559
-01:26:01,827 --> 01:26:07,713
+01:25:39,025 --> 01:25:44,906
 Lars! Jaga dan beri tahu aku
 jika pesawat itu mendekat ke arah kita.
 
 560
-01:26:46,541 --> 01:26:49,164
+01:26:23,701 --> 01:26:26,322
 Aku melihat Junkers 88!
 
 561
-01:26:49,334 --> 01:26:51,416
+01:26:26,492 --> 01:26:28,572
 Sekitar lima mil jauhnya!
 
 562
-01:27:07,933 --> 01:27:10,225
+01:26:45,075 --> 01:26:47,365
 Ia mendekat ke arah kita!
 
 563
-01:27:15,230 --> 01:27:17,032
+01:26:52,366 --> 01:26:54,166
 Sekarang tinggal empat mil!
 
 564
-01:27:18,653 --> 01:27:21,406
+01:26:55,786 --> 01:26:58,537
 Jika ada kesempatan, tembak.
 
 565
-01:27:24,910 --> 01:27:29,664
+01:27:02,038 --> 01:27:06,788
 Mereka datang dari tenggara!
 Putar meriam 30 derajat ke kiri!
 
 566
-01:27:29,835 --> 01:27:31,837
+01:27:06,959 --> 01:27:08,959
 Sigurd.
 
 567
-01:27:37,752 --> 01:27:39,554
+01:27:14,869 --> 01:27:16,669
 Berhenti!
 
 568
-01:27:45,510 --> 01:27:50,725
+01:27:22,620 --> 01:27:27,831
 Jika Junkers telah melihat kita, pasti
 mereka sudah menginformasikan pesawat lain.
 
 569
-01:27:52,477 --> 01:27:54,769
+01:27:29,581 --> 01:27:31,872
 Itu tidak pasti.
 
 570
-01:27:54,940 --> 01:27:57,732
+01:27:32,042 --> 01:27:34,832
 Benarkah begitu? Ragnhild?
 
 571
-01:27:59,274 --> 01:28:02,828
+01:27:36,373 --> 01:27:39,924
 Pastinya Jerman sudah
 mengirimkan posisi kita?
 
 572
-01:28:05,160 --> 01:28:08,283
+01:27:42,254 --> 01:27:45,374
 Lars! Ada pesawat lain menuju ke sini?
 
 573
-01:28:08,453 --> 01:28:12,457
+01:27:45,544 --> 01:27:49,545
 Tidak! Sekarang mereka
 datang langsung ke arah kita!
 
 574
-01:28:12,627 --> 01:28:15,460
+01:27:49,714 --> 01:27:52,545
 Bersiaplah! Ayo.
 
 575
-01:28:15,630 --> 01:28:17,252
+01:27:52,715 --> 01:27:54,336
 Cepat!
 
 576
-01:28:19,094 --> 01:28:23,849
+01:27:56,176 --> 01:28:00,927
 - Lars! Masih belum ada pesawat lain?
 - Tidak, hanya Junkers itu.
 
 577
-01:28:24,009 --> 01:28:26,721
+01:28:01,087 --> 01:28:03,797
 Sekarang tinggal tiga mil! Siap-siap!
 
 578
-01:28:26,892 --> 01:28:30,605
+01:28:03,967 --> 01:28:07,677
 Kita belum ketahuan.
 Kita sudah tersamarkan di es.
 Jangan tembak!
 
 579
-01:28:30,765 --> 01:28:33,688
+01:28:07,837 --> 01:28:10,758
 Mimpi kali! Mereka menuju langsung ke sini.
 
 580
-01:28:33,859 --> 01:28:38,483
+01:28:10,929 --> 01:28:15,549
 Kapten, aku pikir dia benar. Jika ada
 pesawat lain, mereka pasti sudah datang.
 
 581
-01:28:43,158 --> 01:28:48,243
+01:28:20,220 --> 01:28:25,301
 Jika kita tembak meleset, posisi kita
 ketahuan. Kalau kena pun, tetap ketahuan.
 
 582
-01:28:48,413 --> 01:28:50,956
+01:28:25,470 --> 01:28:28,011
 Apa yang tidak kau pahami?
 
 583
-01:28:51,126 --> 01:28:55,881
+01:28:28,181 --> 01:28:32,932
 - Jika mereka menjatuhkan bom, kita tamat!
 - Tapi mereka belum menemukan kita!
 
 584
-01:28:56,041 --> 01:29:00,255
+01:28:33,092 --> 01:28:37,302
 - Jangan tembak.
 - Diam! Kau bukan pemimpin di sini!
 
 585
-01:29:02,217 --> 01:29:04,719
+01:28:39,263 --> 01:28:41,763
 Mendekat, 900 meter!
 
 586
-01:29:04,890 --> 01:29:08,183
+01:28:41,934 --> 01:28:45,224
 Begitu pesawat terlihat, Johan,
 tekan tombolnya.
 
 587
-01:29:13,148 --> 01:29:16,271
+01:28:50,185 --> 01:28:53,305
 Jika kau tembak sekarang, kita tamat.
 
 588
-01:29:16,441 --> 01:29:19,154
+01:28:53,475 --> 01:28:56,185
 Tembak saat ada kesempatan.
 
 589
-01:29:20,065 --> 01:29:25,360
+01:28:57,096 --> 01:29:02,386
 Yang penting tahu kapan harus
 menembak, Lars! Tunggu sinyalmu!
 
 590
-01:29:25,991 --> 01:29:27,702
+01:29:03,017 --> 01:29:04,726
 Siap!
 
 591
-01:29:27,862 --> 01:29:30,165
+01:29:04,886 --> 01:29:07,187
 500 meter!
 
 592
-01:29:37,042 --> 01:29:38,713
+01:29:14,058 --> 01:29:15,728
 300 meter!
 
 593
-01:29:45,720 --> 01:29:47,012
+01:29:22,729 --> 01:29:24,020
 Tiga!
 
 594
-01:29:49,975 --> 01:29:51,226
+01:29:26,981 --> 01:29:28,230
 Dua!
 
 595
-01:29:52,597 --> 01:29:55,270
+01:29:29,600 --> 01:29:32,271
 Aku pikir kau harus menunggu.
 
 596
-01:29:55,440 --> 01:29:57,272
+01:29:32,441 --> 01:29:34,271
 Satu!
 
 597
-01:29:59,394 --> 01:30:01,566
+01:29:36,392 --> 01:29:38,562
 - Sekarang!
 - Tembak!
 
 598
-01:31:38,493 --> 01:31:40,665
+01:31:15,407 --> 01:31:17,577
 Apa statusnya?
 
 599
-01:31:42,207 --> 01:31:46,881
+01:31:19,118 --> 01:31:23,788
 Mesin sudah siap. Sekarang bisa melaju
 dengan kecepatan penuh.
 
 600
-01:31:50,715 --> 01:31:52,717
+01:31:27,619 --> 01:31:29,619
 Bagus.
 
 601
-01:31:54,889 --> 01:31:57,182
+01:31:31,789 --> 01:31:34,080
 Kerja bagus.
 
 602
-01:32:19,914 --> 01:32:21,746
+01:31:56,793 --> 01:31:58,624
 Hm.
 
 603
-01:32:35,720 --> 01:32:37,682
+01:32:12,586 --> 01:32:14,546
 Bagaimana keadaannya?
 
 604
-01:32:37,852 --> 01:32:40,145
+01:32:14,716 --> 01:32:17,007
 Ya, baik-baik saja.
 
 605
-01:32:45,150 --> 01:32:47,402
+01:32:22,008 --> 01:32:24,258
 Mesinnya siap.
 
 606
-01:32:51,196 --> 01:32:53,778
+01:32:28,049 --> 01:32:30,629
 Apakah kamu mau istirahat?
 
 607
-01:32:53,948 --> 01:32:58,032
+01:32:30,799 --> 01:32:34,879
 Tidak, rasanya sakit kalau aku berbaring.
 
 608
-01:33:01,626 --> 01:33:04,919
+01:32:38,470 --> 01:32:41,760
 Sudah berapa lama kamu di luar?
 
 609
-01:33:07,462 --> 01:33:10,425
+01:32:44,301 --> 01:32:47,262
 Dua tahun tiga bulan.
 
 610
-01:33:14,048 --> 01:33:17,552
+01:32:50,882 --> 01:32:54,383
 Waktu yang lama untuk jauh dari anak-anak.
 
 611
-01:33:17,722 --> 01:33:21,766
+01:32:54,553 --> 01:32:58,593
 Tak yakin mereka akan
 mengenaliku saat pulang.
 
 612
-01:33:25,150 --> 01:33:28,353
+01:33:01,974 --> 01:33:05,175
 ya aku juga.
 
 613
-01:33:36,661 --> 01:33:38,573
+01:33:13,476 --> 01:33:15,386
 Berapa usia anak-anakmu?
 
 614
-01:33:41,666 --> 01:33:43,958
+01:33:18,477 --> 01:33:20,767
 Bukan anakku.
 
 615
-01:33:50,505 --> 01:33:54,679
+01:33:27,308 --> 01:33:31,479
 Tidakkah kau mengenali anak kecil
 di ujung kanan itu?
 
 616
-01:33:54,839 --> 01:33:56,721
+01:33:31,638 --> 01:33:33,519
 Itu aku.
 
 617
-01:33:58,473 --> 01:34:00,725
+01:33:35,269 --> 01:33:37,519
 Panti asuhan.
 
 618
-01:34:04,189 --> 01:34:08,062
+01:33:40,981 --> 01:33:44,850
 Keluargaku ada di gambar di atas sana.
 
 619
-01:34:09,484 --> 01:34:12,066
+01:33:46,271 --> 01:33:48,851
 Aku menemukannya di antara para pelaut.
 
 620
-01:34:25,580 --> 01:34:29,624
+01:34:02,354 --> 01:34:06,394
 Ada satu hal yang perlu
 kamu ketahui tentang morfin.
 
 621
-01:34:29,794 --> 01:34:34,509
+01:34:06,564 --> 01:34:11,275
 Morfin bekerja sama baiknya jika
 disuntikkan di bawah kulit atau di otot.
 
 622
-01:34:34,669 --> 01:34:38,923
+01:34:11,435 --> 01:34:15,685
 Jadi tidak perlu menyuntikkannya
 langsung ke arteri karotis.
 
 623
-01:34:43,808 --> 01:34:45,560
+01:34:20,566 --> 01:34:22,317
 Ya.
 
 624
-01:34:48,022 --> 01:34:49,734
+01:34:24,777 --> 01:34:26,487
 Aku...
 
 625
-01:34:51,606 --> 01:34:54,859
+01:34:28,358 --> 01:34:31,608
 Aku akan melakukan hal yang sama lagi.
 
 626
-01:35:08,333 --> 01:35:11,125
+01:34:45,071 --> 01:34:47,860
 Aku selalu berpikir bahwa…
 
 627
-01:35:11,296 --> 01:35:15,460
+01:34:48,031 --> 01:34:52,192
 di atas kapal, harus ada
 seseorang yang memutuskan.
 
 628
-01:35:15,630 --> 01:35:18,553
+01:34:52,361 --> 01:34:55,282
 Kalau tidak, akan terjadi anarki.
 
 629
-01:35:21,886 --> 01:35:25,099
+01:34:58,612 --> 01:35:01,822
 Sekarang aku tidak begitu yakin lagi.
 
 630
-01:35:31,936 --> 01:35:34,979
+01:35:08,654 --> 01:35:11,694
 - Tidak, aku akan istirahat.
 - Ya.
 
 631
-01:35:35,940 --> 01:35:38,443
+01:35:12,654 --> 01:35:15,155
 Butuh bantuan?
 
 632
-01:35:38,613 --> 01:35:41,035
+01:35:15,325 --> 01:35:17,745
 Tidak. Pergilah.
 
 633
-01:35:41,195 --> 01:35:43,988
+01:35:17,905 --> 01:35:20,696
 Kau yang memegang kendali, Mørk.
 
 634
-01:35:49,544 --> 01:35:51,045
+01:35:26,247 --> 01:35:27,747
 Ya.
 
 635
-01:36:31,746 --> 01:36:34,959
+01:36:08,413 --> 01:36:11,624
 Masih tidak ada pesan darurat?
 
 636
-01:36:36,881 --> 01:36:39,924
+01:36:13,544 --> 01:36:16,584
 Tidak ada pesawat juga.
 
 637
-01:36:40,094 --> 01:36:43,428
+01:36:16,754 --> 01:36:20,086
 Itu belum tentu berarti kita...
 
 638
-01:36:45,139 --> 01:36:46,721
+01:36:21,795 --> 01:36:23,376
 Ya.
 
 639
-01:36:48,553 --> 01:36:53,107
+01:36:25,206 --> 01:36:29,756
 Terima kasih sudah... mendukungku.
 
 640
-01:36:53,267 --> 01:36:58,192
+01:36:29,916 --> 01:36:34,837
 Aku tidak mendukungmu.
 Aku mengatakan apa yang menurutku benar.
 
 641
-01:37:02,657 --> 01:37:05,740
+01:36:39,298 --> 01:36:42,379
 - Ya...
 - Bagaimana dengan dia?
 
 642
-01:37:32,346 --> 01:37:37,442
+01:37:08,962 --> 01:37:14,054
 Konvoi sebelumnya dekat sekali dengan pantai, 
 aku bisa mendayung pulang pakai perahu.
 
 643
-01:37:40,605 --> 01:37:43,237
+01:37:17,214 --> 01:37:19,844
 Kapan terakhir kali kamu pulang?
 
 644
-01:37:43,408 --> 01:37:47,862
+01:37:20,015 --> 01:37:24,465
 Empat tahun yang lalu. Agustus '38.
 
 645
-01:38:05,219 --> 01:38:07,341
+01:37:41,808 --> 01:37:43,928
 Menurutmu bagaimana?
 
 646
-01:38:07,512 --> 01:38:09,474
+01:37:44,099 --> 01:37:46,059
 Islandia?
 
 647
-01:38:14,609 --> 01:38:18,563
+01:37:51,190 --> 01:37:55,140
 Tidak. Kau yang bilang sendiri.
 
 648
-01:38:20,775 --> 01:38:25,530
+01:37:57,351 --> 01:38:02,102
 Takkan ada yang menduga muncul satu kapal 
 beberapa hari setelah yang lain.
 
 649
-01:38:58,483 --> 01:39:01,355
+01:38:35,027 --> 01:38:37,896
 Berikan aku setengah kecepatan mundur.
 
 650
-01:41:43,898 --> 01:41:48,813
+01:41:20,303 --> 01:41:25,213
 Selama perang, total ada 78 konvoi Arktik
 yang dikirim ke Uni Soviet.
 
 651
-01:41:48,983 --> 01:41:53,738
+01:41:25,383 --> 01:41:30,134
 Sebanyak empat juta ton amunisi
 dikirim melalui rute ini.
 
 652
-01:41:57,071 --> 01:42:01,666
+01:41:33,465 --> 01:41:38,056
 Hanya sekali konvoi kapal dibubarkan
 dan pengawalan ditarik.
 
 653
-01:42:01,826 --> 01:42:06,620
+01:41:38,216 --> 01:41:43,005
 Inggris khawatir bahwa kapal perang
 terbesar Jerman sedang dalam perjalanan.
 
 654
-01:42:06,791 --> 01:42:10,795
+01:41:43,176 --> 01:41:47,177
 Ternyata itu 
 informasi intelijen yang salah.
 
 655
-01:42:10,965 --> 01:42:14,128
+01:41:47,347 --> 01:41:50,507
 Kapal perang Jerman itu
 tidak pernah meninggalkan fjord.
 
 656
-01:42:14,298 --> 01:42:19,263
+01:41:50,677 --> 01:41:55,638
 Keputusan untuk membubarkan konvoi dianggap
 sebagai salah satu kesalahan terbesar dalam perang.
 
 657
-01:42:19,433 --> 01:42:23,437
+01:41:55,808 --> 01:41:59,808
 Sebanyak 35 kapal berpartisipasi
 dalam konvoi itu. Hanya sebelas yang tiba.
 
 658
-01:42:26,020 --> 01:42:31,275
+01:42:02,389 --> 01:42:07,640
 Jalur suplai ke Murmansk dan Arkhangelsk
 mengubah arah peperangan.
 
 659
-01:42:31,445 --> 01:42:35,900
+01:42:07,810 --> 01:42:12,261
 Pada musim dingin 1943,
 tentara Soviet meraih kemenangan di
 Pertempuran Stalingrad
 
 660
-01:42:36,070 --> 01:42:38,202
+01:42:12,431 --> 01:42:14,561
 dan perang mulai berbalik.
 
 661
-01:42:39,784 --> 01:42:43,457
+01:42:16,142 --> 01:42:19,811
 Lebih dari 30.000 warga Norwegia bertugas
 di angkatan laut dagang Norwegia
 
 662
-01:42:43,617 --> 01:42:46,871
+01:42:19,971 --> 01:42:23,223
 berlayar di semua lautan
 di seluruh dunia selama perang.
 
 663
-01:42:47,041 --> 01:42:49,794
+01:42:23,392 --> 01:42:26,143
 Hampir 4.000 di antaranya
 tidak pernah kembali.
 
 664
-01:42:49,964 --> 01:42:53,377
+01:42:26,313 --> 01:42:29,723
 Pelaut sipil Norwegia memberikan kontribusi
 terbesar negara itu
 
 665
-01:42:53,547 --> 01:42:55,970
+01:42:29,893 --> 01:42:32,314
 dalam kemenangan Sekutu.
 
 666
-01:42:55,994 --> 01:43:25,994
+01:42:32,338 --> 01:43:02,313
 <font color="#ff3430" face="Times New Roman"><b>Penerjemah : josarg</b></font>
 
