@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Running Text Top Supporters</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden;
+        }
+        #running-text {
+            width: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            background: #be1e2d;
+            color: #fff;
+            padding: 10px 0;
+            box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+        #running-text span {
+            display: inline-block;
+            padding-left: 100%;
+            animation: scroll 30s linear infinite;
+        }
+        @keyframes scroll {
+            from {
+                transform: translateX(100%);
+            }
+            to {
+                transform: translateX(-100%);
+            }
+        }
+        .supporter-avatar {
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            vertical-align: middle;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="running-text">
+        <span>Memuat data...</span>
+    </div>
+
+    <script>
+        const apiUrl = "https://api.trakteer.id/v2/stream/trstream-yvOAUf9Z6t5e7jt9qBUw/top-supporters?interval=90&count=10";
+
+        async function fetchTopSupporters() {
+            try {
+                const response = await fetch(apiUrl);
+                const data = await response.json();
+
+                if (data?.supporter?.length) {
+                    const messages = data.supporter.map(supporter => {
+                        return `
+                            <img src="${supporter.avatar}" alt="${supporter.supporter_name}" class="supporter-avatar">
+                            ${supporter.supporter_name} telah mendukung dengan ${supporter.sum} kali
+                        `;
+                    });
+
+                    const runningText = document.getElementById("running-text");
+                    runningText.innerHTML = `<span>${messages.join(" • ")} • </span>`;
+                } else {
+                    console.error("Tidak ada data pendukung yang ditemukan");
+                    document.getElementById("running-text").innerHTML = "<span>Tidak ada pendukung saat ini...</span>";
+                }
+            } catch (error) {
+                console.error("Gagal mengambil data:", error);
+                document.getElementById("running-text").innerHTML = "<span>Gagal memuat data pendukung...</span>";
+            }
+        }
+
+        fetchTopSupporters();
+    </script>
+</body>
+</html>
