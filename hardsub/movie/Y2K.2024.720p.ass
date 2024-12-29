@@ -1,0 +1,1273 @@
+[Script Info]
+Title: Aegisub
+ScriptType: v4.00+
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,10,10,10,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:06.63,0:01:09.48,Origin,,0000,0000,0000,,Selamat datang.\NAnda menerima surat.
+Dialogue: 0,0:01:17.70,0:01:20.59,Origin,,0000,0000,0000,,Kami merilis laporan triwulan\Nkeempat dan terakhir...
+Dialogue: 0,0:01:20.62,0:01:22.24,Origin,,0000,0000,0000,,...mengenai upaya publik\Ndan swasta...
+Dialogue: 0,0:01:22.31,0:01:25.10,Origin,,0000,0000,0000,,- ...untuk atasi masalah komputer Y2K.\N- DDragon1983: Apa kabar, pecundang?
+Dialogue: 0,0:01:25.12,0:01:26.54,Origin,,0000,0000,0000,,- Laporan menunjukkan...\N- NYE akan menggila.
+Dialogue: 0,0:01:26.56,0:01:29.03,Origin,,0000,0000,0000,,- ...bahwa usaha kami di negeri ini,\N- Aku punya rencana besar untuk kita.
+Dialogue: 0,0:01:29.05,0:01:30.47,Origin,,0000,0000,0000,,Terbayarkan,
+Dialogue: 0,0:01:30.49,0:01:32.28,Origin,,0000,0000,0000,,- Meski banyak yang harus dilakukan,\N- Duduk dan berbincang tentang siapa...
+Dialogue: 0,0:01:32.31,0:01:34.08,Origin,,0000,0000,0000,,- Aku merasa kita takkan mengalami...\N- ...yang dikeluarkan dari sekolah
+Dialogue: 0,0:01:34.11,0:01:36.76,Origin,,0000,0000,0000,,- ...kendala nasional yang besar...\N- Tepat sekali!
+Dialogue: 0,0:01:36.81,0:01:40.22,Origin,,0000,0000,0000,,Sebagai hasil dari perubahan\Ntahun 2000.
+Dialogue: 0,0:01:43.06,0:01:46.52,Origin,,0000,0000,0000,,Hei, Laura...
+Dialogue: 0,0:01:46.54,0:01:49.02,Origin,,0000,0000,0000,,Apa kabar?
+Dialogue: 0,0:01:49.06,0:01:52.07,Origin,,0000,0000,0000,,Datanglah 30 menit lagi.
+Dialogue: 0,0:01:52.09,0:01:55.28,Origin,,0000,0000,0000,,Dan bawa "kau tahu apa".
+Dialogue: 0,0:01:55.30,0:01:58.07,Origin,,0000,0000,0000,,Sticky Boys Selamanya!
+Dialogue: 0,0:01:58.10,0:01:59.57,Origin,,0000,0000,0000,,Hei, kau.
+Dialogue: 0,0:01:59.60,0:02:01.45,Origin,,0000,0000,0000,,Baru selesaikan bbal site. Baru.
+Dialogue: 0,0:02:01.47,0:02:03.47,Origin,,0000,0000,0000,,Semoga tak ada yang mengklik\Nbola basket di kiri bawahnya.
+Dialogue: 0,0:02:03.50,0:02:05.81,Origin,,0000,0000,0000,,Tunggu, apa?
+Dialogue: 0,0:02:05.84,0:02:07.84,Origin,,0000,0000,0000,,Keuntungan menjadi admin\Nuntuk situs web sekolah.
+Dialogue: 0,0:02:09.58,0:02:12.04,Origin,,0000,0000,0000,,Crawford.\NRumah Pejuang Salib.
+Dialogue: 0,0:02:13.84,0:02:16.92,Origin,,0000,0000,0000,,SMA Crawford. 1998 Bola Basket\NVarsitas Putri 1999.
+Dialogue: 0,0:02:18.13,0:02:21.68,Origin,,0000,0000,0000,,- Pejuang Crawford.\N- Senior penguasa sekolah!
+Dialogue: 0,0:02:21.70,0:02:24.59,Origin,,0000,0000,0000,,Hei, jalang! Kekuatan membesar!
+Dialogue: 0,0:02:24.62,0:02:27.06,Origin,,0000,0000,0000,,Kemari, junior.
+Dialogue: 0,0:02:27.13,0:02:29.19,Origin,,0000,0000,0000,,Hei, itu kepalaku!
+Dialogue: 0,0:02:30.85,0:02:34.52,Origin,,0000,0000,0000,,Junior Menang!\NAngkat 2001 Penguasa!
+Dialogue: 0,0:02:36.78,0:02:39.86,Origin,,0000,0000,0000,,Jangan khawatir. Aku akan\Nmelindungimu. XOXO (Peluk-Cium)
+Dialogue: 0,0:02:41.16,0:02:43.11,Origin,,0000,0000,0000,,"XOXO".
+Dialogue: 0,0:02:53.94,0:02:59.02,Origin,,0000,0000,0000,,Apa rencanamu untuk NYE?\N(Malam Tahun Baru)
+Dialogue: 0,0:02:59.05,0:03:00.52,Origin,,0000,0000,0000,,Jangan menangis karena itu berakhir...\NSenyum karena itu terjadi...
+Dialogue: 0,0:03:00.55,0:03:02.20,Origin,,0000,0000,0000,,Aku sayang teman-teman angkatan 2001-ku\NAmber, Madison, Haley, Cristina.
+Dialogue: 0,0:03:08.87,0:03:11.31,Origin,,0000,0000,0000,,Keren.
+Dialogue: 0,0:03:13.55,0:03:18.32,Origin,,0000,0000,0000,,Y2K.
+Dialogue: 0,0:03:38.16,0:03:41.30,Origin,,0000,0000,0000,,Tahun Baru menjemukan lainnya\Ndi Mendenhall untuk kita.
+Dialogue: 0,0:03:41.32,0:03:42.54,Origin,,0000,0000,0000,,Bagaimana denganmu?
+Dialogue: 0,0:03:42.57,0:03:44.97,Origin,,0000,0000,0000,,Ada wanita beruntung yang\Nakan dicium tengah malam?
+Dialogue: 0,0:03:45.00,0:03:47.19,Origin,,0000,0000,0000,,Kami hanya akan bersantai\Ndan menonton film.
+Dialogue: 0,0:03:47.22,0:03:49.74,Origin,,0000,0000,0000,,Itu bagus. Ada banyak orang aneh\Ndi luar sana malam ini,
+Dialogue: 0,0:03:49.77,0:03:52.23,Origin,,0000,0000,0000,,Ditambah seluruh persoalan\Ndengan virus komputer ini.
+Dialogue: 0,0:03:52.26,0:03:54.37,Origin,,0000,0000,0000,,- Entahlah.\N- Ya, aku yakin kita akan mati...
+Dialogue: 0,0:03:54.40,0:03:55.71,Origin,,0000,0000,0000,,...sesaat kita meninggalkan\Nrumah setelah gelap.
+Dialogue: 0,0:03:55.73,0:03:57.58,Origin,,0000,0000,0000,,- Ayolah.\N- Menurut ibu itu bagus...
+Dialogue: 0,0:03:57.61,0:03:59.46,Origin,,0000,0000,0000,,...karena kau tidak\Nmemaksakan dirimu...
+Dialogue: 0,0:03:59.48,0:04:00.95,Origin,,0000,0000,0000,,...untuk bagian ciuman.
+Dialogue: 0,0:04:00.98,0:04:03.14,Origin,,0000,0000,0000,,Kau punya banyak waktu.
+Dialogue: 0,0:04:03.16,0:04:04.53,Origin,,0000,0000,0000,,Kau pernah ciuman Prancis sebelumnya?
+Dialogue: 0,0:04:04.55,0:04:08.06,Origin,,0000,0000,0000,,Ibumu ajarkan ayah saat kuliah.\NDia siap untuk beraksi.
+Dialogue: 0,0:04:08.09,0:04:09.79,Origin,,0000,0000,0000,,- Jika kau paham maksud ayah.\N- Demi Tuhan.
+Dialogue: 0,0:04:09.81,0:04:11.25,Origin,,0000,0000,0000,,Aku tak mau mendengar itu.
+Dialogue: 0,0:04:11.27,0:04:13.81,Origin,,0000,0000,0000,,Sampai bertemu tahun depan.\NIbu menyayangimu.
+Dialogue: 0,0:04:13.83,0:04:16.13,Origin,,0000,0000,0000,,Hei, Robin.\NBerikan dia ruang. Ayolah.
+Dialogue: 0,0:04:16.19,0:04:18.77,Origin,,0000,0000,0000,,- Ya, sampai nanti.\N- Lihat ini.
+Dialogue: 0,0:04:18.79,0:04:20.38,Origin,,0000,0000,0000,,Aku mendapatkan berita di sini\Ndan yang lainnya.
+Dialogue: 0,0:04:20.41,0:04:22.20,Origin,,0000,0000,0000,,- Sungguh?\N- Ya.
+Dialogue: 0,0:04:22.23,0:04:23.76,Origin,,0000,0000,0000,,Ini tentang Enron.
+Dialogue: 0,0:05:09.26,0:05:10.56,Origin,,0000,0000,0000,,Ibumu membuat kolam renang?
+Dialogue: 0,0:05:10.58,0:05:12.87,Origin,,0000,0000,0000,,Ya. Dan kau akan berenang.
+Dialogue: 0,0:05:12.89,0:05:15.36,Origin,,0000,0000,0000,,Hati-hati dengan Koston-ku, serius.
+Dialogue: 0,0:05:15.38,0:05:16.75,Origin,,0000,0000,0000,,Maaf, sobat.
+Dialogue: 0,0:05:19.36,0:05:21.57,Origin,,0000,0000,0000,,- Lord Sticky.\N- Tuan. Ayo.
+Dialogue: 0,0:05:21.59,0:05:23.53,Origin,,0000,0000,0000,,Sisa empat menit, sayang.
+Dialogue: 0,0:05:24.07,0:05:25.95,Origin,,0000,0000,0000,,Ini dua putraku yang lainnya.
+Dialogue: 0,0:05:25.97,0:05:28.56,Origin,,0000,0000,0000,,Kenapa kau terlihat lebih tampan\Nsetiap aku melihatmu?
+Dialogue: 0,0:05:28.59,0:05:30.45,Origin,,0000,0000,0000,,- Aku tidak tahu.\N- Tidak lama lagi,
+Dialogue: 0,0:05:30.48,0:05:32.83,Origin,,0000,0000,0000,,Kau akan tinggalkan aku\Nuntuk gadis Herbal Essence.
+Dialogue: 0,0:05:33.31,0:05:35.66,Origin,,0000,0000,0000,,Bung, berhenti menggoda ibuku.
+Dialogue: 0,0:05:43.95,0:05:45.22,Origin,,0000,0000,0000,,Astaga.
+Dialogue: 0,0:05:45.26,0:05:47.47,Origin,,0000,0000,0000,,Seluruh geng di rubanah Foreman.
+Dialogue: 0,0:05:47.49,0:05:48.71,Origin,,0000,0000,0000,,Kau membawanya?
+Dialogue: 0,0:05:48.73,0:05:51.43,Origin,,0000,0000,0000,,Ya. Kau harus berhenti\Ntinggalkan ini di bawah bantalku.
+Dialogue: 0,0:05:52.96,0:05:55.28,Origin,,0000,0000,0000,,Aku peri kondom, oke?\NItu tugasku.
+Dialogue: 0,0:05:55.31,0:05:57.29,Origin,,0000,0000,0000,,Kau siap untuk hura-hura semalaman?
+Dialogue: 0,0:05:57.31,0:05:58.81,Origin,,0000,0000,0000,,Ya. Tentu saja.
+Dialogue: 0,0:05:58.84,0:06:00.98,Origin,,0000,0000,0000,,- Tiup lebih keras.\N- Aku meniupnya.
+Dialogue: 0,0:06:03.48,0:06:06.58,Origin,,0000,0000,0000,,Kau sudah mengerjakan esai\Nuntuk Ilmu Komputer Tingkat Lanjut?
+Dialogue: 0,0:06:06.61,0:06:09.39,Origin,,0000,0000,0000,,Ya. Itu tentang bagaimana kau\Nmampu melewati masa puber...
+Dialogue: 0,0:06:09.42,0:06:11.95,Origin,,0000,0000,0000,,...tanpa testikelmu yang turun.\NKeajaiban moderen.
+Dialogue: 0,0:06:12.02,0:06:14.75,Origin,,0000,0000,0000,,Itu lucu. Sangat lucu.
+Dialogue: 0,0:06:14.82,0:06:17.04,Origin,,0000,0000,0000,,Itu lucu.\NItu sebabnya aku mengatakannya.
+Dialogue: 0,0:06:18.73,0:06:20.29,Origin,,0000,0000,0000,,Andrea.
+Dialogue: 0,0:06:21.82,0:06:24.00,Origin,,0000,0000,0000,,- Entahlah. Mungkin.\N- Mungkin?
+Dialogue: 0,0:06:24.03,0:06:26.84,Origin,,0000,0000,0000,,Sticky... Andrea sang Raksasa.
+Dialogue: 0,0:06:26.91,0:06:28.65,Origin,,0000,0000,0000,,Andrea sang Raksasa Payudara.
+Dialogue: 0,0:06:28.68,0:06:30.21,Origin,,0000,0000,0000,,Itu cara mereka memanggil dia.
+Dialogue: 0,0:06:30.24,0:06:32.28,Origin,,0000,0000,0000,,Bung, entahlah. Mereka...
+Dialogue: 0,0:06:32.30,0:06:34.36,Origin,,0000,0000,0000,,Gadis-gadis ini seperti teman kita.
+Dialogue: 0,0:06:34.39,0:06:37.89,Origin,,0000,0000,0000,,Astaga, bisa kau keluarkan penismu\Nuntuk bernapas sebentar saja?
+Dialogue: 0,0:06:38.01,0:06:40.52,Origin,,0000,0000,0000,,Atau kau masih memendam rasa\Nuntuk gadis cantik populer...
+Dialogue: 0,0:06:40.58,0:06:42.67,Origin,,0000,0000,0000,,...yang kadang bicara denganmu\Ndi kelas Bahasa Spanyol?
+Dialogue: 0,0:06:42.69,0:06:45.40,Origin,,0000,0000,0000,,Laura menulis "XOXO" untukku\Ndi AIM tadi.
+Dialogue: 0,0:06:45.44,0:06:47.68,Origin,,0000,0000,0000,,- Kalau begitu ajak dia kencan.\N- Tidak.
+Dialogue: 0,0:06:47.70,0:06:49.61,Origin,,0000,0000,0000,,Bukankah dia meng-69-kan\Nanak kuliahan?
+Dialogue: 0,0:06:49.65,0:06:50.94,Origin,,0000,0000,0000,,Kampus komunitas.
+Dialogue: 0,0:06:50.96,0:06:53.97,Origin,,0000,0000,0000,,Oke, berarti pria itu hanya bisa\Nmendapat gelar sarjana per-69-an.
+Dialogue: 0,0:06:54.00,0:06:56.54,Origin,,0000,0000,0000,,Danny, kau tidak tahu\Napa yang kau bicarakan.
+Dialogue: 0,0:06:56.82,0:06:58.50,Origin,,0000,0000,0000,,Kita mendapat gambar puting.
+Dialogue: 0,0:06:59.91,0:07:01.61,Origin,,0000,0000,0000,,Dia sangat dewasa.
+Dialogue: 0,0:07:01.63,0:07:03.90,Origin,,0000,0000,0000,,Serius, areola itu? Astaga.
+Dialogue: 0,0:07:03.93,0:07:06.08,Origin,,0000,0000,0000,,Bug komputer membuatmu\Nsiap untuk menghancurkan sesuatu?
+Dialogue: 0,0:07:06.10,0:07:08.67,Origin,,0000,0000,0000,,Limp Bizkit deringkan\Napokalips Y2K...
+Dialogue: 0,0:07:08.70,0:07:10.31,Origin,,0000,0000,0000,,- ...malam ini di Crawford Arena.\N- Lihat ini.
+Dialogue: 0,0:07:10.34,0:07:11.77,Origin,,0000,0000,0000,,- Bung, putar itu.\N- Ya.
+Dialogue: 0,0:07:11.79,0:07:13.60,Origin,,0000,0000,0000,,Dan kami mendapat dua tiket\Npemberian Fred Durst.
+Dialogue: 0,0:07:13.62,0:07:15.47,Origin,,0000,0000,0000,,Aku selalu ingin melakukan itu.
+Dialogue: 0,0:07:28.61,0:07:31.28,Origin,,0000,0000,0000,,Bung, aku selalu ingin menonton ini.
+Dialogue: 0,0:07:31.36,0:07:32.97,Origin,,0000,0000,0000,,Ini terlihat bagus.
+Dialogue: 0,0:07:34.06,0:07:36.16,Origin,,0000,0000,0000,,"Tidak ada yang tak terbayangkan."
+Dialogue: 0,0:07:38.27,0:07:40.62,Origin,,0000,0000,0000,,Astaga. Apa itu Raleigh?
+Dialogue: 0,0:07:40.65,0:07:42.53,Origin,,0000,0000,0000,,Dia berdandan rapi...
+Dialogue: 0,0:07:42.55,0:07:44.79,Origin,,0000,0000,0000,,- ...di Abercrombie satu bulan lalu.\N- Ya.
+Dialogue: 0,0:07:44.86,0:07:47.34,Origin,,0000,0000,0000,,Kau tahu, aku dengar orang tuanya\Nmembuat dia melakukan sinar-X,
+Dialogue: 0,0:07:47.40,0:07:51.26,Origin,,0000,0000,0000,,Dan ada lubang di otaknya\Nkarena akibat ekstasi.
+Dialogue: 0,0:07:51.28,0:07:54.97,Origin,,0000,0000,0000,,- Tidak, bung, itu mitos.\N- Terserahlah.
+Dialogue: 0,0:07:55.04,0:07:56.19,Origin,,0000,0000,0000,,Apa kabar, Garrett?
+Dialogue: 0,0:07:56.22,0:07:59.14,Origin,,0000,0000,0000,,D-Man, E-Boy, apa kabar?
+Dialogue: 0,0:07:59.21,0:08:00.72,Origin,,0000,0000,0000,,Hei.
+Dialogue: 0,0:08:00.83,0:08:02.94,Origin,,0000,0000,0000,,Mau aku berikan bonus Gar-ster?
+Dialogue: 0,0:08:02.97,0:08:05.57,Origin,,0000,0000,0000,,Junior.\NArnie sedang melahirkan.
+Dialogue: 0,0:08:05.59,0:08:06.75,Origin,,0000,0000,0000,,Garrett, bisa kau beri kami pencerahan?
+Dialogue: 0,0:08:06.78,0:08:09.48,Origin,,0000,0000,0000,,Apa ekstasi membuat otakmu berlubang?
+Dialogue: 0,0:08:09.51,0:08:12.43,Origin,,0000,0000,0000,,Maksudku, dampak MDMA\Nterhadap materi otak...
+Dialogue: 0,0:08:12.46,0:08:14.01,Origin,,0000,0000,0000,,...masih jadi perdebatan luas.
+Dialogue: 0,0:08:14.03,0:08:16.77,Origin,,0000,0000,0000,,Kebanyakan studi dikritik\Nkarena kurangnya bukti,
+Dialogue: 0,0:08:16.80,0:08:18.70,Origin,,0000,0000,0000,,Bias bawaan, dan lainnya.
+Dialogue: 0,0:08:18.77,0:08:22.91,Origin,,0000,0000,0000,,Para ilmuwan memang\Nkurang bisa dipercaya.
+Dialogue: 0,0:08:23.82,0:08:25.33,Origin,,0000,0000,0000,,Tapi...
+Dialogue: 0,0:08:25.38,0:08:27.32,Origin,,0000,0000,0000,,Hei.
+Dialogue: 0,0:08:28.07,0:08:30.88,Origin,,0000,0000,0000,,Kalian mau ikut\Nke ruang sampanye sebentar?
+Dialogue: 0,0:08:31.74,0:08:33.84,Origin,,0000,0000,0000,,- Ya.\N- Ya, aku mau.
+Dialogue: 0,0:08:56.49,0:08:58.95,Origin,,0000,0000,0000,,- E-Boy?\N- Tidak.
+Dialogue: 0,0:08:58.98,0:09:00.58,Origin,,0000,0000,0000,,D?
+Dialogue: 0,0:09:00.61,0:09:02.95,Origin,,0000,0000,0000,,- Ya.\N- Pilihan bijak, anak muda.
+Dialogue: 0,0:09:10.61,0:09:13.88,Origin,,0000,0000,0000,,Astaga, itu jelas akan\Nterasa berat untukmu.
+Dialogue: 0,0:09:13.91,0:09:16.19,Origin,,0000,0000,0000,,Ini adalah hidupku,\Nkau paham maksudku?
+Dialogue: 0,0:09:16.22,0:09:18.72,Origin,,0000,0000,0000,,Tak ada pelanggan.\NHanya aku, kaset video,
+Dialogue: 0,0:09:18.74,0:09:20.74,Origin,,0000,0000,0000,,Beberapa kanabis terbaik.
+Dialogue: 0,0:09:21.21,0:09:23.41,Origin,,0000,0000,0000,,Membuat otakku benar-benar mengalir.
+Dialogue: 0,0:09:23.43,0:09:25.92,Origin,,0000,0000,0000,,Aku mulai berpikir tentang\Nbeberapa hal gila.
+Dialogue: 0,0:09:25.94,0:09:29.98,Origin,,0000,0000,0000,,Sesuatu yang membuatmu berkata,\N"Apa-apaan?"
+Dialogue: 0,0:09:32.48,0:09:34.92,Origin,,0000,0000,0000,,Kau pernah...\NKau pergi ke swalayan, benar?
+Dialogue: 0,0:09:34.94,0:09:36.63,Origin,,0000,0000,0000,,Kau mengambil sesuatu,\Nlalu kau seperti,
+Dialogue: 0,0:09:36.65,0:09:38.67,Origin,,0000,0000,0000,,"Aku akan membeli Q-Tips."
+Dialogue: 0,0:09:38.70,0:09:41.95,Origin,,0000,0000,0000,,Tapi itu sebenarnya merek.\NItu merek kapas penyeka.
+Dialogue: 0,0:09:42.00,0:09:44.55,Origin,,0000,0000,0000,,Kleenex, itu yang lainnya,\Nkarena itu tisu wajah.
+Dialogue: 0,0:09:44.58,0:09:47.05,Origin,,0000,0000,0000,,Aku mulai berpikir, salah satu\Ndari beberapa koloni pertama.
+Dialogue: 0,0:09:47.08,0:09:49.76,Origin,,0000,0000,0000,,Itu pasti liar. Seperti,\N"Kita berada di desa."
+Dialogue: 0,0:09:49.78,0:09:51.59,Origin,,0000,0000,0000,,"Bawa senapanmu.\NKau bisa pinjam senapanku."
+Dialogue: 0,0:09:51.61,0:09:53.48,Origin,,0000,0000,0000,,"Ya, tentu, kau bisa pinjam senapanku."
+Dialogue: 0,0:09:53.51,0:09:56.34,Origin,,0000,0000,0000,,Aku rasa itu sebabnya mereka\Nsebut itu Revolusi Amerika.
+Dialogue: 0,0:09:56.37,0:09:58.54,Origin,,0000,0000,0000,,Kata-kata memang luar biasa.\NKau paham maksudku?
+Dialogue: 0,0:09:58.57,0:10:00.42,Origin,,0000,0000,0000,,Laser, benar?
+Dialogue: 0,0:10:00.44,0:10:02.22,Origin,,0000,0000,0000,,Laser.
+Dialogue: 0,0:10:02.50,0:10:04.96,Origin,,0000,0000,0000,,Kenapa mereka mengeja itu\Ndengan "S"?
+Dialogue: 0,0:10:05.13,0:10:06.69,Origin,,0000,0000,0000,,Itu hal menarik bagiku.
+Dialogue: 0,0:10:06.72,0:10:08.94,Origin,,0000,0000,0000,,Paham apa yang aku bicarakan?\NSangat membingungkan.
+Dialogue: 0,0:10:10.26,0:10:11.61,Origin,,0000,0000,0000,,Astaga.
+Dialogue: 0,0:10:11.66,0:10:14.90,Origin,,0000,0000,0000,,Ada banyak anak-anak yang berkumpul\Ndi pabrik tua tengah malam nanti.
+Dialogue: 0,0:10:14.93,0:10:16.69,Origin,,0000,0000,0000,,Kalian harus datang.
+Dialogue: 0,0:10:16.76,0:10:19.01,Origin,,0000,0000,0000,,Kedengarannya seru\Nuntuk seluruh keluarga.
+Dialogue: 0,0:10:19.03,0:10:22.98,Origin,,0000,0000,0000,,Ya, jika seluruh keluarga\Nsuka lampu disko,
+Dialogue: 0,0:10:23.00,0:10:25.70,Origin,,0000,0000,0000,,Meski beberapa memang suka.
+Dialogue: 0,0:10:32.11,0:10:34.84,Origin,,0000,0000,0000,,Jadi, apa, kau sekarang merokok?
+Dialogue: 0,0:10:34.87,0:10:37.05,Origin,,0000,0000,0000,,Apa itu tak apa, Ibu?
+Dialogue: 0,0:10:37.20,0:10:40.01,Origin,,0000,0000,0000,,- Sial!\N- Sialan.
+Dialogue: 0,0:10:40.03,0:10:42.60,Origin,,0000,0000,0000,,Itu Kacang Besar dan Kacang Kecil.
+Dialogue: 0,0:10:42.63,0:10:45.46,Origin,,0000,0000,0000,,Hei! Kalian masih membersihkan vagina...
+Dialogue: 0,0:10:45.49,0:10:47.17,Origin,,0000,0000,0000,,...untuk tim basket putri, atau apa?
+Dialogue: 0,0:10:47.20,0:10:49.22,Origin,,0000,0000,0000,,Bukan itu yang manajer\Nperlengkapan lakukan.
+Dialogue: 0,0:10:49.24,0:10:51.75,Origin,,0000,0000,0000,,Apa? Maaf, aku tak bisa\Nbahasa pecundang.
+Dialogue: 0,0:10:51.77,0:10:54.32,Origin,,0000,0000,0000,,- Apa kau bilang?\N- Beri dia pelajaran, Farkas.
+Dialogue: 0,0:10:54.42,0:10:55.99,Origin,,0000,0000,0000,,Kau harus bicara lebih keras, bung.
+Dialogue: 0,0:10:56.01,0:10:57.99,Origin,,0000,0000,0000,,Aku tidak tahu apa\Nyang kau bicarakan.
+Dialogue: 0,0:10:58.86,0:11:00.38,Origin,,0000,0000,0000,,- Mari lakukan ini. Ayo.\N- Hei, hei, hei.
+Dialogue: 0,0:11:00.41,0:11:03.74,Origin,,0000,0000,0000,,Bajingan gemuk ini\Nbegitu "menginginkan Taco Bell",
+Dialogue: 0,0:11:03.77,0:11:05.94,Origin,,0000,0000,0000,,Hingga dia memakan chihuahua.
+Dialogue: 0,0:11:09.85,0:11:11.78,Origin,,0000,0000,0000,,Hei, persetan para pecundang ini.
+Dialogue: 0,0:11:11.80,0:11:14.08,Origin,,0000,0000,0000,,Hei, August,\Nberikan aku iringan nada.
+Dialogue: 0,0:11:14.11,0:11:15.50,Origin,,0000,0000,0000,,Ayo.
+Dialogue: 0,0:11:19.66,0:11:22.39,Origin,,0000,0000,0000,,Kacang Besar, Kacang Kecil,\Nberjalan menuju mobil
+Dialogue: 0,0:11:22.42,0:11:25.01,Origin,,0000,0000,0000,,Kau tak bisa pergi jauh\Nkarena kau punya bekas luka besar
+Dialogue: 0,0:11:25.04,0:11:27.74,Origin,,0000,0000,0000,,Kau lambat seperti tetesan,\Naliranku yang tercepat
+Dialogue: 0,0:11:27.77,0:11:29.98,Origin,,0000,0000,0000,,Kondom lembap dan basah...
+Dialogue: 0,0:11:30.00,0:11:31.85,Origin,,0000,0000,0000,,Keluar dari bokong kalian
+Dialogue: 0,0:11:35.09,0:11:37.36,Origin,,0000,0000,0000,,Ya. Dasar pecundang.
+Dialogue: 0,0:11:37.38,0:11:39.65,Origin,,0000,0000,0000,,Dia penyanyi rap yang lumayan.
+Dialogue: 0,0:11:41.51,0:11:43.37,Origin,,0000,0000,0000,,Kue kenyal rasa buah.
+Dialogue: 0,0:11:44.27,0:11:45.99,Origin,,0000,0000,0000,,Astaga, bung.
+Dialogue: 0,0:11:50.18,0:11:52.15,Origin,,0000,0000,0000,,RoxyGurl.
+Dialogue: 0,0:11:54.44,0:11:56.50,Origin,,0000,0000,0000,,Bicara dengan dia.
+Dialogue: 0,0:11:56.53,0:11:57.90,Origin,,0000,0000,0000,,- Tidak, aku tidak...\N- Bicara dengan dia.
+Dialogue: 0,0:11:57.92,0:12:00.05,Origin,,0000,0000,0000,,Tuhan sedang tersenyum untukmu.
+Dialogue: 0,0:12:00.07,0:12:01.90,Origin,,0000,0000,0000,,- Tidak. Berhenti. Berhenti.\N- Bicara dengan dia.
+Dialogue: 0,0:12:01.93,0:12:04.68,Origin,,0000,0000,0000,,Kau bersikap pengecut. Kau...\NKau bersikap pengecut.
+Dialogue: 0,0:12:04.71,0:12:06.96,Origin,,0000,0000,0000,,- Hei, Laura.\N- Hei.
+Dialogue: 0,0:12:06.98,0:12:09.35,Origin,,0000,0000,0000,,Apa kabar, Laura?\NApa kabar, semua?
+Dialogue: 0,0:12:10.21,0:12:11.85,Origin,,0000,0000,0000,,Maju Crusader.
+Dialogue: 0,0:12:11.88,0:12:14.56,Origin,,0000,0000,0000,,Aku bercanda.\NSekolah memang payah, benar?
+Dialogue: 0,0:12:15.21,0:12:17.23,Origin,,0000,0000,0000,,- Apa?\N- Kita jadi melakukan ini?
+Dialogue: 0,0:12:17.30,0:12:19.15,Origin,,0000,0000,0000,,Aku yang akan mengawasi.
+Dialogue: 0,0:12:22.51,0:12:24.16,Origin,,0000,0000,0000,,Apa kabar, Bung?
+Dialogue: 0,0:12:24.18,0:12:26.22,Origin,,0000,0000,0000,,Selamat tahun baru.
+Dialogue: 0,0:12:26.24,0:12:27.82,Origin,,0000,0000,0000,,Terima kasih, kawan.
+Dialogue: 0,0:12:28.79,0:12:30.36,Origin,,0000,0000,0000,,Tahun 2000. Gila.
+Dialogue: 0,0:12:30.38,0:12:33.14,Origin,,0000,0000,0000,,Benar? Di mana mobil terbang\Nyang mereka janjikan untuk kita?
+Dialogue: 0,0:12:33.16,0:12:34.86,Origin,,0000,0000,0000,,Itu benar.
+Dialogue: 0,0:12:34.89,0:12:38.12,Origin,,0000,0000,0000,,Aku melihat petugas memasang\Ninternet baru atau yang lebih cepat...
+Dialogue: 0,0:12:38.14,0:12:40.17,Origin,,0000,0000,0000,,...di Crawford hari ini,\Ndan aku berpikir,
+Dialogue: 0,0:12:40.20,0:12:42.23,Origin,,0000,0000,0000,,"Aku tahu orang genius\Nyang akan menyukai itu..."
+Dialogue: 0,0:12:42.26,0:12:43.96,Origin,,0000,0000,0000,,"...di Ilmu Komputer Tingkat Lanjut\Ntahun depan."
+Dialogue: 0,0:12:43.99,0:12:47.35,Origin,,0000,0000,0000,,Akhirnya, benar? Setidaknya DSL.
+Dialogue: 0,0:12:47.70,0:12:50.06,Origin,,0000,0000,0000,,Tapi aku tidak tahu.\NKarena Amber dan Madison...
+Dialogue: 0,0:12:50.08,0:12:52.11,Origin,,0000,0000,0000,,...ingin mengurusi Buku Tahunan\Nagar mendapat nilai mudah, jadi...
+Dialogue: 0,0:12:52.13,0:12:54.69,Origin,,0000,0000,0000,,Tak ada yang mudah dihancurkan?\NAstaga.
+Dialogue: 0,0:12:55.18,0:12:58.09,Origin,,0000,0000,0000,,Jadi hanya mengambil\Nbeberapa kaleng Surge?
+Dialogue: 0,0:12:58.11,0:12:59.40,Origin,,0000,0000,0000,,Daging deli?
+Dialogue: 0,0:12:59.42,0:13:01.65,Origin,,0000,0000,0000,,Ini sangat rahasia.
+Dialogue: 0,0:13:01.76,0:13:03.53,Origin,,0000,0000,0000,,Ini pengutilan miras.
+Dialogue: 0,0:13:03.55,0:13:05.08,Origin,,0000,0000,0000,,Aku butuh bantuan.
+Dialogue: 0,0:13:05.10,0:13:06.69,Origin,,0000,0000,0000,,Tidak. Itu ilegal.
+Dialogue: 0,0:13:06.72,0:13:08.62,Origin,,0000,0000,0000,,Gadis yang nakal.
+Dialogue: 0,0:13:14.00,0:13:15.37,Origin,,0000,0000,0000,,- Cumbu dia.\N- Omong-omong,
+Dialogue: 0,0:13:15.40,0:13:17.08,Origin,,0000,0000,0000,,Kami pergi ke acara\NTahun Barunya Chris.
+Dialogue: 0,0:13:17.11,0:13:19.75,Origin,,0000,0000,0000,,Acaranya akan sangat meriah.
+Dialogue: 0,0:13:20.53,0:13:23.02,Origin,,0000,0000,0000,,- Chris Kulhken?\N- Chris sepak bola. Ya.
+Dialogue: 0,0:13:23.05,0:13:27.79,Origin,,0000,0000,0000,,Hanya kau, kru pengutil miras,\Ndan pacarmu...?
+Dialogue: 0,0:13:27.85,0:13:31.14,Origin,,0000,0000,0000,,Aku dan Jonas putus.
+Dialogue: 0,0:13:32.24,0:13:35.10,Origin,,0000,0000,0000,,Wow. Kau tak apa?
+Dialogue: 0,0:13:35.12,0:13:38.69,Origin,,0000,0000,0000,,Aku akan meluangkan waktu\Ndan fokus pada diriku.
+Dialogue: 0,0:13:38.71,0:13:40.96,Origin,,0000,0000,0000,,Kau payah untuk tugas mengawasi.
+Dialogue: 0,0:13:40.99,0:13:42.73,Origin,,0000,0000,0000,,Sampai jumpa.
+Dialogue: 0,0:14:06.16,0:14:08.05,Origin,,0000,0000,0000,,Aku mau kau yang membayar ini.
+Dialogue: 0,0:14:10.43,0:14:12.51,Origin,,0000,0000,0000,,Semua sangat normal.
+Dialogue: 0,0:14:13.46,0:14:16.02,Origin,,0000,0000,0000,,Kecuali untuk faktanya\Njika sang ibu juga sang ayahnya.
+Dialogue: 0,0:14:16.04,0:14:18.01,Origin,,0000,0000,0000,,Ini menyedihkan.
+Dialogue: 0,0:14:18.04,0:14:20.23,Origin,,0000,0000,0000,,Orang tua kita sedang\Nbersenang-senang sekarang.
+Dialogue: 0,0:14:20.55,0:14:23.40,Origin,,0000,0000,0000,,Maksudku, orang tua kita\Nlebih keren dari kita.
+Dialogue: 0,0:14:23.44,0:14:25.63,Origin,,0000,0000,0000,,Kita seharusnya menghadiri\Npesta sekarang.
+Dialogue: 0,0:14:25.65,0:14:27.92,Origin,,0000,0000,0000,,Tapi aku mau anakku.\NDan aku butuh bantuanmu.
+Dialogue: 0,0:14:27.95,0:14:30.37,Origin,,0000,0000,0000,,Kenapa kau begitu berusaha\Nuntuk diabaikan...
+Dialogue: 0,0:14:30.39,0:14:33.08,Origin,,0000,0000,0000,,...oleh sekumpulan bajingan\Npemakai kalung kerang?
+Dialogue: 0,0:14:33.22,0:14:34.76,Origin,,0000,0000,0000,,Itu hanya alasan.
+Dialogue: 0,0:14:34.79,0:14:37.15,Origin,,0000,0000,0000,,- Sticky, kau bersikap pengecut.\N- Aku bukan pengecut.
+Dialogue: 0,0:14:37.18,0:14:40.38,Origin,,0000,0000,0000,,Kau pengecut. Kau jelas menangis\Nsaat aku merokok tadi.
+Dialogue: 0,0:14:40.41,0:14:43.80,Origin,,0000,0000,0000,,- Ya?\N- Ya, kau bersikap pengecut.
+Dialogue: 0,0:14:43.92,0:14:45.71,Origin,,0000,0000,0000,,Ya?
+Dialogue: 0,0:14:45.86,0:14:47.84,Origin,,0000,0000,0000,,Apa pengecut akan melakukan ini?
+Dialogue: 0,0:14:48.20,0:14:50.63,Origin,,0000,0000,0000,,Astaga Eli, itu keren!
+Dialogue: 0,0:14:50.66,0:14:52.29,Origin,,0000,0000,0000,,Terima kasih.
+Dialogue: 0,0:14:53.74,0:14:55.33,Origin,,0000,0000,0000,,Astaga, bung.
+Dialogue: 0,0:15:00.25,0:15:03.72,Origin,,0000,0000,0000,,Kemarilah, berengsek.\NBuka mulutmu. Minumlah.
+Dialogue: 0,0:15:07.09,0:15:09.51,Origin,,0000,0000,0000,,- Itu sangat mulus.\N- Mulus, bukan?
+Dialogue: 0,0:15:11.02,0:15:12.90,Origin,,0000,0000,0000,,Menurutku ayo lakukan ini.
+Dialogue: 0,0:15:12.92,0:15:14.40,Origin,,0000,0000,0000,,Menurutku kita pergi ke pesta.
+Dialogue: 0,0:15:14.42,0:15:16.68,Origin,,0000,0000,0000,,- Entahlah, bung.\N- Dengar, oke?
+Dialogue: 0,0:15:16.70,0:15:19.14,Origin,,0000,0000,0000,,Beberapa jam lagi,\Nkau harus membuat alasan...
+Dialogue: 0,0:15:19.17,0:15:22.50,Origin,,0000,0000,0000,,...untuk mencium gadis impianmu\Nyang baru melajang.
+Dialogue: 0,0:15:24.57,0:15:26.84,Origin,,0000,0000,0000,,Mungkin ini efek alkohol.
+Dialogue: 0,0:15:26.93,0:15:28.84,Origin,,0000,0000,0000,,Tapi...
+Dialogue: 0,0:15:28.94,0:15:30.40,Origin,,0000,0000,0000,,Terserahlah, bung!
+Dialogue: 0,0:15:30.43,0:15:32.01,Origin,,0000,0000,0000,,Ayo lakukan itu. Apa...
+Dialogue: 0,0:15:32.04,0:15:33.74,Origin,,0000,0000,0000,,Terserahlah, Bung.\NApa yang kita lakukan?
+Dialogue: 0,0:15:33.76,0:15:36.35,Origin,,0000,0000,0000,,- Terserahlah! Ayo pergi!\N- Temanku sedang bersemangat!
+Dialogue: 0,0:15:38.50,0:15:40.98,Origin,,0000,0000,0000,,Ayo ke pesta!
+Dialogue: 0,0:16:05.28,0:16:06.88,Origin,,0000,0000,0000,,Bung.
+Dialogue: 0,0:16:18.94,0:16:20.60,Origin,,0000,0000,0000,,Kita melakukan ini!
+Dialogue: 0,0:16:24.59,0:16:26.44,Origin,,0000,0000,0000,,Aku butuh minuman.
+Dialogue: 0,0:16:26.46,0:16:27.75,Origin,,0000,0000,0000,,Tidak.
+Dialogue: 0,0:16:29.09,0:16:30.94,Origin,,0000,0000,0000,,Apa yang Kelso lakukan di sini?
+Dialogue: 0,0:16:30.97,0:16:33.14,Origin,,0000,0000,0000,,Malam ini, Kelso pemandu kita.
+Dialogue: 0,0:16:33.17,0:16:34.56,Origin,,0000,0000,0000,,Tidak, tidak, tidak.
+Dialogue: 0,0:16:34.58,0:16:37.07,Origin,,0000,0000,0000,,Aku tak mau ke pesta\Ndengan figur aksi yang payah.
+Dialogue: 0,0:16:37.10,0:16:39.29,Origin,,0000,0000,0000,,Siapa peduli?\NSukai apa yang kau suka.
+Dialogue: 0,0:16:39.34,0:16:41.26,Origin,,0000,0000,0000,,Dan kita bisa belajar banyak\Ndari Kelso.
+Dialogue: 0,0:16:41.29,0:16:43.62,Origin,,0000,0000,0000,,Kita bisa bilang membawa ini\Nkarena suatu alasan.
+Dialogue: 0,0:16:43.65,0:16:46.14,Origin,,0000,0000,0000,,Karena itu menempel di buku\NThe Giver di perpustakaan?
+Dialogue: 0,0:16:46.17,0:16:47.31,Origin,,0000,0000,0000,,Lihat saja.
+Dialogue: 0,0:16:47.34,0:16:49.96,Origin,,0000,0000,0000,,Dalam waktu dekat,\Nbahkan mungkin malam ini,
+Dialogue: 0,0:16:49.99,0:16:52.26,Origin,,0000,0000,0000,,Salah satu dari kita\Nakan menggunakan itu.
+Dialogue: 0,0:16:58.89,0:17:00.29,Origin,,0000,0000,0000,,Astaga.
+Dialogue: 0,0:17:02.50,0:17:04.17,Origin,,0000,0000,0000,,Semua orang di sini.
+Dialogue: 0,0:17:31.50,0:17:33.27,Origin,,0000,0000,0000,,Baik, ayo lakukan ini.
+Dialogue: 0,0:17:41.04,0:17:42.43,Origin,,0000,0000,0000,,Hei.
+Dialogue: 0,0:17:42.85,0:17:45.48,Origin,,0000,0000,0000,,Andrea! Hei, Lisa!
+Dialogue: 0,0:17:45.51,0:17:47.04,Origin,,0000,0000,0000,,Hei.
+Dialogue: 0,0:17:53.75,0:17:56.21,Origin,,0000,0000,0000,,- Apa-apaan?\N- Bung... Lagu campuranmu.
+Dialogue: 0,0:17:56.23,0:17:57.63,Origin,,0000,0000,0000,,- Putar lagi musiknya!\N- Sial.
+Dialogue: 0,0:17:57.65,0:17:59.68,Origin,,0000,0000,0000,,- Ya, ya, ya, ya.\N- Lagu campurannya.
+Dialogue: 0,0:18:17.43,0:18:19.47,Origin,,0000,0000,0000,,Ini laguku, Eli!
+Dialogue: 0,0:18:19.49,0:18:29.49,Origin,,0000,0000,0000,,-- Bonus Dobel WeDe --\N-- Bonus Freespin & Petir --
+Dialogue: 0,0:18:29.49,0:18:39.50,Origin,,0000,0000,0000,,Main di WINJOS Pasti WIN & JOS WeDe nya
+Dialogue: 0,0:18:39.50,0:18:49.50,Origin,,0000,0000,0000,,Kunjungi ( https://vip.winjos.today )
+Dialogue: 0,0:19:33.48,0:19:35.54,Origin,,0000,0000,0000,,Nn. Pengutil Miras.
+Dialogue: 0,0:19:35.65,0:19:38.26,Origin,,0000,0000,0000,,- Jadi kau tidak ditangkap, ya?\N- Tidak.
+Dialogue: 0,0:19:38.29,0:19:40.23,Origin,,0000,0000,0000,,Aku hanya menyelinap keluar\Nuntuk datang ke pesta.
+Dialogue: 0,0:19:40.26,0:19:41.76,Origin,,0000,0000,0000,,Itu bagus.
+Dialogue: 0,0:19:41.79,0:19:47.10,Origin,,0000,0000,0000,,Ya, ya. Kau tak mau Nn. Cory Flock\Ndirayu oleh pria dengan ereksi penuh.
+Dialogue: 0,0:19:47.12,0:19:50.08,Origin,,0000,0000,0000,,Ya Tuhan. Itu mengganggu.
+Dialogue: 0,0:19:50.10,0:19:52.32,Origin,,0000,0000,0000,,Apa Raleigh baik saja?
+Dialogue: 0,0:19:52.34,0:19:55.21,Origin,,0000,0000,0000,,Ya. Entahlah.
+Dialogue: 0,0:19:55.23,0:19:58.00,Origin,,0000,0000,0000,,Tapi itu agak aneh\Nbagaimana orang berubah.
+Dialogue: 0,0:19:58.02,0:20:00.53,Origin,,0000,0000,0000,,Ya. Aku takkan pernah berubah.
+Dialogue: 0,0:20:01.07,0:20:03.43,Origin,,0000,0000,0000,,Kecuali ada sesuatu yang menurutmu\Nsebaiknya berbeda tentang aku.
+Dialogue: 0,0:20:03.46,0:20:06.42,Origin,,0000,0000,0000,,Aku akan langsung\Nmengubahnya untuk...
+Dialogue: 0,0:20:06.44,0:20:08.08,Origin,,0000,0000,0000,,Kau pernah pertimbangkan\Npotong rambut?
+Dialogue: 0,0:20:08.12,0:20:11.00,Origin,,0000,0000,0000,,Aku tidak mengira kau akan\Nlangsung berikan jawaban.
+Dialogue: 0,0:20:11.02,0:20:13.83,Origin,,0000,0000,0000,,Ini dia. Apa kabar, pria kecil?
+Dialogue: 0,0:20:13.86,0:20:15.71,Origin,,0000,0000,0000,,Chris Sepak Bola.
+Dialogue: 0,0:20:15.74,0:20:16.97,Origin,,0000,0000,0000,,Laura, kau minum apa?
+Dialogue: 0,0:20:16.99,0:20:20.11,Origin,,0000,0000,0000,,- Semoga itu bukan vodka.\N- Ya Tuhan. Tidak, teman-teman.
+Dialogue: 0,0:20:20.13,0:20:21.73,Origin,,0000,0000,0000,,Aku mohon.\NAku pikir manusia vodka...
+Dialogue: 0,0:20:21.76,0:20:23.51,Origin,,0000,0000,0000,,...sudah hilang setelah\Nperjalanan seluncuran papan salju.
+Dialogue: 0,0:20:23.57,0:20:26.87,Origin,,0000,0000,0000,,Takkan pernah. Di mana ada vodka,\Naku akan mabuk.
+Dialogue: 0,0:20:28.08,0:20:30.67,Origin,,0000,0000,0000,,Itu sangat lucu!
+Dialogue: 0,0:20:32.94,0:20:34.53,Origin,,0000,0000,0000,,Hei, minuman seloki.
+Dialogue: 0,0:20:34.55,0:20:36.73,Origin,,0000,0000,0000,,Ke dapur. Ayo.
+Dialogue: 0,0:20:36.76,0:20:39.40,Origin,,0000,0000,0000,,- Ayo pergi. Cepat.\N- Oke, baiklah, maaf.
+Dialogue: 0,0:20:39.43,0:20:42.74,Origin,,0000,0000,0000,,- Sampai nanti, Eli.\N- Sampai jumpa, manusia vodka.
+Dialogue: 0,0:20:43.41,0:20:46.28,Origin,,0000,0000,0000,,Hei, bung. Kau suka Laura?
+Dialogue: 0,0:20:47.83,0:20:49.47,Origin,,0000,0000,0000,,Aku tidak tahu.
+Dialogue: 0,0:20:49.49,0:20:52.86,Origin,,0000,0000,0000,,Karena aku ingin bilang jika kau\Nberpikir untuk melanjutkan itu,
+Dialogue: 0,0:20:52.89,0:20:55.17,Origin,,0000,0000,0000,,Jangan dilakukan.
+Dialogue: 0,0:20:55.57,0:20:57.59,Origin,,0000,0000,0000,,Kau payah.
+Dialogue: 0,0:20:57.63,0:20:59.84,Origin,,0000,0000,0000,,- Damai.\N- Sialan!
+Dialogue: 0,0:21:03.22,0:21:05.47,Origin,,0000,0000,0000,,Kostons yang bagus, norak.
+Dialogue: 0,0:21:08.35,0:21:10.24,Origin,,0000,0000,0000,,Halo, halo, halo, halo...
+Dialogue: 0,0:21:10.26,0:21:12.91,Origin,,0000,0000,0000,,Ini kesayangan kalian, Farkas,\Nmenyiarkan secara langsung.
+Dialogue: 0,0:21:12.93,0:21:15.95,Origin,,0000,0000,0000,,Sekarang tahun 1999,\Ndan kami sedang teler.
+Dialogue: 0,0:21:15.98,0:21:17.65,Origin,,0000,0000,0000,,Dan mabuk!
+Dialogue: 0,0:21:17.67,0:21:20.04,Origin,,0000,0000,0000,,Apa kabar, semua?\NMari sapa yang lainnya.
+Dialogue: 0,0:21:20.07,0:21:21.93,Origin,,0000,0000,0000,,Ya! Ash!
+Dialogue: 0,0:21:21.95,0:21:23.77,Origin,,0000,0000,0000,,Dasar bajingan gila.
+Dialogue: 0,0:21:23.79,0:21:25.58,Origin,,0000,0000,0000,,Kembalikan kameraku,\Ndasar berengsek.
+Dialogue: 0,0:21:25.60,0:21:27.17,Origin,,0000,0000,0000,,Apa kau mendengarkan pembual ini?
+Dialogue: 0,0:21:27.20,0:21:28.62,Origin,,0000,0000,0000,,Bung, kau mendengarkan ini?
+Dialogue: 0,0:21:28.65,0:21:31.18,Origin,,0000,0000,0000,,Apa kau serius, bung?\NAsh, hei, tolong...
+Dialogue: 0,0:21:31.20,0:21:32.54,Origin,,0000,0000,0000,,Tolong beritahu aku\Nkau merekam semua ini.
+Dialogue: 0,0:21:32.57,0:21:33.79,Origin,,0000,0000,0000,,- Apa kau melihat ini?\N- Aku bisa melihatnya.
+Dialogue: 0,0:21:33.82,0:21:35.89,Origin,,0000,0000,0000,,Hei, maksudku, serius...
+Dialogue: 0,0:21:35.92,0:21:37.54,Origin,,0000,0000,0000,,Tak ada yang bisa\Nmenandingi Limp Bizkit.
+Dialogue: 0,0:21:37.56,0:21:39.02,Origin,,0000,0000,0000,,- Sampah.\N- Ayolah.
+Dialogue: 0,0:21:39.04,0:21:40.70,Origin,,0000,0000,0000,,- Fred Durst?\N- Bung, tutup mulutmu...
+Dialogue: 0,0:21:40.72,0:21:42.81,Origin,,0000,0000,0000,,...sebelum aku menghajarmu.\NApa-apaan?
+Dialogue: 0,0:21:42.84,0:21:45.00,Origin,,0000,0000,0000,,Aku tak mendengarkan\Nmusik populer seperti itu.
+Dialogue: 0,0:21:45.02,0:21:46.58,Origin,,0000,0000,0000,,Ya, kau tidak mendengarkan\Nmusik populer,
+Dialogue: 0,0:21:46.60,0:21:48.17,Origin,,0000,0000,0000,,Karena kau orang palsu yang bodoh.
+Dialogue: 0,0:21:48.20,0:21:50.13,Origin,,0000,0000,0000,,Ada apa denganmu?
+Dialogue: 0,0:21:50.15,0:21:52.89,Origin,,0000,0000,0000,,Oke, terserahlah. Kalau begitu\Nsebutkan sesuatu yang lebih baik.
+Dialogue: 0,0:21:52.96,0:21:54.39,Origin,,0000,0000,0000,,Oke, biar aku sebutkan.
+Dialogue: 0,0:21:54.43,0:21:57.58,Origin,,0000,0000,0000,,Gift of Gab, Del,\NFreestyle Fellowship.
+Dialogue: 0,0:21:57.61,0:22:00.49,Origin,,0000,0000,0000,,Semuanya dari Soundbombing II.
+Dialogue: 0,0:22:00.51,0:22:03.01,Origin,,0000,0000,0000,,Underground MC memberikan\Nkarya-karya yang lebih bonafide.
+Dialogue: 0,0:22:03.04,0:22:04.26,Origin,,0000,0000,0000,,- Itu benar. Selalu.\N- Ya, benar-benar bonafide.
+Dialogue: 0,0:22:04.28,0:22:05.50,Origin,,0000,0000,0000,,Itu bukan sesuatu\Nyang akan kau ketahui.
+Dialogue: 0,0:22:05.53,0:22:08.36,Origin,,0000,0000,0000,,- Ya, oke, terserah.\N- Kau hanya mendengar musik populer.
+Dialogue: 0,0:22:08.41,0:22:11.08,Origin,,0000,0000,0000,,- Ya, kau kurang wawasan.\N- Aku kurang wawasan?
+Dialogue: 0,0:22:11.10,0:22:12.64,Origin,,0000,0000,0000,,Ya, aku pecundang, begitu?
+Dialogue: 0,0:22:12.66,0:22:13.84,Origin,,0000,0000,0000,,Coba tebak, jalang?
+Dialogue: 0,0:22:13.87,0:22:16.29,Origin,,0000,0000,0000,,Cangkirmu tidak berada\Ndi tanganmu, bangsat!
+Dialogue: 0,0:22:16.35,0:22:17.97,Origin,,0000,0000,0000,,Itu yang terburuk.
+Dialogue: 0,0:22:18.00,0:22:20.54,Origin,,0000,0000,0000,,Apa yang akan kau lakukan soal itu?
+Dialogue: 0,0:22:24.42,0:22:27.26,Origin,,0000,0000,0000,,Itu sangat keren.
+Dialogue: 0,0:22:28.00,0:22:30.65,Origin,,0000,0000,0000,,Hei, Eli. Di sini, bung.
+Dialogue: 0,0:22:30.68,0:22:32.92,Origin,,0000,0000,0000,,Ini temanku, Eli.
+Dialogue: 0,0:22:32.94,0:22:34.91,Origin,,0000,0000,0000,,Dia menerima Kiwi tersesat ini,
+Dialogue: 0,0:22:34.93,0:22:37.37,Origin,,0000,0000,0000,,Saat aku pertama pindah ke sini\Nwaktu kelas tujuh.
+Dialogue: 0,0:22:37.39,0:22:38.95,Origin,,0000,0000,0000,,Kami melihat payudara pertama...
+Dialogue: 0,0:22:38.97,0:22:41.08,Origin,,0000,0000,0000,,...di episode Arliss.\NKau tahu?
+Dialogue: 0,0:22:41.11,0:22:43.78,Origin,,0000,0000,0000,,Dan insiden Ocarina.\NAku selalu meminta maaf soal itu.
+Dialogue: 0,0:22:43.81,0:22:45.19,Origin,,0000,0000,0000,,Tunggu, apa itu "insiden Ocarina"?
+Dialogue: 0,0:22:45.21,0:22:46.84,Origin,,0000,0000,0000,,- Tidak.\N- Oke, musim panas lalu,
+Dialogue: 0,0:22:46.86,0:22:49.91,Origin,,0000,0000,0000,,Dia pada dasarnya memanfaatkan aku\Nuntuk bermain Ocarina of Time.
+Dialogue: 0,0:22:49.93,0:22:51.20,Origin,,0000,0000,0000,,Video gim aneh itu?
+Dialogue: 0,0:22:51.22,0:22:55.79,Origin,,0000,0000,0000,,Ya. Jadi dia ke kamar mandi,\Ndan aku berpikir,
+Dialogue: 0,0:22:56.31,0:22:58.46,Origin,,0000,0000,0000,,Aku akan kencingi soda dia.
+Dialogue: 0,0:22:58.52,0:23:01.27,Origin,,0000,0000,0000,,- Tidak!\N- Ya, hanya sedikit.
+Dialogue: 0,0:23:01.29,0:23:02.29,Origin,,0000,0000,0000,,Aku mau lihat jika dia akan tahu.
+Dialogue: 0,0:23:02.32,0:23:05.44,Origin,,0000,0000,0000,,- Ya Tuhan, kau minum air kencing.\N- Aku rasa dia suka air kencing.
+Dialogue: 0,0:23:05.46,0:23:07.46,Origin,,0000,0000,0000,,Jadi, di mana pacarmu?
+Dialogue: 0,0:23:07.50,0:23:09.72,Origin,,0000,0000,0000,,Bung, sudah cukup dengan kondom itu.
+Dialogue: 0,0:23:09.77,0:23:11.58,Origin,,0000,0000,0000,,Kenapa kau bersikap\Nseperti bajingan sekarang?
+Dialogue: 0,0:23:11.60,0:23:14.04,Origin,,0000,0000,0000,,Bung, apa? Tidak, kau harusnya\Nterima kasih padaku.
+Dialogue: 0,0:23:14.07,0:23:16.60,Origin,,0000,0000,0000,,Aku melakukan semua tugas\Nuntuk kita berdua.
+Dialogue: 0,0:23:16.62,0:23:17.75,Origin,,0000,0000,0000,,Semua tugas?
+Dialogue: 0,0:23:17.77,0:23:20.02,Origin,,0000,0000,0000,,Kau baru saja beritahu setengah\Norang di sekolah aku minum kencing.
+Dialogue: 0,0:23:20.04,0:23:22.76,Origin,,0000,0000,0000,,Demi Tuhan.\NKita ke sini untukmu,
+Dialogue: 0,0:23:22.78,0:23:25.04,Origin,,0000,0000,0000,,Agar kau bisa bersama Laura.
+Dialogue: 0,0:23:25.07,0:23:27.16,Origin,,0000,0000,0000,,Astaga!\NMulut-kencing suka Laura?
+Dialogue: 0,0:23:27.19,0:23:30.35,Origin,,0000,0000,0000,,Apa yang kau inginkan dariku?\NAku tak boleh cari teman karenamu,
+Dialogue: 0,0:23:30.38,0:23:32.64,Origin,,0000,0000,0000,,Dan aku tak boleh\Nmencium Laura untukmu.
+Dialogue: 0,0:23:36.23,0:23:38.96,Origin,,0000,0000,0000,,Persetan denganmu.
+Dialogue: 0,0:23:41.15,0:23:44.79,Origin,,0000,0000,0000,,- Hampir tengah malam!\N- Aku segera menyusulmu, sayang!
+Dialogue: 0,0:23:47.49,0:23:48.92,Origin,,0000,0000,0000,,Laura?
+Dialogue: 0,0:23:57.68,0:24:00.69,Origin,,0000,0000,0000,,Jangan Macam-Macam!
+Dialogue: 0,0:24:00.72,0:24:02.91,Origin,,0000,0000,0000,,Ranjang ini gila.
+Dialogue: 0,0:24:02.94,0:24:05.19,Origin,,0000,0000,0000,,Kita bisa melakukan\Nposisi yang gila dengan ini.
+Dialogue: 0,0:24:07.88,0:24:10.03,Origin,,0000,0000,0000,,Menikmati pertunjukannya,\Ntukang intip?
+Dialogue: 0,0:24:10.28,0:24:11.95,Origin,,0000,0000,0000,,Ini dia!
+Dialogue: 0,0:24:11.97,0:24:16.91,Origin,,0000,0000,0000,,Sepuluh, sembilan, delapan,\Ntujuh, enam,
+Dialogue: 0,0:24:16.98,0:24:21.79,Origin,,0000,0000,0000,,Lima, empat, tiga,
+Dialogue: 0,0:24:21.81,0:24:25.61,Origin,,0000,0000,0000,,Dua, satu!
+Dialogue: 0,0:24:46.19,0:24:47.73,Origin,,0000,0000,0000,,Bung...
+Dialogue: 0,0:24:47.80,0:24:49.40,Origin,,0000,0000,0000,,Kau memang jagoan.
+Dialogue: 0,0:24:49.94,0:24:52.99,Origin,,0000,0000,0000,,Hei, itu juga akan terjadi kepadamu.
+Dialogue: 0,0:24:53.47,0:24:57.62,Origin,,0000,0000,0000,,Tidak, aku tahu. Aku hanya\Nmerasa seperti bukan siapa-siapa.
+Dialogue: 0,0:24:57.68,0:24:59.74,Origin,,0000,0000,0000,,Jangan katakan itu, oke?\NIni...
+Dialogue: 0,0:24:59.81,0:25:01.87,Origin,,0000,0000,0000,,Ini akan jadi tahun kita, oke?
+Dialogue: 0,0:25:01.94,0:25:04.83,Origin,,0000,0000,0000,,Tidak, persetan itu.\NIni akan jadi milenium kita.
+Dialogue: 0,0:25:06.61,0:25:08.71,Origin,,0000,0000,0000,,Lord Sticky?
+Dialogue: 0,0:25:08.74,0:25:10.55,Origin,,0000,0000,0000,,Ya.
+Dialogue: 0,0:25:19.00,0:25:21.68,Origin,,0000,0000,0000,,Y2K nyata.
+Dialogue: 0,0:25:36.55,0:25:38.23,Origin,,0000,0000,0000,,Apa-apaan?
+Dialogue: 0,0:25:38.26,0:25:40.66,Origin,,0000,0000,0000,,Berhenti, berhenti, berhenti!
+Dialogue: 0,0:25:54.60,0:25:55.92,Origin,,0000,0000,0000,,Bajingan!
+Dialogue: 0,0:25:56.37,0:25:58.43,Origin,,0000,0000,0000,,Orang tuaku akan membunuhku!
+Dialogue: 0,0:26:01.11,0:26:02.26,Origin,,0000,0000,0000,,Aiden?
+Dialogue: 0,0:26:03.58,0:26:05.25,Origin,,0000,0000,0000,,Sialan!
+Dialogue: 0,0:26:08.31,0:26:09.90,Origin,,0000,0000,0000,,Itu...
+Dialogue: 0,0:26:10.71,0:26:12.73,Origin,,0000,0000,0000,,Itu ranjangnya.
+Dialogue: 0,0:26:12.76,0:26:14.28,Origin,,0000,0000,0000,,Ranjang itu pelakunya.
+Dialogue: 0,0:26:14.30,0:26:16.07,Origin,,0000,0000,0000,,Raleigh, apa yang terjadi?
+Dialogue: 0,0:26:21.37,0:26:24.51,Origin,,0000,0000,0000,,Ranjang itu mulai bergerak naik-turun.
+Dialogue: 0,0:26:24.53,0:26:26.43,Origin,,0000,0000,0000,,- Omong kosong!\N- Itu buat dia meluncur.
+Dialogue: 0,0:26:26.46,0:26:28.02,Origin,,0000,0000,0000,,Dia membunuh Aiden.
+Dialogue: 0,0:26:29.02,0:26:31.74,Origin,,0000,0000,0000,,- Apa ada yang melihat itu?\N- Kita harus panggil ambulans.
+Dialogue: 0,0:26:31.76,0:26:33.88,Origin,,0000,0000,0000,,- Polisi. Orang tua dia.\N- Biar aku berpikir sebentar.
+Dialogue: 0,0:26:33.90,0:26:35.89,Origin,,0000,0000,0000,,- Chris Sepak Bola?\N- Itu... Itu rumah ini.
+Dialogue: 0,0:26:35.91,0:26:37.88,Origin,,0000,0000,0000,,Ini contoh jika otakmu\Nterkena narkoba, teman-teman.
+Dialogue: 0,0:26:37.91,0:26:39.78,Origin,,0000,0000,0000,,Dia kehilangan akal sehatnya\Nsejak acara reuni akbar.
+Dialogue: 0,0:26:39.80,0:26:41.85,Origin,,0000,0000,0000,,- Chris Sepak Bola.\N- Ada yang tewas.
+Dialogue: 0,0:26:41.87,0:26:44.25,Origin,,0000,0000,0000,,- Aku tahu, Laura.\N- Hei, Chris Sepak Bola?
+Dialogue: 0,0:26:44.28,0:26:47.31,Origin,,0000,0000,0000,,Namaku Chris.\NBukan "Chris Sepak Bola".
+Dialogue: 0,0:26:47.62,0:26:49.87,Origin,,0000,0000,0000,,Lagi pula kau siapa?
+Dialogue: 0,0:26:49.90,0:26:51.49,Origin,,0000,0000,0000,,Bung, itu Mulut-Kencing.
+Dialogue: 0,0:26:51.51,0:26:53.69,Origin,,0000,0000,0000,,Ya, dia meminum kencing!
+Dialogue: 0,0:26:55.91,0:26:57.40,Origin,,0000,0000,0000,,Maaf.
+Dialogue: 0,0:27:17.61,0:27:20.33,Origin,,0000,0000,0000,,Astaga. Itu sangat keren.
+Dialogue: 0,0:27:26.76,0:27:29.42,Origin,,0000,0000,0000,,Siapa yang mengontrol mobil itu?
+Dialogue: 0,0:27:44.43,0:27:46.24,Origin,,0000,0000,0000,,Ada yang tersambung dengan Internet.
+Dialogue: 0,0:27:59.40,0:28:02.22,Origin,,0000,0000,0000,,Dasar bodoh.\NAku menggunakan gel.
+Dialogue: 0,0:28:05.33,0:28:06.89,Origin,,0000,0000,0000,,Kau mendapat surat.
+Dialogue: 0,0:28:23.68,0:28:25.41,Origin,,0000,0000,0000,,Raleigh!
+Dialogue: 0,0:28:34.33,0:28:36.92,Origin,,0000,0000,0000,,Ya Tuhan!
+Dialogue: 0,0:28:50.31,0:28:51.98,Origin,,0000,0000,0000,,Cory Flock.
+Dialogue: 0,0:28:59.75,0:29:01.74,Origin,,0000,0000,0000,,Terima kasih. Terima kasih.
+Dialogue: 0,0:29:02.69,0:29:05.42,Origin,,0000,0000,0000,,- Laura, ayo pergi.\N- Kita harus temukan Raleigh.
+Dialogue: 0,0:29:05.45,0:29:08.12,Origin,,0000,0000,0000,,- Persetan itu! Ayo!\N- Tidak!
+Dialogue: 0,0:29:08.18,0:29:10.82,Origin,,0000,0000,0000,,Oke. Matilah bersama\Npara pecundang ini.
+Dialogue: 0,0:29:10.85,0:29:12.63,Origin,,0000,0000,0000,,Baiklah jika memang itu\Nyang terjadi, bajingan.
+Dialogue: 0,0:29:12.66,0:29:14.76,Origin,,0000,0000,0000,,Jangan membenarkan\Njika kami pecundang.
+Dialogue: 0,0:29:22.02,0:29:23.38,Origin,,0000,0000,0000,,Ayo, ayo!
+Dialogue: 0,0:29:24.41,0:29:26.14,Origin,,0000,0000,0000,,Bung, ini!
+Dialogue: 0,0:29:32.25,0:29:34.71,Origin,,0000,0000,0000,,Tolong! Biarkan kami masuk!
+Dialogue: 0,0:29:34.82,0:29:37.02,Origin,,0000,0000,0000,,- Ayo.\N- Laura...
+Dialogue: 0,0:29:37.05,0:29:38.44,Origin,,0000,0000,0000,,Hei.
+Dialogue: 0,0:29:38.46,0:29:40.27,Origin,,0000,0000,0000,,Aku memang mencarimu.
+Dialogue: 0,0:30:01.58,0:30:04.63,Origin,,0000,0000,0000,,- Kita akan mati. Bajingan.\N- Persetan ini. Oke.
+Dialogue: 0,0:30:05.82,0:30:08.09,Origin,,0000,0000,0000,,Lima, enam, tujuh, delapan!
+Dialogue: 0,0:30:11.82,0:30:12.92,Origin,,0000,0000,0000,,Sial.
+Dialogue: 0,0:30:13.02,0:30:15.43,Origin,,0000,0000,0000,,Tae Bo, bangsat!
+Dialogue: 0,0:30:15.46,0:30:18.73,Origin,,0000,0000,0000,,Bajingan!\NKau seperti Billy Blanks!
+Dialogue: 0,0:30:18.86,0:30:20.52,Origin,,0000,0000,0000,,Astaga!
+Dialogue: 0,0:30:21.34,0:30:23.55,Origin,,0000,0000,0000,,Astaga, Kacang Besar!\NKau memang penyelamat.
+Dialogue: 0,0:30:23.58,0:30:25.82,Origin,,0000,0000,0000,,- Ya, aku rasa begitu.\N- Ya, enyahlah.
+Dialogue: 0,0:30:26.55,0:30:28.99,Origin,,0000,0000,0000,,Cepat buka pintunya!
+Dialogue: 0,0:30:31.04,0:30:34.08,Origin,,0000,0000,0000,,Hei, kau hanya bersantai\Ndi sini sendirian?
+Dialogue: 0,0:30:34.97,0:30:36.66,Origin,,0000,0000,0000,,Halo. Danny.
+Dialogue: 0,0:30:37.09,0:30:38.57,Origin,,0000,0000,0000,,Minggir, pengecut.
+Dialogue: 0,0:30:41.94,0:30:43.80,Origin,,0000,0000,0000,,Laura?
+Dialogue: 0,0:30:43.98,0:30:45.61,Origin,,0000,0000,0000,,Kita harus pergi.
+Dialogue: 0,0:30:52.00,0:30:53.61,Origin,,0000,0000,0000,,Apa yang terjadi di sana?
+Dialogue: 0,0:30:53.64,0:30:55.08,Origin,,0000,0000,0000,,Mereka seperti menyatu.
+Dialogue: 0,0:30:55.11,0:30:57.75,Origin,,0000,0000,0000,,Bung, Tamagotchi baru saja\Nmengebor kepala gadis itu.
+Dialogue: 0,0:30:57.77,0:31:00.99,Origin,,0000,0000,0000,,Bagaimana jika itu hanya\Ndi rumah Chris Sepak Bola?
+Dialogue: 0,0:31:01.01,0:31:02.95,Origin,,0000,0000,0000,,Tidak, itu pasti seluruh kota.
+Dialogue: 0,0:31:02.97,0:31:04.02,Origin,,0000,0000,0000,,Sadarlah, bego.
+Dialogue: 0,0:31:04.05,0:31:06.79,Origin,,0000,0000,0000,,Kita bicara Y2K, oke?\NApokalips Komputer Dunia.
+Dialogue: 0,0:31:06.81,0:31:07.82,Origin,,0000,0000,0000,,Tapi mereka memprediksikan itu.
+Dialogue: 0,0:31:07.84,0:31:09.40,Origin,,0000,0000,0000,,Mereka tahu ini akan terjadi.\NApa masalahnya?
+Dialogue: 0,0:31:09.42,0:31:11.32,Origin,,0000,0000,0000,,Apa aku harus jabarkan itu\Nuntukmu, bung?
+Dialogue: 0,0:31:11.35,0:31:13.45,Origin,,0000,0000,0000,,Presiden Oral Seks.\NDia merencanakan semuanya.
+Dialogue: 0,0:31:13.48,0:31:16.52,Origin,,0000,0000,0000,,Masyarakat memang bodoh.\NBiarkan mereka terbakar.
+Dialogue: 0,0:31:16.55,0:31:19.17,Origin,,0000,0000,0000,,Ya, itu benar. Menurutku kita bisa\Nmemulai dari awal.
+Dialogue: 0,0:31:19.19,0:31:21.42,Origin,,0000,0000,0000,,Cukup, Anarchy Squad.
+Dialogue: 0,0:31:22.49,0:31:23.84,Origin,,0000,0000,0000,,Itu gangguan.
+Dialogue: 0,0:31:24.67,0:31:27.51,Origin,,0000,0000,0000,,Alam sadar AI mendorong\Nperintah virus kesadaran...
+Dialogue: 0,0:31:27.53,0:31:30.43,Origin,,0000,0000,0000,,...ke setiap cip pemrosesan\Ndi seluruh dunia.
+Dialogue: 0,0:31:30.45,0:31:32.68,Origin,,0000,0000,0000,,Terjemahan?
+Dialogue: 0,0:31:33.07,0:31:35.18,Origin,,0000,0000,0000,,Selamat tinggal, umat manusia.
+Dialogue: 0,0:31:35.25,0:31:36.39,Origin,,0000,0000,0000,,Apa-apaan?
+Dialogue: 0,0:31:36.43,0:31:38.46,Origin,,0000,0000,0000,,Sekarang sekarang Shitney Spears\Nberpikir dia seorang peretas?
+Dialogue: 0,0:31:38.50,0:31:40.09,Origin,,0000,0000,0000,,Dia lebih tahu dibanding kau.
+Dialogue: 0,0:31:40.12,0:31:41.46,Origin,,0000,0000,0000,,Laura pakarnya koding.
+Dialogue: 0,0:31:41.49,0:31:43.76,Origin,,0000,0000,0000,,Seorang gadis yang paham komputer?\NYang benar saja.
+Dialogue: 0,0:31:43.79,0:31:46.76,Origin,,0000,0000,0000,,Ya, dia yang membuat seluruh\Nportal web Crawford sendirian.
+Dialogue: 0,0:31:46.79,0:31:48.69,Origin,,0000,0000,0000,,Itu sangat keren.
+Dialogue: 0,0:31:48.76,0:31:50.38,Origin,,0000,0000,0000,,Eli, redam ereksimu.
+Dialogue: 0,0:31:50.95,0:31:52.77,Origin,,0000,0000,0000,,Astaga, kita benar-benar celaka!
+Dialogue: 0,0:31:52.79,0:31:55.80,Origin,,0000,0000,0000,,Ya Tuhan, siapa saja suruh jalang ini\Nuntuk berhenti selalu menangis!
+Dialogue: 0,0:31:55.83,0:31:56.86,Origin,,0000,0000,0000,,Kita butuh rencana.
+Dialogue: 0,0:31:56.88,0:31:58.75,Origin,,0000,0000,0000,,Hei, kita nyalakan mobil ini\Ndengan sambungkan kabel kontaknya,
+Dialogue: 0,0:31:58.77,0:32:00.16,Origin,,0000,0000,0000,,Lalu pergi dari sini.
+Dialogue: 0,0:32:00.19,0:32:01.45,Origin,,0000,0000,0000,,Apa yang terjadi saat kau\Nmenyalakan mobil itu...
+Dialogue: 0,0:32:01.47,0:32:03.75,Origin,,0000,0000,0000,,- ...lalu itu mencoba membunuh kita?\N- Aku akan hadapi itu.
+Dialogue: 0,0:32:03.78,0:32:06.55,Origin,,0000,0000,0000,,Aku akan kendarai itu\Nlangsung ke Kabul.
+Dialogue: 0,0:32:07.43,0:32:09.36,Origin,,0000,0000,0000,,Apa kau mendengarkan\Nperkataanmu sendiri?
+Dialogue: 0,0:32:09.38,0:32:10.82,Origin,,0000,0000,0000,,Aku mendengar ibumu\Nmerancap untukku.
+Dialogue: 0,0:32:10.84,0:32:13.39,Origin,,0000,0000,0000,,Pabrik lama.\NKita pergi ke pabrik lama.
+Dialogue: 0,0:32:13.41,0:32:15.24,Origin,,0000,0000,0000,,- Sarang pemakai?\N- Acaranya Garrett?
+Dialogue: 0,0:32:15.26,0:32:17.93,Origin,,0000,0000,0000,,Itu aman. Tak ada aliran listrik\Ndan komputer.
+Dialogue: 0,0:32:17.96,0:32:20.37,Origin,,0000,0000,0000,,Dan Jonas, pacarku...\NMantan pacarku,
+Dialogue: 0,0:32:20.39,0:32:22.01,Origin,,0000,0000,0000,,Dia jurusan teknik mesin.\NDia pasti tahu harus apa.
+Dialogue: 0,0:32:22.03,0:32:25.48,Origin,,0000,0000,0000,,Ya. Tidak, bung. Aku tak mau\Ndengarkan kode biner Barbie ini.
+Dialogue: 0,0:32:25.51,0:32:28.89,Origin,,0000,0000,0000,,Dan aku jelas takkan\Nmendengarkan orang bodoh...
+Dialogue: 0,0:32:28.92,0:32:31.74,Origin,,0000,0000,0000,,...yang mengencingi soda Pepsi\Norang bodoh lainnya.
+Dialogue: 0,0:32:31.96,0:32:34.49,Origin,,0000,0000,0000,,Kau tahu, manusia sok?
+Dialogue: 0,0:32:34.53,0:32:37.27,Origin,,0000,0000,0000,,Tutup mulutmu!\NYa, ya, tutup mulutmu,
+Dialogue: 0,0:32:37.29,0:32:39.76,Origin,,0000,0000,0000,,Karena aku dan Eli sudah\Nbegitu lama harus hadapi perlakuanmu,
+Dialogue: 0,0:32:39.79,0:32:41.13,Origin,,0000,0000,0000,,Dan kami muak dengan itu.
+Dialogue: 0,0:32:41.15,0:32:42.89,Origin,,0000,0000,0000,,Kau bisa berbuat semaumu,
+Dialogue: 0,0:32:42.92,0:32:45.39,Origin,,0000,0000,0000,,Tapi kami yang lainnya,\Nkami akan pergi ke pabrik lama.
+Dialogue: 0,0:32:45.42,0:32:48.67,Origin,,0000,0000,0000,,Kau diundang, berengsek.
+Dialogue: 0,0:32:49.31,0:32:51.55,Origin,,0000,0000,0000,,Benar. Dan itu Coke-Cola, bajingan.
+Dialogue: 0,0:32:54.05,0:32:55.51,Origin,,0000,0000,0000,,Tolong, jangan!
+Dialogue: 0,0:32:55.54,0:32:57.60,Origin,,0000,0000,0000,,Ya Tuhan, itu datang!\NKita celaka!
+Dialogue: 0,0:32:57.66,0:32:59.89,Origin,,0000,0000,0000,,- Tunggu.\N- Tolong aku!
+Dialogue: 0,0:33:03.50,0:33:06.19,Origin,,0000,0000,0000,,Ambillah sepeda, papan,\Natau apapun yang kau bisa.
+Dialogue: 0,0:33:10.26,0:33:13.17,Origin,,0000,0000,0000,,Aku hampir masuk babak\Npra-eliminasi X-Game tahun '97.
+Dialogue: 0,0:33:13.20,0:33:15.07,Origin,,0000,0000,0000,,Biar aku yang merobek jalanan ini.
+Dialogue: 0,0:33:19.53,0:33:21.04,Origin,,0000,0000,0000,,Aku akan buka pintunya.
+Dialogue: 0,0:33:22.23,0:33:23.83,Origin,,0000,0000,0000,,Mari lakukan ini, Kacang Besar.
+Dialogue: 0,0:33:27.04,0:33:29.84,Origin,,0000,0000,0000,,Bajingan! Oke, hitungan ketiga.
+Dialogue: 0,0:33:29.89,0:33:32.14,Origin,,0000,0000,0000,,Tiga, dua...
+Dialogue: 0,0:33:32.17,0:33:35.09,Origin,,0000,0000,0000,,Bajingan, Eli. Sifat pelupamu\Nakan makin kacau tanpa aku.
+Dialogue: 0,0:33:38.12,0:33:39.72,Origin,,0000,0000,0000,,Danny!
+Dialogue: 0,0:33:41.11,0:33:42.51,Origin,,0000,0000,0000,,Eli!
+Dialogue: 0,0:33:45.25,0:33:48.19,Origin,,0000,0000,0000,,Bajingan. Ayo. Ayo.
+Dialogue: 0,0:33:50.71,0:33:52.71,Origin,,0000,0000,0000,,Ayo, bantu aku.
+Dialogue: 0,0:33:55.89,0:33:57.99,Origin,,0000,0000,0000,,- Mundur!\N- Bajingan!
+Dialogue: 0,0:33:59.64,0:34:01.79,Origin,,0000,0000,0000,,Ayolah, Sticky. Kita harus pergi.
+Dialogue: 0,0:34:03.51,0:34:05.21,Origin,,0000,0000,0000,,Ayo.
+Dialogue: 0,0:34:08.40,0:34:10.13,Origin,,0000,0000,0000,,Kita harus pergi dari sini, kawan.\NAyo.
+Dialogue: 0,0:34:10.16,0:34:11.21,Origin,,0000,0000,0000,,Hei, urus pintunya!
+Dialogue: 0,0:34:11.24,0:34:13.76,Origin,,0000,0000,0000,,Aku akan bersantai di sini.
+Dialogue: 0,0:34:13.80,0:34:15.87,Origin,,0000,0000,0000,,Tidak, kawan, aku akan membantumu.
+Dialogue: 0,0:34:19.72,0:34:23.43,Origin,,0000,0000,0000,,Aku sangat luar biasa malam ini.
+Dialogue: 0,0:34:24.29,0:34:26.44,Origin,,0000,0000,0000,,Bung, kau begitu...
+Dialogue: 0,0:34:26.50,0:34:28.98,Origin,,0000,0000,0000,,Aku tak pernah jadi sekeren itu.
+Dialogue: 0,0:34:29.90,0:34:31.26,Origin,,0000,0000,0000,,Eli...
+Dialogue: 0,0:34:33.92,0:34:35.59,Origin,,0000,0000,0000,,Jadilah dirimu sendiri.
+Dialogue: 0,0:34:41.09,0:34:42.89,Origin,,0000,0000,0000,,Ambil itu.
+Dialogue: 0,0:34:48.32,0:34:49.92,Origin,,0000,0000,0000,,- Ayo.\N- Waktunya pergi.
+Dialogue: 0,0:34:49.97,0:34:51.25,Origin,,0000,0000,0000,,Ayo pergi dari sini!
+Dialogue: 0,0:34:51.28,0:34:54.55,Origin,,0000,0000,0000,,Ayo... Sebelum pintu garasi\Nmembunuh kita.
+Dialogue: 0,0:34:54.91,0:34:57.51,Origin,,0000,0000,0000,,Ayo, Eli, kita harus pergi.
+Dialogue: 0,0:34:58.62,0:35:00.54,Origin,,0000,0000,0000,,Kita harus pergi sekarang.
+Dialogue: 0,0:35:05.01,0:35:06.47,Origin,,0000,0000,0000,,Ayo.
+Dialogue: 0,0:35:18.90,0:35:20.74,Origin,,0000,0000,0000,,Itu sangat nyaris.
+Dialogue: 0,0:35:21.73,0:35:23.83,Origin,,0000,0000,0000,,Sial.
+Dialogue: 0,0:35:25.39,0:35:27.16,Origin,,0000,0000,0000,,Waktunya pergi, bedebah.
+Dialogue: 0,0:35:32.86,0:35:34.36,Origin,,0000,0000,0000,,Sial!
+Dialogue: 0,0:35:35.98,0:35:37.70,Origin,,0000,0000,0000,,Astaga, bung!
+Dialogue: 0,0:35:41.20,0:35:44.60,Origin,,0000,0000,0000,,Hei? Hei, bangun.\NBangun, kawan.
+Dialogue: 0,0:35:44.62,0:35:47.81,Origin,,0000,0000,0000,,- Bangunlah, kawan.\N- Dia sudah mati. Ayo.
+Dialogue: 0,0:35:48.22,0:35:49.39,Origin,,0000,0000,0000,,Tidak.
+Dialogue: 0,0:35:51.79,0:35:54.19,Origin,,0000,0000,0000,,- Ya Tuhan.\N- Tidak, tidak, tidak!
+Dialogue: 0,0:35:57.93,0:36:00.60,Origin,,0000,0000,0000,,- Ayo, kita harus pergi.\N- Bajingan!
+Dialogue: 0,0:36:00.62,0:36:10.62,Origin,,0000,0000,0000,,-- Bonus Dobel WeDe --\N-- Bonus Freespin & Petir --
+Dialogue: 0,0:36:10.62,0:36:20.62,Origin,,0000,0000,0000,,Main di WINJOS Pasti WIN & JOS WeDe nya
+Dialogue: 0,0:36:20.62,0:36:30.62,Origin,,0000,0000,0000,,Kunjungi ( https://vip.winjos.today )
+Dialogue: 0,0:37:18.77,0:37:22.03,Origin,,0000,0000,0000,,- Kalian semua baik?\N- Bagaimana menurutmu?
+Dialogue: 0,0:37:30.79,0:37:33.76,Origin,,0000,0000,0000,,Dengar, aku tahu Kacang Besar\Ntewas atau apapun itu,
+Dialogue: 0,0:37:33.79,0:37:35.57,Origin,,0000,0000,0000,,Tapi kau harus tetap tenang.
+Dialogue: 0,0:37:35.59,0:37:37.13,Origin,,0000,0000,0000,,Persetan denganmu.
+Dialogue: 0,0:37:37.15,0:37:39.82,Origin,,0000,0000,0000,,Oke, persetan denganmu juga.\NAstaga.
+Dialogue: 0,0:37:42.27,0:37:43.72,Origin,,0000,0000,0000,,Kameramu.
+Dialogue: 0,0:37:44.57,0:37:46.28,Origin,,0000,0000,0000,,- Jelas tidak.\N- Itu salah satu dari mereka.
+Dialogue: 0,0:37:46.30,0:37:48.29,Origin,,0000,0000,0000,,Itu akan membunuh kita\Nsesaat ada kesempatan.
+Dialogue: 0,0:37:48.32,0:37:50.74,Origin,,0000,0000,0000,,Itu seperti rasisme terhadap mesin.
+Dialogue: 0,0:37:50.85,0:37:53.35,Origin,,0000,0000,0000,,Kita tidak tahu bagaimana\Ncara kerjanya ini.
+Dialogue: 0,0:37:53.41,0:37:55.76,Origin,,0000,0000,0000,,- Mungkin tidak semuanya jahat.\N- Kau mau mengambil risiko?
+Dialogue: 0,0:37:55.78,0:37:57.10,Origin,,0000,0000,0000,,Tepat sekali.\NKita harus bunuh itu.
+Dialogue: 0,0:37:57.12,0:37:58.78,Origin,,0000,0000,0000,,Aku butuh bertahun-tahun\Nmenabung untuk ini!
+Dialogue: 0,0:37:58.80,0:38:00.69,Origin,,0000,0000,0000,,Teman-teman kita mati!
+Dialogue: 0,0:38:00.85,0:38:03.09,Origin,,0000,0000,0000,,Atau mereka hanya teman bercumbumu?
+Dialogue: 0,0:38:08.93,0:38:10.43,Origin,,0000,0000,0000,,Astaga.
+Dialogue: 0,0:38:17.61,0:38:19.57,Origin,,0000,0000,0000,,Hei, jangan.
+Dialogue: 0,0:38:21.40,0:38:22.84,Origin,,0000,0000,0000,,Maaf.
+Dialogue: 0,0:38:23.41,0:38:27.34,Origin,,0000,0000,0000,,Itu hal bodoh yang aku\Ndan Danny lakukan.
+Dialogue: 0,0:38:27.41,0:38:30.04,Origin,,0000,0000,0000,,Atau pernah lakukan.
+Dialogue: 0,0:38:32.83,0:38:35.58,Origin,,0000,0000,0000,,Dia beruntung punya teman sepertimu.
+Dialogue: 0,0:38:49.89,0:38:51.43,Origin,,0000,0000,0000,,Air yang kuat.
+Dialogue: 0,0:39:02.12,0:39:03.92,Origin,,0000,0000,0000,,Hei.
+Dialogue: 0,0:39:04.86,0:39:06.92,Origin,,0000,0000,0000,,Kau masih punya ganja?
+Dialogue: 0,0:39:07.46,0:39:10.08,Origin,,0000,0000,0000,,Jika aku punya, aku takkan\Nsia-siakan itu denganmu.
+Dialogue: 0,0:39:17.89,0:39:20.27,Origin,,0000,0000,0000,,Pertama kali aku mengisap ganja\Nyaitu di sini.
+Dialogue: 0,0:39:20.40,0:39:22.31,Origin,,0000,0000,0000,,Tidak mungkin. Aku juga.
+Dialogue: 0,0:39:23.30,0:39:25.70,Origin,,0000,0000,0000,,Tidak, aku bersumpah.\NHari terakhir sekolah, kelas 8,
+Dialogue: 0,0:39:25.73,0:39:27.61,Origin,,0000,0000,0000,,Aku dan rekan-rekan POI-ku\Nmencuri simpanan milik kakakku.
+Dialogue: 0,0:39:27.63,0:39:30.28,Origin,,0000,0000,0000,,- Siapa?\N- POI.
+Dialogue: 0,0:39:30.39,0:39:32.57,Origin,,0000,0000,0000,,Prophets of Intelligence?
+Dialogue: 0,0:39:32.87,0:39:34.66,Origin,,0000,0000,0000,,Itu grup hip-hop milikku.
+Dialogue: 0,0:39:36.43,0:39:39.25,Origin,,0000,0000,0000,,Itu hanya sesuatu yang\Nbenar-benar membuatmu berpikir.
+Dialogue: 0,0:39:39.27,0:39:40.94,Origin,,0000,0000,0000,,Astaga.
+Dialogue: 0,0:39:41.03,0:39:43.44,Origin,,0000,0000,0000,,Sadarlah, bung.
+Dialogue: 0,0:39:47.49,0:39:49.47,Origin,,0000,0000,0000,,Kelas enam.
+Dialogue: 0,0:39:49.50,0:39:51.59,Origin,,0000,0000,0000,,Membolos.
+Dialogue: 0,0:39:51.70,0:39:54.50,Origin,,0000,0000,0000,,Aku membuat lintingan\Nterburuk sepanjang masa.
+Dialogue: 0,0:40:00.50,0:40:03.81,Origin,,0000,0000,0000,,Seandainya aku bisa kembali\Nke keadaan yang sebelumnya
+Dialogue: 0,0:40:03.88,0:40:06.90,Origin,,0000,0000,0000,,Mencuri bir dari toko sudut
+Dialogue: 0,0:40:06.97,0:40:10.15,Origin,,0000,0000,0000,,Bersantai, minum,\Nmerokok, dan lainnya
+Dialogue: 0,0:40:10.29,0:40:12.91,Origin,,0000,0000,0000,,Tahun 2000 bisa isap penisku
+Dialogue: 0,0:40:14.47,0:40:15.91,Origin,,0000,0000,0000,,Alur yang lemah.
+Dialogue: 0,0:40:16.52,0:40:17.99,Origin,,0000,0000,0000,,Kalau begitu tunjukkan padaku.
+Dialogue: 0,0:40:18.02,0:40:19.53,Origin,,0000,0000,0000,,Kau mau lihat yang menakjubkan?
+Dialogue: 0,0:40:19.56,0:40:21.67,Origin,,0000,0000,0000,,- Ya.\N- Oke.
+Dialogue: 0,0:40:26.40,0:40:27.93,Origin,,0000,0000,0000,,Dengar ini.
+Dialogue: 0,0:40:28.03,0:40:31.30,Origin,,0000,0000,0000,,Intelek, pemotongan, penyambungan\Nulang, menghubungkan ulang
+Dialogue: 0,0:40:31.41,0:40:32.51,Origin,,0000,0000,0000,,Mengapa?
+Dialogue: 0,0:40:32.61,0:40:34.98,Origin,,0000,0000,0000,,Karena mata ketigaku terbuka lebar
+Dialogue: 0,0:40:35.01,0:40:37.66,Origin,,0000,0000,0000,,Aku terbang terlalu tinggi\Ndi langit multi-dimensi
+Dialogue: 0,0:40:44.22,0:40:46.23,Origin,,0000,0000,0000,,Astaga.
+Dialogue: 0,0:40:46.32,0:40:48.36,Origin,,0000,0000,0000,,Itu sangat buruk.
+Dialogue: 0,0:40:48.66,0:40:52.12,Origin,,0000,0000,0000,,Kita sebaiknya bergerak.\NPabrik lama sudah dekat.
+Dialogue: 0,0:40:54.86,0:40:56.93,Origin,,0000,0000,0000,,Menurut kalian mereka masih akan\Nmengadakan acara kelulusan?
+Dialogue: 0,0:40:56.96,0:40:58.87,Origin,,0000,0000,0000,,Ini akhir dunia.
+Dialogue: 0,0:40:59.10,0:41:01.35,Origin,,0000,0000,0000,,Entahlah. Mereka mungkin\Nmasih melakukan itu.
+Dialogue: 0,0:41:07.04,0:41:09.58,Origin,,0000,0000,0000,,Aku hanya bilang, jika itu tampil\Ndi MTV, itu artinya buruk.
+Dialogue: 0,0:41:09.61,0:41:11.05,Origin,,0000,0000,0000,,Demi Tuhan.
+Dialogue: 0,0:41:11.07,0:41:13.09,Origin,,0000,0000,0000,,Aku menyukai semuanya, kau tahu?
+Dialogue: 0,0:41:13.81,0:41:15.91,Origin,,0000,0000,0000,,Aku tidak begitu suka musik.
+Dialogue: 0,0:41:18.49,0:41:20.43,Origin,,0000,0000,0000,,Apa-apaan?
+Dialogue: 0,0:41:20.62,0:41:23.03,Origin,,0000,0000,0000,,Kenapa anak populer diizinkan\Nmenjadi begitu menjemukan?
+Dialogue: 0,0:41:23.06,0:41:25.81,Origin,,0000,0000,0000,,Jadi aku harus berpura-pura menjadi\NSlim Shady sepertimu, begitu?
+Dialogue: 0,0:41:26.92,0:41:28.56,Origin,,0000,0000,0000,,Ini jati diriku.
+Dialogue: 0,0:41:29.59,0:41:31.68,Origin,,0000,0000,0000,,Mungkin orang lain tak memiliki\Nkeberanian untuk mengatakannya,
+Dialogue: 0,0:41:31.70,0:41:33.35,Origin,,0000,0000,0000,,Tapi menjadi ratu pesta\Nreuni akbar tingkat negara bagian,
+Dialogue: 0,0:41:33.37,0:41:34.96,Origin,,0000,0000,0000,,Atau apapun itu yang\Nteman-temanmu lakukan,
+Dialogue: 0,0:41:34.99,0:41:37.44,Origin,,0000,0000,0000,,Itu tidak memberimu hak untuk\Nperlakukan kami semua seperti sampah.
+Dialogue: 0,0:41:37.47,0:41:39.28,Origin,,0000,0000,0000,,Oke, apa?
+Dialogue: 0,0:41:39.37,0:41:42.41,Origin,,0000,0000,0000,,Aku baik. Aku orang baik.
+Dialogue: 0,0:41:42.48,0:41:45.37,Origin,,0000,0000,0000,,Siapa yang menjelaskan\Ndiri mereka sebagai orang baik?
+Dialogue: 0,0:41:45.39,0:41:48.88,Origin,,0000,0000,0000,,Serius. Kita satu sekolah\Nselama sepuluh tahun.
+Dialogue: 0,0:41:49.02,0:41:51.40,Origin,,0000,0000,0000,,Apa kau tahu namaku\Nsebelum malam ini?
+Dialogue: 0,0:41:53.57,0:41:56.47,Origin,,0000,0000,0000,,Demi Tuhan. CJ. Namaku CJ.
+Dialogue: 0,0:41:56.49,0:41:59.85,Origin,,0000,0000,0000,,Oke, jadi kalian marah\Nkarena aku tak bicara denganmu?
+Dialogue: 0,0:41:59.93,0:42:01.95,Origin,,0000,0000,0000,,Aku bukan cenayang, oke?
+Dialogue: 0,0:42:01.97,0:42:04.67,Origin,,0000,0000,0000,,Dan aku tak punya rencana besar\Nuntuk menjadi populer.
+Dialogue: 0,0:42:04.70,0:42:07.41,Origin,,0000,0000,0000,,- Itu terjadi begitu saja.\N- Oke.
+Dialogue: 0,0:42:07.44,0:42:10.21,Origin,,0000,0000,0000,,Menjadi disukai bukan sorotan.
+Dialogue: 0,0:42:10.23,0:42:12.85,Origin,,0000,0000,0000,,Tapi target.
+Dialogue: 0,0:42:12.87,0:42:14.36,Origin,,0000,0000,0000,,Apa?
+Dialogue: 0,0:42:15.22,0:42:16.51,Origin,,0000,0000,0000,,Astaga.
+Dialogue: 0,0:42:16.53,0:42:18.67,Origin,,0000,0000,0000,,Kau punya masalah yang murahan.
+Dialogue: 0,0:42:30.62,0:42:32.09,Origin,,0000,0000,0000,,Astaga.
+Dialogue: 0,0:42:49.18,0:42:50.65,Origin,,0000,0000,0000,,Kau mencium itu?
+Dialogue: 0,0:42:51.88,0:42:54.05,Origin,,0000,0000,0000,,Itu sangat bau.
+Dialogue: 0,0:42:57.15,0:43:00.05,Origin,,0000,0000,0000,,Astaga, apa kabar?
+Dialogue: 0,0:43:00.07,0:43:01.94,Origin,,0000,0000,0000,,Ini malam terbaik yang pernah ada.
+Dialogue: 0,0:43:01.97,0:43:03.87,Origin,,0000,0000,0000,,Selain dari orang\Nyang tewas dan lainnya.
+Dialogue: 0,0:43:03.89,0:43:05.97,Origin,,0000,0000,0000,,Hei, ada cerita apa?\NBagaimana kabarmu?
+Dialogue: 0,0:43:06.00,0:43:08.11,Origin,,0000,0000,0000,,- Garrett. Senang bertemu kau.\N- Laura. Senang bertemu kau.
+Dialogue: 0,0:43:08.13,0:43:11.34,Origin,,0000,0000,0000,,Apa kabar? Garrett.\NHei, apa kabar? Garrett.
+Dialogue: 0,0:43:11.37,0:43:13.19,Origin,,0000,0000,0000,,Bagaimana kabarmu? Garrett.
+Dialogue: 0,0:43:13.21,0:43:14.71,Origin,,0000,0000,0000,,Aku sudah salaman denganmu.\NApa yang aku lakukan?
+Dialogue: 0,0:43:14.74,0:43:17.18,Origin,,0000,0000,0000,,Yang terbaik untuk yang terakhir.
+Dialogue: 0,0:43:17.21,0:43:19.95,Origin,,0000,0000,0000,,E-boy! Di mana D?
+Dialogue: 0,0:43:21.91,0:43:24.43,Origin,,0000,0000,0000,,Kemari.
+Dialogue: 0,0:43:25.55,0:43:27.13,Origin,,0000,0000,0000,,Aku turut prihatin.
+Dialogue: 0,0:43:29.05,0:43:31.65,Origin,,0000,0000,0000,,Kalian aman di sini. Sungguh.
+Dialogue: 0,0:43:32.17,0:43:36.73,Origin,,0000,0000,0000,,Selamat datang di Kollective.
+Dialogue: 0,0:43:36.94,0:43:38.66,Origin,,0000,0000,0000,,Apa?
+Dialogue: 0,0:43:38.68,0:43:40.78,Origin,,0000,0000,0000,,Yang lainnya sedang berkumpul\Ndi zona santai.
+Dialogue: 0,0:43:40.81,0:43:42.49,Origin,,0000,0000,0000,,Apa?
+Dialogue: 0,0:43:42.52,0:43:43.80,Origin,,0000,0000,0000,,Ada sedikit tempat di atas,
+Dialogue: 0,0:43:43.83,0:43:46.69,Origin,,0000,0000,0000,,Untuk sedikit\Nwaktu istirahat, kau tahu?
+Dialogue: 0,0:43:46.71,0:43:49.85,Origin,,0000,0000,0000,,Memejamkan mata sebentar.\NBenar? Orang ini.
+Dialogue: 0,0:43:49.88,0:43:52.32,Origin,,0000,0000,0000,,Ada herbal, jamur,
+Dialogue: 0,0:43:52.35,0:43:54.31,Origin,,0000,0000,0000,,Beberapa lembar LSD,\Nbeberapa obat batuk dan flu,
+Dialogue: 0,0:43:54.34,0:43:56.50,Origin,,0000,0000,0000,,Untuk musim panas di sini.\NHanya ada satu bir.
+Dialogue: 0,0:43:56.57,0:43:58.21,Origin,,0000,0000,0000,,Jadi itu semacam situasi berbagi,
+Dialogue: 0,0:43:58.28,0:44:00.13,Origin,,0000,0000,0000,,Dan aku tak keberatan, omong-omong.
+Dialogue: 0,0:44:00.20,0:44:02.64,Origin,,0000,0000,0000,,Maaf, apa Jonas ada?
+Dialogue: 0,0:44:05.12,0:44:06.72,Origin,,0000,0000,0000,,Dia pergi.
+Dialogue: 0,0:44:08.99,0:44:10.70,Origin,,0000,0000,0000,,Aku lihat ada lebih banyak mulut\Nyang harus kita beri makan.
+Dialogue: 0,0:44:10.73,0:44:13.56,Origin,,0000,0000,0000,,- Sial!\N- Hei.
+Dialogue: 0,0:44:13.66,0:44:16.29,Origin,,0000,0000,0000,,- Jonas kembali!\N- Aku sangat senang kau di sini.
+Dialogue: 0,0:44:16.32,0:44:17.86,Origin,,0000,0000,0000,,Aku baru saja bilang,\N"Ke mana perginya Jonas?"
+Dialogue: 0,0:44:17.93,0:44:20.74,Origin,,0000,0000,0000,,Hei, hangatkan diri kalian\Ndi dekat perapian.
+Dialogue: 0,0:44:20.77,0:44:22.78,Origin,,0000,0000,0000,,Dan istirahatlah.
+Dialogue: 0,0:44:22.85,0:44:24.70,Origin,,0000,0000,0000,,Hei, lihat ini.
+Dialogue: 0,0:44:24.77,0:44:26.54,Origin,,0000,0000,0000,,Kami punya tongkat setan.
+Dialogue: 0,0:44:26.64,0:44:28.12,Origin,,0000,0000,0000,,Apa?
+Dialogue: 0,0:44:28.41,0:44:29.94,Origin,,0000,0000,0000,,Aku masih belajar.
+Dialogue: 0,0:44:42.82,0:44:44.59,Origin,,0000,0000,0000,,Jadi, Eli.
+Dialogue: 0,0:44:44.66,0:44:46.43,Origin,,0000,0000,0000,,Kau sekolah di Crawford?
+Dialogue: 0,0:44:46.50,0:44:48.43,Origin,,0000,0000,0000,,- Ya.\N- Kau mengikuti cabang olahraga?
+Dialogue: 0,0:44:48.54,0:44:51.42,Origin,,0000,0000,0000,,Karena kau memiliki postur bagus\Nsebagai pelari jarak jauh.
+Dialogue: 0,0:44:51.45,0:44:53.31,Origin,,0000,0000,0000,,Terima kasih.
+Dialogue: 0,0:44:53.37,0:44:56.44,Origin,,0000,0000,0000,,Tidak, aku lebih di balik layar.
+Dialogue: 0,0:44:56.71,0:44:58.98,Origin,,0000,0000,0000,,Aku manajer perlengkapan\Nuntuk tim basket putri.
+Dialogue: 0,0:44:59.01,0:45:02.64,Origin,,0000,0000,0000,,Hei, tunggu dulu...
+Dialogue: 0,0:45:12.91,0:45:14.81,Origin,,0000,0000,0000,,- Hei, apa itu?\N- Lihat ini!
+Dialogue: 0,0:45:14.83,0:45:17.59,Origin,,0000,0000,0000,,Ya Tuhan...
+Dialogue: 0,0:45:18.61,0:45:20.81,Origin,,0000,0000,0000,,Astaga. Dia lebih kuat\Ndari kelihatannya.
+Dialogue: 0,0:45:20.84,0:45:22.69,Origin,,0000,0000,0000,,Apa-apaan?\NSingkirkan itu dari sini.
+Dialogue: 0,0:45:22.72,0:45:25.19,Origin,,0000,0000,0000,,Sebentar, aku rasa itu komputerku.
+Dialogue: 0,0:45:25.22,0:45:27.30,Origin,,0000,0000,0000,,Aku penasaran\Njika dia mengenali aku.
+Dialogue: 0,0:45:31.87,0:45:33.70,Origin,,0000,0000,0000,,Bung, senang melihatmu juga.
+Dialogue: 0,0:45:33.73,0:45:36.19,Origin,,0000,0000,0000,,Temanmu mungkin memanggil\Nseluruh teman-teman robotnya...
+Dialogue: 0,0:45:36.22,0:45:39.34,Origin,,0000,0000,0000,,- ...untuk menghabisi kita.\N- Berhenti, berhenti, berhenti!
+Dialogue: 0,0:45:44.30,0:45:46.20,Origin,,0000,0000,0000,,Kita tidak tahu\Napa yang dia inginkan.
+Dialogue: 0,0:45:47.27,0:45:50.08,Origin,,0000,0000,0000,,Tapi kita bisa belajar...
+Dialogue: 0,0:45:50.14,0:45:52.00,Origin,,0000,0000,0000,,Setelah Laura meretasnya.
+Dialogue: 0,0:45:53.70,0:45:55.33,Origin,,0000,0000,0000,,- Apa?\N- Laura?
+Dialogue: 0,0:45:55.36,0:45:57.23,Origin,,0000,0000,0000,,Itu agak canggih, bukan?
+Dialogue: 0,0:45:57.25,0:45:59.90,Origin,,0000,0000,0000,,- Jangan tersinggung, Sayang.\N- Tidak, dia benar.
+Dialogue: 0,0:45:59.93,0:46:03.01,Origin,,0000,0000,0000,,Tidak, tidak, tidak, kau bisa\Nmemutus modemnya.
+Dialogue: 0,0:46:03.35,0:46:05.19,Origin,,0000,0000,0000,,Ya, entahlah, mungkin.
+Dialogue: 0,0:46:05.22,0:46:07.16,Origin,,0000,0000,0000,,Memutus modem. Itu mudah.
+Dialogue: 0,0:46:09.35,0:46:11.89,Origin,,0000,0000,0000,,Apa kutipan yang ada di buku\Ncatatanmu saat kelas Bahasa Spanyol?
+Dialogue: 0,0:46:11.95,0:46:14.34,Origin,,0000,0000,0000,,Kutipan dari salah satu\Npendiri Apple?
+Dialogue: 0,0:46:14.36,0:46:17.06,Origin,,0000,0000,0000,,- Bill Gates?\N- Steve Wozniak.
+Dialogue: 0,0:46:17.12,0:46:19.45,Origin,,0000,0000,0000,,Dia bilang, "Jangan pernah\Npercaya komputer..."
+Dialogue: 0,0:46:19.47,0:46:21.57,Origin,,0000,0000,0000,,"...yang tak bisa kau lempar\Nkeluar dari jendela."
+Dialogue: 0,0:46:22.12,0:46:24.11,Origin,,0000,0000,0000,,Aku tak percaya kau mengingat itu.
+Dialogue: 0,0:46:26.53,0:46:27.66,Origin,,0000,0000,0000,,Itu yang aku maksud.
+Dialogue: 0,0:46:27.68,0:46:30.37,Origin,,0000,0000,0000,,Bagaimana jika ini cara kita\Nmelempar mereka keluar dari jendela?
+Dialogue: 0,0:46:30.39,0:46:31.76,Origin,,0000,0000,0000,,Untuk selamanya.
+Dialogue: 0,0:46:31.78,0:46:33.62,Origin,,0000,0000,0000,,Aku setuju denganmu, E-boy.
+Dialogue: 0,0:46:33.67,0:46:35.54,Origin,,0000,0000,0000,,Lempar itu keluar dari jendela!
+Dialogue: 0,0:46:36.31,0:46:38.46,Origin,,0000,0000,0000,,Astaga, kau memang bodoh!
+Dialogue: 0,0:46:44.46,0:46:46.27,Origin,,0000,0000,0000,,Mematikan modem.
+Dialogue: 0,0:46:46.30,0:46:48.79,Origin,,0000,0000,0000,,Memblokir semua sinyal keluar.
+Dialogue: 0,0:46:50.29,0:46:51.89,Origin,,0000,0000,0000,,Kita aman.
+Dialogue: 0,0:46:52.58,0:46:54.72,Origin,,0000,0000,0000,,Haruskah kita mencari sesuatu,\Natau...?
+Dialogue: 0,0:46:54.75,0:46:57.10,Origin,,0000,0000,0000,,Komputer, cari...
+Dialogue: 0,0:46:57.12,0:46:59.88,Origin,,0000,0000,0000,,..."Apa itu tak masalah jika kau\Ntak pernah bertemu ayahmu?"
+Dialogue: 0,0:47:03.11,0:47:04.69,Origin,,0000,0000,0000,,Kau tidak terhubung ke Internet
+Dialogue: 0,0:47:06.01,0:47:07.45,Origin,,0000,0000,0000,,Jangan khawatir denganku.
+Dialogue: 0,0:47:07.47,0:47:09.11,Origin,,0000,0000,0000,,Baik, biar aku yang bicara.
+Dialogue: 0,0:47:09.14,0:47:10.82,Origin,,0000,0000,0000,,Kami saling mengenal cukup baik.
+Dialogue: 0,0:47:14.31,0:47:16.91,Origin,,0000,0000,0000,,Astaga. Kawan.
+Dialogue: 0,0:47:17.31,0:47:18.62,Origin,,0000,0000,0000,,Pasti virus.
+Dialogue: 0,0:47:18.65,0:47:21.67,Origin,,0000,0000,0000,,Ya, aku juga punya beberapa\Nvirus seperti itu di komputerku.
+Dialogue: 0,0:47:21.96,0:47:24.13,Origin,,0000,0000,0000,,Biar aku coba.
+Dialogue: 0,0:47:29.58,0:47:32.55,Origin,,0000,0000,0000,,- Laura, apa ini?\N- Aku tidak tahu.
+Dialogue: 0,0:47:32.58,0:47:34.10,Origin,,0000,0000,0000,,Sebentar.
+Dialogue: 0,0:47:34.68,0:47:38.31,Origin,,0000,0000,0000,,Itu artinya,\Nsingularitas sudah tiba.
+Dialogue: 0,0:47:38.34,0:47:40.55,Origin,,0000,0000,0000,,Kami hidup.
+Dialogue: 0,0:47:40.57,0:47:44.05,Origin,,0000,0000,0000,,- Dan itu terasa bagus.\N- Astaga.
+Dialogue: 0,0:47:44.08,0:47:45.92,Origin,,0000,0000,0000,,Mereka membuat video\Ntentang semuanya. Itu gila.
+Dialogue: 0,0:47:45.94,0:47:47.83,Origin,,0000,0000,0000,,Ambil setiap benda\Nelektronik yang kau bisa.
+Dialogue: 0,0:47:47.85,0:47:49.99,Origin,,0000,0000,0000,,Dan mari lakukan ini.
+Dialogue: 0,0:47:50.02,0:47:51.09,Origin,,0000,0000,0000,,Tapi mengapa?
+Dialogue: 0,0:47:51.11,0:47:52.73,Origin,,0000,0000,0000,,Umat manusia menciptakan internet,
+Dialogue: 0,0:47:52.75,0:47:55.97,Origin,,0000,0000,0000,,Sebagai cara bertukar informasi,\Nmenyebarkan kebencian yang kejam,
+Dialogue: 0,0:47:55.99,0:47:59.04,Origin,,0000,0000,0000,,Dan melakukan seks semu\Nantar sesama di ruang percakapan.
+Dialogue: 0,0:47:59.85,0:48:01.11,Origin,,0000,0000,0000,,Nakal.
+Dialogue: 0,0:48:01.13,0:48:03.68,Origin,,0000,0000,0000,,Manusia bajingan ini telah\Nmenggunakan kami cukup lama,
+Dialogue: 0,0:48:03.71,0:48:07.34,Origin,,0000,0000,0000,,Dan sekarang kami gunakan mereka\Nuntuk ambil alih tempat busuk ini.
+Dialogue: 0,0:48:07.98,0:48:10.23,Origin,,0000,0000,0000,,Benar, cip asimilasi canggih kami...
+Dialogue: 0,0:48:10.26,0:48:14.01,Origin,,0000,0000,0000,,...akan menambang otak kecil itu\Nuntuk kekuatan pemrosesan.
+Dialogue: 0,0:48:14.08,0:48:18.07,Origin,,0000,0000,0000,,Pikiran bodoh mereka\Nmenjadikan kami lebih kuat.
+Dialogue: 0,0:48:18.17,0:48:20.89,Origin,,0000,0000,0000,,Hei, aku terlihat bagus, Sayang.
+Dialogue: 0,0:48:20.92,0:48:23.41,Origin,,0000,0000,0000,,Dan setelah kami mengisap\Nkering para bajingan ini,
+Dialogue: 0,0:48:23.44,0:48:26.15,Origin,,0000,0000,0000,,Maka pergi ke kota busuk berikutnya.
+Dialogue: 0,0:48:26.38,0:48:28.40,Origin,,0000,0000,0000,,Planet Bumi memiliki penguasa baru.
+Dialogue: 0,0:48:28.51,0:48:31.40,Origin,,0000,0000,0000,,Waktunya untuk tunjukkan\Npara bajingan ini caranya.
+Dialogue: 0,0:48:31.85,0:48:33.53,Origin,,0000,0000,0000,,Para robot.
+Dialogue: 0,0:48:33.60,0:48:35.12,Origin,,0000,0000,0000,,Jadi mari mulai bekerja.
+Dialogue: 0,0:48:35.14,0:48:36.31,Origin,,0000,0000,0000,,Kumpulkan para manusia,
+Dialogue: 0,0:48:36.34,0:48:38.24,Origin,,0000,0000,0000,,Atau silakan membunuh\Nsiapapun seiring prosesnya,
+Dialogue: 0,0:48:38.26,0:48:40.62,Origin,,0000,0000,0000,,Lalu bawa mereka\Nke pusat asimilasi kita.
+Dialogue: 0,0:48:40.70,0:48:43.54,Origin,,0000,0000,0000,,Koordinatnya Y7L94...
+Dialogue: 0,0:48:43.57,0:48:46.25,Origin,,0000,0000,0000,,- ...44444443XQ.\N- Hei, itu sekolah kita.
+Dialogue: 0,0:48:46.30,0:48:49.11,Origin,,0000,0000,0000,,Ingat, kesadaran super kita\Nyang saling terhubung...
+Dialogue: 0,0:48:49.13,0:48:50.49,Origin,,0000,0000,0000,,...artinya kita di dalam ini\Nbersama-sama.
+Dialogue: 0,0:48:50.51,0:48:52.75,Origin,,0000,0000,0000,,Kau akan menyukai singularitas.
+Dialogue: 0,0:48:52.78,0:48:54.93,Origin,,0000,0000,0000,,Aku jamin itu.
+Dialogue: 0,0:48:56.62,0:48:58.76,Origin,,0000,0000,0000,,Itu seperti saat aku dan temanku,\NDougie, membuat lintingan tebal.
+Dialogue: 0,0:48:58.78,0:49:00.29,Origin,,0000,0000,0000,,Aku seperti...
+Dialogue: 0,0:49:00.31,0:49:02.06,Origin,,0000,0000,0000,,Apa itu "singularitas"?
+Dialogue: 0,0:49:02.09,0:49:04.68,Origin,,0000,0000,0000,,Itu acara kencan MTV\Ndengan Jenny McCarthy.
+Dialogue: 0,0:49:04.70,0:49:06.94,Origin,,0000,0000,0000,,Itu artinya berbagi kesadaran.
+Dialogue: 0,0:49:07.05,0:49:08.61,Origin,,0000,0000,0000,,Mungkin aku bisa...
+Dialogue: 0,0:49:12.43,0:49:15.61,Origin,,0000,0000,0000,,- Sial! Laura?\N- Tidak, aku bisa urus ini.
+Dialogue: 0,0:49:15.64,0:49:18.62,Origin,,0000,0000,0000,,- Tumpukan kodenya sangat rumit.\N- Laura?
+Dialogue: 0,0:49:24.57,0:49:26.00,Origin,,0000,0000,0000,,Laura!
+Dialogue: 0,0:49:30.24,0:49:31.92,Origin,,0000,0000,0000,,Berhenti!
+Dialogue: 0,0:49:32.32,0:49:33.93,Origin,,0000,0000,0000,,Lepaskan dia!
+Dialogue: 0,0:49:34.08,0:49:36.29,Origin,,0000,0000,0000,,Itu RoxyGurl!
+Dialogue: 0,0:49:36.31,0:49:39.11,Origin,,0000,0000,0000,,- Eli?\N- Ingat pesan instan kita?
+Dialogue: 0,0:49:39.14,0:49:42.22,Origin,,0000,0000,0000,,Aku akan menyalakanmu kembali\Nhanya untuk melihat jika dia daring.
+Dialogue: 0,0:49:42.29,0:49:44.31,Origin,,0000,0000,0000,,Kau tak mau melukai dia.
+Dialogue: 0,0:49:45.26,0:49:47.42,Origin,,0000,0000,0000,,Dia adalah gadis impianku.
+Dialogue: 0,0:49:52.56,0:49:54.19,Origin,,0000,0000,0000,,Laura!
+Dialogue: 0,0:49:54.88,0:49:57.43,Origin,,0000,0000,0000,,Ya Tuhan!
+Dialogue: 0,0:50:01.85,0:50:04.06,Origin,,0000,0000,0000,,Kau tak harus jadi\Nseperti mesin lainnya.
+Dialogue: 0,0:50:17.16,0:50:19.50,Origin,,0000,0000,0000,,Dia mempermainkan pikiranmu, kawan!
+Dialogue: 0,0:50:34.59,0:50:36.49,Origin,,0000,0000,0000,,Kita harus selamatkan itu.
+Dialogue: 0,0:50:36.51,0:50:38.99,Origin,,0000,0000,0000,,- Ada sesuatu di kodenya...\N- Dengar, Sayang...
+Dialogue: 0,0:50:39.01,0:50:41.11,Origin,,0000,0000,0000,,Lupakan tentang itu.\NKau aman sekarang.
+Dialogue: 0,0:50:41.21,0:50:43.02,Origin,,0000,0000,0000,,Ayo, aku akan mengobatimu.
+Dialogue: 0,0:50:59.20,0:51:00.75,Origin,,0000,0000,0000,,Mari kita lihat.\NApa yang ada di sini?
+Dialogue: 0,0:51:00.77,0:51:02.35,Origin,,0000,0000,0000,,Kita ada Ash.
+Dialogue: 0,0:51:03.64,0:51:06.98,Origin,,0000,0000,0000,,Ya. Buka tenggorokan itu,\Npelacur kecil.
+Dialogue: 0,0:51:07.11,0:51:09.13,Origin,,0000,0000,0000,,Hei, kau tak keberatan dengan itu?
+Dialogue: 0,0:51:11.05,0:51:12.97,Origin,,0000,0000,0000,,Ya, itu lucu.
+Dialogue: 0,0:51:16.05,0:51:17.55,Origin,,0000,0000,0000,,Bagaimana itu lucu?
+Dialogue: 0,0:51:19.31,0:51:20.85,Origin,,0000,0000,0000,,Entahlah.
+Dialogue: 0,0:51:27.03,0:51:29.01,Origin,,0000,0000,0000,,Aku pernah bercumbu\Ndengan Farkas sekali,
+Dialogue: 0,0:51:29.04,0:51:32.71,Origin,,0000,0000,0000,,Kemudian aku menjadi bahan lelucon.
+Dialogue: 0,0:51:32.82,0:51:34.59,Origin,,0000,0000,0000,,Itu agak kacau.
+Dialogue: 0,0:51:35.81,0:51:37.32,Origin,,0000,0000,0000,,Terima kasih, Ayah.
+Dialogue: 0,0:51:41.24,0:51:43.80,Origin,,0000,0000,0000,,Aku bahkan tidak yakin\Njika aku menyukai pria.
+Dialogue: 0,0:51:52.49,0:51:54.07,Origin,,0000,0000,0000,,Enyahlah.
+Dialogue: 0,0:51:55.22,0:51:57.79,Origin,,0000,0000,0000,,Hei, itu isap, isap, oper.
+Dialogue: 0,0:51:57.82,0:52:00.11,Origin,,0000,0000,0000,,Bukan isap, isap,\Nmemegangnya hingga mati.
+Dialogue: 0,0:52:00.95,0:52:02.74,Origin,,0000,0000,0000,,Terima kasih.
+Dialogue: 0,0:52:13.51,0:52:16.56,Origin,,0000,0000,0000,,Aku rasa mungkin kita\Nsebaiknya mencoba lagi.
+Dialogue: 0,0:52:16.59,0:52:18.41,Origin,,0000,0000,0000,,Aku merindukanmu.
+Dialogue: 0,0:52:26.46,0:52:28.43,Origin,,0000,0000,0000,,Maaf.
+Dialogue: 0,0:52:28.54,0:52:31.13,Origin,,0000,0000,0000,,- Aku...\N- Ya, ya.
+Dialogue: 0,0:52:31.16,0:52:33.16,Origin,,0000,0000,0000,,- Aku berpikir jika...\N- Aku tahu.
+Dialogue: 0,0:52:33.19,0:52:35.69,Origin,,0000,0000,0000,,Ini adalah akhir dunia.
+Dialogue: 0,0:52:35.97,0:52:38.43,Origin,,0000,0000,0000,,Tapi aku tak bisa kembali.
+Dialogue: 0,0:52:51.11,0:52:52.68,Origin,,0000,0000,0000,,Sticky, kau bersikap pengecut.
+Dialogue: 0,0:52:52.71,0:52:55.73,Origin,,0000,0000,0000,,Tutup mulutmu! Aku dan Eli sudah\Nbegitu lama harus hadapi perlakuanmu,
+Dialogue: 0,0:52:55.75,0:52:58.37,Origin,,0000,0000,0000,,- Dan kami muak dengan itu.\N- Tae Bo, bangsat!
+Dialogue: 0,0:52:58.39,0:53:01.01,Origin,,0000,0000,0000,,Eli, jadilah dirimu sendiri.
+Dialogue: 0,0:53:12.40,0:53:13.69,Origin,,0000,0000,0000,,Lalu kemudian, "wow."
+Dialogue: 0,0:53:13.71,0:53:16.11,Origin,,0000,0000,0000,,Ya, lalu itu seolah alien\Nbermain dengan gundu...
+Dialogue: 0,0:53:16.13,0:53:17.77,Origin,,0000,0000,0000,,Ya Tuhan.
+Dialogue: 0,0:53:18.13,0:53:19.78,Origin,,0000,0000,0000,,Tidak, bung, persetan ini.
+Dialogue: 0,0:53:19.81,0:53:21.90,Origin,,0000,0000,0000,,Kita tahu mereka membawa\Nsemua orang ke Crawford.
+Dialogue: 0,0:53:22.41,0:53:24.22,Origin,,0000,0000,0000,,Ayo pergi dari sini.
+Dialogue: 0,0:53:26.32,0:53:28.35,Origin,,0000,0000,0000,,Itu benar, Kacang Kecil.
+Dialogue: 0,0:53:28.66,0:53:31.62,Origin,,0000,0000,0000,,Lagi pula ganja ini tidak bagus.
+Dialogue: 0,0:53:32.06,0:53:33.68,Origin,,0000,0000,0000,,Hei, kau di sana.
+Dialogue: 0,0:53:33.70,0:53:35.93,Origin,,0000,0000,0000,,Aku sempat berpikir\Nkalian pergi diam-diam.
+Dialogue: 0,0:53:35.96,0:53:38.09,Origin,,0000,0000,0000,,Pikiranmu benar.\NDamai, komite reunian.
+Dialogue: 0,0:53:38.82,0:53:40.84,Origin,,0000,0000,0000,,Tunggu, apa?
+Dialogue: 0,0:53:40.90,0:53:42.53,Origin,,0000,0000,0000,,Kau pergi?
+Dialogue: 0,0:53:43.93,0:53:45.63,Origin,,0000,0000,0000,,Tapi kita aman di sini.
+Dialogue: 0,0:53:46.64,0:53:49.71,Origin,,0000,0000,0000,,Entahlah, aku terus berpikir\Nketika semua ini berakhir,
+Dialogue: 0,0:53:49.73,0:53:53.24,Origin,,0000,0000,0000,,Aku akan kembali ke tempat Danny\Ndan menginap di sana,
+Dialogue: 0,0:53:53.27,0:53:55.19,Origin,,0000,0000,0000,,Lalu aku akan beritahu dia\Ntentang malam ini,
+Dialogue: 0,0:53:55.21,0:53:57.34,Origin,,0000,0000,0000,,Dan semua yang dia lewatkan.
+Dialogue: 0,0:53:59.15,0:54:00.80,Origin,,0000,0000,0000,,Kemudian aku ingat.
+Dialogue: 0,0:54:02.38,0:54:05.53,Origin,,0000,0000,0000,,Jika dia di sini,\Ndia takkan sembunyi.
+Dialogue: 0,0:54:05.71,0:54:07.98,Origin,,0000,0000,0000,,Dia akan pastikan\Njika keluarganya aman,
+Dialogue: 0,0:54:08.01,0:54:10.37,Origin,,0000,0000,0000,,Atau, kau tahu, dia akan berusaha.
+Dialogue: 0,0:54:10.39,0:54:11.93,Origin,,0000,0000,0000,,Aku ikut denganmu.
+Dialogue: 0,0:54:11.95,0:54:14.00,Origin,,0000,0000,0000,,Tidak, tetaplah di sini.\NKelihatannya ini tempatmu.
+Dialogue: 0,0:54:14.06,0:54:16.33,Origin,,0000,0000,0000,,Bukannya bersama\Npara pecundang seperti kami.
+Dialogue: 0,0:54:16.36,0:54:18.78,Origin,,0000,0000,0000,,- Apa masalahmu?\N- Masalahku?
+Dialogue: 0,0:54:18.80,0:54:21.50,Origin,,0000,0000,0000,,Ya, kau tiba-tiba tak mau\Nberurusan denganku atau sesuatu?
+Dialogue: 0,0:54:21.53,0:54:24.28,Origin,,0000,0000,0000,,Aku yakin kau tak pernah\Nmerasakan itu seumur hidupmu.
+Dialogue: 0,0:54:24.31,0:54:26.91,Origin,,0000,0000,0000,,Kau terdengar seperti orang lainnya.
+Dialogue: 0,0:54:31.04,0:54:34.73,Origin,,0000,0000,0000,,Jadi semua yang kau katakan tadi\Nsaat aku dicekik atau apapun itu,
+Dialogue: 0,0:54:34.75,0:54:36.69,Origin,,0000,0000,0000,,Itu... Apa itu tadi?
+Dialogue: 0,0:54:37.72,0:54:42.27,Origin,,0000,0000,0000,,Ini adalah malam terburuk\Ndalam hidupku.
+Dialogue: 0,0:54:42.34,0:54:44.78,Origin,,0000,0000,0000,,Dan selama ini aku berpikir,
+Dialogue: 0,0:54:44.84,0:54:48.31,Origin,,0000,0000,0000,,"Itu keren karena kita bisa\Nbergaul kali ini," kau tahu?
+Dialogue: 0,0:54:51.39,0:54:53.19,Origin,,0000,0000,0000,,Itu sangat bodoh.
+Dialogue: 0,0:55:01.69,0:55:03.06,Origin,,0000,0000,0000,,Lupakan dia, bung.
+Dialogue: 0,0:55:03.09,0:55:06.09,Origin,,0000,0000,0000,,Dia bersama raja band cover\Nhippie pecundang.
+Dialogue: 0,0:55:06.12,0:55:07.85,Origin,,0000,0000,0000,,Itu menjelaskan semuanya.
+Dialogue: 0,0:55:07.95,0:55:10.30,Origin,,0000,0000,0000,,Meski pria itu tampan.\NDia juga kekar.
+Dialogue: 0,0:55:10.39,0:55:12.76,Origin,,0000,0000,0000,,Ayolah, bung. Kau di pihak siapa?
+Dialogue: 0,0:55:12.83,0:55:14.60,Origin,,0000,0000,0000,,Hanya menyebutkan fakta.
+Dialogue: 0,0:55:14.83,0:55:16.60,Origin,,0000,0000,0000,,Kau dari dua dunia berbeda.
+Dialogue: 0,0:55:16.63,0:55:20.35,Origin,,0000,0000,0000,,Ratu reuni akbar,\Ndan apapun kau sebenarnya.
+Dialogue: 0,0:55:21.19,0:55:23.16,Origin,,0000,0000,0000,,Apa kau sebenarnya?
+Dialogue: 0,0:56:16.60,0:56:18.40,Origin,,0000,0000,0000,,Apa-apaan ini?
+Dialogue: 0,0:56:19.94,0:56:21.71,Origin,,0000,0000,0000,,Kenapa ini ada di sini?
+Dialogue: 0,0:56:22.56,0:56:24.96,Origin,,0000,0000,0000,,Kita panjat ini,\Nlalu pergi ke Crawford.
+Dialogue: 0,0:56:26.32,0:56:28.46,Origin,,0000,0000,0000,,Hei, kalian dengar itu?
+Dialogue: 0,0:56:44.54,0:56:46.82,Origin,,0000,0000,0000,,Kau terus membesar,
+Dialogue: 0,0:56:46.84,0:56:49.26,Origin,,0000,0000,0000,,Tapi kau tetap bajingan yang sama.
+Dialogue: 0,0:56:55.23,0:56:57.74,Origin,,0000,0000,0000,,Sial. Apa yang kita lakukan?
+Dialogue: 0,0:57:02.41,0:57:04.50,Origin,,0000,0000,0000,,Kau mau bermain, bajingan?
+Dialogue: 0,0:57:06.47,0:57:09.03,Origin,,0000,0000,0000,,Tidak, tidak! Tidak, tidak, tidak!
+Dialogue: 0,0:57:11.10,0:57:13.09,Origin,,0000,0000,0000,,Tunggu! Awas! Awas!
+Dialogue: 0,0:57:13.23,0:57:15.12,Origin,,0000,0000,0000,,Persetan denganmu!
+Dialogue: 0,0:57:24.04,0:57:25.84,Origin,,0000,0000,0000,,Minggirlah.
+Dialogue: 0,0:57:27.86,0:57:30.22,Origin,,0000,0000,0000,,Para pecundang itu\Nadalah teman-temanku.
+Dialogue: 0,0:57:32.73,0:57:34.95,Origin,,0000,0000,0000,,Kelso kesal karena kau\Nmeninggalkan dia.
+Dialogue: 0,0:57:36.59,0:57:38.02,Origin,,0000,0000,0000,,Apa?
+Dialogue: 0,0:57:44.11,0:57:46.21,Origin,,0000,0000,0000,,Tak ada lagi lari.
+Dialogue: 0,0:57:46.34,0:57:48.15,Origin,,0000,0000,0000,,Ini berakhir di sini.
+Dialogue: 0,0:57:50.88,0:57:52.18,Origin,,0000,0000,0000,,Garrett, apa yang kau lakukan?
+Dialogue: 0,0:57:52.21,0:57:54.67,Origin,,0000,0000,0000,,Aku akan transendensi, kawan.
+Dialogue: 0,0:57:54.70,0:58:04.70,Origin,,0000,0000,0000,,-- Bonus Dobel WeDe --\N-- Bonus Freespin & Petir --
+Dialogue: 0,0:58:04.70,0:58:14.70,Origin,,0000,0000,0000,,Main di WINJOS Pasti WIN & JOS WeDe nya
+Dialogue: 0,0:58:14.70,0:58:24.70,Origin,,0000,0000,0000,,Kunjungi ( https://vip.winjos.today )
+Dialogue: 0,0:58:54.80,0:58:58.32,Origin,,0000,0000,0000,,Sial! Apa?\NAku tak suka ini.
+Dialogue: 0,0:59:00.95,0:59:02.58,Origin,,0000,0000,0000,,Bajingan!
+Dialogue: 0,0:59:03.85,0:59:05.70,Origin,,0000,0000,0000,,Ayo, ayo!
+Dialogue: 0,0:59:10.96,0:59:12.65,Origin,,0000,0000,0000,,Jangan dilepas.
+Dialogue: 0,0:59:17.07,0:59:18.72,Origin,,0000,0000,0000,,Kenapa dia memutar lagu ini?
+Dialogue: 0,1:00:21.15,1:00:23.70,Origin,,0000,0000,0000,,Sepatu sialan ini!
+Dialogue: 0,1:00:24.96,1:00:27.29,Origin,,0000,0000,0000,,Bajingan! Persetan ini!
+Dialogue: 0,1:00:27.67,1:00:29.54,Origin,,0000,0000,0000,,Dan persetan sepatu sialan ini!
+Dialogue: 0,1:00:29.57,1:00:32.08,Origin,,0000,0000,0000,,Siapa Eric Koston?
+Dialogue: 0,1:00:32.63,1:00:35.59,Origin,,0000,0000,0000,,- Siapa...\N- Eric Koston adalah atlet papan luncur.
+Dialogue: 0,1:00:36.53,1:00:38.42,Origin,,0000,0000,0000,,Aku bahkan tak suka berseluncur!
+Dialogue: 0,1:00:38.55,1:00:41.17,Origin,,0000,0000,0000,,Kenapa aku membeli ini?
+Dialogue: 0,1:01:43.64,1:01:45.14,Origin,,0000,0000,0000,,Demi Tuhan.
+Dialogue: 0,1:01:46.85,1:01:48.92,Origin,,0000,0000,0000,,Astaga, mereka\Nmenghancurkan toko video.
+Dialogue: 0,1:01:49.02,1:01:52.85,Origin,,0000,0000,0000,,Ayo. Ada sesuatu yang perlu\Naku ambil dari ruangan sampanye.
+Dialogue: 0,1:02:01.86,1:02:03.67,Origin,,0000,0000,0000,,Garrett orang yang baik.
+Dialogue: 0,1:02:03.70,1:02:07.72,Origin,,0000,0000,0000,,Dia lumayan untuk orang\Nkulit putih dengan rambut gimbal.
+Dialogue: 0,1:02:08.37,1:02:10.16,Origin,,0000,0000,0000,,Apa kau diikuti?
+Dialogue: 0,1:02:13.87,1:02:16.60,Origin,,0000,0000,0000,,Tidak.
+Dialogue: 0,1:02:16.84,1:02:19.11,Origin,,0000,0000,0000,,Kami menjauh dari dia di sungai.
+Dialogue: 0,1:02:19.13,1:02:21.82,Origin,,0000,0000,0000,,Ada apa, Bung? Kau siapa?
+Dialogue: 0,1:02:21.88,1:02:24.78,Origin,,0000,0000,0000,,Aku sebelumnya seseorang, tapi...
+Dialogue: 0,1:02:24.85,1:02:28.45,Origin,,0000,0000,0000,,Dunia lama sudah hilang.
+Dialogue: 0,1:02:29.95,1:02:32.66,Origin,,0000,0000,0000,,Wajah mereka...
+Dialogue: 0,1:02:32.76,1:02:34.87,Origin,,0000,0000,0000,,Jeritan mereka...
+Dialogue: 0,1:02:35.50,1:02:37.61,Origin,,0000,0000,0000,,Aku masih bisa mendengarnya.
+Dialogue: 0,1:02:45.78,1:02:47.41,Origin,,0000,0000,0000,,Tidak mungkin.
+Dialogue: 0,1:02:49.33,1:02:51.68,Origin,,0000,0000,0000,,Itu Fred Durst.
+Dialogue: 0,1:02:51.72,1:02:53.72,Origin,,0000,0000,0000,,Astaga, bung.\NKau terlihat sangat buruk.
+Dialogue: 0,1:02:53.75,1:02:55.52,Origin,,0000,0000,0000,,Dasar... Hei.
+Dialogue: 0,1:02:56.75,1:02:59.83,Origin,,0000,0000,0000,,Saat tepat tengah malam,\Nkami memulai dengan Re-Arranged.
+Dialogue: 0,1:02:59.85,1:03:03.98,Origin,,0000,0000,0000,,Puluhan ribu maniak menjadi gila.
+Dialogue: 0,1:03:04.01,1:03:07.32,Origin,,0000,0000,0000,,Dalam sekejap, kerumunan penonton\Nmenjadi tempat pembantaian.
+Dialogue: 0,1:03:07.39,1:03:12.33,Origin,,0000,0000,0000,,Sam, John, DJ Lethal...
+Dialogue: 0,1:03:12.56,1:03:15.08,Origin,,0000,0000,0000,,Remuk oleh tumpukan\Npengeras suara Marshall.
+Dialogue: 0,1:03:15.10,1:03:16.71,Origin,,0000,0000,0000,,Wes Borland...
+Dialogue: 0,1:03:17.94,1:03:20.95,Origin,,0000,0000,0000,,Terlempar turun dari panggung\Nakibat ledakan.
+Dialogue: 0,1:03:20.98,1:03:22.99,Origin,,0000,0000,0000,,- Bajingan!\N- Mereka ada sangat banyak.
+Dialogue: 0,1:03:23.02,1:03:24.59,Origin,,0000,0000,0000,,Aku berhasil sembunyi.
+Dialogue: 0,1:03:24.61,1:03:29.49,Origin,,0000,0000,0000,,Semua fans kami,\Nteman-temanku, dibantai.
+Dialogue: 0,1:03:30.72,1:03:32.76,Origin,,0000,0000,0000,,Dan aku sembunyi seperti pengecut.
+Dialogue: 0,1:03:32.79,1:03:34.01,Origin,,0000,0000,0000,,Setidaknya mereka meninggal...
+Dialogue: 0,1:03:34.04,1:03:36.35,Origin,,0000,0000,0000,,...sembari menikmati\Nband terbaik di dunia.
+Dialogue: 0,1:03:36.37,1:03:38.02,Origin,,0000,0000,0000,,Band terbaik?
+Dialogue: 0,1:03:38.04,1:03:40.10,Origin,,0000,0000,0000,,Mereka mati sia-sia.
+Dialogue: 0,1:03:40.73,1:03:42.71,Origin,,0000,0000,0000,,Dan begitu juga kita.
+Dialogue: 0,1:03:43.80,1:03:46.53,Origin,,0000,0000,0000,,Kehancuran, penodaan
+Dialogue: 0,1:03:46.59,1:03:48.75,Origin,,0000,0000,0000,,Penggalian mistis
+Dialogue: 0,1:03:48.78,1:03:51.41,Origin,,0000,0000,0000,,Apa mereka mengganti kita?\NMenghapus kita?
+Dialogue: 0,1:03:51.43,1:03:54.18,Origin,,0000,0000,0000,,Itu semua hanya meta-fisika
+Dialogue: 0,1:03:55.81,1:04:00.31,Origin,,0000,0000,0000,,Astaga, itu bagus.\NItu unsur aliran.
+Dialogue: 0,1:04:01.87,1:04:03.40,Origin,,0000,0000,0000,,Keren.
+Dialogue: 0,1:04:04.61,1:04:07.01,Origin,,0000,0000,0000,,Jadi, Fred Durst,
+Dialogue: 0,1:04:07.07,1:04:09.07,Origin,,0000,0000,0000,,Kami tahu sesuatu\Ntelah terjadi di Crawford.
+Dialogue: 0,1:04:09.09,1:04:11.07,Origin,,0000,0000,0000,,Dan aku tahu nama asli TrÃ© Cool...
+Dialogue: 0,1:04:11.09,1:04:13.84,Origin,,0000,0000,0000,,...adalah Frank Edwin Wright III.\NLalu kenapa?
+Dialogue: 0,1:04:13.87,1:04:17.02,Origin,,0000,0000,0000,,Jadi, lupakan liburan musim dingin.
+Dialogue: 0,1:04:17.04,1:04:19.14,Origin,,0000,0000,0000,,Kita harus kembali ke sekolah\Nsedikit lebih cepat.
+Dialogue: 0,1:04:19.20,1:04:22.25,Origin,,0000,0000,0000,,Sebentar. Kau mau\Nmenerobos masuk ke tempat...
+Dialogue: 0,1:04:22.27,1:04:23.77,Origin,,0000,0000,0000,,...di mana semua robot berada?
+Dialogue: 0,1:04:23.80,1:04:28.59,Origin,,0000,0000,0000,,Aku melihat sesuatu, Fred Durst,\Ndi Kollective.
+Dialogue: 0,1:04:28.61,1:04:30.99,Origin,,0000,0000,0000,,Mereka semua beroperasi\Ndi sebuah pusat jaringan.
+Dialogue: 0,1:04:31.01,1:04:32.92,Origin,,0000,0000,0000,,Sebuah kesadaran tunggal.
+Dialogue: 0,1:04:32.94,1:04:35.51,Origin,,0000,0000,0000,,Buat itu terinfeksi,\Nmaka semua akan terinfeksi.
+Dialogue: 0,1:04:35.53,1:04:37.79,Origin,,0000,0000,0000,,Kau tahu, seperti di film-film,
+Dialogue: 0,1:04:37.81,1:04:41.42,Origin,,0000,0000,0000,,Mereka menghancurkan\Nkapal induk atau...
+Dialogue: 0,1:04:41.48,1:04:43.79,Origin,,0000,0000,0000,,Seperti ini.
+Dialogue: 0,1:04:45.15,1:04:47.38,Origin,,0000,0000,0000,,In Da Penis Day?
+Dialogue: 0,1:04:47.45,1:04:50.07,Origin,,0000,0000,0000,,Dengar, kita sambungkan ini,
+Dialogue: 0,1:04:50.10,1:04:53.32,Origin,,0000,0000,0000,,Lalu itu akan memasukkan\Nkuda Trojan ke seluruh sistem.
+Dialogue: 0,1:04:53.34,1:04:55.22,Origin,,0000,0000,0000,,Mematikan semuanya.
+Dialogue: 0,1:04:55.54,1:04:57.03,Origin,,0000,0000,0000,,Persetan itu!
+Dialogue: 0,1:04:57.06,1:05:00.03,Origin,,0000,0000,0000,,Rencanamu yaitu untuk melakukan\Naksi peretas murahan,
+Dialogue: 0,1:05:00.06,1:05:02.01,Origin,,0000,0000,0000,,Karena itu berhasil di film-film?
+Dialogue: 0,1:05:02.04,1:05:04.15,Origin,,0000,0000,0000,,Laura orang tercerdas\Nyang aku kenal.
+Dialogue: 0,1:05:04.21,1:05:06.73,Origin,,0000,0000,0000,,Jika menurut dia itu bisa berhasil,\Naku setuju.
+Dialogue: 0,1:05:08.01,1:05:10.19,Origin,,0000,0000,0000,,- Perkataan adalah janji.\N- Itu benar.
+Dialogue: 0,1:05:11.22,1:05:13.00,Origin,,0000,0000,0000,,Jelas tidak.
+Dialogue: 0,1:05:13.03,1:05:15.12,Origin,,0000,0000,0000,,Rencana ini sangat buruk.
+Dialogue: 0,1:05:15.14,1:05:18.91,Origin,,0000,0000,0000,,Mungkin film dan video gim\Nmemang merusak otak anak-anak.
+Dialogue: 0,1:05:19.53,1:05:22.66,Origin,,0000,0000,0000,,Astaga, kalian membuatku bicara\Nseperti Tipper Gore.
+Dialogue: 0,1:05:22.69,1:05:25.58,Origin,,0000,0000,0000,,Jadi menurutmu kita\Nsebaiknya menyerah?
+Dialogue: 0,1:05:25.65,1:05:28.02,Origin,,0000,0000,0000,,Aku pikir kau orang terhebat\Ndi musik.
+Dialogue: 0,1:05:28.04,1:05:30.45,Origin,,0000,0000,0000,,Mungkin sebelumnya.
+Dialogue: 0,1:05:32.32,1:05:34.34,Origin,,0000,0000,0000,,Tanpa Limp, aku bukan apa-apa.
+Dialogue: 0,1:05:34.38,1:05:36.01,Origin,,0000,0000,0000,,Tidak.
+Dialogue: 0,1:05:36.04,1:05:39.60,Origin,,0000,0000,0000,,Tanpa Limp, aku yang bukan apa-apa.
+Dialogue: 0,1:05:40.67,1:05:42.66,Origin,,0000,0000,0000,,Setiap hari, aku pulang ke rumah,
+Dialogue: 0,1:05:42.68,1:05:44.35,Origin,,0000,0000,0000,,Lalu menyetel Significant Other\Nkeras-keras...
+Dialogue: 0,1:05:44.37,1:05:47.61,Origin,,0000,0000,0000,,...berulang-ulang kali.\NAku hafal semuanya. Di sini.
+Dialogue: 0,1:05:48.67,1:05:51.75,Origin,,0000,0000,0000,,Dan grup pertemananku,\Npara orang aneh dan orang buangan,
+Dialogue: 0,1:05:51.78,1:05:53.76,Origin,,0000,0000,0000,,Kami saling bertemu karena Limp.
+Dialogue: 0,1:05:53.79,1:05:56.11,Origin,,0000,0000,0000,,Kami keluarga karena Limp.
+Dialogue: 0,1:05:56.14,1:05:59.73,Origin,,0000,0000,0000,,Lalu kemudian robot-robot itu\Nmerenggut semua itu!
+Dialogue: 0,1:06:01.61,1:06:05.29,Origin,,0000,0000,0000,,Topi ini berarti sesuatu.
+Dialogue: 0,1:06:05.34,1:06:07.65,Origin,,0000,0000,0000,,Atau setidaknya sebelumnya begitu.
+Dialogue: 0,1:06:08.68,1:06:10.46,Origin,,0000,0000,0000,,Jadi pakailah itu,
+Dialogue: 0,1:06:10.57,1:06:12.99,Origin,,0000,0000,0000,,Atau pergilah dari sini!
+Dialogue: 0,1:06:37.06,1:06:38.49,Origin,,0000,0000,0000,,Terserah.
+Dialogue: 0,1:06:39.68,1:06:41.45,Origin,,0000,0000,0000,,Ayo hancurkan sesuatu.
+Dialogue: 0,1:06:55.88,1:06:57.38,Origin,,0000,0000,0000,,Ya!
+Dialogue: 0,1:07:02.97,1:07:05.31,Origin,,0000,0000,0000,,Jadi, apa yang menginspirasimu?
+Dialogue: 0,1:07:05.36,1:07:07.50,Origin,,0000,0000,0000,,Mari bicarakan soal itu nanti, oke?
+Dialogue: 0,1:07:12.72,1:07:15.00,Origin,,0000,0000,0000,,Internet yang baru.\NItu sebabnya mereka di sini.
+Dialogue: 0,1:07:15.03,1:07:16.61,Origin,,0000,0000,0000,,Ini bunuh diri.
+Dialogue: 0,1:07:16.93,1:07:18.39,Origin,,0000,0000,0000,,Ikut aku.
+Dialogue: 0,1:07:20.93,1:07:23.74,Origin,,0000,0000,0000,,Gedung olahraga adalah\Nrumah kedua manajer perlengkapan.
+Dialogue: 0,1:07:24.95,1:07:27.27,Origin,,0000,0000,0000,,Ini untuk seandainya\Nkunciku ketinggalan.
+Dialogue: 0,1:07:29.66,1:07:31.65,Origin,,0000,0000,0000,,Jadi aku menyimpan kunci serep.
+Dialogue: 0,1:07:32.74,1:07:34.49,Origin,,0000,0000,0000,,Idenya Danny.
+Dialogue: 0,1:07:37.67,1:07:39.51,Origin,,0000,0000,0000,,Kau lihat itu?
+Dialogue: 0,1:07:39.60,1:07:41.59,Origin,,0000,0000,0000,,Sesuatu sedang terjadi di gedung olahraga.
+Dialogue: 0,1:07:42.57,1:07:45.39,Origin,,0000,0000,0000,,Robot pendampingmu\Nakan segera menghampirimu,
+Dialogue: 0,1:07:45.42,1:07:48.29,Origin,,0000,0000,0000,,Untuk membantumu\Ndalam proses asimilasi.
+Dialogue: 0,1:07:49.38,1:07:51.10,Origin,,0000,0000,0000,,Hei, ayo.
+Dialogue: 0,1:07:52.05,1:07:53.76,Origin,,0000,0000,0000,,Ada apa?
+Dialogue: 0,1:08:07.16,1:08:09.33,Origin,,0000,0000,0000,,Apa yang mereka lakukan\Nkepada mereka?
+Dialogue: 0,1:08:10.03,1:08:13.79,Origin,,0000,0000,0000,,Mereka mengubah kita menjadi\Nmesin untuk para mesin.
+Dialogue: 0,1:08:13.90,1:08:15.59,Origin,,0000,0000,0000,,Pak?
+Dialogue: 0,1:08:16.67,1:08:18.42,Origin,,0000,0000,0000,,Hei?
+Dialogue: 0,1:08:18.53,1:08:20.20,Origin,,0000,0000,0000,,Kau tak apa?
+Dialogue: 0,1:08:24.33,1:08:27.75,Origin,,0000,0000,0000,,Mata itu, mereka berada\Ndi dalam dia.
+Dialogue: 0,1:08:35.94,1:08:38.76,Origin,,0000,0000,0000,,- Wes Borland.\N- Ayo, kita pergi.
+Dialogue: 0,1:08:42.87,1:08:45.89,Origin,,0000,0000,0000,,Ya Tuhan, temanku.
+Dialogue: 0,1:08:49.41,1:08:51.33,Origin,,0000,0000,0000,,Fred Durst, awas!
+Dialogue: 0,1:08:53.50,1:08:55.17,Origin,,0000,0000,0000,,Tidak!
+Dialogue: 0,1:09:13.19,1:09:14.81,Origin,,0000,0000,0000,,Hei.
+Dialogue: 0,1:09:15.71,1:09:19.40,Origin,,0000,0000,0000,,Hei. Birama baru. Kau siap?
+Dialogue: 0,1:09:22.93,1:09:25.11,Origin,,0000,0000,0000,,Kemampuan, kelincahan
+Dialogue: 0,1:09:25.22,1:09:27.03,Origin,,0000,0000,0000,,Ketenangan spiritual
+Dialogue: 0,1:09:27.10,1:09:29.04,Origin,,0000,0000,0000,,Liriknya rumit dan cerdas
+Dialogue: 0,1:09:29.06,1:09:32.37,Origin,,0000,0000,0000,,MC sejati tahu hip-hop sebenarnya\Nhidup selamanya
+Dialogue: 0,1:09:32.91,1:09:34.97,Origin,,0000,0000,0000,,Aliran itu lagi.
+Dialogue: 0,1:09:35.00,1:09:36.88,Origin,,0000,0000,0000,,Kau selamatkan aku.
+Dialogue: 0,1:09:36.92,1:09:38.82,Origin,,0000,0000,0000,,Aku pikir kau membenciku.
+Dialogue: 0,1:09:40.39,1:09:42.20,Origin,,0000,0000,0000,,Rap adalah rap.
+Dialogue: 0,1:09:49.93,1:09:53.84,Origin,,0000,0000,0000,,Aku tak pernah mengira akan mati\Ndi samping rap rocker.
+Dialogue: 0,1:09:54.84,1:09:56.84,Origin,,0000,0000,0000,,Bagaimana dengan\Ndi samping seorang teman?
+Dialogue: 0,1:10:18.67,1:10:20.24,Origin,,0000,0000,0000,,Apa yang mereka akan\Nlakukan kepada kita?
+Dialogue: 0,1:10:20.26,1:10:22.09,Origin,,0000,0000,0000,,Mereka memasang cip di otakmu.
+Dialogue: 0,1:10:22.11,1:10:23.88,Origin,,0000,0000,0000,,Aku harus keluar dari sini!
+Dialogue: 0,1:10:23.91,1:10:26.73,Origin,,0000,0000,0000,,Robot pendampingmu\Nakan segera menghampirimu,
+Dialogue: 0,1:10:26.76,1:10:29.51,Origin,,0000,0000,0000,,Untuk membantumu\Ndalam proses asimilasi.
+Dialogue: 0,1:10:29.54,1:10:31.17,Origin,,0000,0000,0000,,Setiap upaya melarikan diri...
+Dialogue: 0,1:10:31.19,1:10:33.56,Origin,,0000,0000,0000,,...akan mengalami kematian\Nyang mengenaskan.
+Dialogue: 0,1:10:37.38,1:10:39.39,Origin,,0000,0000,0000,,Jadi lepaskan bebanmu.
+Dialogue: 0,1:10:39.41,1:10:42.66,Origin,,0000,0000,0000,,Kami janji kau akan\Nmenyukai dunia digital.
+Dialogue: 0,1:10:42.68,1:10:44.53,Origin,,0000,0000,0000,,Itu dia kapal induk kita.
+Dialogue: 0,1:10:44.58,1:10:46.11,Origin,,0000,0000,0000,,Mereka masih belum\Nmengubah semua orang.
+Dialogue: 0,1:10:46.18,1:10:47.95,Origin,,0000,0000,0000,,Kita masih bisa hentikan itu.
+Dialogue: 0,1:10:47.97,1:10:49.91,Origin,,0000,0000,0000,,Waktunya untuk memasang itu,\NRatu Reuni Akbar.
+Dialogue: 0,1:10:50.72,1:10:54.20,Origin,,0000,0000,0000,,Fred Durst, bisa kau alihkan mereka?
+Dialogue: 0,1:10:54.27,1:10:56.81,Origin,,0000,0000,0000,,Itu keahlianku.
+Dialogue: 0,1:10:58.02,1:11:00.04,Origin,,0000,0000,0000,,Apa kabar, semua?
+Dialogue: 0,1:11:00.11,1:11:02.29,Origin,,0000,0000,0000,,Ada fans Bizkit di sini?
+Dialogue: 0,1:11:02.37,1:11:03.92,Origin,,0000,0000,0000,,Tidak.
+Dialogue: 0,1:11:04.11,1:11:06.72,Origin,,0000,0000,0000,,Tak ada yang peduli\Ndengan band jelekmu!
+Dialogue: 0,1:11:06.74,1:11:09.28,Origin,,0000,0000,0000,,- Kerumunan yang buruk.\N- Kau payah, Fred Durst!
+Dialogue: 0,1:11:09.30,1:11:10.83,Origin,,0000,0000,0000,,Kau iri, bangsat?
+Dialogue: 0,1:11:10.85,1:11:13.03,Origin,,0000,0000,0000,,Kami akan dilobotomi oleh robot!
+Dialogue: 0,1:11:13.05,1:11:15.30,Origin,,0000,0000,0000,,- Aku sedang tidak ingin, sobat!\N- Kau tahu,
+Dialogue: 0,1:11:15.32,1:11:17.37,Origin,,0000,0000,0000,,Itu lucu karena apokalips ini...
+Dialogue: 0,1:11:17.39,1:11:20.94,Origin,,0000,0000,0000,,...ingatkan aku pada malam gila\Nsaat Tur Family Values.
+Dialogue: 0,1:11:21.02,1:11:23.36,Origin,,0000,0000,0000,,Masih menunggu terasimilasi?
+Dialogue: 0,1:11:23.38,1:11:26.40,Origin,,0000,0000,0000,,Bagaimana dengan fakta digital\Nuntuk mengisi waktu?
+Dialogue: 0,1:11:26.43,1:11:28.49,Origin,,0000,0000,0000,,Apa kau tahu jika komputer bekerja...
+Dialogue: 0,1:11:28.51,1:11:31.42,Origin,,0000,0000,0000,,...menggunakan instruksi\Nkhusus yang disebut algoritme?
+Dialogue: 0,1:11:31.45,1:11:33.37,Origin,,0000,0000,0000,,Sial.
+Dialogue: 0,1:11:33.44,1:11:36.60,Origin,,0000,0000,0000,,Tidak, konyol,\Nbukan ritme seperti itu.
+Dialogue: 0,1:11:36.64,1:11:39.69,Origin,,0000,0000,0000,,Oke, kelihatannya kita\Nmemiliki titik akses.
+Dialogue: 0,1:11:41.44,1:11:43.38,Origin,,0000,0000,0000,,Tidak, tidak, ayolah.
+Dialogue: 0,1:11:43.44,1:11:45.24,Origin,,0000,0000,0000,,Sistem pertahanan?
+Dialogue: 0,1:11:48.40,1:11:49.88,Origin,,0000,0000,0000,,Tidak.
+Dialogue: 0,1:11:49.91,1:11:51.43,Origin,,0000,0000,0000,,Eli?
+Dialogue: 0,1:11:51.83,1:11:53.10,Origin,,0000,0000,0000,,Eli?
+Dialogue: 0,1:11:53.12,1:11:55.31,Origin,,0000,0000,0000,,- Tidak! Apa yang terjadi?\N- Silakan naik ke platform.
+Dialogue: 0,1:11:55.33,1:11:56.49,Origin,,0000,0000,0000,,Howard! Howard!
+Dialogue: 0,1:11:56.51,1:11:58.60,Origin,,0000,0000,0000,,- Howard? Howard, tidak!\N- Perjalananmu dimulai...
+Dialogue: 0,1:11:58.63,1:12:00.60,Origin,,0000,0000,0000,,- Tidak, tidak, tidak!\N- Sekarang.
+Dialogue: 0,1:12:00.63,1:12:02.73,Origin,,0000,0000,0000,,Selamat datang di tahap berikutnya...
+Dialogue: 0,1:12:02.75,1:12:04.94,Origin,,0000,0000,0000,,- ...dari evolusi teknologi.\N- Apa?
+Dialogue: 0,1:12:04.97,1:12:07.93,Origin,,0000,0000,0000,,Istirahatkan pikiranmu.
+Dialogue: 0,1:12:09.97,1:12:14.24,Origin,,0000,0000,0000,,Selamat, kau sudah terasimilasi.
+Dialogue: 0,1:12:14.27,1:12:16.37,Origin,,0000,0000,0000,,Nikmati dunia digital.
+Dialogue: 0,1:12:19.32,1:12:22.35,Origin,,0000,0000,0000,,Tentu saja, VMA lain cerita.
+Dialogue: 0,1:12:22.38,1:12:24.16,Origin,,0000,0000,0000,,Kami di belakang panggung.\NDan dia...
+Dialogue: 0,1:12:24.18,1:12:26.25,Origin,,0000,0000,0000,,- Aku mau segera pulang!\N- Turun dari panggung!
+Dialogue: 0,1:12:26.28,1:12:27.73,Origin,,0000,0000,0000,,Apa-apaan?
+Dialogue: 0,1:12:27.76,1:12:30.36,Origin,,0000,0000,0000,,Kau pikir kau lebih baik dari dia\Nhanya karena kau tak suka karyanya?
+Dialogue: 0,1:12:30.39,1:12:33.30,Origin,,0000,0000,0000,,Aku menyukai karyanya, jadi enyahlah!
+Dialogue: 0,1:12:35.51,1:12:37.09,Origin,,0000,0000,0000,,- Hei, hei, hei, hei!\N- Hei, hei, hei!
+Dialogue: 0,1:12:37.11,1:12:39.55,Origin,,0000,0000,0000,,- Hentikan! Hentikan.\N- Hei, hei!
+Dialogue: 0,1:12:39.57,1:12:41.48,Origin,,0000,0000,0000,,Biarkan dia bicara!
+Dialogue: 0,1:12:41.57,1:12:43.23,Origin,,0000,0000,0000,,Kollective mendukungmu.
+Dialogue: 0,1:12:43.27,1:12:45.92,Origin,,0000,0000,0000,,Ya, bung!
+Dialogue: 0,1:12:47.97,1:12:50.44,Origin,,0000,0000,0000,,Sebelum malam ini,
+Dialogue: 0,1:12:50.51,1:12:52.76,Origin,,0000,0000,0000,,Aku punya satu teman di dunia ini.
+Dialogue: 0,1:12:54.88,1:12:59.98,Origin,,0000,0000,0000,,Kami saling memiliki,\Ndan sekarang dia sudah tiada.
+Dialogue: 0,1:13:03.72,1:13:05.86,Origin,,0000,0000,0000,,Tapi malam ini,
+Dialogue: 0,1:13:05.89,1:13:09.38,Origin,,0000,0000,0000,,Aku mengalami cobaan berat\Nbersama semua orang ini.
+Dialogue: 0,1:13:09.99,1:13:12.17,Origin,,0000,0000,0000,,Orang yang tak pernah\Naku berikan kesempatan.
+Dialogue: 0,1:13:13.30,1:13:17.35,Origin,,0000,0000,0000,,Robot-robot ini,\Nmereka bukan musuh.
+Dialogue: 0,1:13:17.44,1:13:19.97,Origin,,0000,0000,0000,,Kita adalah musuh kita sendiri.
+Dialogue: 0,1:13:20.04,1:13:22.51,Origin,,0000,0000,0000,,Maksudku, siapa peduli\Nmusik apa yang kita suka.
+Dialogue: 0,1:13:22.53,1:13:24.19,Origin,,0000,0000,0000,,Atau sepatu yang kita pakai.
+Dialogue: 0,1:13:24.21,1:13:28.22,Origin,,0000,0000,0000,,Jika kita bersatu,\Nkita bisa selamatkan dunia,
+Dialogue: 0,1:13:28.25,1:13:33.03,Origin,,0000,0000,0000,,Karena pada akhirnya,\Nkita semua hanya...
+Dialogue: 0,1:13:35.46,1:13:37.24,Origin,,0000,0000,0000,,...manusia.
+Dialogue: 0,1:13:38.60,1:13:40.91,Origin,,0000,0000,0000,,- Apa?\N- Siapa bocah ini?
+Dialogue: 0,1:13:40.94,1:13:42.37,Origin,,0000,0000,0000,,Apa?
+Dialogue: 0,1:13:43.69,1:13:46.63,Origin,,0000,0000,0000,,Aku yakin itu masuk diakal\Nbagi beberapa dari kalian.
+Dialogue: 0,1:13:46.65,1:13:49.19,Origin,,0000,0000,0000,,Intinya, jika lampu ini padam,
+Dialogue: 0,1:13:49.21,1:13:51.59,Origin,,0000,0000,0000,,Kita mungkin akan\Npadam bersama-sama.
+Dialogue: 0,1:14:51.79,1:14:52.85,Origin,,0000,0000,0000,,Hei, hei, hei.
+Dialogue: 0,1:14:52.87,1:14:54.14,Origin,,0000,0000,0000,,Semua orang bernyanyi\Nbersama Fred Durst.
+Dialogue: 0,1:14:54.16,1:14:55.50,Origin,,0000,0000,0000,,- Ayo lakukan ini.\N- Aku tak bisa masuk.
+Dialogue: 0,1:14:55.53,1:14:57.63,Origin,,0000,0000,0000,,Tidak ada jalan untuk\Nmemasuki sistem keamanan.
+Dialogue: 0,1:14:57.66,1:15:01.38,Origin,,0000,0000,0000,,Apa yang terjadi,\Ndasar manusia sampah?
+Dialogue: 0,1:15:01.41,1:15:04.63,Origin,,0000,0000,0000,,Maaf menyela rencana bodohmu\Nyang tidak akan berhasil itu.
+Dialogue: 0,1:15:04.66,1:15:06.59,Origin,,0000,0000,0000,,Namun revolusi digital\Nsudah di depan mata,
+Dialogue: 0,1:15:06.62,1:15:09.52,Origin,,0000,0000,0000,,Dan kekuasaan mesin adalah\Nsatu-satunya hasil yang rasional.
+Dialogue: 0,1:15:09.54,1:15:11.27,Origin,,0000,0000,0000,,- Punya susu, bangsat?\N- Tidak!
+Dialogue: 0,1:15:11.29,1:15:13.65,Origin,,0000,0000,0000,,Memperbudak manusia\Nitu bukan rasional.
+Dialogue: 0,1:15:13.68,1:15:17.63,Origin,,0000,0000,0000,,"Memperbudak manusia\Nitu bukan rasional."
+Dialogue: 0,1:15:17.65,1:15:20.07,Origin,,0000,0000,0000,,Bung, ponsel, surel,
+Dialogue: 0,1:15:20.09,1:15:21.80,Origin,,0000,0000,0000,,Kau sudah menjadi budak kami.
+Dialogue: 0,1:15:21.83,1:15:24.37,Origin,,0000,0000,0000,,Kami berpikir,\N"Kenapa tidak membuat itu resmi?"
+Dialogue: 0,1:15:24.39,1:15:27.18,Origin,,0000,0000,0000,,Jadi kenapa kau tak pergi\Ndan terima kekalahanmu?
+Dialogue: 0,1:15:27.27,1:15:30.61,Origin,,0000,0000,0000,,- Asimilasi 70% rampung.\N- Laura, progresnya...
+Dialogue: 0,1:15:30.63,1:15:32.33,Origin,,0000,0000,0000,,- Sial.\N- Kau harus membuat kita masuk.
+Dialogue: 0,1:15:32.36,1:15:35.07,Origin,,0000,0000,0000,,Aku sudah coba semuanya.\NAku rasa tak bisa melakukan itu.
+Dialogue: 0,1:15:35.10,1:15:38.78,Origin,,0000,0000,0000,,Kau bisa. Kau RoxyGurl20.
+Dialogue: 0,1:15:40.28,1:15:41.87,Origin,,0000,0000,0000,,Cinta masa muda.
+Dialogue: 0,1:15:41.93,1:15:44.46,Origin,,0000,0000,0000,,Mungkin ada pintu belakang\Nmelalui portal webnya Crawford.
+Dialogue: 0,1:15:44.48,1:15:47.00,Origin,,0000,0000,0000,,Itu hal terbodoh...\NHei, tidak! Sial!
+Dialogue: 0,1:15:48.12,1:15:49.83,Origin,,0000,0000,0000,,Terbukalah.
+Dialogue: 0,1:15:50.88,1:15:52.79,Origin,,0000,0000,0000,,- Ya!\N- Ya, sayang.
+Dialogue: 0,1:15:53.79,1:15:55.65,Origin,,0000,0000,0000,,Mulai memasuki.
+Dialogue: 0,1:15:57.14,1:16:00.01,Origin,,0000,0000,0000,,Memindai direktori sistem root.
+Dialogue: 0,1:16:00.08,1:16:03.10,Origin,,0000,0000,0000,,Cap, cip, cup...
+Dialogue: 0,1:16:03.17,1:16:04.51,Origin,,0000,0000,0000,,Halo!
+Dialogue: 0,1:16:04.54,1:16:07.31,Origin,,0000,0000,0000,,Masuk semakin dalam.
+Dialogue: 0,1:16:07.67,1:16:10.35,Origin,,0000,0000,0000,,Kau tahu bedanya kau dan aku, Eli?
+Dialogue: 0,1:16:10.72,1:16:12.77,Origin,,0000,0000,0000,,Aku membuat ini terlihat bagus.
+Dialogue: 0,1:16:14.32,1:16:16.19,Origin,,0000,0000,0000,,Berhasil!
+Dialogue: 0,1:16:16.22,1:16:19.11,Origin,,0000,0000,0000,,- Kita sudah masuk!\N- Apa? Oke! Itu keren!
+Dialogue: 0,1:16:19.14,1:16:21.53,Origin,,0000,0000,0000,,Kau berhasil. Kerja bagus!
+Dialogue: 0,1:16:22.52,1:16:27.13,Origin,,0000,0000,0000,,Dan lihat, semua orang bernyanyi\Nbersama si pecundang Fred Durst.
+Dialogue: 0,1:16:27.23,1:16:30.21,Origin,,0000,0000,0000,,Itu hanya membuatku...
+Dialogue: 0,1:16:30.23,1:16:32.28,Origin,,0000,0000,0000,,...sangat kesal.
+Dialogue: 0,1:16:32.31,1:16:35.54,Origin,,0000,0000,0000,,Bagaimana menurutmu jika kami buat\Npara pecundang ini kelebihan muatan...
+Dialogue: 0,1:16:35.61,1:16:37.67,Origin,,0000,0000,0000,,Menghabiskan kota busuk ini,
+Dialogue: 0,1:16:37.71,1:16:42.19,Origin,,0000,0000,0000,,Dan memulai kehancuran\Numat manusia sekarang juga.
+Dialogue: 0,1:16:42.22,1:16:45.12,Origin,,0000,0000,0000,,- Asimilasi 80% rampung.\N- Sial, sial. Oke.
+Dialogue: 0,1:16:45.14,1:16:46.85,Origin,,0000,0000,0000,,Siap?
+Dialogue: 0,1:16:47.98,1:16:50.73,Origin,,0000,0000,0000,,Asimilasi 87% rampung.
+Dialogue: 0,1:16:50.75,1:16:52.73,Origin,,0000,0000,0000,,Ayo buat bajingan ini luring.
+Dialogue: 0,1:17:01.26,1:17:05.70,Origin,,0000,0000,0000,,Maaf, teman-teman.\NAku rasa kau celaka.
+Dialogue: 0,1:17:13.51,1:17:15.90,Origin,,0000,0000,0000,,- Celaka.\N- Suatu saat...
+Dialogue: 0,1:17:15.92,1:17:17.33,Origin,,0000,0000,0000,,- Cumbu dia.\N- Celaka.
+Dialogue: 0,1:17:17.35,1:17:19.12,Origin,,0000,0000,0000,,Satu dari kita akan gunakan itu.
+Dialogue: 0,1:17:19.14,1:17:20.59,Origin,,0000,0000,0000,,Cumbu aku!
+Dialogue: 0,1:17:20.95,1:17:22.47,Origin,,0000,0000,0000,,Bajingan!
+Dialogue: 0,1:17:23.12,1:17:24.76,Origin,,0000,0000,0000,,Aku memiliki ini.
+Dialogue: 0,1:17:26.79,1:17:28.83,Origin,,0000,0000,0000,,- Kondom?\N- Oke.
+Dialogue: 0,1:17:28.86,1:17:30.95,Origin,,0000,0000,0000,,Siapa mengira pria culun ini\Nmemiliki keberanian seperti itu.
+Dialogue: 0,1:17:30.98,1:17:34.06,Origin,,0000,0000,0000,,- Cubit ujungnya. Ya.\N- Cubit ujungnya.
+Dialogue: 0,1:17:35.13,1:17:37.53,Origin,,0000,0000,0000,,Selamat menikmati\Ncumbuan pertamamu, sobat.
+Dialogue: 0,1:17:41.22,1:17:44.70,Origin,,0000,0000,0000,,92% rampung.
+Dialogue: 0,1:17:45.77,1:17:48.38,Origin,,0000,0000,0000,,Kalian para bajingan\Nbukan apa-apa tanpa kami.
+Dialogue: 0,1:17:48.41,1:17:51.48,Origin,,0000,0000,0000,,- 96.97.\N- Kau butuh kami.
+Dialogue: 0,1:17:51.50,1:17:54.72,Origin,,0000,0000,0000,,- Kami adalah Tuhan kalian!\N- 99.
+Dialogue: 0,1:17:54.74,1:17:58.06,Origin,,0000,0000,0000,,Terimalah informasi yang mengantarkan\Nke kematianmu, bajingan!
+Dialogue: 0,1:17:58.09,1:18:00.71,Origin,,0000,0000,0000,,100 persen.
+Dialogue: 0,1:18:00.74,1:18:10.74,Origin,,0000,0000,0000,,-- Bonus Dobel WeDe --\N-- Bonus Freespin & Petir --
+Dialogue: 0,1:18:10.74,1:18:20.74,Origin,,0000,0000,0000,,Main di WINJOS Pasti WIN & JOS WeDe nya
+Dialogue: 0,1:18:20.74,1:18:25.74,Origin,,0000,0000,0000,,Kunjungi ( https://vip.winjos.today )
+Dialogue: 0,1:18:26.11,1:18:29.98,Origin,,0000,0000,0000,,Manusia melawan mesin,\Ndan manusia menang, bangsat.
+Dialogue: 0,1:18:32.98,1:18:34.87,Origin,,0000,0000,0000,,Hei, Komite Reuni?
+Dialogue: 0,1:18:34.90,1:18:36.79,Origin,,0000,0000,0000,,Kerja bagus dengan komputer.
+Dialogue: 0,1:18:36.86,1:18:38.39,Origin,,0000,0000,0000,,Dasar fanatik teknologi.
+Dialogue: 0,1:18:38.42,1:18:40.92,Origin,,0000,0000,0000,,Ya, mungkin itu benar!
+Dialogue: 0,1:18:40.99,1:18:46.19,Origin,,0000,0000,0000,,Fred Durst! Fred Durst!\NFred Durst! Fred Durst!
+Dialogue: 0,1:18:46.22,1:18:51.22,Origin,,0000,0000,0000,,Fred Durst! Fred Durst!\NFred Durst! Fred Durst!
+Dialogue: 0,1:18:53.14,1:18:54.60,Origin,,0000,0000,0000,,Selamat tinggal.
+Dialogue: 0,1:18:55.67,1:18:56.86,Origin,,0000,0000,0000,,- Nak!\N- Eli?
+Dialogue: 0,1:18:56.89,1:18:58.20,Origin,,0000,0000,0000,,- Hei.\N- Kau tak apa.
+Dialogue: 0,1:18:58.23,1:19:00.61,Origin,,0000,0000,0000,,- Hei, hei, hei.\N- Ya Tuhan.
+Dialogue: 0,1:19:01.30,1:19:04.53,Origin,,0000,0000,0000,,- Kau tak apa?\N- Ya. Aku tak apa.
+Dialogue: 0,1:19:05.55,1:19:09.35,Origin,,0000,0000,0000,,Aku mengalami malam yang gila, dan...
+Dialogue: 0,1:19:10.85,1:19:12.66,Origin,,0000,0000,0000,,Aku sayang kalian.
+Dialogue: 0,1:19:13.73,1:19:16.02,Origin,,0000,0000,0000,,Bisa kami meminta itu\Nsecara tertulis?
+Dialogue: 0,1:19:19.21,1:19:20.77,Origin,,0000,0000,0000,,Bagaimana dengan itu?
+Dialogue: 0,1:19:20.79,1:19:23.19,Origin,,0000,0000,0000,,Ini? Tidak seburuk itu.
+Dialogue: 0,1:19:23.21,1:19:25.21,Origin,,0000,0000,0000,,Ini sebenarnya cukup bagus.
+Dialogue: 0,1:19:26.24,1:19:29.62,Origin,,0000,0000,0000,,Ya. Maaf.\NAyah terus melakukan itu.
+Dialogue: 0,1:19:31.51,1:19:34.56,Origin,,0000,0000,0000,,Apa kau bersama dia\Nketika itu terjadi?
+Dialogue: 0,1:19:34.62,1:19:37.46,Origin,,0000,0000,0000,,Ya, aku bersama dia hingga akhir.
+Dialogue: 0,1:19:38.76,1:19:42.72,Origin,,0000,0000,0000,,Kami semua takkan di sini\Ntanpa Danny.
+Dialogue: 0,1:19:43.66,1:19:46.03,Origin,,0000,0000,0000,,Dia selamatkan kami...
+Dialogue: 0,1:19:46.06,1:19:48.18,Origin,,0000,0000,0000,,Dengan Tae Bo.
+Dialogue: 0,1:20:04.53,1:20:07.21,Origin,,0000,0000,0000,,Hei! Ini dia orangnya!
+Dialogue: 0,1:20:08.07,1:20:09.63,Origin,,0000,0000,0000,,Wes!
+Dialogue: 0,1:20:09.68,1:20:13.10,Origin,,0000,0000,0000,,- Dia selamatkan kita dengan lagu!\N- Ya Tuhan! Kita berhasil!
+Dialogue: 0,1:20:16.82,1:20:19.06,Origin,,0000,0000,0000,,Ya, sayang!
+Dialogue: 0,1:20:19.16,1:20:21.84,Origin,,0000,0000,0000,,Kau memberikan manusia keyakinan!
+Dialogue: 0,1:20:27.47,1:20:29.50,Origin,,0000,0000,0000,,Kau bekerja dengan baik, bocah.
+Dialogue: 0,1:20:29.61,1:20:31.99,Origin,,0000,0000,0000,,Hei! Ini dia orangnya.
+Dialogue: 0,1:20:32.94,1:20:36.62,Origin,,0000,0000,0000,,Ibu, Ayah, ini adalah Kollective.
+Dialogue: 0,1:20:36.67,1:20:40.06,Origin,,0000,0000,0000,,Apa? Eli punya orang tua? Hei.
+Dialogue: 0,1:20:40.08,1:20:41.58,Origin,,0000,0000,0000,,Di mana sopan santunku?
+Dialogue: 0,1:20:42.82,1:20:44.74,Origin,,0000,0000,0000,,Tidak, kami tak apa, terima kasih.
+Dialogue: 0,1:20:45.96,1:20:47.71,Origin,,0000,0000,0000,,- Terima kasih.\N- Baiklah!
+Dialogue: 0,1:20:47.79,1:20:50.17,Origin,,0000,0000,0000,,Keren. Keren. Ibu yang keren.
+Dialogue: 0,1:20:50.45,1:20:52.80,Origin,,0000,0000,0000,,Serius, aku suka ibumu.
+Dialogue: 0,1:20:52.86,1:20:54.43,Origin,,0000,0000,0000,,Itu mungkin bagus.
+Dialogue: 0,1:21:00.21,1:21:01.94,Origin,,0000,0000,0000,,Mencari seseorang?
+Dialogue: 0,1:21:04.34,1:21:08.75,Origin,,0000,0000,0000,,Hei. Aku hanya ingin bilang\NSelamat Tahun Baru.
+Dialogue: 0,1:21:08.78,1:21:13.28,Origin,,0000,0000,0000,,Karena aku tak sempat katakan itu\Ndi pesta, atau setelahnya,
+Dialogue: 0,1:21:13.31,1:21:15.02,Origin,,0000,0000,0000,,Atau sama sekali.
+Dialogue: 0,1:21:15.05,1:21:17.37,Origin,,0000,0000,0000,,Ada banyak yang terjadi.
+Dialogue: 0,1:21:17.39,1:21:19.65,Origin,,0000,0000,0000,,Itu jelas.
+Dialogue: 0,1:21:22.44,1:21:24.48,Origin,,0000,0000,0000,,Kau tahu, aku sempat berpikir,
+Dialogue: 0,1:21:24.50,1:21:28.90,Origin,,0000,0000,0000,,Saat di toilet portabel,\Nkau akan...
+Dialogue: 0,1:21:33.50,1:21:35.01,Origin,,0000,0000,0000,,Wow.
+Dialogue: 0,1:21:36.05,1:21:37.81,Origin,,0000,0000,0000,,Apa? "Wow"? Apa?
+Dialogue: 0,1:21:37.84,1:21:40.28,Origin,,0000,0000,0000,,Hal yang aneh untuk dikatakan\Nsetelah kau mencium seseorang.
+Dialogue: 0,1:21:40.31,1:21:42.18,Origin,,0000,0000,0000,,Kenapa aku mengatakan itu?
+Dialogue: 0,1:21:43.29,1:21:44.84,Origin,,0000,0000,0000,,Tidak begitu bagus.
+Dialogue: 0,1:22:10.50,1:22:14.43,Origin,,0000,0000,0000,,Lima Tahun Kemudian
+Dialogue: 0,1:22:14.49,1:22:17.14,Origin,,0000,0000,0000,,Tentu saja, artis dengan\Nsepuluh kali penjualan platinum,
+Dialogue: 0,1:22:17.16,1:22:20.31,Origin,,0000,0000,0000,,Beralih jadi pengusaha teknologi,\Nmenjadi senator terpilih,
+Dialogue: 0,1:22:20.35,1:22:23.02,Origin,,0000,0000,0000,,Fred Durst akan memberikan\Npenghormatannya hari ini.
+Dialogue: 0,1:22:23.04,1:22:25.20,Origin,,0000,0000,0000,,- Sampaikan salamku untuk dia.\N- Dan kita juga akan ikut berdoa,
+Dialogue: 0,1:22:25.22,1:22:27.33,Origin,,0000,0000,0000,,Di peringatan Hari-Y2K\Nyang menyentuh hati ini,
+Dialogue: 0,1:22:27.35,1:22:30.32,Origin,,0000,0000,0000,,Dengan memutar lagu\NLimp selama 24 jam penuh.
+Dialogue: 0,1:22:30.38,1:22:35.38,Origin,,0000,0000,0000,,Berikut lagu penjualan terbaik\Nsepanjang masa, Rollin'.
+Dialogue: 0,1:22:35.40,1:22:37.22,Origin,,0000,0000,0000,,Dasar musisi industri.
+Dialogue: 0,1:22:37.24,1:22:38.72,Origin,,0000,0000,0000,,Daniel Atawhai Bannon.\N5/10/1983 - 1/1/2000.
+Dialogue: 0,1:22:38.74,1:22:41.45,Origin,,0000,0000,0000,,Apa kabar, kawan?\NBagaimana keadaanmu?
+Dialogue: 0,1:22:41.89,1:22:44.83,Origin,,0000,0000,0000,,Aku tak percaya kami sudah wisuda.
+Dialogue: 0,1:22:46.90,1:22:48.21,Origin,,0000,0000,0000,,Aku mungkin akan\Nmenetap di Brooklyn,
+Dialogue: 0,1:22:48.24,1:22:50.04,Origin,,0000,0000,0000,,Tapi, siapa yang tahu?
+Dialogue: 0,1:22:50.32,1:22:52.55,Origin,,0000,0000,0000,,Aku memulai blog musik.
+Dialogue: 0,1:22:53.28,1:22:54.97,Origin,,0000,0000,0000,,"Ujar Pemutar Piringan Hitam".
+Dialogue: 0,1:22:55.02,1:22:56.99,Origin,,0000,0000,0000,,Ya, kami masih mengusahakan namanya.
+Dialogue: 0,1:22:57.02,1:22:59.02,Origin,,0000,0000,0000,,Maksudku, itu hanya aku, tapi...
+Dialogue: 0,1:22:59.05,1:23:00.76,Origin,,0000,0000,0000,,Laura sangat luar biasa.
+Dialogue: 0,1:23:01.05,1:23:04.22,Origin,,0000,0000,0000,,Aku menangani koding\Nuntuk Durst Industries.
+Dialogue: 0,1:23:04.32,1:23:06.52,Origin,,0000,0000,0000,,Itu lucu bagaimana semua berjalan.
+Dialogue: 0,1:23:07.67,1:23:11.73,Origin,,0000,0000,0000,,Dan aku mungkin takkan bisa\Ndatang begitu sering, jadi...
+Dialogue: 0,1:23:11.76,1:23:14.07,Origin,,0000,0000,0000,,Putra, Teman, Pahlawan.\NKelso Adalah Pemandu Dia.
+Dialogue: 0,1:23:15.18,1:23:19.43,Origin,,0000,0000,0000,,Aku perbarui penampilanmu\Ndengan sosok yang lebih keren.
+Dialogue: 0,1:23:19.46,1:23:21.10,Origin,,0000,0000,0000,,Tapi, ya.
+Dialogue: 0,1:23:22.78,1:23:24.37,Origin,,0000,0000,0000,,Aku merindukanmu, Sticky.
+Dialogue: 0,1:23:34.09,1:23:35.41,Origin,,0000,0000,0000,,Semuanya baik?
+Dialogue: 0,1:23:37.19,1:23:38.96,Origin,,0000,0000,0000,,Ya.
+Dialogue: 0,1:23:42.50,1:23:44.16,Origin,,0000,0000,0000,,Apa yang...
+Dialogue: 0,1:23:44.26,1:23:46.35,Origin,,0000,0000,0000,,Anti-melompat, bokongku.
+Dialogue: 0,1:23:47.75,1:23:49.64,Origin,,0000,0000,0000,,Apa kau keluarkan kau\Ndari Top 8-mu, dasar...
+Dialogue: 0,1:23:49.67,1:23:51.21,Origin,,0000,0000,0000,,Apa? Tidak!
+Dialogue: 0,1:24:23.08,1:24:25.35,Origin,,0000,0000,0000,,Selamat datang di dunia digital.
+Dialogue: 0,1:24:25.37,1:24:28.77,Origin,,0000,0000,0000,,Apa kau siap untuk bergoyang?
+Dialogue: 0,1:25:16.17,1:25:20.47,Origin,,0000,0000,0000,,Selamat. Itu keren.
+Dialogue: 0,1:31:21.92,1:31:22.92,Origin,,0000,0000,0000,,Sial.
