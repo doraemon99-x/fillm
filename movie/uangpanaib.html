@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+    <title>LIVE EVENT STREAMING</title>
+    <!-- Other meta tags and head content -->
+
+    <script src="https://ssl.p.jwpcdn.com/player/v/8.25.1/jwplayer.js"></script>
+    <script> jwplayer.key = 'Mh/98M9sROX0uXhFlJwXZYeCxbJD5E1+e2goFcRZ07cI/FTu'; </script>
+
+    <style type="text/css">
+        html, body {
+            width:100%;
+            height: 100%;
+            font-family: Poppins;
+            display:block;
+            position: absolute;
+            padding: 0px;
+            margin: 0px;
+            background: #000;
+            overflow: hidden;
+        }
+        .player {
+            width:100%;
+            height: 100%;
+            display:inline-block;
+            -webkit-user-select:none;
+            -moz-user-select:none;
+            -ms-user-select:none;
+            user-select:none;
+        }
+    </style>
+</head>
+<body>
+    <div id="player"></div>
+    <script>
+        var playerInstance = jwplayer("player");
+
+        playerInstance.setup({
+            playlist: [{
+                "title": "Uang Panai 2 (2024)",
+                "image": "https://i.imgur.com/ZWYs4qD.jpg",
+                sources: [{file: 'https://tipistream.tipikuy.workers.dev/0:/movie/NGEFILM21.PW.Uang.Panai.2.2024.NF.WEB-DL.1080p.mp4', type:'mp4'}],
+                tracks: [{file: '', "kind": 'captions', "label": 'Indonesia', "default": true}],
+                }],
+            width: "100%",
+            height: "100%",
+            autostart: false,
+            "mute": false,
+            "volume": 105,
+            logo: {
+                    file: 'https://i.postimg.cc/XqfdKwqF/tipistreamnew.png',
+                    link: '',
+                    hide: 'false',
+                    position: 'bottom-left'
+            },
+            skin: {
+            url: 'https://cdn.jsdelivr.net/gh/kiprox/cf-gdplay@master/skins/netplex.css',
+            name: 'Netflix',
+            },
+            captions: {
+                color: "#f3f368",
+                fontSize: 16,
+                backgroundOpacity: 0,
+                fontfamily: "Helvetica",
+                edgeStyle: "raised"
+            },
+            
+            pipIcon:{},
+            cast:{}
+        });
+    </script>
+</body>
+
+</html>
