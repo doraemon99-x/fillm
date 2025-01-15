@@ -1,51 +1,73 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Clappr HLS Player</title>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr-pip-plugin@latest/dist/clappr-pip-plugin.js"></script>
-    <style>
-        body {
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background: black;
-        }
-        #player {
-            width: 100%;
+    <title>LIVE EVENT STREAMING</title>
+    <!-- Other meta tags and head content -->
+
+    <script src="https://ssl.p.jwpcdn.com/player/v/8.25.1/jwplayer.js"></script>
+    <script> jwplayer.key = 'Mh/98M9sROX0uXhFlJwXZYeCxbJD5E1+e2goFcRZ07cI/FTu'; </script>
+
+    <style type="text/css">
+        html, body {
+            width:100%;
             height: 100%;
-            max-width: 100%;
-            max-height: 100%;
+            font-family: Poppins;
+            display:block;
+            position: absolute;
+            padding: 0px;
+            margin: 0px;
+            background: #000;
+            overflow: hidden;
+        }
+        .player {
+            width:100%;
+            height: 100%;
+            display:inline-block;
+            -webkit-user-select:none;
+            -moz-user-select:none;
+            -ms-user-select:none;
+            user-select:none;
         }
     </style>
 </head>
 <body>
     <div id="player"></div>
-
     <script>
-        const player = new Clappr.Player({
-            title: 'Cinta Dari Timor (2024)',
-            source: 'https://tipistream.tipikuy.workers.dev/0:/movie/Cinta.Dari.Timor.2024.1080p.NF.WEB-DL.DDS.H.264-KQRM.mp4',
-            plugins: [ClapprPIPPlugin],
-            parentId: '#player',
-            autoPlay: true,
-            mute: false,
-            watermark: "/img/tipistreamnew.png",
-            position: 'top-right',
-            height: '100%',
-            width: '100%',
-            playback: {
-                playInline: true, // Untuk memutar video di dalam elemen
-                hlsjsConfig: { // Konfigurasi tambahan untuk HLS.js di dalam Clappr
-                    enableWorker: true,
-                }
+        var playerInstance = jwplayer("player");
+
+        playerInstance.setup({
+            playlist: [{
+                "title": "Cinta Dari Timor (2024)",
+                "image": "https://i.imgur.com/N5D8CMF.jpg",
+                sources: [{file: 'https://tipistream.tipikuy.workers.dev/0:/movie/Cinta.Dari.Timor.2024.1080p.NF.WEB-DL.AAC5.H.264-KQRM.mp4', type:'mp4'}],
+                tracks: [{file: '', "kind": 'captions', "label": 'Indonesia', "default": true}],
+                }],
+            width: "100%",
+            height: "100%",
+            autostart: false,
+            "mute": false,
+            "volume": 105,
+            logo: {
+                    file: 'https://i.postimg.cc/XqfdKwqF/tipistreamnew.png',
+                    link: '',
+                    hide: 'false',
+                    position: 'bottom-left'
             },
-            poster: 'https://i.imgur.com/N5D8CMF.jpg',
+            skin: {
+            url: 'https://cdn.jsdelivr.net/gh/kiprox/cf-gdplay@master/skins/netplex.css',
+            name: 'Netflix',
+            },
+            captions: {
+                color: "#f3f368",
+                fontSize: 16,
+                backgroundOpacity: 0,
+                fontfamily: "Helvetica",
+                edgeStyle: "raised"
+            },
+            
+            pipIcon:{},
+            cast:{}
         });
     </script>
 </body>
+
 </html>
