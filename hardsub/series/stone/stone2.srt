@@ -1,15 +1,15 @@
-﻿1
+1
 00:00:01,190 --> 00:00:01,933
 DUA MINGGU SEBELUM
 PELAYARAN KAPAL PERSEUS
 
 2
 00:00:01,933 --> 00:00:02,696
-Hah?
+<i>Hah?</i>
 
 3
 00:00:02,853 --> 00:00:04,076
-Ada apa Senku?
+<i>Ada apa Senku?</i>
 
 4
 00:00:04,426 --> 00:00:06,203
@@ -57,7 +57,7 @@ lalu disaring dan...
 13
 00:00:24,306 --> 00:00:26,426
 Kita akan mendapatkan
-wort (bahan bir)!
+<i>wort</i> (bahan bir)!
 
 14
 00:00:26,553 --> 00:00:27,666
@@ -65,7 +65,7 @@ Oh!
 
 15
 00:00:28,306 --> 00:00:32,326
-Ambil wort-nya lalu tambahkan
+Ambil <i>wort</i>-nya lalu tambahkan
 tanaman karahanaso, lalu kita rebus!!
 
 16
@@ -217,11 +217,11 @@ lalu remas untuk mendapatkan patinya.
 49
 00:03:52,333 --> 00:03:54,926
 Lalu ini dia bahan rahasianya,
-kita beri beberapa tetes dari â€˜sulfurinaâ€™.
+kita beri beberapa tetes dari ‘sulfurina’.
 
 50
 00:03:55,226 --> 00:03:57,326
-Ah, teman lama kita si â€˜sulfurinaâ€™.
+Ah, teman lama kita si ‘sulfurina’.
 
 51
 00:03:57,577 --> 00:03:59,253
@@ -443,8 +443,8 @@ sinar pesona yang berbeda.
 
 98
 00:06:36,869 --> 00:06:38,460
-Ini adalah koktail
-yang kubuat khusus untuk Suika,
+<i>Ini adalah koktail</i>
+<i>yang kubuat khusus untuk Suika,</i>
 
 99
 00:06:38,460 --> 00:06:38,866
@@ -453,7 +453,7 @@ JUS APEL... 30 ML
 
 100
 00:06:38,891 --> 00:06:40,375
-aku menyebutnya dengan â€˜2-Side Sunshineâ€™.
+<i>aku menyebutnya dengan ‘2-Side Sunshine’.</i>
 
 101
 00:06:40,423 --> 00:06:41,156
@@ -490,7 +490,7 @@ Tidak ada alasan khusus.
 
 108
 00:06:56,040 --> 00:06:57,359
-Ini disebut dengan â€˜flareâ€™,
+Ini disebut dengan ‘flare’,
 
 109
 00:06:57,833 --> 00:07:02,133
@@ -617,7 +617,7 @@ bahan-bahan alami seperti ini.
 136
 00:07:56,599 --> 00:07:59,372
 Segala sesuatu di dunia ini
-memang terbuat dari â€˜bahan alamiâ€™.
+memang terbuat dari ‘bahan alami’.
 
 137
 00:07:59,773 --> 00:08:03,373
@@ -838,17 +838,17 @@ tidak mudah untuk diprovokasi!
 
 183
 00:10:57,153 --> 00:10:58,695
-Aku sudah tidak dapat
-menghindari ajalku.
+<i>Aku sudah tidak dapat</i>
+<i>menghindari ajalku.</i>
 
 184
 00:10:59,713 --> 00:11:01,581
-Kita harus mewariskan...
+<i>Kita harus mewariskan...</i>
 
 185
 00:11:02,886 --> 00:11:04,813
-...sumber kekejian ini,
-kepada generasi berikutnya.
+<i>...sumber kekejian ini,</i>
+<i>kepada generasi berikutnya.</i>
 
 186
 00:11:16,006 --> 00:11:17,169
@@ -881,7 +881,7 @@ BIR... 200 ML
 192
 00:11:30,897 --> 00:11:32,328
 MATCHA... 1 SENDOK TEH
-Bir dan matcha.
+<i>Bir dan matcha.</i>
 
 193
 00:11:33,020 --> 00:11:35,021
@@ -1055,7 +1055,7 @@ Apa nama tekniknya, ya?
 
 231
 00:13:54,740 --> 00:13:57,068
-Teknik tombak â€˜Owari Kanryu?â€™
+Teknik tombak ‘Owari Kanryu?’
 
 232
 00:13:57,386 --> 00:14:01,861
@@ -1131,15 +1131,15 @@ Oh, begitu.
 
 248
 00:15:00,212 --> 00:15:01,325
-Kinro, apa itu?
+<i>Kinro, apa itu?</i>
 
 249
 00:15:01,390 --> 00:15:02,065
-Kena kau!
+<i>Kena kau!</i>
 
 250
 00:15:02,090 --> 00:15:03,286
-Kinro, kau tega sekali!
+<i>Kinro, kau tega sekali!</i>
 
 251
 00:15:04,970 --> 00:15:07,226
@@ -1215,13 +1215,13 @@ menggunakan benda ajaib,
 
 267
 00:15:47,123 --> 00:15:48,946
-salah satunya adalah ini,
-â€˜batu matahariâ€™ batu yang bisa...
+<i>salah satunya adalah ini,</i>
+<i>‘batu matahari’ batu yang bisa...</i>
 
 268
 00:15:49,166 --> 00:15:51,658
-...menunjukkan posisi matahari
-setiap saat!
+<i>...menunjukkan posisi matahari</i>
+<i>setiap saat!</i>
 
 269
 00:15:52,546 --> 00:15:58,151
@@ -1488,7 +1488,7 @@ kapal ini bagaikan tersesat di tengah laut.
 
 327
 00:18:39,046 --> 00:18:44,000
-Andai saja kita punya â€˜batu matahariâ€™
+Andai saja kita punya ‘batu matahari’
 dari cerita para Viking itu tadi.
 
 328
@@ -1507,7 +1507,7 @@ mineral yang terbentuk secara alami.
 331
 00:18:55,150 --> 00:18:58,615
 Kau bisa membentuknya menjadi prisma
-dengan kekuatan gorilamu, â€˜kan Kohaku?
+dengan kekuatan gorilamu, ‘kan Kohaku?
 
 332
 00:18:59,453 --> 00:19:02,473
@@ -1584,7 +1584,7 @@ di sisi atasnya?
 
 348
 00:19:50,312 --> 00:19:51,623
-Dari sini terlihat ada dua, â€˜kan?
+Dari sini terlihat ada dua, ‘kan?
 
 349
 00:19:52,186 --> 00:19:54,323
@@ -1643,7 +1643,7 @@ mataharinya atau tidak!
 
 361
 00:20:18,610 --> 00:20:21,074
-â€˜BATU MATAHARIâ€™
+‘BATU MATAHARI’
 BERHASIL DIDAPATKAN!
 
 362
@@ -1707,7 +1707,7 @@ mereka benar-benar menggunakan itu...
 
 375
 00:20:56,473 --> 00:20:57,667
-...â€˜batu matahariâ€™.
+...‘batu matahari’.
 
 376
 00:20:59,246 --> 00:21:02,586
@@ -1725,8 +1725,8 @@ Dengan kekuatan sains yang abadi!
 
 379
 00:21:14,946 --> 00:21:16,854
-Apa lagi yang akan kita buat
-dengan sains?
+<i>Apa lagi yang akan kita buat</i>
+<i>dengan sains?</i>
 
 380
 00:22:00,579 --> 00:22:02,209
@@ -1748,3 +1748,4 @@ Kita telah sampai di...
 384
 00:22:12,513 --> 00:22:14,506
 ...benua Amerika!!
+

@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:05,673 --> 00:00:07,515
 Akhirnya kita sampai...
 
@@ -110,42 +110,42 @@ di dunia luar sana.
 
 25
 00:02:11,850 --> 00:02:13,839
-Masih ada kemungkinan cerita
-dari penipu kita, Lilian,
+<i>Masih ada kemungkinan cerita</i>
+<i>dari penipu kita, Lilian,</i>
 
 26
 00:02:13,863 --> 00:02:15,589
-menjadi kenyataan di dunia luar ini.
+<i>menjadi kenyataan di dunia luar ini.</i>
 
 27
 00:02:15,827 --> 00:02:17,989
-Semisal Jepang masih dalam keadaan
-menjadi batu...
+<i>Semisal Jepang masih dalam keadaan</i>
+<i>menjadi batu...</i>
 
 28
 00:02:19,095 --> 00:02:21,958
-...sedangkan seluruh dunia sudah
-berhasil dibangkitkan.
+<i>...sedangkan seluruh dunia sudah</i>
+<i>berhasil dibangkitkan.</i>
 
 29
 00:02:22,120 --> 00:02:24,640
-Atau bahkan bahwa negara lain
-sudah berhasil...
+<i>Atau bahkan bahwa negara lain</i>
+<i>sudah berhasil...</i>
 
 30
 00:02:24,664 --> 00:02:26,661
-...mengalahkan sinar pembatuan itu
-dari awal.
+<i>...mengalahkan sinar pembatuan itu</i>
+<i>dari awal.</i>
 
 31
 00:02:27,710 --> 00:02:30,469
-Di lubuk hati kita yang terdalam,
-entah mungkin sekecil apa pun itu...
+<i>Di lubuk hati kita yang terdalam,</i>
+<i>entah mungkin sekecil apa pun itu...</i>
 
 32
 00:02:31,076 --> 00:02:34,530
-...kita masih memegang
-sebuah harapan.
+<i>...kita masih memegang</i>
+<i>sebuah harapan.</i>
 
 33
 00:02:46,480 --> 00:02:47,576
@@ -167,13 +167,13 @@ seperti tabrakan beruntun.
 
 37
 00:03:00,603 --> 00:03:02,629
-Lalu semua mobil lapuk dan hancur
-sehingga...
+<i>Lalu semua mobil lapuk dan hancur</i>
+<i>sehingga...</i>
 
 38
 00:03:03,027 --> 00:03:05,281
-...hanya menyisakan patung batu
-yang mengemudikannya saja.
+<i>...hanya menyisakan patung batu</i>
+<i>yang mengemudikannya saja.</i>
 
 39
 00:03:07,132 --> 00:03:10,136
@@ -206,7 +206,7 @@ dengan warna merah indahnya...
 
 45
 00:03:30,400 --> 00:03:32,173
-...Golden Gate Bridge!
+<i>...Golden Gate Bridge!</i>
 
 46
 00:03:34,950 --> 00:03:40,407
@@ -583,15 +583,15 @@ Jumlahnya banyak sekali!
 
 128
 00:10:38,276 --> 00:10:39,212
-Daging!
+<i>Daging!</i>
 
 129
 00:10:39,236 --> 00:10:40,346
-Daging!
+<i>Daging!</i>
 
 130
 00:10:40,381 --> 00:10:41,291
-Daging!
+<i>Daging!</i>
 
 131
 00:10:43,446 --> 00:10:44,998
@@ -703,12 +703,12 @@ Jadi ini jagung pemberi kehidupan?
 
 156
 00:13:41,150 --> 00:13:47,268
-Ya, ini jagung cheat kita yang menjadi
-kebanggaan Amerika, jagung yellow dent.
+Ya, ini jagung <i>cheat</i> kita yang menjadi
+kebanggaan Amerika, jagung <i>yellow dent.</i>
 
 157
 00:13:47,833 --> 00:13:49,437
-Jagung cheat?
+Jagung <i>cheat</i>?
 
 158
 00:13:50,683 --> 00:13:52,278
@@ -813,8 +813,8 @@ Ya, dengan kapal Perseus.
 
 180
 00:15:06,295 --> 00:15:11,394
-Halo, dengan tim pencari di sini,
-kami menemukan jagung di sungai.
+<i>Halo, dengan tim pencari di sini,</i>
+<i>kami menemukan jagung di sungai.</i>
 
 181
 00:15:13,907 --> 00:15:16,816
@@ -832,7 +832,7 @@ di hilir, tolong segera beritahu kami, ya.
 
 184
 00:15:23,323 --> 00:15:24,580
-Ya, siap!
+<i>Ya, siap!</i>
 
 185
 00:15:25,089 --> 00:15:26,481
@@ -1038,24 +1038,24 @@ berasal dari apa.
 
 229
 00:19:32,184 --> 00:19:33,130
-Berpikirlah!
+<i>Berpikirlah!</i>
 
 230
 00:19:37,316 --> 00:19:39,453
-Tugasku adalah untuk
-melindungi mereka!
+<i>Tugasku adalah untuk</i>
+<i>melindungi mereka!</i>
 
 231
 00:19:42,972 --> 00:19:45,416
-Bau apa yang terbawa oleh angin ini?
+<i>Bau apa yang terbawa oleh angin ini?</i>
 
 232
 00:19:50,061 --> 00:19:51,072
-Bau asap mesiu?
+<i>Bau asap mesiu?</i>
 
 233
 00:19:51,944 --> 00:19:53,373
-Dari senapan yang ditembakkan?
+<i>Dari senapan yang ditembakkan?</i>
 
 234
 00:19:54,220 --> 00:19:55,983
@@ -1175,3 +1175,4 @@ karena itu satu-satunya arena...
 260
 00:22:10,941 --> 00:22:13,457
 ...di mana aku tidak akan kalah!
+
