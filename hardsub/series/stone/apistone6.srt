@@ -38,7 +38,7 @@ ilmuwan pimpinan mereka.
 
 9
 00:00:54,613 --> 00:00:56,286
-Dr. Taiju.
+<i>Dr. Taiju.</i>
 
 10
 00:00:59,133 --> 00:01:04,800
@@ -73,34 +73,34 @@ Karena, dia memang bisa!
 
 17
 00:01:33,306 --> 00:01:35,914
-Maafkan aku Dr. Taiju.
+<i>Maafkan aku Dr. Taiju.</i>
 
 18
 00:01:36,241 --> 00:01:39,761
-Andai saja aku dapat mewanti-wantimu
-soal rencana pembunuhan ini,
+<i>Andai saja aku dapat mewanti-wantimu</i>
+<i>soal rencana pembunuhan ini,</i>
 
 19
 00:01:39,867 --> 00:01:41,821
-tapi aku tak bisa.
+<i>tapi aku tak bisa.</i>
 
 20
 00:01:42,678 --> 00:01:45,606
-Sudah tentu komunikasi radio
-pasti akan tersadap.
+<i>Sudah tentu komunikasi radio</i>
+<i>pasti akan tersadap.</i>
 
 21
 00:01:46,027 --> 00:01:47,835
-Juga, aku sedang diawasi ketat
-oleh penjaga,
+<i>Juga, aku sedang diawasi ketat</i>
+<i>oleh penjaga,</i>
 
 22
 00:01:47,860 --> 00:01:49,673
-dan tidak dapat menghubungi kalian.
+<i>dan tidak dapat menghubungi kalian.</i>
 
 23
 00:01:56,985 --> 00:02:00,020
-Situasinya benar-benar gawat.
+<i>Situasinya benar-benar gawat.</i>
 
 24
 00:03:31,230 --> 00:03:35,927
@@ -209,7 +209,7 @@ Kakimu terlihat sudah tidak kuat.
 
 47
 00:05:09,246 --> 00:05:10,403
-Stop!
+<i>Stop!</i>
 
 48
 00:05:14,287 --> 00:05:15,938
@@ -278,23 +278,23 @@ yang menantimu.
 
 63
 00:06:02,865 --> 00:06:03,895
-Eh?
+<i>Eh?</i>
 
 64
 00:06:04,576 --> 00:06:05,969
-Pekerjaan?
+<i>Pekerjaan?</i>
 
 65
 00:06:18,589 --> 00:06:20,378
-Anginnya tenang sekali.
+<i>Anginnya tenang sekali.</i>
 
 66
 00:06:21,512 --> 00:06:22,713
-Insting pelautku mengatakan...
+<i>Insting pelautku mengatakan...</i>
 
 67
 00:06:23,687 --> 00:06:26,319
-...ada yang tidak beres!
+<i>...ada yang tidak beres!</i>
 
 68
 00:06:30,747 --> 00:06:32,435
@@ -409,12 +409,12 @@ yang sangat minim.
 
 92
 00:08:09,018 --> 00:08:11,556
-Aku sudah melihat sekilas area itu
-dengan pesawat,
+<i>Aku sudah melihat sekilas area itu</i>
+<i>dengan pesawat,</i>
 
 93
 00:08:11,854 --> 00:08:13,229
-tempat inilah yang sangat pas.
+<i>tempat inilah yang sangat pas.</i>
 
 94
 00:08:14,118 --> 00:08:15,907
@@ -502,25 +502,25 @@ temukan Dr. Taiju, ilmuwan pemimpin mereka.
 
 113
 00:09:16,494 --> 00:09:19,700
-Tiga detik saja sudah cukup, pancing dia
-keluar menuju dek selama tiga detik,
+<i>Tiga detik saja sudah cukup, pancing dia</i>
+<i>keluar menuju dek selama tiga detik,</i>
 
 114
 00:09:19,795 --> 00:09:21,625
-lalu berikan sinyal kalau dia orangnya.
+<i>lalu berikan sinyal kalau dia orangnya.</i>
 
 115
 00:09:23,112 --> 00:09:24,879
-Akan kuhabisi
-dalam satu kali tembakan.
+<i>Akan kuhabisi</i>
+<i>dalam satu kali tembakan.</i>
 
 116
 00:09:33,765 --> 00:09:36,551
-Aku si gadis keren, Luna!
+<i>Aku si gadis keren, Luna!</i>
 
 117
 00:09:36,695 --> 00:09:39,631
-Aku si gadis serba bisa, Luna!
+<i>Aku si gadis serba bisa, Luna!</i>
 
 118
 00:09:44,483 --> 00:09:47,430
@@ -533,17 +533,17 @@ tapi mereka memilih diam.
 
 120
 00:09:49,794 --> 00:09:52,483
-Mereka tidak akan tega
-untuk meninggalkan teman mereka,
+<i>Mereka tidak akan tega</i>
+<i>untuk meninggalkan teman mereka,</i>
 
 121
 00:09:52,741 --> 00:09:54,885
-kami beruntung
-karena anak-anak itu begitu naif.
+<i>kami beruntung</i>
+<i>karena anak-anak itu begitu naif.</i>
 
 122
 00:09:59,625 --> 00:10:01,153
-Mereka tidak akan mengabaikan...
+<i>Mereka tidak akan mengabaikan...</i>
 
 123
 00:10:02,100 --> 00:10:02,763
@@ -552,25 +552,25 @@ Tolong!
 124
 00:10:02,802 --> 00:10:04,533
 - Tolong aku!
-- ...seorang gadis...
+- <i>...seorang gadis...</i>
 
 125
 00:10:04,612 --> 00:10:06,386
-...yang berteriak meminta tolong!
+<i>...yang berteriak meminta tolong!</i>
 
 126
 00:10:09,254 --> 00:10:11,785
-Kalian sudah mengutus mata-mata
-ke tempat kami,
+<i>Kalian sudah mengutus mata-mata</i>
+<i>ke tempat kami,</i>
 
 127
 00:10:11,927 --> 00:10:13,173
-jadi inilah jawaban balasan dari kami,
+<i>jadi inilah jawaban balasan dari kami,</i>
 
 128
 00:10:13,962 --> 00:10:16,625
-kami pun bisa memainkan permainan
-yang sama dengan kalian ini.
+<i>kami pun bisa memainkan permainan</i>
+<i>yang sama dengan kalian ini.</i>
 
 129
 00:10:17,920 --> 00:10:19,408
@@ -599,20 +599,20 @@ Hei bukan waktunya ya!
 
 135
 00:10:33,912 --> 00:10:35,655
-Keputusan yang berat.
+<i>Keputusan yang berat.</i>
 
 136
 00:10:36,520 --> 00:10:37,301
-Aku mau menolongnya,
+<i>Aku mau menolongnya,</i>
 
 137
 00:10:37,301 --> 00:10:40,661
-tapi tentu saja aku tidak akan
-percaya begitu saja kepadanya,
+<i>tapi tentu saja aku tidak akan</i>
+<i>percaya begitu saja kepadanya,</i>
 
 138
 00:10:41,694 --> 00:10:43,842
-apa yang akan kau lakukan, Senku?
+<i>apa yang akan kau lakukan, Senku?</i>
 
 139
 00:10:46,379 --> 00:10:47,564
@@ -844,133 +844,133 @@ seperti apa Dr. Xeno itu.
 
 188
 00:14:20,196 --> 00:14:22,242
-Misiku adalah...
+<i>Misiku adalah...</i>
 
 189
 00:14:23,387 --> 00:14:25,395
-Mengidentifikasi ilmuwan
-pemimpin mereka, Dr. Taiju,
+<i>Mengidentifikasi ilmuwan</i>
+<i>pemimpin mereka, Dr. Taiju,</i>
 
 190
 00:14:25,420 --> 00:14:27,402
-dan membawanya ke atas
-dek kapal lalu...
+<i>dan membawanya ke atas</i>
+<i>dek kapal lalu...</i>
 
 191
 00:14:27,769 --> 00:14:30,022
-Duh kok banyak sekali orang di sini?
+<i>Duh kok banyak sekali orang di sini?</i>
 
 192
 00:14:30,210 --> 00:14:31,689
-Sepertinya akan sulit!
+<i>Sepertinya akan sulit!</i>
 
 193
 00:14:33,219 --> 00:14:37,678
-Tak masalah,
-karena aku si keren, Luna!
+<i>Tak masalah,</i>
+<i>karena aku si keren, Luna!</i>
 
 194
 00:14:37,703 --> 00:14:39,470
-Si gadis serba bisa, Luna!
+<i>Si gadis serba bisa, Luna!</i>
 
 195
 00:14:39,831 --> 00:14:41,518
-Yang mana Dr. Taiju ini?
+<i>Yang mana Dr. Taiju ini?</i>
 
 196
 00:14:41,570 --> 00:14:43,950
-Aku tidak bisa
-bertanya begitu saja pada mereka,
+<i>Aku tidak bisa</i>
+<i>bertanya begitu saja pada mereka,</i>
 
 197
 00:14:43,985 --> 00:14:46,465
-karena mereka
-masih menaruh curiga padaku.
+<i>karena mereka</i>
+<i>masih menaruh curiga padaku.</i>
 
 198
 00:14:48,102 --> 00:14:50,229
-Akan kugunakan kemampuan
-identifikasiku saja.
+<i>Akan kugunakan kemampuan</i>
+<i>identifikasiku saja.</i>
 
 199
 00:14:51,076 --> 00:14:53,767
-Dia memakai kecerdasannya
-untuk memimpin anak-anak ini.
+<i>Dia memakai kecerdasannya</i>
+<i>untuk memimpin anak-anak ini.</i>
 
 200
 00:14:54,078 --> 00:14:57,264
-Dia berhasil membangun sains mereka
-dari jaman batu sampai jadi seperti ini.
+<i>Dia berhasil membangun sains mereka</i>
+<i>dari jaman batu sampai jadi seperti ini.</i>
 
 201
 00:14:57,687 --> 00:15:01,810
-Pekerja keras nan cerdas
-yang memiliki tekad kuat.
+<i>Pekerja keras nan cerdas</i>
+<i>yang memiliki tekad kuat.</i>
 
 202
 00:15:02,759 --> 00:15:05,137
-Dia itu tipeku!
+<i>Dia itu tipeku!</i>
 
 203
 00:15:05,675 --> 00:15:09,329
-Itu berarti,
-aku harus mencari pria yang kusuka?
+<i>Itu berarti,</i>
+<i>aku harus mencari pria yang kusuka?</i>
 
 204
 00:15:10,827 --> 00:15:14,909
-Bahkan perasaanku memainkan
-peran penting pada misi kali ini?
+<i>Bahkan perasaanku memainkan</i>
+<i>peran penting pada misi kali ini?</i>
 
 205
 00:15:15,009 --> 00:15:17,542
-Itulah kehebatan dan kemampuanku!
+<i>Itulah kehebatan dan kemampuanku!</i>
 
 206
 00:15:21,807 --> 00:15:22,760
-Apakah pria ini?
+<i>Apakah pria ini?</i>
 
 207
 00:15:24,443 --> 00:15:25,607
-Bukan.
+<i>Bukan.</i>
 
 208
 00:15:30,258 --> 00:15:31,234
-Pria itu?
+<i>Pria itu?</i>
 
 209
 00:15:35,140 --> 00:15:36,314
-Bukan.
+<i>Bukan.</i>
 
 210
 00:15:37,549 --> 00:15:39,108
-Pria itu?
+<i>Pria itu?</i>
 
 211
 00:15:39,985 --> 00:15:40,761
-Bukan.
+<i>Bukan.</i>
 
 212
 00:15:44,562 --> 00:15:45,987
-Sudah pasti bukan dia.
+<i>Sudah pasti bukan dia.</i>
 
 213
 00:15:51,212 --> 00:15:52,286
-Apa ada kemungkinan...
+<i>Apa ada kemungkinan...</i>
 
 214
 00:15:52,311 --> 00:15:55,846
-...dia tidak akan menunjukkan dirinya
-kepada orang asing sepertiku?
+<i>...dia tidak akan menunjukkan dirinya</i>
+<i>kepada orang asing sepertiku?</i>
 
 215
 00:15:56,203 --> 00:15:58,909
-Sepertinya aku harus mempersiapkan diri
-untuk pertarunganku yang lama ini,
+<i>Sepertinya aku harus mempersiapkan diri</i>
+<i>untuk pertarunganku yang lama ini,</i>
 
 216
 00:15:59,342 --> 00:16:01,359
-jika aku ingin menemukan
-Dr. Taiju ini.
+<i>jika aku ingin menemukan</i>
+<i>Dr. Taiju ini.</i>
 
 217
 00:16:02,349 --> 00:16:04,048
@@ -1004,40 +1004,40 @@ Hah?
 
 224
 00:16:22,691 --> 00:16:25,011
-Sama sekali tidak ada di benakku
-bayangan ilmuwan seperti dia itu.
+<i>Sama sekali tidak ada di benakku</i>
+<i>bayangan ilmuwan seperti dia itu.</i>
 
 225
 00:16:25,345 --> 00:16:26,465
-Ya, terserahlah.
+<i>Ya, terserahlah.</i>
 
 226
 00:16:26,632 --> 00:16:30,152
-Kalau bukan aku, pasti sudah lolos
-dari perkiraan kalau dia itu Dr. Taiju.
+<i>Kalau bukan aku, pasti sudah lolos</i>
+<i>dari perkiraan kalau dia itu Dr. Taiju.</i>
 
 227
 00:16:30,989 --> 00:16:32,945
-Yang sulit itu bagian setelah ini.
+<i>Yang sulit itu bagian setelah ini.</i>
 
 228
 00:16:33,394 --> 00:16:34,777
-Mungkin dia tipikal seorang doktor...
+<i>Mungkin dia tipikal seorang doktor...</i>
 
 229
 00:16:34,815 --> 00:16:36,297
-...yang hanya fokus
-dengan urusan sains di bawah dek.
+<i>...yang hanya fokus</i>
+<i>dengan urusan sains di bawah dek.</i>
 
 230
 00:16:36,380 --> 00:16:38,235
-Bukan tipikal
-yang suka berjalan-jalan di luar.
+<i>Bukan tipikal</i>
+<i>yang suka berjalan-jalan di luar.</i>
 
 231
 00:16:38,515 --> 00:16:41,060
-Jadi bagaimana caranya aku dapat
-memancingnya ke atas dek supaya...
+<i>Jadi bagaimana caranya aku dapat</i>
+<i>memancingnya ke atas dek supaya...</i>
 
 232
 00:16:41,353 --> 00:16:43,913
@@ -1053,12 +1053,12 @@ Eh?
 
 235
 00:16:49,001 --> 00:16:50,809
-Sekarang yang harus kulakukan
-hanya menunjuk pada Dr. Taiju,
+<i>Sekarang yang harus kulakukan</i>
+<i>hanya menunjuk pada Dr. Taiju,</i>
 
 236
 00:16:53,125 --> 00:16:54,695
-dan misiku akan...
+<i>dan misiku akan...</i>
 
 237
 00:16:55,107 --> 00:16:58,156
@@ -1071,18 +1071,18 @@ Namaku Senku.
 
 239
 00:17:01,930 --> 00:17:04,519
-Senku yang manis begitu kok,
-sedikit menjijikkan, ya?
+<i>Senku yang manis begitu kok,</i>
+<i>sedikit menjijikkan, ya?</i>
 
 240
 00:17:04,872 --> 00:17:06,379
-Dia mungkin akan menggunakan
-cara yang berbelit...
+<i>Dia mungkin akan menggunakan</i>
+<i>cara yang berbelit...</i>
 
 241
 00:17:06,506 --> 00:17:08,841
-...untuk menanyakan
-informasi tentang Dr. Xeno!
+<i>...untuk menanyakan</i>
+<i>informasi tentang Dr. Xeno!</i>
 
 242
 00:17:09,807 --> 00:17:11,332
@@ -1304,12 +1304,12 @@ hingga minus 10 derajat.
 
 290
 00:19:44,331 --> 00:19:45,963
-Dr. Taiju berada di dek?
+<i>Dr. Taiju berada di dek?</i>
 
 291
 00:19:46,189 --> 00:19:48,087
-Aku harus mendekatinya
-dan menunjuknya!
+<i>Aku harus mendekatinya</i>
+<i>dan menunjuknya!</i>
 
 292
 00:19:50,823 --> 00:19:52,101
@@ -1392,15 +1392,15 @@ sains organik itu.
 
 309
 00:21:17,076 --> 00:21:18,487
-Tidak, tidak bisa begini.
+<i>Tidak, tidak bisa begini.</i>
 
 310
 00:21:18,545 --> 00:21:20,979
-Tipeku itu tipe pria yang cerdas!
+<i>Tipeku itu tipe pria yang cerdas!</i>
 
 311
 00:21:21,031 --> 00:21:23,482
-Dr. Taiju ilmuwan pemimpin mereka, ‘kan?
+<i>Dr. Taiju ilmuwan pemimpin mereka, ‘kan?</i>
 
 312
 00:21:24,072 --> 00:21:26,778
@@ -1439,12 +1439,12 @@ Jadi siapa dia itu?
 
 320
 00:21:57,207 --> 00:21:58,625
-Dr. Xeno adalah...
+<i>Dr. Xeno adalah...</i>
 
 321
 00:21:59,317 --> 00:22:01,565
-...orang yang membuatku mulai jatuh cinta
-dengan pembuatan roket.
+<i>...orang yang membuatku mulai jatuh cinta</i>
+<i>dengan pembuatan roket.</i>
 
 322
 00:22:01,630 --> 00:22:06,637
@@ -1454,3 +1454,4 @@ Dr. X - NASA
 323
 00:22:08,494 --> 00:22:11,178
 Dia adalah mentor sainsku.
+
