@@ -9,7 +9,7 @@
         $(document).ready(function() {
             let videoID = "video1"; // ID video yang ingin diputar
 
-            $.get("https://gdv.tipiku.my.id/generate_token.php?video=" + videoID, function(data) { // Ambil token dari backend
+            $.get("https://viu.tipiku.biz.id/generate_token.php?video=" + videoID, function(data) { // Ambil token dari backend
                 var playerInstance = jwplayer("player");
                 playerInstance.setup({
                     playlist: [{
